@@ -100,7 +100,7 @@ def generate_book_from_outline(outline, book_summary):
         chapter_text = generate_chapter_text(title, summary, book_summary, previous_chapter_outline, next_chapter_outline)
 
         # Save the chapter to a file
-        filename = f"{title.replace(' ', '_').replace(':', '')}.txt"
+        filename = f"{title.replace(' ', '_').replace(':', '')}.md"
         with open(filename, 'w') as file:
             file.write(f"{title}\n\n{chapter_text}")
 
