@@ -1,11 +1,9 @@
-
-import openai
 import os
 import re
+from openai import OpenAI
 
-# Set up your OpenAI API key
-openai.api_key = os.getenv("OPENAI_API_KEY")
-
+# Initialize the OpenAI client
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Function to parse the summary.md file
 def parse_summary_file(filename):
@@ -43,12 +41,11 @@ def parse_summary_file(filename):
 
 # Function to parse the outline.md file for additional context
 def parse_outline_file(filename):
-    book_summary = ""
     with open(filename, 'r') as file:
-        book_summary = file.read().strip()  # Assuming the whole outline.md file is a summary of the book
+        book_summary = file.read().strip()  # Assuming the entire outline.md file is a summary of the book
     return book_summary
 
-# Function to call the ChatGPT API to expand each chapter
+# Function to call the OpenAI API to expand each chapter
 def generate_chapter_text(chapter_title, chapter_summary, book_summary, previous_chapter_outline=None, next_chapter_outline=None):
     # Construct the prompt with book overview and surrounding chapter outlines
     prompt = (
@@ -64,25 +61,30 @@ def generate_chapter_text(chapter_title, chapter_summary, book_summary, previous
         "physical, energetic, and mental aspects, and conclude with key takeaways that reinforce the chapter's insights and benefits."
     )
 
-    # Call to the OpenAI API to generate the chapter text
-    response = openai.chat.completions.create(
-        model="gpt-4o-latest",
-        messages=[
-            {"role": "system", "content": (
-                "You are a professional author and subject-matter expert tasked with writing a comprehensive and engaging book chapter on spinal health, "
-                "integrating Ashtanga yoga, Tai Chi, and Traditional Chinese Medicine concepts. Your writing style should be informative, accessible, "
-                "and infused with depth and clarity, making complex ideas easy for readers to understand and apply in their own practices. "
-                "Write with a balanced tone that appeals to readers who are both new to these disciplines and experienced practitioners. "
-                "Explain anatomical and biomechanical concepts in detail, using practical examples and metaphors where helpful, and describe the "
-                "energetic and philosophical aspects of each topic in a way that respects traditional practices while making them relevant to modern readers. "
-                "Keep a flow that transitions naturally between theory, practical advice, and deeper spiritual insights."
-            )},
-            {"role": "user", "content": prompt}
-        ]
-    )
+    try:
+        # Call to the OpenAI API to generate the chapter text
+        response = client.chat.completions.create(
+            model="chatgpt-4o-latest",
+            messages=[
+                {"role": "system", "content": (
+                    "You are a professional author and subject-matter expert tasked with writing a comprehensive and engaging book chapter on spinal health, "
+                    "integrating Ashtanga yoga, Tai Chi, and Traditional Chinese Medicine concepts. Your writing style should be informative, accessible, "
+                    "and infused with depth and clarity, making complex ideas easy for readers to understand and apply in their own practices. "
+                    "Write with a balanced tone that appeals to readers who are both new to these disciplines and experienced practitioners. "
+                    "Explain anatomical and biomechanical concepts in detail, using practical examples and metaphors where helpful, and describe the "
+                    "energetic and philosophical aspects of each topic in a way that respects traditional practices while making them relevant to modern readers. "
+                    "Keep a flow that transitions naturally between theory, practical advice, and deeper spiritual insights."
+                )},
+                {"role": "user", "content": prompt}
+            ]
+        )
 
-    # Extract the generated chapter content
-    return response['choices'][0]['message']['content']
+        # Extract the generated chapter content
+        return response.choices[0].message.content
+
+    except Exception as e:
+        print(f"Error calling OpenAI API: {e}")
+        return ""
 
 # Main function to iterate over the outline and save chapters to text files
 def generate_book_from_outline(outline, book_summary):
@@ -108,4 +110,5 @@ def generate_book_from_outline(outline, book_summary):
 summary_outline = parse_summary_file("../summary.md")
 book_summary = parse_outline_file("../outline.md")
 generate_book_from_outline(summary_outline, book_summary)
+
 
