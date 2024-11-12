@@ -64,7 +64,7 @@ def generate_chapter_text(chapter_title, chapter_summary, book_summary, previous
     try:
         # Call to the OpenAI API to generate the chapter text
         response = client.chat.completions.create(
-            model="chatgpt-4o-latest",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": (
                     "You are a professional author and subject-matter expert tasked with writing a comprehensive and engaging book chapter on spinal health, "
