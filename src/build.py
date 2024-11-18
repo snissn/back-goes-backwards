@@ -84,25 +84,46 @@ def generate_section_text(section_type, content, book_summary, previous_chapter_
     else:
         # Construct prompt for chapters
         prompt = (
-            f"Book Summary: {book_summary}\n\n"
-            + (f"Previous Chapter Outline: {previous_chapter_outline}\n\n" if previous_chapter_outline else "")
-            + (f"Next Chapter Outline: {next_chapter_outline}\n\n" if next_chapter_outline else "")
-            + f"Generate a comprehensive, well-organized book chapter based on the following chapter outline.\n\n"
-            f"Title: {section_type}\n\n"
-            f"Outline: {content}\n\n"
-            "Write a detailed, reader-friendly explanation of the chapter’s core concepts, using clear language and a logical progression. "
-            "Include relevant examples, metaphors, and step-by-step explanations to make complex ideas accessible. Provide actionable advice and "
-            "practical exercises where applicable, guiding readers on how to apply these concepts in their own practice. Highlight connections between "
-            "physical, energetic, and mental aspects, and conclude with key takeaways that reinforce the chapter's insights and benefits."
-        )
+    f"Book Summary: {book_summary}\n\n"
+    + (f"Previous Chapter Outline: {previous_chapter_outline}\n\n" if previous_chapter_outline else "")
+    + (f"Next Chapter Outline: {next_chapter_outline}\n\n" if next_chapter_outline else "")
+    + f"Write an in-depth, book-style chapter based on the following outline.\n\n"
+    f"Title: {section_type}\n\n"
+    f"Outline: {content}\n\n"
+    "Begin with an engaging introduction that sets up the main themes of the chapter, providing context on why these ideas matter in "
+    "the larger scope of the book. Use this section to make the reader feel connected to the topic by exploring historical, cultural, or "
+    "theoretical background where relevant, and establishing how the themes fit into the modern context of well-being, health, and movement.\n\n"
+    "Develop each core concept in a logical and smooth progression, ensuring readers can follow the ideas clearly. Allow for exploratory "
+    "discussions, connecting these concepts with previous chapters and relevant areas of yoga, Traditional Chinese Medicine, biomechanics, "
+    "and practical well-being practices. Use examples, metaphors, and analogies from everyday life and the specific disciplines covered "
+    "to make complex ideas more accessible and relatable. Frame sections with narrative explanations that are both informative and enjoyable, "
+    "encouraging readers to reflect on the ideas and their significance.\n\n"
+    "In addition to explaining core concepts, provide actionable advice, exercises, or reflections where appropriate to help readers apply "
+    "the chapter’s insights in their own life or practice. Make room for insights that highlight connections between physical, energetic, and mental aspects, "
+    "using references and analogies that show how these dimensions are interwoven. Conclude with a thoughtful reflection or summary that "
+    "ties together the chapter’s main ideas, encouraging readers to integrate the knowledge into their broader understanding of the book’s themes and "
+    "inspiring further personal growth and exploration."
+    )
 
     try:
+        system_prompt = (
+            "You are a skilled author and subject-matter expert tasked with writing a book chapter that is rich, engaging, and informative. "
+            "Each chapter should feel like part of a comprehensive, narrative-driven book. Your writing should be thorough, clear, and immersive, "
+            "weaving together historical context, theoretical depth, practical insights, and narrative flow.\n\n"
+            "Provide expansive explanations that explore each concept in detail. Use a storytelling approach where possible, with thoughtful examples, "
+            "real-world analogies, and relatable scenarios to make complex ideas accessible. Create a balance of theoretical discussion, cultural "
+            "and historical background, and actionable advice, keeping the reader engaged and informed.\n\n"
+            "As you write, connect the physical, energetic, and mental aspects in ways that resonate with readers. Allow each chapter to flow smoothly, "
+            "building a cohesive narrative that ties into the book's broader themes on yoga, Traditional Chinese Medicine, biomechanics, and well-being."
+        )
         response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": "You are a professional author and subject-matter expert tasked with writing a comprehensive and engaging book chapter."},
+                {"role": "system", "content": system_prompt},
                 {"role": "user", "content": prompt}
-            ]
+            ],
+            max_tokens=4000,  # Adjust based on desired chapter length
+            temperature=0.7  # Optional: adjust for creativity; 0.7 encourages a balanced, engaging style
         )
 
         return response.choices[0].message.content
@@ -153,9 +174,9 @@ def generate_book_from_outline(outline, book_title, combined_output_file="combin
 
         print(f"Chapter '{title}' generated and saved as {chapter_filename}.")
 
-        # Update the Table of Contents and chapter content in combined output
-        combined_content += f"- [{title}](#{title.replace(' ', '-').lower()})\n"
-        combined_content += f"\n# {title}\n\n{chapter_text}\n\n"
+        # Add only one header for the chapter in the combined output
+        combined_content += f"- [{title}](#{title.replace(' ', '-').lower()})\n"  # TOC entry
+        combined_content += f"\n# {title}\n\n{chapter_text}\n\n"  # Chapter content
 
     # Generate the Conclusion
     conclusion_text = generate_section_text("Conclusion", "", book_summary)
