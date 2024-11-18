@@ -1,6 +1,7 @@
 import os
 import re
 import json
+from datetime import datetime
 from openai import OpenAI
 
 # Initialize the OpenAI client
@@ -10,7 +11,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def determine_chapter_type(title, outline_content):
     title = title.lower()
     outline_content = outline_content.lower()
-    
+
     if any(keyword in title for keyword in ["history", "origins", "background"]):
         return "historical"
     elif any(keyword in title for keyword in ["principles", "theory", "mechanics"]):
@@ -80,8 +81,9 @@ def generate_enriched_outline(title, outline, chapter_type):
     except Exception as e:
         print(f"Error enriching outline for '{title}': {e}")
         return outline  # Return original outline if enrichment fails
+
 # Function to parse outline file and generate enriched JSON outline
-def parse_outline_and_generate_json(filename, output_json="enriched_outline.json"):
+def parse_outline_and_generate_json(filename):
     outline_data = []
     current_chapter = {}
     book_title = "Book Title"  # Default title if none is found
@@ -111,7 +113,6 @@ def parse_outline_and_generate_json(filename, output_json="enriched_outline.json
             if outline_item_match and current_chapter:
                 current_chapter["outline"] += outline_item_match.group(1).strip() + " "
 
-
         # Append the last chapter if it exists
         if current_chapter:
             outline_data.append(current_chapter)
@@ -124,14 +125,16 @@ def parse_outline_and_generate_json(filename, output_json="enriched_outline.json
         chapter["extended_outline"] = generate_enriched_outline(chapter["title"], chapter["outline"], chapter_type)
         enriched_outline_data.append(chapter)
 
-        print(chapter)
+    # Define a timestamped output file name
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_json = f"enriched_outline_{timestamp}.json"
 
-    # Save the enriched outline to a JSON file
+    # Save the enriched outline to a timestamped JSON file
     output_data = {
         "title": book_title,
         "chapters": enriched_outline_data
     }
-    
+
     with open(output_json, 'w') as json_file:
         json.dump(output_data, json_file, indent=4)
 
@@ -139,4 +142,5 @@ def parse_outline_and_generate_json(filename, output_json="enriched_outline.json
 
 # Run the function to parse outline and generate JSON
 parse_outline_and_generate_json("outline.md")
+
 

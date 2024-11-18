@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 from datetime import datetime
 from openai import OpenAI
@@ -113,6 +114,4 @@ def generate_markdown_files_from_json(json_file="enriched_outline.json"):
     print(f"Combined markdown file '{combined_output_file}' generated for PDF conversion.")
 
 # Run the function to generate markdown files from the JSON outline
-generate_markdown_files_from_json()
-
-
+generate_markdown_files_from_json(sys.argv[1])
