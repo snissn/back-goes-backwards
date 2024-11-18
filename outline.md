@@ -122,7 +122,7 @@
   - **1.3.2.1 Structural Benefits**
     - Improved posture, reduced pain, enhanced mobility, and prevention of degenerative conditions.
   - **1.3.2.2 Energetic Benefits**
-    - Enhanced Qi flow along yang meridians, increased vitality, and balanced energy distribution.
+    - Enhanced Qi flow along Yang Meridians, increased vitality, and balanced energy distribution.
 
 - **1.3.3 Preview of Techniques**
   - **1.3.3.1 Introduction to Disciplines**
@@ -413,7 +413,7 @@
 #### **Conclusion**
 
 - **5.5 Transition to Yin and Yang Dynamics**
-  - Prepare readers for the next chapter's exploration of how yin and yang energies influence movement and health.
+  - Prepare readers for the next chapter's exploration of how Yin and Yang energies influence movement and health.
 
 ---
 
@@ -423,7 +423,7 @@
 
 - **6.0 Fundamental Principles of Yin and Yang**
   - **6.0.1 Definition and Interdependence**
-    - Define yin and yang as complementary opposites that are interconnected and interdependent.
+    - Define Yin and Yang as complementary opposites that are interconnected and interdependent.
   - **6.0.2 Application to the Human Body**
     - Explain how these concepts manifest in physiological processes, movement, and energy flow.
 
@@ -431,29 +431,29 @@
 
 - **6.1.1 Yang Meridians**
   - **6.1.1.1 Pathways and Characteristics**
-    - Describe how yang meridians generally run along the back and outer sides of the body.
+    - Describe how Yang meridians generally run along the back and outer sides of the body.
   - **6.1.1.2 Associated Functions**
-    - Link yang meridians to functions involving activity, heat, and movement, such as inhalation and extension.
+    - Link Yang meridians to functions involving activity, heat, and movement, such as inhalation and extension.
 
 - **6.1.2 Yin Meridians**
   - **6.1.2.1 Pathways and Characteristics**
-    - Explain how yin meridians run along the front and inner sides of the body.
+    - Explain how Yin meridians run along the front and inner sides of the body.
   - **6.1.2.2 Associated Functions**
-    - Associate yin meridians with cooling, nourishing, and restorative functions, such as exhalation and flexion.
+    - Associate Yin meridians with cooling, nourishing, and restorative functions, such as exhalation and flexion.
 
 #### **6.2 Breath and Movement Coordination**
 
 - **6.2.1 Inhalation and Yang Activation**
   - **6.2.1.1 Expansive Movements**
-    - Discuss how inhalation is linked to upward and outward movements, activating yang energy.
+    - Discuss how inhalation is linked to upward and outward movements, activating Yang energy.
   - **6.2.1.2 Engaging Yang Meridians**
-    - Provide techniques for consciously engaging yang meridians during inhalation.
+    - Provide techniques for consciously engaging Yang meridians during inhalation.
 
 - **6.2.2 Exhalation and Yin Engagement**
   - **6.2.2.1 Contracting Movements**
-    - Explain how exhalation supports inward and downward movements, engaging yin energy.
+    - Explain how exhalation supports inward and downward movements, engaging Yin energy.
   - **6.2.2.2 Activating Yin Meridians**
-    - Offer methods for engaging yin meridians during exhalation.
+    - Offer methods for engaging Yin meridians during exhalation.
 
 #### **6.3 Application in Yoga Practice**
 
@@ -530,12 +530,12 @@
 - **7.2.1.3 Supporting Meridians**
   - **7.2.1.3.1 Du Meridian (Governing Vessel)**
     - **Pathway**: Runs along the midline of the back over the spine.
-    - **Function**: Central to spinal **extension** and yang energy.
-    - **Energetic Role**: Governs all yang meridians, influencing vitality and upward movement.
+    - **Function**: Central to spinal **extension** and Yang energy.
+    - **Energetic Role**: Governs all Yang meridians, influencing vitality and upward movement.
   - **7.2.1.3.2 Ren Meridian (Conception Vessel)**
     - **Pathway**: Runs along the front midline of the body.
-    - **Function**: Central to spinal **flexion** and yin energy.
-    - **Energetic Role**: Governs all yin meridians, influencing nurturing and grounding energies.
+    - **Function**: Central to spinal **flexion** and Yin energy.
+    - **Energetic Role**: Governs all Yin meridians, influencing nurturing and grounding energies.
 
 ##### **7.2.2 Rotation (Rotational Axis)**
 
@@ -565,7 +565,7 @@
     - **Function**: Coordinates rotational movements and links upper and lower body.
     - **Energetic Role**: Balances horizontal energy flow, stabilizing twists.
   - **7.2.2.3.2 Yin Wei and Yang Wei Meridians**
-    - **Pathways**: Connect the yin and yang meridians respectively.
+    - **Pathways**: Connect the Yin and Yang meridians respectively.
     - **Function**: Harmonize rotational energy and maintain balance during twists.
     - **Energetic Role**: Synchronize internal and external energies.
 
@@ -595,7 +595,7 @@
   - **7.2.3.3.1 Yin Qiao and Yang Qiao Meridians**
     - **Pathways**: Run along the sides of the body.
     - **Function**: Regulate lateral movements and side-to-side balance.
-    - **Energetic Role**: Balance yin and yang aspects of lateral movement.
+    - **Energetic Role**: Balance Yin and Yang aspects of lateral movement.
   - **7.2.3.3.2 Lan Mai (Lateral Vessel)**
     - **Concept**: Enhances coordination in side bending.
     - **Function**: Synthesizes functions of Yin Qiao and Yang Qiao.
@@ -606,7 +606,7 @@
 - **7.3.1 Collaborative Functioning of Meridians**
   - **7.3.1.1 Synergistic Actions**
     - Explain how meridians work together along each axis to facilitate balanced movement.
-    - Highlight the interplay between yin and yang meridians in supporting complex movements.
+    - Highlight the interplay between Yin and Yang meridians in supporting complex movements.
   - **7.3.1.2 Practical Examples**
     - Provide examples of yoga poses and everyday movements that illustrate these associations.
 
@@ -641,15 +641,15 @@
 
 - **8.1.1 Du Meridian (Governing Vessel)**
   - **Pathway**: Runs along the midline of the back over the spine.
-  - **Function**: Governs all yang meridians, influencing spinal extension and yang energy.
+  - **Function**: Governs all Yang meridians, influencing spinal extension and Yang energy.
 
 - **8.1.2 Ren Meridian (Conception Vessel)**
   - **Pathway**: Runs along the front midline of the body.
-  - **Function**: Governs all yin meridians, controlling spinal flexion and yin energy.
+  - **Function**: Governs all Yin meridians, controlling spinal flexion and Yin energy.
 
 - **8.1.3 Chong Meridian (Penetrating Vessel)**
   - **Pathway**: Flows through the center of the body.
-  - **Function**: Integrates both yin and yang energies, supporting the vertical axis and reproductive functions.
+  - **Function**: Integrates both Yin and Yang energies, supporting the vertical axis and reproductive functions.
 
 - **8.1.4 Dai Meridian (Belt Vessel)**
   - **Pathway**: Encircles the waist like a belt.
@@ -657,8 +657,8 @@
 
 - **8.1.5 Yin Wei and Yang Wei Meridians (Linking Vessels)**
   - **Pathways**:
-    - **Yin Wei**: Connects yin meridians.
-    - **Yang Wei**: Connects yang meridians.
+    - **Yin Wei**: Connects Yin meridians.
+    - **Yang Wei**: Connects Yang meridians.
   - **Function**: Harmonize energies during rotation, maintaining balance.
 
 - **8.1.6 Yin Qiao and Yang Qiao Meridians (Heel Vessels)**
@@ -676,13 +676,13 @@
 ##### **8.2.1 Flexion/Extension (Vertical Axis)**
 
 - **8.2.1.1 Du Meridian (Governing Vessel)**
-  - **Role**: Governs **spinal extension** and yang energy.
+  - **Role**: Governs **spinal extension** and Yang energy.
   - **Energetic Influence**: Supports upright posture and vitality.
 - **8.2.1.2 Ren Meridian (Conception Vessel)**
-  - **Role**: Controls **spinal flexion** and yin energy.
+  - **Role**: Controls **spinal flexion** and Yin energy.
   - **Energetic Influence**: Nurtures and grounds the body.
 - **8.2.1.3 Chong Meridian (Penetrating Vessel)**
-  - **Role**: Integrates yin and yang energies, supporting the vertical axis.
+  - **Role**: Integrates Yin and Yang energies, supporting the vertical axis.
   - **Energetic Influence**: Harmonizes internal energy flow.
 
 ##### **8.2.2 Rotation (Rotational Axis)**
@@ -691,14 +691,14 @@
   - **Role**: Coordinates **rotational movements** and links upper and lower body.
   - **Energetic Influence**: Balances the horizontal energy flow, stabilizing the waist.
 - **8.2.2.2 Yin Wei and Yang Wei Meridians**
-  - **Role**: Connect yin and yang meridians, harmonizing **rotational energy**.
+  - **Role**: Connect Yin and Yang meridians, harmonizing **rotational energy**.
   - **Energetic Influence**: Synchronize internal (Yin Wei) and external (Yang Wei) energies during twists.
 
 ##### **8.2.3 Lateral Movement (Lateral Axis)**
 
 - **8.2.3.1 Yin Qiao and Yang Qiao Meridians**
   - **Role**: Regulate **lateral movements** and side-to-side balance.
-  - **Energetic Influence**: Balance the yin (inner) and yang (outer) aspects of lateral movement.
+  - **Energetic Influence**: Balance the Yin (inner) and Yang (outer) aspects of lateral movement.
 - **8.2.3.2 Lan Mai (Lateral Vessel)**
   - **Role**: Enhances coordination in side bending.
   - **Energetic Influence**: Promotes harmony and fluidity in lateral movements.
@@ -724,7 +724,7 @@
   - Emphasize how understanding the associations between bandhas and extraordinary meridians deepens practice.
   - Encourage conscious engagement of bandhas to enhance energy flow and spinal health.
 - **8.5 Transition to Practical Applications**
-  - Prepare readers for applying these concepts in practice, integrating physical and energetic principles for optimal well-being.
+  - Prepare readers for applYing these concepts in practice, integrating physical and energetic principles for optimal well-being.
 
 ---
 
@@ -758,15 +758,15 @@
 
 - **7.2.1 Du Meridian Activation**
   - **7.2.1.1 Enhancing Spinal Extension**
-    - Describe how Mula Bandha stimulates the Du Meridian (Governing Vessel), promoting yang energy and spinal extension.
+    - Describe how Mula Bandha stimulates the Du Meridian (Governing Vessel), promoting Yang energy and spinal extension.
   - **7.2.1.2 Yang Energy Activation**
     - Explain how this engagement supports activities requiring strength and upward movement.
 
 - **7.2.2 Ren Meridian Balance**
   - **7.2.2.1 Regulating Spinal Flexion**
-    - Discuss how Mula Bandha balances the Ren Meridian (Conception Vessel), supporting yin energy and spinal flexion.
+    - Discuss how Mula Bandha balances the Ren Meridian (Conception Vessel), supporting Yin energy and spinal flexion.
   - **7.2.2.2 Harmonizing Yin and Yang**
-    - Emphasize the role of Mula Bandha in integrating yin and yang energies along the central axis.
+    - Emphasize the role of Mula Bandha in integrating Yin and Yang energies along the central axis.
 
 - **7.2.3 Chong Meridian Integration**
   - **7.2.3.1 Vertical Energy Flow**
@@ -812,7 +812,7 @@
 
 - **8.0 The Power of Uddiyana Bandha**
   - **8.0.1 Definition and Significance**
-    - Introduce Uddiyana Bandha as the "upward flying lock," focusing on the engagement of the abdominal region.
+    - Introduce Uddiyana Bandha as the "upward flYing lock," focusing on the engagement of the abdominal region.
     - Explain its vital role in controlling energy flow, supporting core strength, and stabilizing the rotational axis.
   - **8.0.2 Connection to Energetics and Movement**
     - Highlight how Uddiyana Bandha integrates with the body's energetic systems, particularly during rotational movements.
@@ -853,7 +853,7 @@
   - **8.3.1.1 Engaging the Front Body**
     - Describe how Uddiyana Bandha activation influences the Stomach Meridian, supporting rotational movements and digestion.
   - **8.3.1.2 Enhancing Energy Flow**
-    - Explain how this engagement promotes vitality and balances yang energy.
+    - Explain how this engagement promotes vitality and balances Yang energy.
 
 - **8.3.2 Spleen Meridian (Yin)**
   - **8.3.2.1 Providing Stability**
@@ -1026,7 +1026,7 @@
 
 - **10.1.2 Creating a Comprehensive Support System**
   - **10.1.2.1 Harmonizing Yin and Yang Energies**
-    - Explain how Maha Bandha balances yin and yang throughout the body.
+    - Explain how Maha Bandha balances Yin and Yang throughout the body.
   - **10.1.2.2 Enhancing Energy Flow**
     - Describe how the combined engagement of the bandhas promotes unobstructed Qi circulation.
 
@@ -1103,7 +1103,7 @@
 
 ---
 
-## **Part IV: The Back Goes Backwards—Applying Principles in Practice**
+## **Part IV: The Back Goes Backwards—ApplYing Principles in Practice**
 
 ### **Chapter 13: Embracing Posterior Loading—Reversing Forward Tendencies**
 
@@ -1122,7 +1122,7 @@
     - Role of the erector spinae, multifidus, thoracolumbar fascia, and posterior ligaments.
   - **Yang Meridians in the Posterior Chain**
     - Introduction to the Bladder Meridian (Tai Yang) and its pathway along the spine.
-    - Explanation of how yang meridians correspond to the posterior aspect of the body.
+    - Explanation of how Yang meridians correspond to the posterior aspect of the body.
 
 - **13.1.2 Benefits of Posterior Loading**
   - **Structural Stability**
@@ -1146,7 +1146,7 @@
   - **Organ Dysfunction**
     - Compression affecting respiratory and digestive systems.
   - **Energetic Blockages**
-    - Disruption of Qi flow in yin meridians (e.g., Ren Meridian), leading to stagnation.
+    - Disruption of Qi flow in Yin meridians (e.g., Ren Meridian), leading to stagnation.
 
 #### **13.3 Cultivating Mindful Posterior Loading**
 
@@ -1166,7 +1166,7 @@
   - **Exercise Protocols**
     - Specific exercises targeting posterior muscles (e.g., deadlifts, supermans).
   - **Yang Meridian Activation**
-    - Movements that stimulate yang meridians, enhancing energetic support.
+    - Movements that stimulate Yang meridians, enhancing energetic support.
 
 #### **13.4 Integrating Posterior Loading into Daily Life**
 
@@ -1174,7 +1174,7 @@
   - **Functional Movements**
     - Incorporating posterior loading in walking, bending, and lifting.
   - **Breath Coordination**
-    - Synchronizing inhalation with spinal extension to engage yang meridians.
+    - Synchronizing inhalation with spinal extension to engage Yang meridians.
 
 - **13.4.2 Habit Formation**
   - **Routine Development**
@@ -1196,9 +1196,9 @@
 #### **Introduction**
 
 - **Linking Energetics and Movement**
-  - Introduce the concept of utilizing yang meridians to initiate and support spinal twists.
+  - Introduce the concept of utilizing Yang meridians to initiate and support spinal twists.
 - **Overview of Yang Meridians**
-  - Briefly list all six yang meridians:
+  - Briefly list all six Yang meridians:
     - **Tai Yang**: Bladder, Small Intestine
     - **Shao Yang**: Gallbladder, San Jiao (Triple Burner)
     - **Yang Ming**: Stomach, Large Intestine
@@ -1238,7 +1238,7 @@
     - Travels from the face down the anterior body to the second toe.
     - Involved in digestion and front body strength.
   - **Balancing Yin and Yang**
-    - Though a yang meridian, its anterior pathway aids in maintaining balance during twists.
+    - Though a Yang meridian, its anterior pathway aids in maintaining balance during twists.
 
 - **14.1.6 Large Intestine Meridian (Yang Ming)**
   - **Pathway and Functions**
@@ -1251,20 +1251,20 @@
 
 - **14.2.1 The Principle of Unilateral Yang Engagement**
   - **Mechanism**
-    - Engaging yang meridians on one side activates muscles that initiate a twist to the opposite side.
+    - Engaging Yang meridians on one side activates muscles that initiate a twist to the opposite side.
   - **Spinal Extension as a Prerequisite**
     - Emphasize that this method relies on spinal extension (posterior loading) for effectiveness.
 
 - **14.2.2 Biomechanics of Unilateral Engagement**
   - **Muscular Activation**
-    - How contracting muscles associated with yang meridians on one side rotates the spine.
+    - How contracting muscles associated with Yang meridians on one side rotates the spine.
     - Example: Engaging the right Bladder Meridian muscles initiates a twist to the left.
   - **Energetic Flow**
-    - Qi moves along the engaged yang meridians, facilitating smooth rotation.
+    - Qi moves along the engaged Yang meridians, facilitating smooth rotation.
 
 - **14.2.3 Practical Application**
   - **Awareness Exercises**
-    - Practices to feel the engagement of yang meridians on a single side.
+    - Practices to feel the engagement of Yang meridians on a single side.
   - **Sequential Engagement**
     - Steps to consciously activate specific meridians before initiating a twist.
 
@@ -1292,33 +1292,33 @@
 
 - **14.4.1 Synergistic Activation**
   - **Holistic Engagement**
-    - Importance of engaging not just one, but all yang meridians for optimal support.
+    - Importance of engaging not just one, but all Yang meridians for optimal support.
   - **Coordination Between Meridians**
-    - How different yang meridians contribute to various aspects of the twist (e.g., Bladder for spinal extension, Gallbladder for lateral movement).
+    - How different Yang meridians contribute to various aspects of the twist (e.g., Bladder for spinal extension, Gallbladder for lateral movement).
 
 - **14.4.2 Sequential Engagement Strategies**
   - **Step-by-Step Process**
     - Begin with spinal extension (Bladder Meridian), engage lateral stability (Gallbladder Meridian), coordinate arm movements (Small Intestine and San Jiao Meridians).
   - **Breath Integration**
-    - Using inhalation to lengthen and engage yang meridians, exhalation to deepen the twist.
+    - Using inhalation to lengthen and engage Yang meridians, exhalation to deepen the twist.
 
-- **14.4.3 Case Study: Applying Yang Meridian Engagement in a Twist**
+- **14.4.3 Case Study: ApplYing Yang Meridian Engagement in a Twist**
   - **Example Pose: Marichyasana C**
     - **Preparation**
       - Spinal extension through Bladder Meridian activation.
     - **Initiating the Twist**
-      - Engaging the right-side yang meridians to twist left.
+      - Engaging the right-side Yang meridians to twist left.
     - **Lateral Shift**
       - Utilizing Gallbladder Meridian for subtle lateral movement.
     - **Arm Positioning**
       - Engaging Small Intestine and San Jiao Meridians to bind and deepen the twist.
     - **Energetic Visualization**
-      - Imagining Qi flowing up the engaged yang meridians to support the movement.
+      - Imagining Qi flowing up the engaged Yang meridians to support the movement.
 
 #### **Conclusion**
 
 - **Integrating Yang Meridians for Effective Twists**
-  - Summarize the importance of engaging yang meridians on a single side during twists.
+  - Summarize the importance of engaging Yang meridians on a single side during twists.
 - **Foundation for Advanced Biomechanical Concepts**
   - Prepare readers for the detailed biomechanical and physical explanations in the next chapter.
 
@@ -1351,7 +1351,7 @@
   - **Gallbladder Meridian Engagement**
     - Role in facilitating lateral movement and stabilizing the hips.
   - **Unilateral Activation**
-    - Engaging the yang meridians on one side to support the lateral shift opposite to the twist direction.
+    - Engaging the Yang meridians on one side to support the lateral shift opposite to the twist direction.
 
 #### **15.3 Physics of Spinal Stability in Twists**
 
@@ -1360,7 +1360,7 @@
   - **Variables Defined**
     - **Rotation Angle (θ):** Degree of spinal rotation.
     - **Lateral Shift (d):** Lateral displacement maintaining equilibrium.
-    - **Force (F):** Muscular forces generated by yang meridian engagement.
+    - **Force (F):** Muscular forces generated by Yang meridian engagement.
 
   - **Equations and Calculations**
     - **Torque (τ) = F × d × sin(θ)**
@@ -1370,14 +1370,14 @@
 
 - **15.3.2 Visualizing Force Distribution**
   - **Diagrams and Graphs**
-    - Illustrate how forces act along the spine and how yang meridian engagement influences them.
+    - Illustrate how forces act along the spine and how Yang meridian engagement influences them.
 
 #### **15.4 Engaging Yang Meridians Unilaterally to Initiate Twists**
 
 - **15.4.1 Mechanism of Unilateral Yang Engagement**
 
   - **Muscular Activation Patterns**
-    - Detailed explanation of how contracting muscles associated with yang meridians on one side initiates rotation to the opposite side.
+    - Detailed explanation of how contracting muscles associated with Yang meridians on one side initiates rotation to the opposite side.
     - **Example:**
       - Engaging right Bladder and Small Intestine Meridians rotates the spine to the left.
 
@@ -1398,7 +1398,7 @@
     1. **Spinal Extension (Bladder Meridian)**
        - Lengthen the spine by engaging posterior muscles.
     2. **Unilateral Engagement (Bladder and Small Intestine Meridians)**
-       - Activate yang meridians on one side to initiate rotation.
+       - Activate Yang meridians on one side to initiate rotation.
     3. **Lateral Shift (Gallbladder Meridian)**
        - Subtle movement opposite to the twist direction for balance.
     4. **Arm and Shoulder Engagement (Small Intestine and San Jiao Meridians)**
@@ -1407,7 +1407,7 @@
   - **Breath Coordination**
 
     - **Inhalation**
-      - Engage yang meridians and lengthen the spine.
+      - Engage Yang meridians and lengthen the spine.
     - **Exhalation**
       - Initiate rotation and lateral shift while maintaining extension.
 
@@ -1431,7 +1431,7 @@
 - **15.5.1 Awareness Drills**
 
   - **Isolating Yang Meridian Engagement**
-    - Exercises to feel and control activation of specific yang meridians.
+    - Exercises to feel and control activation of specific Yang meridians.
   - **Mirror Feedback**
     - Using visual aids to observe alignment and muscle engagement.
 
@@ -1474,7 +1474,7 @@
 
 - **Integration of Biomechanics and Energetics**
 
-  - Reiterate how unilateral yang meridian engagement, coupled with rotation and lateral movement, creates safe and effective twists.
+  - Reiterate how unilateral Yang meridian engagement, coupled with rotation and lateral movement, creates safe and effective twists.
 - **Foundation for Addressing Risks**
 
   - Prepare readers for the next chapter's focus on risks of incorrect twisting mechanics.
@@ -1484,22 +1484,22 @@
 #### **Introduction**
 
 - **The Concept of Bilateral Yang Engagement**
-  - Introduce the idea that engaging all yang meridians symmetrically creates balanced twists in both directions, leading to maximal spinal elongation.
+  - Introduce the idea that engaging all Yang meridians symmetrically creates balanced twists in both directions, leading to maximal spinal elongation.
   - Emphasize that this bilateral engagement represents the desired, optimal state of the body for spinal health and energetic flow.
 
 #### **16.1 Understanding Bilateral Yang Meridian Engagement**
 
 - **16.1.1 The Synergy of All Yang Meridians**
   - **Collective Activation**
-    - Explain how engaging all six yang meridians simultaneously creates a unified energetic and structural support along the posterior and lateral aspects of the body.
+    - Explain how engaging all six Yang meridians simultaneously creates a unified energetic and structural support along the posterior and lateral aspects of the body.
   - **Balancing Forces**
     - Discuss how bilateral engagement balances rotational forces, stabilizes the spine, and promotes elongation without favoring one side over the other.
 
 - **16.1.2 The Desired State of the Body**
   - **Optimal Spinal Alignment**
-    - Describe how bilateral yang engagement aligns the vertebrae vertically, reducing lateral deviations and rotations.
+    - Describe how bilateral Yang engagement aligns the vertebrae vertically, reducing lateral deviations and rotations.
   - **Energetic Equilibrium**
-    - Explain how symmetrical yang activation harmonizes Qi flow, supporting overall vitality and well-being.
+    - Explain how symmetrical Yang activation harmonizes Qi flow, supporting overall vitality and well-being.
 
 #### **16.2 Biomechanics of Bilateral Engagement Leading to Spinal Elongation**
 
@@ -1547,7 +1547,7 @@
 
 - **16.3.5 Stomach and Large Intestine Meridians (Yang Ming)**
   - **Anterior Support**
-    - Discuss how these yang meridians, while anterior, contribute to overall balance when engaged bilaterally.
+    - Discuss how these Yang meridians, while anterior, contribute to overall balance when engaged bilaterally.
   - **Core Stability**
     - Explain their role in maintaining abdominal support during spinal elongation.
 
@@ -1557,7 +1557,7 @@
   - **Awareness Practices**
     - Exercises to develop proprioceptive awareness of bilateral muscle engagement.
   - **Breath Work**
-    - Using inhalation to simultaneously activate yang meridians on both sides.
+    - Using inhalation to simultaneously activate Yang meridians on both sides.
   - **Visualization**
     - Imagining energy rising symmetrically along both sides of the spine.
 
@@ -1575,21 +1575,21 @@
       - Maintaining elongation without arching the back excessively.
   - **Adho Mukha Svanasana (Downward-Facing Dog)**
     - **Full-Body Engagement**
-      - Activating yang meridians throughout the body to create length and stability.
+      - Activating Yang meridians throughout the body to create length and stability.
     - **Symmetry in Alignment**
       - Ensuring equal activation to prevent shifting weight to one side.
 
 - **16.4.3 Advanced Practices**
   - **Shirshasana (Headstand)**
     - **Balanced Engagement**
-      - Importance of bilateral yang activation for stability and safety.
+      - Importance of bilateral Yang activation for stability and safety.
     - **Spinal Elongation**
       - Using opposing forces to decompress the spine.
   - **Urdhva Dhanurasana (Upward Bow Pose)**
     - **Full Spinal Extension**
       - Achieving deep backbend with symmetrical engagement.
     - **Energetic Flow**
-      - Enhancing Qi circulation through open yang meridians.
+      - Enhancing Qi circulation through open Yang meridians.
 
 #### **16.5 Benefits of Bilateral Yang Engagement**
 
@@ -1613,7 +1613,7 @@
 
 - **16.6.1 Awareness in Movement**
   - **Everyday Activities**
-    - Applying bilateral engagement while walking, standing, and sitting.
+    - ApplYing bilateral engagement while walking, standing, and sitting.
   - **Mindful Transitions**
     - Maintaining symmetry during movements between poses or activities.
 - **16.6.2 Developing a Balanced Practice**
@@ -1625,11 +1625,11 @@
 #### **Conclusion**
 
 - **Achieving the Desired State**
-  - Reiterate that bilateral symmetric engagement of yang meridians leads to optimal spinal elongation and health.
+  - Reiterate that bilateral symmetric engagement of Yang meridians leads to optimal spinal elongation and health.
   - Emphasize that this balanced state is the goal for physical and energetic well-being.
 - **Encouragement for Practitioners**
   - Inspire readers to incorporate these principles into their practice and daily life.
-  - Highlight the transformative potential of achieving bilateral yang engagement.
+  - Highlight the transformative potential of achieving bilateral Yang engagement.
 
 
 
@@ -1639,7 +1639,7 @@
 
 - **Emphasizing Safe Practice**
   - Reiterate the critical importance of proper twisting mechanics for spinal health.
-  - Introduce the role of both unilateral and bilateral yang meridian engagement in preventing injuries and ensuring effective practice.
+  - Introduce the role of both unilateral and bilateral Yang meridian engagement in preventing injuries and ensuring effective practice.
 
 ### **17.1 Understanding Incorrect Twisting Mechanics**
 
@@ -1648,7 +1648,7 @@
 - **Neglecting Spinal Extension**
   - Initiating twists without proper spinal elongation leads to compression.
 - **Inadequate Yang Meridian Engagement**
-  - Failing to engage yang meridians unilaterally or bilaterally reduces structural support.
+  - Failing to engage Yang meridians unilaterally or bilaterally reduces structural support.
 - **Overemphasis on Rotation**
   - Forcing deeper twists at the expense of alignment and stability.
 - **Ignoring Lateral Shifts**
@@ -1668,9 +1668,9 @@
 #### **17.2.1 Mechanisms of Ventral Loading**
 
 - **Anterior Collapse**
-  - Rounding of the spine shifts load to the front (yin aspect).
+  - Rounding of the spine shifts load to the front (Yin aspect).
 - **Disengagement of Posterior Muscles**
-  - Lack of yang meridian activation leads to reliance on passive structures.
+  - Lack of Yang meridian activation leads to reliance on passive structures.
 
 #### **17.2.2 Health Implications**
 
@@ -1720,7 +1720,7 @@
 #### **17.5.1 Physics of Uncontrolled Twists**
 
 - **Abrupt Tension Swaps**
-  - Sudden shift from yin to yang or vice versa without proper engagement.
+  - Sudden shift from Yin to Yang or vice versa without proper engagement.
 - **Shearing Forces**
   - Unchecked rotational forces causing damage to spinal structures.
 
@@ -1772,7 +1772,7 @@
 - **Overzealous Twisting**
   - Pushing beyond one's limits without proper engagement.
 - **Neglecting Preparatory Steps**
-  - Skipping spinal extension and yang activation.
+  - Skipping spinal extension and Yang activation.
 
 #### **17.8.2 Lessons Learned**
 
@@ -1786,7 +1786,7 @@
 - **Emphasizing Prevention over Correction**
   - Encouraging practitioners to prioritize safety through proper mechanics.
 - **Integrating Knowledge into Practice**
-  - Applying understanding of yang meridian engagement to avoid risks.
+  - ApplYing understanding of Yang meridian engagement to avoid risks.
 
 ---
 
@@ -1795,7 +1795,7 @@
 ### **Introduction**
 
 - **Bridging Theory and Practice**
-  - Highlight the importance of applying concepts of unilateral and bilateral yang engagement.
+  - Highlight the importance of applYing concepts of unilateral and bilateral Yang engagement.
 - **Empowering Practitioners**
   - Provide tools and techniques for safe and effective practice.
 
@@ -1804,14 +1804,14 @@
 #### **18.1.1 Recap of Yang Meridians**
 
 - **Pathways and Functions**
-  - Brief review of the six yang meridians and their roles.
+  - Brief review of the six Yang meridians and their roles.
 - **Energetic and Physical Correlates**
   - Connection between meridians, muscles, and movements.
 
 #### **18.1.2 Breath and Movement Synchronization**
 
 - **Inhalation and Yang Activation**
-  - Using breath to engage yang meridians.
+  - Using breath to engage Yang meridians.
 - **Exhalation and Movement Execution**
   - Coordinating breath with twists and elongation.
 
@@ -1845,7 +1845,7 @@
 - **Isolated Muscle Activation**
 
   - **Targeted Movements**
-    - Practices to feel individual yang meridians.
+    - Practices to feel individual Yang meridians.
   - **Sensory Feedback**
     - Noticing differences between sides.
 
@@ -1865,7 +1865,7 @@
   - **Tadasana (Mountain Pose)**
     - Emphasizing equal weight distribution and spinal elongation.
   - **Adho Mukha Svanasana (Downward-Facing Dog)**
-    - Activating yang meridians throughout the body.
+    - Activating Yang meridians throughout the body.
 
 - **Advanced Poses**
 
@@ -1908,7 +1908,7 @@
   - **Counterposes**
     - Using forward folds after backbends to balance energies.
   - **Restorative Practices**
-    - Incorporating yin poses to complement yang engagement.
+    - Incorporating Yin poses to complement Yang engagement.
 
 ### **18.5 Detailed Pose Breakdowns**
 
@@ -1919,7 +1919,7 @@
   - **Marichyasana C**
 
     - **Unilateral Engagement**
-      - Steps to engage yang meridians on one side.
+      - Steps to engage Yang meridians on one side.
     - **Alignment Cues**
       - Maintaining spinal extension and avoiding ventral loading.
 
@@ -1947,7 +1947,7 @@
 - **Bhujangasana (Cobra Pose)**
 
   - **Spinal Elongation**
-    - Engaging yang meridians to lift and lengthen.
+    - Engaging Yang meridians to lift and lengthen.
 
 ### **18.6 Developing a Personal Practice**
 
@@ -1964,10 +1964,10 @@
 
 - **Self-Assessment**
 
-  - **Identifying Imbalances**
+  - **IdentifYing Imbalances**
     - Noting areas of tension or weakness.
   - **Adjusting Practice**
-    - Modifying poses to address personal needs.
+    - ModifYing poses to address personal needs.
 
 ### **18.7 Working with Instructors**
 
@@ -2014,7 +2014,7 @@
 - **Integrating Knowledge into Daily Life**
 
   - **Mindful Movement**
-    - Applying principles beyond the mat.
+    - ApplYing principles beyond the mat.
   - **Continual Growth**
     - Embracing the journey of learning and self-improvement.
 
@@ -2043,10 +2043,11 @@
 
 ### **Chapter 24: Circulatory system and cardiovascular benefits to meridian alignment**
 
-- ** Yanging **: Discuss how posterior loading of the spine and relying on the yang meridains for structure and movement properly opens up the body and removes bends and twists in the circulatory system to improve blood flow. Compare over-yin bodies to a kinked garden hose.
-- ** Veinous system **: Discuss how properly engaging muscles without blockages can allow muscles in the extremeties to serve as pumps - skeletal muscle pump or musculovenous pump is a collection of skeletal muscles that aid the heart in the circulation of blood.
-- ** Thorasic cavity pumping **: Explain how Ujayyi breath work along with proper body body alignment allows for breathing to also coordinate and suppliment heart pumping. Similar to CPR and how CPR's benefits is a combination of palpating the heart and the thoracic cavity - proper diaphragmatic breathing with yang engagement on inhale and yin based relaxation on the exhale coordinates the thoracic cavity to literally pump the pericardium causing blood flow.
-- ** Bilateral Symmetry benefits **: Explain how improper meridain usage causes break downs of bilateral symmetry. Cite articles that large blood pressure differences between right and left arms are becoming recognized as significant independent indicators towards cardiobascular disfunciton and all cause mortaltiy.
+- **Yang Engagement**: Discuss how posterior loading of the spine and relYing on the Yang meridains for structure and movement properly opens up the body and removes bends and twists in the circulatory system to improve blood flow. Compare over-Yin bodies to a kinked garden hose.
+- **Veinous system**: Discuss how properly engaging muscles without blockages can allow muscles in the extremeties to serve as pumps - skeletal muscle pump or musculovenous pump is a collection of skeletal muscles that aid the heart in the circulation of blood.
+- **Thoracic cavity pumping**: Explain how Ujayyi breath work along with proper body body alignment allows for breathing to also coordinate and supplement heart pumping. Similar to CPR and how CPR's benefits is a combination of palpating the heart and the thoracic cavity - proper diaphragmatic breathing with Yang engagement on inhale and Yin based relaxation on the exhale coordinates the thoracic cavity to literally pump the pericardium to facilitate blood flow.
+- **Bilateral Symmetry benefits**: Explain how improper meridain usage causes break downs of bilateral symmetry. Cite articles that large blood pressure differences between right and left arms are becoming recognized as significant independent indicators towards cardiobascular disfunciton and all cause mortaltiy.
+
 ### **Chapter 25: The Lymphatic System—Detoxification and Immunity**
 
 - **An In-Depth Look at Lymphatics**: Expand on the role of the lymphatic system in waste removal and immune response.
