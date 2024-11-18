@@ -84,26 +84,25 @@ def generate_section_text(section_type, content, book_summary, previous_chapter_
     else:
         # Construct prompt for chapters
         prompt = (
-    f"Book Summary: {book_summary}\n\n"
-    + (f"Previous Chapter Outline: {previous_chapter_outline}\n\n" if previous_chapter_outline else "")
-    + (f"Next Chapter Outline: {next_chapter_outline}\n\n" if next_chapter_outline else "")
-    + f"Write an in-depth, book-style chapter based on the following outline.\n\n"
-    f"Title: {section_type}\n\n"
-    f"Outline: {content}\n\n"
-    "Begin with an engaging introduction that sets up the main themes of the chapter, providing context on why these ideas matter in "
-    "the larger scope of the book. Use this section to make the reader feel connected to the topic by exploring historical, cultural, or "
-    "theoretical background where relevant, and establishing how the themes fit into the modern context of well-being, health, and movement.\n\n"
-    "Develop each core concept in a logical and smooth progression, ensuring readers can follow the ideas clearly. Allow for exploratory "
-    "discussions, connecting these concepts with previous chapters and relevant areas of yoga, Traditional Chinese Medicine, biomechanics, "
-    "and practical well-being practices. Use examples, metaphors, and analogies from everyday life and the specific disciplines covered "
-    "to make complex ideas more accessible and relatable. Frame sections with narrative explanations that are both informative and enjoyable, "
-    "encouraging readers to reflect on the ideas and their significance.\n\n"
-    "In addition to explaining core concepts, provide actionable advice, exercises, or reflections where appropriate to help readers apply "
-    "the chapter’s insights in their own life or practice. Make room for insights that highlight connections between physical, energetic, and mental aspects, "
-    "using references and analogies that show how these dimensions are interwoven. Conclude with a thoughtful reflection or summary that "
-    "ties together the chapter’s main ideas, encouraging readers to integrate the knowledge into their broader understanding of the book’s themes and "
-    "inspiring further personal growth and exploration."
-    )
+            f"Book Summary: {book_summary}\n\n"
+            + (f"Previous Chapter Outline: {previous_chapter_outline}\n\n" if previous_chapter_outline else "")
+            + (f"Next Chapter Outline: {next_chapter_outline}\n\n" if next_chapter_outline else "")
+            + f"Write an in-depth, book-style chapter based on the following outline.\n\n"
+            f"Title: {section_type}\n\n"
+            f"Outline: {content}\n\n"
+            "Begin with an engaging introduction that sets up the main themes of the chapter, providing context on why these ideas matter in "
+            "the larger scope of the book. Use this section to make the reader feel connected to the topic by exploring historical, cultural, or "
+            "theoretical background where relevant, and establishing how the themes fit into the modern context of well-being, health, and movement.\n\n"
+            "Develop each core concept in a logical and smooth progression, ensuring readers can follow the ideas clearly. Allow for exploratory "
+            "discussions, connecting these concepts with previous chapters and relevant areas of yoga, Traditional Chinese Medicine, biomechanics, "
+            "and practical well-being practices. Use examples, metaphors, and analogies from everyday life and the specific disciplines covered "
+            "to make complex ideas more accessible and relatable. Frame sections with narrative explanations that are both informative and enjoyable, "
+            "encouraging readers to reflect on the ideas and their significance.\n\n"
+            "Make room for insights that highlight connections between physical, energetic, and mental aspects, "
+            "using references and analogies that show how these dimensions are interwoven. Conclude with a thoughtful reflection or summary that "
+            "ties together the chapter’s main ideas, encouraging readers to integrate the knowledge into their broader understanding of the book’s themes and "
+            "inspiring further personal growth and exploration."
+        )
 
     try:
         system_prompt = (
@@ -136,6 +135,7 @@ def generate_section_text(section_type, content, book_summary, previous_chapter_
 def generate_book_from_outline(outline, book_title, combined_output_file="combined_output.md"):
     # Generate the single book summary
     book_summary = generate_book_summary(outline)
+    print("summary")
 
     # Get current date
     current_date = datetime.now().strftime("%Y-%m-%d")
@@ -154,6 +154,7 @@ def generate_book_from_outline(outline, book_title, combined_output_file="combin
     # Generate the Introduction
     introduction_text = generate_section_text("Introduction", "", book_summary)
     combined_content += "\n# Introduction\n\n" + introduction_text + "\n\n"
+    print("introduction")
 
     # Generate each chapter and add to the combined output
     for i, chapter in enumerate(outline):
@@ -167,16 +168,8 @@ def generate_book_from_outline(outline, book_title, combined_output_file="combin
         # Generate the full text for the chapter
         chapter_text = generate_section_text(title, chapter_outline, book_summary, previous_chapter_outline, next_chapter_outline)
 
-        # Filename with leading zero for sorting
-        chapter_filename = f"{i+1:02d}-{title.replace(' ', '_').replace(':', '')}.md"
-        with open(chapter_filename, 'w') as file:
-            file.write(f"# {title}\n\n{chapter_text}")
-
-        print(f"Chapter '{title}' generated and saved as {chapter_filename}.")
-
         # Add only one header for the chapter in the combined output
-        combined_content += f"- [{title}](#{title.replace(' ', '-').lower()})\n"  # TOC entry
-        combined_content += f"\n# {title}\n\n{chapter_text}\n\n"  # Chapter content
+        combined_content += f"\n\\newpage\n\n" + chapter_text + "\n\n"  # Chapter content with \newpage for page break
 
     # Generate the Conclusion
     conclusion_text = generate_section_text("Conclusion", "", book_summary)
