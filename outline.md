@@ -2027,7 +2027,7 @@
 
 ---
 
-## **Part VI: Health Implications and Scientific Perspectives**
+## **Part V: Health Implications and Scientific Perspectives**
 
 ### **Chapter 22: Spinal Alignment—The Nexus of Health**
 
