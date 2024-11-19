@@ -1,8 +1,8 @@
-## **Title**: **"The Back Goes Backwards: Integrating Yoga, TCM, and Biomechanics for Optimal Spinal Health"**
+## **Title**: **"The Back Goes Backwards: Integrating Yoga, TCM, and Biomechanics for Optimal Health"**
 
 ---
 
-## **Introduction: Rethinking Spinal Health**
+## **Introduction: Rethinking Health**
 
 ### **Introduction**
 
