@@ -1,8 +1,16 @@
     <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-  <script type="text/javascript" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+      <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
     <meta charset="UTF-8">
 
 {% seo %}
