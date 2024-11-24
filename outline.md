@@ -50,6 +50,12 @@
 
  - TCM separates ventral and posterior sides of the body into "yin" and "yang" which can readily be understood as "weak" and "strong". The posterior side of the body is considered Yang and the anterior side of the body is considered "weak". This dichotomy can also be though of as internal and exteranl. Organs arranged on the anterior side of the body are associated with the yin side of the body and can be thought of as internal and "weak" (from a mechanical perspective). The posterior side of the body consists of many strong muscles and their movement is more focused on coordinating the spine and not on protecting vital organs. 
 
+ - you do not want to be using your organs for structural reasons and movement reasons
+ - a lot of this is unconcious and has an extreme nervous sytem component that is subtle and often subconscious
+ - if practicing proper body mechanics helps your emotional being that's a big plus. Feeling more secure and stable in a physical sense due to improved mechanical patterns it would be an amazing side effect to create more security and stability in your psychologoical well being. 
+
+ - psychological - "being able to stand up straight and grounded" vs "twisting your body to conceal your heart area" don't put your groudning your heart, ground in the hips and let the spine ground in the hips and let the organs hang from the top of the spine.
+
 
  - Diaphragm and breathing. Accepted western science articulates that contraction of the diaphram should happen on an inhale and relaxation of the diaphram should happen on an exhale. The entire posterior chain should engage on an inhale to ensure diaphramatic breahting and relax on an exhale. There are degenerate cases to this where the breakdown of proper movement has inverted some aspect of this pattern. This often results in a system where net flexion / significant anterior loading of the spine has occured. In this morphology of the body, energetically it actually becomes more efficeint to invert diaphram engagement such that exhales are coordinated under diaphramtic engagement and inhaels happen under diaphramatic relaxation.  This directly results in not only limited breathing volume capacity but also causing significant mechancial stress and strain on vital parts of the body through respiration. 
 
