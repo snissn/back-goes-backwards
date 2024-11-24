@@ -1,12 +1,17 @@
-## **Title**: **"The Back Goes Backwards: Integrating Yoga, TCM, and Biomechanics for Optimal Health"**
+## **Title**: **"Mechanical-Based Medicine: Integrating Biomechanical Physics, Ashtanga Yoga, TCM into Medical Thinking"**
+
+By addressing **mechanical inefficiencies**—such as misalignment, repetitive stress, and uneven force distribution—we can identify and treat a missing or overlooked root cause of many health problems, from joint degeneration to autoimmune disorders. This foundational approach reveals a profound link between mechanical dysfunction and modern diseases, offering a powerful lens for diagnosis, treatment, and prevention.
 
 ---
-#TODO rewrite introduction to be more focused on Mechanical Medicine as a new and important concept and less focused on 'spine health'
- 
-'' This article introduces **Mechanical-Based Medicine**, a paradigm that integrates biomechanics, physics, and engineering principles into medical thinking. By addressing **mechanical inefficiencies**—such as misalignment, repetitive stress, and uneven force distribution—we can identify and treat the root causes of many health problems, from joint degeneration to autoimmune disorders. This foundational approach reveals a profound link between mechanical dysfunction and modern diseases, offering a powerful lens for diagnosis, treatment, and prevention. ''
- 
+Goal of writing:
 
-## **Introduction: Rethinking Health**
+ - Establish mechanical basis of disease as an important component to modern western science based medicine
+ - Synthesize ideas and principals from Traditional Chinese Medicine into mechanical concepts and physics principals that can help motivate the basis for the theory behind mechanical disease and health
+ - Synthesize ideas about breathing patterns from TCM & Advanced Yoga into mechanical concepts and physics principals that can help motivate the basis for the theory behind mechanical disease and health
+ - Interweave these together to create a robust mechanical health framework / solution that can be replicated, evaluated/tested and taught to anyone to improve their health.
+---
+
+## **Introduction: Mechanical-Based Medicine**
 
 ### **Introduction**
 
@@ -55,6 +60,9 @@
  - if practicing proper body mechanics helps your emotional being that's a big plus. Feeling more secure and stable in a physical sense due to improved mechanical patterns it would be an amazing side effect to create more security and stability in your psychologoical well being. 
 
  - psychological - "being able to stand up straight and grounded" vs "twisting your body to conceal your heart area" don't put your groudning your heart, ground in the hips and let the spine ground in the hips and let the organs hang from the top of the spine.
+
+
+ - separating your movement muscles from your organs in the way that TCM suggests - using the yang muscles for movement and letting your organs just be - creates psychological freedom similar to having a work phone and a personal phone. Use the right body of your body for the right thing and don't constantly put mental capacity into untangling and understanding complex coordination between organs and movement. 
 
 
  - Diaphragm and breathing. Accepted western science articulates that contraction of the diaphram should happen on an inhale and relaxation of the diaphram should happen on an exhale. The entire posterior chain should engage on an inhale to ensure diaphramatic breahting and relax on an exhale. There are degenerate cases to this where the breakdown of proper movement has inverted some aspect of this pattern. This often results in a system where net flexion / significant anterior loading of the spine has occured. In this morphology of the body, energetically it actually becomes more efficeint to invert diaphram engagement such that exhales are coordinated under diaphramtic engagement and inhaels happen under diaphramatic relaxation.  This directly results in not only limited breathing volume capacity but also causing significant mechancial stress and strain on vital parts of the body through respiration. 
