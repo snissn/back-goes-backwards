@@ -1,95 +1,114 @@
 ## **Title**: **"Mechanical-Based Medicine: Integrating Biomechanical Physics, Ashtanga Yoga, TCM into Medical Thinking"**
 
-By addressing **mechanical inefficiencies**—such as misalignment, repetitive stress, and uneven force distribution—we can identify and treat a missing or overlooked root cause of many health problems, from joint degeneration to autoimmune disorders. This foundational approach reveals a profound link between mechanical dysfunction and modern diseases, offering a powerful lens for diagnosis, treatment, and prevention.
+By addressing **mechanical inefficiencies**—such as misalignment, repetitive stress, and uneven force distribution—we can identify and treat a frequently overlooked root cause of numerous health problems, from joint degeneration to autoimmune disorders. This approach highlights a profound connection between mechanical dysfunction and modern diseases, offering a powerful framework for diagnosis, treatment, and prevention.
 
 ---
-Goal of writing:
 
- - Establish mechanical basis of disease as an important component to modern western science based medicine
- - Synthesize ideas and principals from Traditional Chinese Medicine into mechanical concepts and physics principals that can help motivate the basis for the theory behind mechanical disease and health
- - Synthesize ideas about breathing patterns from TCM & Advanced Yoga into mechanical concepts and physics principals that can help motivate the basis for the theory behind mechanical disease and health
- - Interweave these together to create a robust mechanical health framework / solution that can be replicated, evaluated/tested and taught to anyone to improve their health.
+### **Goal of Writing**
+
+- Establish the mechanical basis of disease as an essential component of modern, Western science-based medicine.  
+- Integrate principles from Traditional Chinese Medicine (TCM) into mechanical and physics concepts to motivate theories behind mechanical dysfunction and health.  
+- Synthesize advanced breathing patterns from TCM and Ashtanga Yoga into a framework based on mechanical and physics principles to better understand their impact on health.  
+- Combine these elements to create a comprehensive mechanical health framework that is replicable, testable, and teachable, enabling anyone to improve their overall well-being.  
+
 ---
 
 ## **Introduction: Mechanical-Based Medicine**
 
-### **Introduction**
+### **0.1 The Central Thesis**
 
-#### **0.1 The Central Thesis**
+#### **0.1.1 The Need for a Mechanical Perspective in Medicine**
 
-- **0.1.1 Need for establishing a field of medicine related to understanding the Mechanical basis of medical disorders
-  - Introduce the groundbreaking concept that modern medicine has been generally ignoring the idea that mechanical inefficiencies are a major contribution to many health problems, from joint degeneration to autoimmune disorders. 
+Modern medicine often overlooks the critical role mechanical inefficiencies play in health problems, ranging from joint degeneration to autoimmune disorders. While fields like genetics address specific conditions (e.g., Sickle Cell Anemia) and orthopedic surgery deals with structural degeneration, no unified field comprehensively examines the mechanical dynamics of the body as a whole.  
 
-  - We understand that no field of medicine simultaneously addresses the every heatlh disorder. Studying the genetic cause of diseases like Sickle cell, does not help someone with a broken leg. Mechanical disorders a missing picture of the overall landscape.
+1. **Current Gaps in Medical Understanding:**  
+   - Too much research focuses on chemical, microbiological, and cellular levels, neglecting the study of live subjects as complex mechanical systems. For example, arthritis research emphasizes cellular inflammation without considering proper mechanical engagement or whole-body mechanics.  
 
-  - Too much basic research happens on a chemical, microbiological and cellular level and not even research is happening to emphasize structure on live subjects. Ie Arthritis research is focusing on cellular level and not on proper mechanical engagement that models the entire body as a complete mechanical system. 
+   - The medical community tends to focus on malfunctions or degenerative cases in isolated systems. Orthopedic surgeons and rheumatologists address breakdowns but lack a framework for analyzing overall healthy movement patterns and loading mechanics.  
 
-  - From thorough analysis we are hypothesizing that a unifying framework to measure and resolve mechanical inefficiences can come from the conclusion that posterior loading is essential for proper mechanical structure and efficiencies.
+2. **Fragmented Care:**  
+   - Physical therapy provides exercises but rarely connects these movements to a broader understanding of whole-body mechanics. Proper movement patterns essential for long-term health often go untaught.  
+   - The healthcare system rewards short-term solutions that alleviate symptoms without addressing root causes. This "patchwork" approach fails to prevent mechanical inefficiencies from escalating into chronic issues.  
 
-  - Medical Communities focus on malfunction, degenerate cases, small subsections of the body at a time. The overal mechanics of healthy active movement requires a holistic approach to the mechanics of the entire body, under gravitational load, assuming strong and healthy, bones, joints, muscles, tendons, fascia, and movement patterns. Orthopedic surgeons, rhuemotoligsts tend to primarily and in many cases only deal with very degenerate systems that have significant and thorough breakdowns of proper joint loading, proper muscle energics, and because of this view point do not have a framework for synthesizing proper overall movement patterns and proper mechancial loading of the overall body and do not analyze the sub system that they are specializing in within the context of overall system mechancail loading and movements.
+3. **A Holistic Framework is Missing:**  
+   - The body is a mechanical system subject to gravity and movement patterns programmed into the nervous system. Improper movement patterns lead to degenerative stress and strain, causing long-term damage.  
 
-  - Physical Therapy gives you a set of exercises to do, but often these exercises do not syntehsize into giving hte patient and overall understanding of why and how the individual components of their body that they are working on link to the overall proper movement of the body -- proper movement is essential. 
+4. **Proposed Framework:**  
+   - The hypothesis: Posterior loading is essential for proper mechanical structure and efficiency.  
+   - Inspired by insights from Traditional Chinese Medicine (TCM) and Ashtanga Yoga, we aim to establish a framework for diagnosing and correcting mechanical inefficiencies, promoting health at both structural and energetic levels.  
 
-  -  probelm is a lot fo the people that help with movement problems don't 
-  - we know good movement probelms = healthy body
-     - we do not translate that to patients because we as providers don't have a full picture system for what healthy mvoement patterns are
-    - and our insurance based system does not reward good health, it instead rewards stop gaps which alleviate major symptoms but do not aim for overall good health. We tend to stop damage  
-    - if there's not a problem don't fix it but we don't fix the root cause of the probelm. 
-
-- ram das story about stopping hte babies from entering the river in the first place
-
-    - as an example we may prescripe physical therapy to alleviate symptoms of wrist pain and provide enough physical movement therapy to alleviate the symptoms of the patients concern, however there may be significant breakdown of mechanical coordination of the pateints scapula, and thoracic spine which has caused and manifested the wrist paint but that typically will not be addressed or fixed or even assessed by the medical system
+---
 
 
-- treatments have a result focused and goal oriented nature where once the primary symptoms are addressed the medical system no longer provides solutions for the patient beyond the originating complaints. By establishing Mechanical Disorders as a field of mediine we can create systematic procedures and frameworks for long term solutions.
-
-- not just solving problems but also understanding why they are problems and what the long term systemtic solution is.
-
-- currently our system ignores that the body is a mechanical system subject to gravity and movement patterns programmed into the nervous system. The reality is that improper movement patterns which cause degenerate load, stress and strain throughout parts of the body that are not able to handle the forces and pressure over time will contribute to disease. Not only do we believe that the medical system needs to deeply evaluate this claim and establish space for this reality, we believe that we have a framework that has been motivated by deep understanding of Traditional Chinese Medicine and Advanced Ashtanga Yoga that can be the basis for a solution and frameowrk to describe correct movement, and loading patterns that can serve as the north star towards guiding this new branch of medicine.
-
-- Gravity currently has some places in medicine - starling's law of cardiac output , stroke volume, heart rate, -- air 
-
-- Mechanical Engineering principals like stress and strain of the human body under mechancial load has some place in medicine in terms of applied research to joint repair and microbiological analysis of tissue growth of chondracites in an extracellular matrix , etc, but overall system mechanics has not found its way in. 
-
-- yangs be yanging - claim: Anatomic differences in posterior anatomy to anteroir anatomy points towards an evolutionarily developed preference towrads posterior loading over anterior loading. The strong musculature of the back posteiror chain, with many layers of strong muscle along the back, compared to fewer and smaller muscles in the front. Also vital organs are located in the anterior not posterior side of the spine and are not meant to be load bearing. 
-
- - TCM separates ventral and posterior sides of the body into "yin" and "yang" which can readily be understood as "weak" and "strong". The posterior side of the body is considered Yang and the anterior side of the body is considered "weak". This dichotomy can also be though of as internal and exteranl. Organs arranged on the anterior side of the body are associated with the yin side of the body and can be thought of as internal and "weak" (from a mechanical perspective). The posterior side of the body consists of many strong muscles and their movement is more focused on coordinating the spine and not on protecting vital organs. 
-
- - you do not want to be using your organs for structural reasons and movement reasons
- - a lot of this is unconcious and has an extreme nervous sytem component that is subtle and often subconscious
- - if practicing proper body mechanics helps your emotional being that's a big plus. Feeling more secure and stable in a physical sense due to improved mechanical patterns it would be an amazing side effect to create more security and stability in your psychologoical well being. 
-
- - psychological - "being able to stand up straight and grounded" vs "twisting your body to conceal your heart area" don't put your groudning your heart, ground in the hips and let the spine ground in the hips and let the organs hang from the top of the spine.
+previous work here:
 
 
- - separating your movement muscles from your organs in the way that TCM suggests - using the yang muscles for movement and letting your organs just be - creates psychological freedom similar to having a work phone and a personal phone. Use the right body of your body for the right thing and don't constantly put mental capacity into untangling and understanding complex coordination between organs and movement. 
 
+### **0.2 The Role of Gravity and Mechanics in Medicine**
 
- - Diaphragm and breathing. Accepted western science articulates that contraction of the diaphram should happen on an inhale and relaxation of the diaphram should happen on an exhale. The entire posterior chain should engage on an inhale to ensure diaphramatic breahting and relax on an exhale. There are degenerate cases to this where the breakdown of proper movement has inverted some aspect of this pattern. This often results in a system where net flexion / significant anterior loading of the spine has occured. In this morphology of the body, energetically it actually becomes more efficeint to invert diaphram engagement such that exhales are coordinated under diaphramtic engagement and inhaels happen under diaphramatic relaxation.  This directly results in not only limited breathing volume capacity but also causing significant mechancial stress and strain on vital parts of the body through respiration. 
+Gravity already plays a limited role in medicine (e.g., Starling's Law of cardiac output, stroke volume, and heart rate). Similarly, mechanical engineering principles like stress and strain appear in joint repair and tissue growth research. However, **whole-system mechanics**—how the body moves and bears load as an integrated system—remains absent from medical paradigms.  
 
+#### **Posterior vs. Anterior Loading**
 
-- Proper mechanical health we are definig as association with: 
-    - overall spinal extension as opposed to flexion, hunched posture and rounded spine
-    - overall preference for mechanical load on hte posterior chain of the body as opposed to the anterior chain
-    - Proper breathing mechanics:
-        - Engaging the diaphram on inhale
-        - Overall spinal extension
-        - Engagement of the posterior chain on inhale
-        - Non broken kinematic chain of the posterior hcain that contracts on inhale
-        - lengthening of the spine on inhale
-        - etc?
+- Evolution favors posterior loading:  
+  - The posterior chain has stronger musculature, layered along the spine.  
+  - Vital organs located anteriorly (e.g., heart, lungs) are not designed to bear mechanical load.  
+  - TCM categorizes the posterior body as **Yang** (strong) and the anterior as **Yin** (weak).  
 
--   Breakdown of the previous "rules" for breathing manifest as clear mechanical issues. 
--   Example: If we think of diaphragmatic breathing as similar to opening and closing an umbrella in each complete breath the breakdown of this breathing can come from these examples:
-        - Umbrella turned upside down yet still is being opened and closed to move air through the body
-        - Umbrella having broken spokes
-        - Parts of Umbrella being glued together so it cannot fully open and close
-        - stepping on the umbrella so that it cannot fully open
-        - leaning on the umbrella / using an open umbrella simialr to a cane and still opening and closing it
-        - Combinations of previous break downs occuring together
+- Improper anterior loading strains vital organs, leading to physical and psychological instability. For instance:  
+  - Rounded, hunched posture reflects emotional and physical insecurity.  
+  - Proper posterior loading fosters a sense of grounding and stability, both physically and psychologically.  
 
--   These are examples meant ot provide a visual of obvious mechancial deficiencies in a physical and mechanical system similar to how the body breathes. The turned inside out corresponds to a net switch from enginag the diaphragm on inhael to engaging it on exhale. etc
+---
 
+### **0.3 Breathing Mechanics: A Case Study in Mechanical Health**
+
+Breathing is a fundamental mechanical process with far-reaching implications for health. Accepted Western science recognizes that:  
+- The **diaphragm contracts** on inhalation and relaxes on exhalation.  
+- The **posterior chain** should engage on inhalation and relax on exhalation.  
+
+#### **Degenerative Breathing Patterns**  
+Breakdowns in this natural pattern result in:  
+- **Net flexion:** Excessive anterior spinal loading.  
+- **Inverted diaphragm function:** Engaging the diaphragm on exhalation instead of inhalation.  
+
+These inefficiencies limit breathing capacity, increase strain on vital organs, and disrupt overall mechanics.  
+
+#### **Visualizing Mechanical Dysfunction**  
+Using the metaphor of an umbrella:  
+- A properly functioning diaphragm is like an umbrella that opens (inhale) and closes (exhale).  
+- Dysfunctional patterns include:  
+  - **Inverted umbrella:** The diaphragm works backward, causing strain.  
+  - **Broken spokes:** Mechanical inefficiencies in muscle engagement.  
+  - **Glued ribs:** Reduced flexibility and range of motion.  
+  - **Weight on the umbrella:** External forces compromise breathing mechanics.  
+
+---
+
+### **Defining Proper Mechanical Health**
+
+**Key Characteristics:**  
+1. **Spinal Extension:** Avoiding flexion, rounded posture, and spinal compression.  
+2. **Posterior Chain Engagement:** Preferentially loading the back musculature over the anterior.  
+3. **Breathing Mechanics:**  
+   - Diaphragm contracts on inhale, relaxes on exhale.  
+   - Posterior chain engages during inhalation.  
+   - The spine lengthens on each breath.  
+
+**Breakdowns Manifesting in Health Problems:**  
+- Improper mechanics (e.g., anterior loading, poor breathing patterns) correlate directly with degenerative conditions.  
+
+**Proposed Solution:**  
+By integrating mechanical physics with insights from TCM and advanced Ashtanga Yoga, we can create a replicable framework for diagnosing, teaching, and correcting movement patterns. This framework emphasizes:  
+- Posterior spinal loading.  
+- Separation of movement mechanics from organ function.  
+- A psychological benefit of stability and grounding derived from improved mechanical health.  
+
+---
+
+### **Call to Action: Establishing Mechanical Disorders as a Field**
+
+Medical systems must evolve to recognize the body as a mechanical system subject to gravity and movement patterns. By addressing the **root causes** of mechanical inefficiencies rather than merely treating symptoms, we can improve outcomes for patients while advancing the understanding of disease prevention and health optimization.
 
 #### **0.2 Integration of Disciplines**
 
