@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 from bs4 import BeautifulSoup
 
@@ -66,8 +67,8 @@ def process_html_to_json(html_content, output_dir):
 
 if __name__ == "__main__":
     # Load the HTML content
-    html_file = "outline-pandoc.html"
-    output_directory = "output_directory-pandoc"
+    html_file = sys.argv[1]
+    output_directory = "output_directory-pandoc-2"
 
     with open(html_file, 'r', encoding='utf-8') as file:
         html_content = file.read()

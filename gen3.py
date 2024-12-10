@@ -87,7 +87,9 @@ def generate_book_summary(outline_text):
     Generate a summary of the entire book using OpenAI API.
     """
     prompt = (
-        "Create an informative summary of the entire book based on the following outline. "
+        "Create an informative and detailed summary of the entire book based on the following outline. "
+        "Capture the key points that are needed to understand the technical aspects of this book. This detailed summary will be used to seed an LLM to generate the entirety of the book one section at a time"
+        "This outline must capture the entire context of the book and be comprehensive "
         "The book integrates Ashtanga Yoga in the style of Krishnamacharya, Pattabhi Jois, and A.G. Mohan with lessons from the Upanishads and the Bhagavad Gita, "
         "creating a deeply holistic approach to yoga that unites physical, philosophical, and spiritual dimensions, Traditional Chinese Medicine, and biomechanics, "
         "emphasizing spinal health and movement principles.\n\n"
@@ -102,6 +104,7 @@ def generate_book_summary(outline_text):
                 {"role": "system", "content": "You are an expert summarizer skilled in creating concise summaries."},
                 {"role": "user", "content": prompt}
             ],
+            max_tokens=4000,
             temperature=0.5
         )
         return response.choices[0].message.content
@@ -116,6 +119,7 @@ def generate_markdown_book(json_file, outline_text):
     Generate a complete Markdown book based on the provided JSON file and outline text.
     """
     summary = generate_book_summary(outline_text)
+    print(summary)
 
     # Read JSON file
     with open(json_file, 'r') as file:
