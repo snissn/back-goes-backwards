@@ -3,28 +3,8 @@
   <head>
 
 
-<link rel="stylesheet" href="/assets/css/print.css" media="print">
+<link rel="stylesheet" href="../assets/css/print.css" media="print">
 
-
-<script>
-MathJax = {
-  svg: { fontCache: 'global' },
-  startup: {
-    ready: function() {
-      // Replace &amp; with & in all math blocks before MathJax processes them
-      console.log("ready HI");
-      document.querySelectorAll('p').forEach(function(element) {
-        console.log("HI, ", element);
-        console.log("HI 2, ", element.innerHTML);
-        element.innerHTML = element.innerHTML.replace(/&amp;/g, '&');
-      });
-
-      // Continue with the default MathJax startup
-      MathJax.startup.defaultReady();
-    }
-  }
-};
-</script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
