@@ -11,6 +11,7 @@ MathJax = {
       console.log("ready HI");
       document.querySelectorAll('p').forEach(function(element) {
         console.log("HI, ", element);
+        console.log("HI 2, ", element.innerText);
         element.textContent = element.innerText.replace(/&amp;/g, '&');
       });
 
