@@ -3,27 +3,24 @@
   <head>
 
 
-      <script>
+<script>
 MathJax = {
   startup: {
     ready: function() {
-      MathJax.startup.defaultReady(); // Initialize MathJax normally
-
-      // Preprocess math to replace &amp; with &
-      MathJax.startup.document.options.preprocessors.push({
-        name: 'replaceAmpersand',
-        preprocess: function(math) {
-          math.math = math.math.replace(/&amp;/g, '&');
-        }
+      // Replace &amp; with & in all math blocks before MathJax processes them
+      document.querySelectorAll('script[type="math/tex"]').forEach(function(script) {
+        script.textContent = script.textContent.replace(/&amp;/g, '&');
       });
 
-      console.log('Custom preprocessor added to replace &amp; with &');
+      // Continue with the default MathJax startup
+      MathJax.startup.defaultReady();
     }
   }
 };
 </script>
-
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 
 
 
