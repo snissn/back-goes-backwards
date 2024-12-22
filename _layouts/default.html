@@ -9,9 +9,9 @@ MathJax = {
     ready: function() {
       // Replace &amp; with & in all math blocks before MathJax processes them
       console.log("ready HI");
-      document.querySelectorAll('mjx-container, script[type="math/tex"], .MathJax').forEach(function(element) {
-        console.log("HI");
-        script.textContent = script.textContent.replace(/&amp;/g, '&');
+      document.querySelectorAll('p').forEach(function(element) {
+        console.log("HI, ", element);
+        element.textContent = element.textContent.replace(/&amp;/g, '&');
       });
 
       // Continue with the default MathJax startup
