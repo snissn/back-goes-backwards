@@ -39,11 +39,6 @@ Modern medicine often overlooks the critical role mechanical inefficiencies play
 
 ---
 
-
-previous work here:
-
-
-
 ### **0.2 The Role of Gravity and Mechanics in Medicine**
 
 Gravity already plays a limited role in medicine (e.g., Starling's Law of cardiac output, stroke volume, and heart rate). Similarly, mechanical engineering principles like stress and strain appear in joint repair and tissue growth research. However, **whole-system mechanics**—how the body moves and bears load as an integrated system—remains absent from medical paradigms.  
