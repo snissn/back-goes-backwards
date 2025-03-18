@@ -7,6 +7,24 @@
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const toc = document.getElementById('generated-toc');
+    if (!toc) return;
+    const chapters = document.querySelectorAll('main h2');
+    chapters.forEach((h2, i) => {
+      const id = `chapter-${i + 1}`;
+      h2.id = id;
+      const item = document.createElement('li');
+      const link = document.createElement('a');
+      link.href = `#${id}`;
+      link.textContent = h2.textContent;
+      item.appendChild(link);
+      toc.appendChild(item);
+    });
+  });
+</script>
+
 
 
 
@@ -35,6 +53,11 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </header>
+
+<div class="toc pagebreak">
+  <h2>Table of Contents</h2>
+  <ol id="generated-toc"></ol>
+</div>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
