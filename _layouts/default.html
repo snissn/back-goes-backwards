@@ -7,25 +7,6 @@
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
-    const toc = document.getElementById('generated-toc');
-    if (!toc) return;
-    const chapters = document.querySelectorAll('main h2');
-    chapters.forEach((h2, i) => {
-      const id = `chapter-${i + 1}`;
-      h2.id = id;
-      const item = document.createElement('li');
-      const link = document.createElement('a');
-      link.href = `#${id}`;
-      link.textContent = h2.textContent;
-      item.appendChild(link);
-      toc.appendChild(item);
-    });
-  });
-</script>
-
-
 
 
 
@@ -34,7 +15,7 @@
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Source+Sans+3:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -53,12 +34,6 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </header>
-
-<div class="toc pagebreak">
-  <h2>Table of Contents</h2>
-  <ol id="generated-toc"></ol>
-</div>
-
     <main id="content" class="main-content" role="main">
       {{ content }}
 
