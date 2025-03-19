@@ -4,59 +4,6 @@
   margin-bottom: 2em;
 }
 
-#toc ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-#toc li {
-  display: table;
-  width: 100%;
-  font-size: 0.95em;
-  margin-bottom: 0.4em;
-}
-
-#toc li a {
-  display: table-cell;
-  white-space: normal;
-  padding-right: 0.5em;
-  text-decoration: none;
-  color: inherit;
-  line-height: 1.4;
-}
-
-#toc li .toc-page {
-  display: table-cell;
-  text-align: right;
-  white-space: nowrap;
-  font-variant-numeric: tabular-nums;
-  font-size: 0.95em;
-}
-
-/* TOC Visual Hierarchy */
-#toc li.toc-level-h1 {
-  font-weight: bold;
-  font-size: 1em;
-  margin-top: 0.6em;
-  color: #000;
-}
-
-#toc li.toc-level-h2 {
-  padding-left: 1em;
-  font-weight: normal;
-  font-size: 0.95em;
-  color: #3c3c3c; /* Comfortable dark gray for print */
-}
-
-#toc li.toc-level-h3 {
-  padding-left: 2em;
-  font-weight: normal;
-  font-size: 0.9em;
-  color: #3c3c3c; /* Comfortable dark gray for print */
-}
-
-/* Optional: Adjust TOC header title */
 #toc h1 {
   font-size: 1.8em;
   margin-bottom: 1em;
@@ -66,4 +13,67 @@
   text-align: left;
 }
 
+.toc-wrapper {
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+#toc ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+#toc li {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  font-size: 0.95em;
+  margin-bottom: 0.4em;
+  line-height: 1.4;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+#toc li a.toc-label {
+  flex: 1 1 auto;
+  text-decoration: none;
+  color: inherit;
+  padding-right: 1em;
+  word-break: break-word;
+}
+
+#toc li .toc-page {
+  flex: 0 0 auto;
+  min-width: 40px;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95em;
+  padding-left: 0.5em;
+}
+
+/* Visual Hierarchy for levels */
+#toc li.toc-level-h1 {
+  font-weight: bold;
+  font-size: 1em;
+  margin-top: 1em;
+  margin-bottom: 0.2em;
+  color: #000;
+}
+
+#toc li.toc-level-h2 {
+  padding-left: 1.5em;
+  font-weight: normal;
+  font-size: 0.95em;
+  color: #333;
+}
+
+#toc li.toc-level-h3 {
+  padding-left: 3em;
+  font-weight: normal;
+  font-size: 0.9em;
+  color: #666;
+}
 

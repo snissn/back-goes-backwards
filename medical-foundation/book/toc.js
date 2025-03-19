@@ -1,12 +1,21 @@
 class TOCHandler extends Paged.Handler {
   beforeParsed(content) {
     const doc = content.ownerDocument;
+
     const toc = doc.createElement("section");
     toc.id = "toc";
-    toc.innerHTML = "<h1>Table of Contents</h1><ul id='toc-list'></ul>";
+    toc.innerHTML = "<h1>Table of Contents</h1>";
+
+    const wrapper = doc.createElement("div");
+    wrapper.className = "toc-wrapper";
+
+    const list = doc.createElement("ul");
+    list.id = "toc-list";
+    wrapper.appendChild(list);
+    toc.appendChild(wrapper);
+
     content.insertBefore(toc, content.firstChild);
 
-    const list = toc.querySelector("#toc-list");
     const headings = content.querySelectorAll("h1, h2, h3");
     const seenLabels = new Set();
 
@@ -24,11 +33,12 @@ class TOCHandler extends Paged.Handler {
       el.setAttribute("data-ref", refId);
 
       const li = doc.createElement("li");
-      li.classList.add(`toc-level-${tagLevel}`); // ← ADD CLASS HERE
+      li.classList.add(`toc-level-${tagLevel}`);
 
       const a = doc.createElement("a");
       a.href = `#${el.id}`;
       a.textContent = label;
+      a.classList.add("toc-label");
 
       const pageSpan = doc.createElement("span");
       pageSpan.classList.add("toc-page");
