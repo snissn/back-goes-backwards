@@ -20,6 +20,10 @@ header{
 p {
   text-align: justify;
   margin-bottom: 1em;
+  text-justify: inter-word;
+    text-align-last: left;
+
+
 }
 
 
