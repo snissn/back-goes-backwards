@@ -69,3 +69,71 @@ html, body, main {
   height: 100%;
 }
 
+
+
+
+/* Title Page Styling */
+.title-page {
+  text-align: center;
+  margin-top: 6in;
+  font-size: 2.5rem;
+  page-break-after: always;
+}
+
+.title-page h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.title-page p {
+  font-size: 1.5rem;
+}
+
+/* Copyright Page Styling */
+.copyright-page {
+  font-size: 0.95rem;
+  page-break-after: always;
+}
+
+/* Dedication Page Styling */
+.dedication-page {
+  text-align: center;
+  font-style: italic;
+  font-size: 1.5rem;
+  page-break-after: always;
+}
+
+/* About the Author Styling */
+.about-author {
+  page-break-after: always;
+}
+
+/* Glossary Styling */
+.glossary-section {
+  font-size: 1rem;
+  line-height: 1.6;
+  padding: 1in;
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.glossary-section p {
+  margin-bottom: 1rem;
+}
+
+/* References Styling */
+.references-section {
+  font-size: 1rem;
+  line-height: 1.6;
+  padding: 1in;
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.references-section ul {
+  padding-left: 1.5rem;
+}
+
+.references-section li {
+  margin-bottom: 0.5rem;
+}

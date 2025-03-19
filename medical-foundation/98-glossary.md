@@ -1,4 +1,5 @@
 <div class="glossary-section">
+  <h1 id="ref-glossary" style="visibility: hidden; height: 0; margin: 0; padding: 0;">Glossary</h1>
   <p><strong>Anterior Loading</strong> — A forward-shifted force distribution in the body that compromises structural alignment and contributes to dysfunction.</p>
   <p><strong>Posterior Chain</strong> — The interconnected muscles and fascia of the back body that support structural integrity and movement.</p>
   <p><strong>Biomechanical Dysfunction</strong> — Disruption in the body's natural alignment and force distribution, leading to inefficiency, strain, or systemic imbalance.</p>
