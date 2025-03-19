@@ -1,7 +1,7 @@
 <div class="about-author">
+  <p><strong>Michael Seiler</strong> and <strong>Dr. Katherine E. Gallardo, MD</strong> are practitioners, researchers, and teachers working at the intersection of yoga, Traditional Chinese Medicine (TCM), and biomechanics.</p>
 
-**Michael Seiler** and **Dr. Katherine E. Gallardo, MD** are practitioners, researchers, and certified Ashtanga teachers working at the intersection of yoga, Traditional Chinese Medicine (TCM), and biomechanics. With backgrounds in applied physics and medicine, they integrate Eastern philosophy and Western science to explore new frontiers of healing and human potential.
+  <p>With backgrounds in applied physics and medicine, they integrate Eastern philosophy and Western science to explore new frontiers of healing and human potential.</p>
 
-They have studied and taught Ashtanga yoga, breath-based movement systems, and therapeutic body mechanics across disciplines and communities. Their work focuses on empowering individuals with practical frameworks for lifelong structural health and systemic well-being.
-
+  <p>They have studied and taught Ashtanga yoga, breath-based movement systems, and therapeutic body mechanics across disciplines and communities. Their work focuses on empowering individuals with practical frameworks for lifelong structural health and systemic well-being.</p>
 </div>
