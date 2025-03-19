@@ -7,6 +7,6 @@ pagedjs-cli ./snissn.github.io/back-goes-backwards/medical-foundation/combined.h
   --outline-tags "h1,h2,h3" \
   --additional-script ./toc.js \
   --width 152.4 --height 228.6 \
-  --style ./toc.css --style layout.css --style page-override.css
+  --style layout.css --style ./toc.css --style page-override.css
 
 

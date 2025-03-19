@@ -1,5 +1,4 @@
 #toc {
-  page-break-after: always;
   font-size: 11pt;
   margin-bottom: 2em;
 }
@@ -11,6 +10,8 @@
   font-weight: bold;
   color: #000;
   text-align: left;
+  page-break-after: avoid;
+  page-break-before: avoid;
 }
 
 .toc-wrapper {
@@ -54,26 +55,38 @@
   padding-left: 0.5em;
 }
 
-/* Visual Hierarchy for levels */
+/* TOC Visual Hierarchy */
 #toc li.toc-level-h1 {
   font-weight: bold;
   font-size: 1em;
   margin-top: 1em;
-  margin-bottom: 0.2em;
-  color: #000;
 }
 
 #toc li.toc-level-h2 {
   padding-left: 1.5em;
   font-weight: normal;
   font-size: 0.95em;
-  color: #333;
+  color: #3c3c3c; /* Comfortable dark gray for print */
 }
 
 #toc li.toc-level-h3 {
   padding-left: 3em;
   font-weight: normal;
   font-size: 0.9em;
-  color: #666;
+  color: #3c3c3c; /* Comfortable dark gray for print */
+}
+
+
+h1:first-of-type {
+  break-before: auto !important;
+  margin-top: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 6em;
+  margin-bottom: 2em;
+  font-size: 2em;
+  font-weight: bold;
 }
 
