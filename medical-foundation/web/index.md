@@ -21,7 +21,7 @@ Modern medicine excels at treating symptoms, but it often overlooks a critical q
 
 This foundational chapter sets the stage for a paradigm shift in health and biomechanics.
 
-[**Read Chapter 1**](01.md)
+[**Read Chapter 1**](../11-section-01.md)
 
 ---
 
@@ -36,7 +36,7 @@ Key topics include:
 
 By the end of this chapter, you’ll have a clear understanding of **why posterior loading is essential** and how it forms the basis of biomechanical health.
 
-[**Read Chapter 2**](02.md)
+[**Read Chapter 2**](../12-section-02.md)
 
 ---
 
@@ -55,7 +55,7 @@ Topics include:
 
 This chapter redefines **movement as medicine**, presenting **posterior loading as a tool for systemic healing**.
 
-[**Read Chapter 3**](03.md)
+[**Read Chapter 3**](../13-section-03.md)
 
 ---
 
@@ -70,7 +70,7 @@ Key concepts include:
 
 This chapter presents a **holistic framework** for understanding movement beyond mechanical function, incorporating energetic balance and systemic flow.
 
-[**Read Chapter 4**](04.md)
+[**Read Chapter 4**](../14-section-04.md)
 
 ---
 
@@ -86,7 +86,7 @@ We explore:
 
 By synthesizing **modern biomechanics and ancient healing principles**, this approach offers a powerful framework for **optimizing health, movement, and longevity**.
 
-[**Read Chapter 5**](05.md)
+[**Read Chapter 5**](../15-section-05.md)
 
 ---
 
@@ -101,5 +101,5 @@ By applying the principles in this book, you will:
 
 By understanding and restoring **your body’s mechanical balance**, you gain the power to **transform your health**. Let this book be your guide to unlocking a **resilient, pain-free, and thriving body**.
 
-🔗 **Begin Your Journey**: [**The Back Goes Backwards: Rethinking Health Through Biomechanics**](01.md)
+🔗 **Begin Your Journey**: [**The Back Goes Backwards: Rethinking Health Through Biomechanics**](../11-section-01.md)
 
