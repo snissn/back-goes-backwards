@@ -1,0 +1,12 @@
+
+@page {
+  size: 152.4mm 228.6mm;
+  margin: 20mm 15mm 20mm 25mm;
+
+  @bottom-center {
+    content: counter(page);
+    font-size: 10pt;
+  }
+}
+
+

@@ -1,0 +1,50 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1.6;
+  font-size: 11pt;
+  color: #3c3c3c; /* Comfortable dark gray for print */
+}
+
+header{
+	display:none;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('https://snissn.github.io/back-goes-backwards/assets/css/assets/fonts/SourceSansPro-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+p {
+  text-align: justify;
+  margin-bottom: 1em;
+}
+
+
+h1, h2, h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  color: #000000;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  page-break-after: avoid;
+}
+h1, h2{
+  page-break-before: always;
+}
+h1 {
+  page-break-after: always;
+}
+
+a {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+  color: #000000;
+}
+
+
+h1.project-name{
+	color:white;
+}
