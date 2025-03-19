@@ -2290,7 +2290,7 @@ The integration of lateral flexion into a holistic movement practice yields prof
 Lateral flexion within the **Synthesis of Motion** framework demonstrates how small yet targeted movements can create far-reaching effects on both the body and mind. By emphasizing the lateral axis, practitioners gain tools to unlock ribcage mobility, rebalance spinal forces, and energize meridians that are crucial to emotional and systemic health. The result is a more integrated and harmonious experience of movement, energy, and well-being.
 
 
-## **3. Practical Techniques for Biomechanical Health
+## **3. Practical Techniques for Biomechanical Health**
 ### **3.1. Movement Practices**
 
 Movement is the bridge between theoretical understanding and practical healing, and the **Synthesis of Motion** framework integrates biomechanics and Traditional Chinese Medicine (TCM) into actionable practices. By combining the three axes of motion—vertical, rotational, and lateral—with mindful breath and meridian awareness, movement becomes a tool for restoring structural balance and optimizing energetic flow. Practices such as yoga, Tai Chi, Qi Gong, and strength training offer diverse methods to embody these principles and achieve systemic health.
@@ -2338,7 +2338,7 @@ In each of these rehabilitation strategies, the **Synthesis of Motion** framewor
 By focusing on postural correction, chronic pain management, and targeted disease interventions, the **Synthesis of Motion** framework offers a practical and effective method for rehabilitation and healing. This approach not only resolves structural inefficiencies but also harmonizes the body’s energetic pathways, ensuring long-term health and resilience. Through the principles of biomechanical alignment and meridian-based activation, this system provides a foundation for transformative healing that is both scientifically grounded and deeply connected to the body’s innate wisdom.
 
 
-## **4. Getting Started with Biomechanical Healing **
+## **4. Getting Started with Biomechanical Healing**
 ### **4.1. Chronic Low Back Pain**
 
 Chronic low back pain is one of the most pervasive health challenges, often stemming from anterior loading that places undue stress on the lumbar spine. When the anterior structures—such as the abdominal fascia and hip flexors—become overused, they create an imbalance that compresses the intervertebral discs in the lower back. This mechanical dysfunction not only leads to pain but also risks nerve impingement, inflammation, and diminished spinal mobility. For many individuals, the persistence of these symptoms is compounded by poor posture, prolonged sitting, and repetitive anterior-dominant movements that exacerbate lumbar strain.
