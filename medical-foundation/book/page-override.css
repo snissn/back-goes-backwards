@@ -1,12 +1,24 @@
 
 @page {
-  size: 152.4mm 228.6mm;
-  margin: 20mm 15mm 20mm 25mm;
+  size: 152.4mm 228.6mm; /* Standard 6" x 9" */
+  margin: 20mm; /* Default fallback */
+}
 
+/* Left-hand pages (verso) — inner margin is on right side */
+@page :left {
+  margin: 20mm 25mm 20mm 15mm;  /* top, right, bottom, left */
+}
+
+/* Right-hand pages (recto) — inner margin is on left side */
+@page :right {
+  margin: 20mm 15mm 20mm 25mm;  /* top, right, bottom, left */
+}
+
+/* Footer (page number) on all pages */
+@page {
   @bottom-center {
     content: counter(page);
     font-size: 10pt;
   }
 }
-
 
