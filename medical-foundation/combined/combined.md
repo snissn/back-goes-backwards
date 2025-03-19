@@ -1,33 +1,26 @@
 <div class="title-page">
   <h1>The Back Goes Backwards: Integrating Biomechanics into Modern Medicine</h1>
   <p><strong>By Michael Seiler and Dr. Katherine E. Gallardo, MD</strong></p>
-</div>
+</div><div class="copyright-page">
+  <p>© 2025 Michael Seiler and Dr. Katherine E. Gallardo, MD<br>
+  All rights reserved.</p>
 
-<div class="copyright-page">
+  <p>No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means — electronic, mechanical, photocopying, recording, or otherwise — without prior written permission of the authors.</p>
 
-© 2025 Michael Seiler and Dr. Katherine E. Gallardo, MD  
-All rights reserved.
+  <p>This book is independently published by the authors.</p>
 
-No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means — electronic, mechanical, photocopying, recording, or otherwise — without prior written permission of the authors.
-
-This book is independently published by the authors.
-
-ISBN: 9798307976418  
-Cover design by Michael Seiler and Dr. Katherine E. Gallardo, MD  
-Printed in the United States of America
-
+  <p>ISBN: 9798307976418<br>
+  Cover design by Michael Seiler and Dr. Katherine E. Gallardo, MD<br>
+  Printed in the United States of America</p>
 </div><div class="dedication-page">
-
-*For those who seek alignment — in body, breath, and being.*
-
+  <p><em>For those who seek alignment — in body, breath, and being.</em></p>
 </div><div class="about-author">
+  <p><strong>Michael Seiler</strong> and <strong>Dr. Katherine E. Gallardo, MD</strong> are practitioners, researchers, and teachers working at the intersection of yoga, Traditional Chinese Medicine (TCM), and biomechanics.</p>
 
-**Michael Seiler** and **Dr. Katherine E. Gallardo, MD** are practitioners, researchers, and certified Ashtanga teachers working at the intersection of yoga, Traditional Chinese Medicine (TCM), and biomechanics. With backgrounds in applied physics and medicine, they integrate Eastern philosophy and Western science to explore new frontiers of healing and human potential.
+  <p>With backgrounds in applied physics and medicine, they integrate Eastern philosophy and Western science to explore new frontiers of healing and human potential.</p>
 
-They have studied and taught Ashtanga yoga, breath-based movement systems, and therapeutic body mechanics across disciplines and communities. Their work focuses on empowering individuals with practical frameworks for lifelong structural health and systemic well-being.
-
-</div>
-# Introduction
+  <p>They have studied and taught Ashtanga yoga, breath-based movement systems, and therapeutic body mechanics across disciplines and communities. Their work focuses on empowering individuals with practical frameworks for lifelong structural health and systemic well-being.</p>
+</div># Introduction
 
 ## The Forgotten Pillar of Health
 
@@ -2426,27 +2419,19 @@ Looking forward, the **Synthesis of Motion** framework serves as a call to actio
 In merging the analytical clarity of biomechanics with the intuitive wisdom of TCM, the **Synthesis of Motion** framework offers more than a methodology; it provides a vision for the future of healing. By addressing health at its root—through the interplay of motion and energy—it empowers individuals to reclaim balance, vitality, and resilience. This integrated approach redefines what it means to heal, transforming challenges into opportunities for growth and equilibrium. As we embrace this unified theory, we step into a future where the art and science of movement converge to support the full spectrum of human health.
 
 <div class="glossary-section">
-
-**Anterior Loading** — A forward-shifted force distribution in the body that compromises structural alignment and contributes to dysfunction.
-
-**Posterior Chain** — The interconnected muscles and fascia of the back body that support structural integrity and movement.
-
-**Biomechanical Dysfunction** — Disruption in the body's natural alignment and force distribution, leading to inefficiency, strain, or systemic imbalance.
-
-**Posterior Loading** — A framework that restores mechanical health by engaging the back body to support structure and decompress the spine.
-
-**Extraordinary Meridians** — In TCM, special energy pathways that integrate movement, breath, and systemic flow across the body.
-
-[Continue glossary entries as needed…]
-
-</div>
-<div class="references-section">
-
-- Myers, T. *Anatomy Trains*  
-- Grilley, P. *Yin Yoga: Principles and Practice*  
-- Mohan, A.G. *Hatha Yoga Pradipika*  
-- Kendall, F. *Muscles: Testing and Function*  
-- Lingshu & Suwen (TCM Classical Texts)  
-- [Add more peer-reviewed articles or texts related to your work]
-
+  <p><strong>Anterior Loading</strong> — A forward-shifted force distribution in the body that compromises structural alignment and contributes to dysfunction.</p>
+  <p><strong>Posterior Chain</strong> — The interconnected muscles and fascia of the back body that support structural integrity and movement.</p>
+  <p><strong>Biomechanical Dysfunction</strong> — Disruption in the body's natural alignment and force distribution, leading to inefficiency, strain, or systemic imbalance.</p>
+  <p><strong>Posterior Loading</strong> — A framework that restores mechanical health by engaging the back body to support structure and decompress the spine.</p>
+  <p><strong>Extraordinary Meridians</strong> — In TCM, special energy pathways that integrate movement, breath, and systemic flow across the body.</p>
+  <p>[Continue glossary entries as needed…]</p>
+</div><div class="references-section">
+  <ul>
+    <li>Myers, T. <em>Anatomy Trains</em></li>
+    <li>Grilley, P. <em>Yin Yoga: Principles and Practice</em></li>
+    <li>Mohan, A.G. <em>Hatha Yoga Pradipika</em></li>
+    <li>Kendall, F. <em>Muscles: Testing and Function</em></li>
+    <li>Lingshu & Suwen (TCM Classical Texts)</li>
+    <li>[Add more peer-reviewed articles or texts related to your work]</li>
+  </ul>
 </div>
