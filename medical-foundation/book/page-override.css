@@ -22,3 +22,24 @@
   }
 }
 
+
+h1 {
+  string-set: chapter content();
+}
+
+
+@page :left {
+  @top {
+    content: "The Back Goes Backwards";
+    font-size: 10pt;
+    font-style: italic;
+  }
+}
+@page :right{
+  @top {
+    content: string(chapter);
+    font-size: 10pt;
+    font-style: italic;
+  }
+}
+

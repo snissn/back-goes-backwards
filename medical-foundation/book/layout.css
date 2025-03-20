@@ -1,7 +1,4 @@
-body {
-  font-family: 'Source Sans Pro', sans-serif;
-  line-height: 1.6;
-  font-size: 11pt;
+body { font-family: 'Source Sans Pro', sans-serif; line-height: 1.6; font-size: 11pt;
   color: #3c3c3c; /* Comfortable dark gray for print */
 }
 
