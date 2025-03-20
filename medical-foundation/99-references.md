@@ -1,5 +1,5 @@
 <div class="references-section">
-  <h1 id="ref-references" style="visibility: hidden; height: 0; margin: 0; padding: 0;">References</h1>
+  <h1 id="ref-references">References</h1>
   <ul>
     <li>Myers, T. <em>Anatomy Trains</em></li>
     <li>Grilley, P. <em>Yin Yoga: Principles and Practice</em></li>

@@ -1,5 +1,5 @@
 <div class="copyright-page">
-  <h1 id="ref-copyright" style="visibility: hidden; height: 0; margin: 0; padding: 0;">Copyright</h1>
+  <h1 id="ref-copyright">Copyright</h1>
   <p>© 2025 Michael Seiler and Dr. Katherine E. Gallardo, MD<br>
   All rights reserved.</p>
 
