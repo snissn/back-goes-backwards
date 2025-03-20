@@ -1,10 +1,12 @@
 from PIL import Image, ImageDraw, ImageFont
 
 # --- CONFIGURATION ---
-scale_factor = 4  # Supersampling for smooth anti-aliased text rendering
+scale_factor = 8  # Supersampling for smooth anti-aliased text rendering
+
+image_path = "front-cover-resized-6x9.png"
 
 # Load base image and upscale
-base_image = Image.open("cover-image.png").convert("RGBA")
+base_image = Image.open(image_path).convert("RGBA")
 base_image = base_image.resize(
     (base_image.width * scale_factor, base_image.height * scale_factor),
     resample=Image.LANCZOS
@@ -19,14 +21,23 @@ overlay_draw.rectangle(
 )
 final_image = Image.alpha_composite(base_image, overlay)
 
+# Save result
+output_path = "final_back_cover.png"
+final_image.save(output_path)
+print("Saved:", output_path)
+
+
 # Create draw context
 draw = ImageDraw.Draw(final_image)
 
+
+font_scale_factor = 2
+
 # Load Source Sans Pro fonts (adjusted size × scale factor)
 try:
-    title_font = ImageFont.truetype("./SourceSansPro-Bold.otf", 72 * scale_factor)
-    subtitle_font = ImageFont.truetype("./SourceSansPro-Regular.otf", 42 * scale_factor)
-    author_font = ImageFont.truetype("./SourceSansPro-Regular.otf", 36 * scale_factor)
+    title_font = ImageFont.truetype("./SourceSansPro-Bold.otf", 72 * scale_factor * font_scale_factor)
+    subtitle_font = ImageFont.truetype("./SourceSansPro-Bold.otf", 48 * scale_factor * font_scale_factor)
+    author_font = ImageFont.truetype("./SourceSansPro-Bold.otf", 30 * scale_factor * font_scale_factor)
 except IOError:
     title_font = ImageFont.load_default()
     subtitle_font = ImageFont.load_default()
@@ -60,23 +71,24 @@ author_w, author_h = get_text_size(author_text, author_font)
 # Spacing
 spacing = 40 * scale_factor
 block_height = title_h + spacing + subtitle_total_height + spacing + author_h
-start_y = (final_image.height - block_height) // 2 + spacing * 4
+start_y = (final_image.height - block_height) // 2 - spacing * 6 * font_scale_factor
 
 # Draw title
 title_x = (final_image.width - title_w) // 2
 draw_spaced_text(draw, title_text, title_font, title_x, start_y, spacing=2 * scale_factor)
 
 # Draw subtitle
-current_y = start_y + title_h + spacing
+current_y = start_y + title_h + spacing * font_scale_factor * 2
 for i, line in enumerate(subtitle_lines):
     w, h = subtitle_sizes[i]
     x = (final_image.width - w) // 2
     draw.text((x, current_y), line, font=subtitle_font, fill="#000")
-    current_y += h + (16 * scale_factor)
+    current_y += h + (16 * scale_factor * font_scale_factor * 2 )
 
 # Draw author
 x = (final_image.width - author_w) // 2
-draw.text((x, current_y + spacing * 3), author_text, font=author_font, fill="#000")
+author_y = (final_image.height - author_h) - spacing * 3 * font_scale_factor
+draw.text((x,  author_y), author_text, font=author_font, fill="#000")
 
 # Downscale back to original resolution for anti-aliased finish
 final_image = final_image.resize(
