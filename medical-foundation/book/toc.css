@@ -96,10 +96,7 @@ h1 {
 /* Hide TOC anchor headings in front/back matter */
 .title-page h1,
 .copyright-page h1,
-.dedication-page h1,
-.about-author h1,
-.glossary-section h1,
-.references-section h1 {
+.dedication-page h1{
   visibility: hidden;
   height: 0;
   margin: 0;

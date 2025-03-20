@@ -117,7 +117,6 @@ html, body, main {
 .glossary-section {
   font-size: 1rem;
   line-height: 1.6;
-  padding: 1in;
   page-break-before: always;
   page-break-after: always;
 }
@@ -130,13 +129,11 @@ html, body, main {
 .references-section {
   font-size: 1rem;
   line-height: 1.6;
-  padding: 1in;
   page-break-before: always;
   page-break-after: always;
 }
 
 .references-section ul {
-  padding-left: 1.5rem;
 }
 
 .references-section li {
