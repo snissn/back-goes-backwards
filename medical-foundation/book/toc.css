@@ -1,6 +1,7 @@
 #toc {
   font-size: 11pt;
   margin-bottom: 2em;
+  page-break-after: always;
 }
 
 #toc h1 {
