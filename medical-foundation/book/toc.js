@@ -6,7 +6,14 @@ class TOCHandler extends Paged.Handler {
     const toc = doc.createElement("section");
     toc.id = "toc";
     toc.innerHTML = "<h1>Table of Contents</h1><ul id='toc-list'></ul>";
-    content.insertBefore(toc, content.firstChild);
+
+const placeholder = content.querySelector("#toc-placeholder");
+if (placeholder && placeholder.parentNode) {
+  placeholder.parentNode.replaceChild(toc, placeholder);
+} else {
+  content.insertBefore(toc, content.firstChild); // fallback
+}
+
 
     const list = toc.querySelector("#toc-list");
     const headings = content.querySelectorAll("h1, h2, h3");

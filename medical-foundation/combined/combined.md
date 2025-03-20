@@ -24,11 +24,7 @@
   <p>With backgrounds in applied physics and medicine, they integrate Eastern philosophy and Western science to explore new frontiers of healing and human potential.</p>
 
   <p>They have studied and taught Ashtanga yoga, breath-based movement systems, and therapeutic body mechanics across disciplines and communities. Their work focuses on empowering individuals with practical frameworks for lifelong structural health and systemic well-being.</p>
-</div><section id="toc" class="toc-page">
-  <h1>Table of Contents</h1>
-  <ul id="toc-list"></ul>
-</section>
-
+</div><div id="toc-placeholder"></div>
 # Introduction
 
 ## The Forgotten Pillar of Health
