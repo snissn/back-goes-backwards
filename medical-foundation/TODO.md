@@ -1,5 +1,8 @@
 # Section 1
-use this outline to make new draft:
+ - cross reference the outline with the long list of mechanical disorders we've made
+
+ - use this outline to make new draft:
+
 
 Below is a detailed outline for **Section 1 – The Mechanics of Health: Unveiling the Role of Biomechanical Dysfunction in Modern Disease**. This outline weaves the integrated model—where hard and soft tissues (each influenced by both static and dynamic factors) continuously interact—throughout the discussion, setting the stage for a transformative, root-cause approach to modern disease.
 
