@@ -1,4 +1,5 @@
 import os
+import re
 import json
 from pathlib import Path
 from openai import OpenAI
@@ -7,6 +8,7 @@ from collections import defaultdict
 
 # Initialize OpenAI client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+MODEL_NAME = "gpt-4o-mini"
 
 # Define the directory containing markdown files
 parent_dir = Path(__file__).resolve().parent.parent
@@ -51,6 +53,28 @@ def call_chatgpt(chapter_text: str) -> dict:
 
         return glossary
 
+def title_case(term: str) -> str:
+    # Match base + optional parenthetical
+    match = re.match(r'^(.*?)\s*(\(([^)]+)\))?\s*$', term.strip())
+    if not match:
+        return term.strip().title()
+
+    base, _, paren_content = match.groups()
+    base_title = " ".join(
+        w.upper() if w.isupper() else w.capitalize()
+        for w in base.strip().split()
+    )
+
+    if paren_content:
+        paren_content = paren_content.strip()
+        if " " in paren_content:
+            paren_title = " ".join(w.capitalize() for w in paren_content.split())
+        else:
+            paren_title = paren_content.upper()
+        return f"{base_title} ({paren_title})"
+    else:
+        return base_title
+
 def build_glossary():
     full_glossary = defaultdict(list)
 
@@ -64,7 +88,9 @@ def build_glossary():
 
         if isinstance(glossary, dict):
             for term, definition in glossary.items():
-                full_glossary[term].append(definition)
+                term_case_fix = title_case(term)
+                print(term_case_fix)
+                full_glossary[term_case_fix].append(definition)
 
     return full_glossary
 
@@ -86,7 +112,7 @@ def remove_glossary_duplicates(glossary):
         print("🧠 Calling OpenAI to unify definitions...")
 
         response = client.chat.completions.create(
-            model="gpt-4o",
+            model=MODEL_NAME,
             messages=[
                 {"role": "system", "content": disambiguation_prompt},
                 {"role": "user", "content": formatted_input}
@@ -102,13 +128,44 @@ def remove_glossary_duplicates(glossary):
             unified_defs = {}
 
     for term, unified_def in unified_defs.items():
-        glossary[term.title()] = [unified_def]
-    return glossary
+        glossary[title_case(term)] = [unified_def]
 
+    final_glossary = {}
+    for term, definition_list in glossary.items():
+        final_glossary[term] = definition_list[0]
+
+    return final_glossary
+
+
+
+def add_cross_references(glossary: dict) -> dict:
+    """Bold any glossary terms when they appear in other definitions."""
+    terms = list(glossary.keys())
+    terms_sorted_by_length = sorted(terms, key=len, reverse=True)  # Match longer terms first to avoid substring overlap
+
+    updated = {}
+    for term, definition in glossary.items():
+        defn = definition
+
+        for other_term in terms_sorted_by_length:
+            if other_term == term:
+                continue
+
+            # Use word boundary for whole term match (case-insensitive)
+            pattern = r'\b(' + re.escape(other_term) + r')\b'
+            repl = r'<strong>\1</strong>'
+
+            # Replace only if not already inside formatting
+            defn = re.sub(pattern, repl, defn, flags=re.IGNORECASE)
+
+        updated[term] = defn
+
+    return updated
 
 if __name__ == "__main__":
     glossary = build_glossary()
     glossary = remove_glossary_duplicates(glossary)
+    glossary = add_cross_references(glossary)
 
     output_path = Path(__file__).resolve().parent / "combined_glossary.json"
     # Write final glossary output as HTML-style markdown
@@ -118,7 +175,7 @@ if __name__ == "__main__":
         f.write('  <h1 id="ref-glossary">Glossary</h1>\n')
 
         for term in sorted(glossary):
-            definition = glossary[term][0]
+            definition = glossary[term]
             f.write(f'  <p><strong>{term}</strong> — {definition}</p>\n')
 
         f.write('</div>\n')
