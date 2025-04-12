@@ -62,7 +62,7 @@ clavicleL.rotation.z = Math.PI / 2;
 clavicleR.rotation.z = Math.PI / 2;
 
 // Scapulae: Extruded shapes from a custom 2D outline
-// The shape is drawn so that (0,0) is the medial (inner) border
+// The shape is drawn so that (0,0) is the medial (inner) border.
 const scapulaShape = new THREE.Shape();
 scapulaShape.moveTo(0, 0);
 scapulaShape.lineTo(1, 0.2);
@@ -112,25 +112,25 @@ const mastoidL = new THREE.Mesh(mastoidGeometry, boneMaterialMastoid);
 const mastoidR = new THREE.Mesh(mastoidGeometry, boneMaterialMastoid);
 mastoidL.castShadow = true;
 mastoidR.castShadow = true;
-// Position them relative to the skull (e.g., about 0.6 units to the left/right)
+// Position them relative to the skull (e.g., 0.6 units to the left/right)
 mastoidL.position.set(-0.6, 4, 0);
 mastoidR.position.set(0.6, 4, 0);
 
-// Add mastoids to the bones object and scene:
+// Add mastoids to the bones object.
 bones.mastoidL = mastoidL;
 bones.mastoidR = mastoidR;
 
+// --- Store Fixed Offsets for Mastoid Processes ---
+// These offsets, computed relative to the skull, will be re-applied each frame.
+const mastoidLOffset = mastoidL.position.clone().sub(skull.position);
+const mastoidROffset = mastoidR.position.clone().sub(skull.position);
+
+// --- Add All Bones to the Scene and Initialize Physics ---
 for (let key in bones) {
   bones[key].name = key;
   bones[key].velocity = new THREE.Vector3(); // initialize physics velocity
   scene.add(bones[key]);
 }
-
-// --- Initialize Physics Properties ---
-// For each bone, assign a velocity (for spring physics)
-Object.values(bones).forEach(bone => {
-  bone.velocity = new THREE.Vector3();
-});
 
 // === Muscle/Tension Connections ===
 // Define an array of connection pairs (existing and new).
@@ -144,11 +144,12 @@ const muscleConnectionsData = [
   [bones.hyoid, bones.scapulaR],
   [bones.clavicleL, bones.clavicleR],
   [bones.clavicleL, bones.scapulaL],
-  [bones.clavicleR, bones.scapulaR]
+  [bones.clavicleR, bones.scapulaR],
+  [bones.scapulaR, bones.scapulaL]
 ];
 
-// --- Add New Connections for Each Mastoid Process ---
-// For each mastoid, connect it to every other bone in our collection.
+// --- Add Connections for Each Mastoid Process ---
+// For each mastoid, connect it to every other bone (except itself).
 [ mastoidL, mastoidR ].forEach(mastoid => {
   for (const key in bones) {
     if (bones[key] === mastoid) continue;
@@ -159,12 +160,12 @@ const muscleConnectionsData = [
 const muscleMaterial = new THREE.MeshPhongMaterial({ color: 0xff5555, side: THREE.DoubleSide });
 const muscles = [];
 
-// Function to create a muscle mesh (visual tube) between two bones and store its rest length.
+// Function to create a muscle mesh (a visual tube) between two bones and record its rest length.
 function createMuscleMesh(b1, b2) {
   const start = b1.position.clone();
   const end = b2.position.clone();
   const mid = start.clone().add(end).multiplyScalar(0.5);
-  // Compute a perpendicular vector to form a slight arch:
+  // Compute a perpendicular vector for a slight arch:
   const dir = new THREE.Vector3().subVectors(end, start).normalize();
   const up = new THREE.Vector3(0, 1, 0);
   let perpendicular = new THREE.Vector3().crossVectors(dir, up);
@@ -174,7 +175,7 @@ function createMuscleMesh(b1, b2) {
   perpendicular.normalize();
   const offsetMagnitude = start.distanceTo(end) * 0.2;
   const control = mid.add(perpendicular.multiplyScalar(offsetMagnitude));
-
+  
   const curve = new THREE.CatmullRomCurve3([start, control, end]);
   const tubeGeometry = new THREE.TubeGeometry(curve, 20, 0.05, 8, false);
   const muscleMesh = new THREE.Mesh(tubeGeometry, muscleMaterial);
@@ -193,19 +194,19 @@ muscleConnectionsData.forEach(pair => {
 // === GUI Controls ===
 const gui = new dat.GUI();
 const params = {
-  breathAmplitude: 0.3,
+  breathAmplitude: 5,
   breathFrequency: 1.0,
   toggleBreath: true,
   toggleMuscles: true,
-  springConstant: 2.0,
-  dampingFactor: 0.98
+  springConstant: 5,
+  dampingFactor: 0.9
 };
-gui.add(params, 'breathAmplitude', 0.1, 1.0).name('Breath Amplitude');
+gui.add(params, 'breathAmplitude', 0.1, 15.0).name('Breath Amplitude');
 gui.add(params, 'breathFrequency', 0.1, 3.0).name('Breath Speed');
 gui.add(params, 'toggleBreath').name('Toggle Breath');
 gui.add(params, 'toggleMuscles').name('Show Muscles');
-gui.add(params, 'springConstant', 0.1, 10.0).name('Spring Constant');
-gui.add(params, 'dampingFactor', 0.9, 1.0).name('Damping Factor');
+gui.add(params, 'springConstant', 0.1, 5.0).name('Spring Constant');
+gui.add(params, 'dampingFactor', 0.0, 1).name('Damping Factor');
 
 // === Mouse Interaction for Dragging Bones ===
 const raycaster = new THREE.Raycaster();
@@ -277,31 +278,39 @@ function animate() {
     }
   });
 
-  // Calculate spring forces for each muscle (using Hooke’s law)
+  // Calculate spring forces for each muscle using Hooke’s law.
   muscles.forEach(obj => {
     const b1 = obj.pair[0];
     const b2 = obj.pair[1];
+    // Skip fixed connection between skull and mastoids.
+    if (
+      ((b1.name === "mastoidL" || b1.name === "mastoidR") && b2.name === "skull") ||
+      ((b2.name === "mastoidL" || b2.name === "mastoidR") && b1.name === "skull")
+    ) {
+      return; // Do not apply spring force for fixed mastoid-skull connections.
+    }
     const displacement = new THREE.Vector3().subVectors(b2.position, b1.position);
     const currentLength = displacement.length();
     const extension = currentLength - obj.restLength;
     const forceMagnitude = params.springConstant * extension;
     const force = displacement.clone().normalize().multiplyScalar(forceMagnitude);
-    // Apply forces equally (and oppositely) to the two connected bones:
+    // Apply equal and opposite forces:
     b1.force.add(force);
     b2.force.add(force.clone().negate());
   });
 
-  // Apply external "breath" forces if toggled
+  // Apply external "breath" forces if toggled.
   if (params.toggleBreath) {
     const breathForce = params.breathAmplitude * Math.sin(time * params.breathFrequency);
-    // Apply an upward force to clavicles and scapulae:
+    // Apply upward forces to clavicles and scapulae:
     bones.clavicleL.force.add(new THREE.Vector3(0, breathForce, 0));
     bones.clavicleR.force.add(new THREE.Vector3(0, breathForce, 0));
     bones.scapulaL.force.add(new THREE.Vector3(0, breathForce * 0.6, 0));
     bones.scapulaR.force.add(new THREE.Vector3(0, breathForce * 0.6, 0));
+    bones.hyoid.force.add(new THREE.Vector3(0, breathForce * 0.3, 0));
   }
 
-  // Update bone velocities and positions (if not being dragged)
+  // Update bone velocities and positions (skip if being dragged)
   Object.values(bones).forEach(bone => {
     if (bone !== selectedBone) {
       bone.velocity.add(bone.force.clone().multiplyScalar(dt));
@@ -309,6 +318,11 @@ function animate() {
       bone.position.add(bone.velocity.clone().multiplyScalar(dt));
     }
   });
+
+  // --- Fix Mastoids to the Skull ---
+  // Force the mastoid processes to remain at their initial relative offsets to the skull.
+  bones.mastoidL.position.copy(bones.skull.position).add(mastoidLOffset);
+  bones.mastoidR.position.copy(bones.skull.position).add(mastoidROffset);
 
   // --- Update Muscle Visuals ---
   if (params.toggleMuscles) {
@@ -341,5 +355,4 @@ function animate() {
 }
 
 animate();
-
 
