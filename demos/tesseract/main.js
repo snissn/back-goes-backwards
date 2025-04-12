@@ -36,7 +36,7 @@ function createTensegrityModel(hyoidOffset) {
   hyoid.rotation.x = Math.PI / 2;  // open side upward
 
   // Apply the hyoid offset on X.
-  hyoid.position.set(hyoidOffset, 3.0, 0.2);
+  hyoid.position.set(hyoidOffset, 3.0 , 0.0);
 
   // Clavicles: Cylinders, rotated horizontally
   const clavicleGeometry = new THREE.CylinderGeometry(0.1, 0.1, 1.5, 12);
@@ -49,19 +49,36 @@ function createTensegrityModel(hyoidOffset) {
 
   // Scapulae: Extruded shapes from a custom 2D outline.
   // (0,0) is the medial (inner) border.
-  const scapulaShape = new THREE.Shape();
-  scapulaShape.moveTo(0, 0);
-  scapulaShape.lineTo(1, 0.2);
-  scapulaShape.lineTo(0.8, 1);
-  scapulaShape.lineTo(0, 0.8);
-  scapulaShape.lineTo(0, 0);
+  const scapulaShapeR = new THREE.Shape();
+  scapulaShapeR.moveTo(0, 0);
+  scapulaShapeR.lineTo(1, 0.2);
+  scapulaShapeR.lineTo(0.8, 1);
+  scapulaShapeR.lineTo(0, 0.8);
+  scapulaShapeR.lineTo(0, 0);
   const extrudeSettings = { depth: 0.1, bevelEnabled: true };
-  const scapulaGeometry = new THREE.ExtrudeGeometry(scapulaShape, extrudeSettings);
-  const scapulaL = new THREE.Mesh(scapulaGeometry, boneMaterialScapula);
-  const scapulaR = new THREE.Mesh(scapulaGeometry, boneMaterialScapula);
+  const scapulaGeometryR = new THREE.ExtrudeGeometry(scapulaShapeR, extrudeSettings);
+  const scapulaR = new THREE.Mesh(scapulaGeometryR, boneMaterialScapula);
+
+
+  // Scapulae: Extruded shapes from a custom 2D outline.
+  // (0,0) is the medial (inner) border.
+  const scapulaShapeL = new THREE.Shape();
+  scapulaShapeL.moveTo(0, 0);
+  scapulaShapeL.lineTo(-1, 0.2);
+  scapulaShapeL.lineTo(-0.8, 1);
+  scapulaShapeL.lineTo(0, 0.8);
+  scapulaShapeL.lineTo(0, 0);
+  const scapulaGeometryL = new THREE.ExtrudeGeometry(scapulaShapeL, extrudeSettings);
+  const scapulaL = new THREE.Mesh(scapulaGeometryL, boneMaterialScapula);
+
   scapulaL.castShadow = true;
   scapulaR.castShadow = true;
   scapulaR.scale.x = -1;  // Mirror the right scapula
+
+  const sternumGeometry = new THREE.BoxGeometry(0.3,0.3,0.3);
+  const sternum = new THREE.Mesh(sternumGeometry, boneMaterialClavicle);
+  jaw.castShadow = true;
+
 
   // --- Group Bones ---
   // Create an object to hold all bones.
@@ -72,7 +89,8 @@ function createTensegrityModel(hyoidOffset) {
     clavicleL: clavicleL,
     clavicleR: clavicleR,
     scapulaL: scapulaL,
-    scapulaR: scapulaR
+    scapulaR: scapulaR,
+    sternum: sternum
   };
 
   // --- Set Initial Bone Positions ---
@@ -81,6 +99,7 @@ function createTensegrityModel(hyoidOffset) {
   // hyoid position already set above with the offset.
   clavicleL.position.set(-1.2, 2, 0.5);
   clavicleR.position.set(1.2, 2, 0.5);
+  sternum.position.set(0,2,0.5);
   scapulaL.position.set(-1.8, 1.2, -0.5);
   scapulaR.position.set(1.8, 1.2, -0.5);
   // Optional: adjust rotations/scales for improved alignment.
@@ -122,6 +141,7 @@ function createTensegrityModel(hyoidOffset) {
   const muscleConnectionsData = [
     [bones.skull, bones.jaw],
     [bones.skull, bones.hyoid],
+
     [bones.jaw, bones.hyoid],
     [bones.hyoid, bones.clavicleL],
     [bones.hyoid, bones.clavicleR],
@@ -130,17 +150,20 @@ function createTensegrityModel(hyoidOffset) {
     [bones.clavicleL, bones.clavicleR],
     [bones.clavicleL, bones.scapulaL],
     [bones.clavicleR, bones.scapulaR],
-    [bones.scapulaR, bones.scapulaL]
+    [bones.scapulaR, bones.scapulaL],
+    [bones.mastoidL, bones.hyoid],
+    [bones.mastoidR, bones.hyoid],
+
+	  
+    [bones.mastoidL, bones.sternum],
+    [bones.mastoidR, bones.sternum],
+    [bones.mastoidL, bones.clavicleR],
+    [bones.mastoidR, bones.clavicleL],
+	  
+    [bones.sternum, bones.clavicleL],
+    [bones.sternum, bones.clavicleR],
+
   ];
-
-  // Also connect each mastoid to every other bone.
-  [mastoidL, mastoidR].forEach(mastoid => {
-    for (const key in bones) {
-      if (bones[key] === mastoid) continue;
-      muscleConnectionsData.push([mastoid, bones[key]]);
-    }
-  });
-
   const muscleMaterial = new THREE.MeshPhongMaterial({ color: 0xff5555, side: THREE.DoubleSide });
   const muscles = [];
   // Function to create a muscle mesh (visual tube) between two bones and record its rest length.
@@ -170,9 +193,85 @@ function createTensegrityModel(hyoidOffset) {
     muscles.push(muscleData);
   });
 
+  createSpine(bones, muscles, group, 7);  // 7 vertebrae: C1 → L5
+
+
   // Return the complete model, including its fixed mastoid offsets.
-  return { group, bones, muscles, mastoidLOffset, mastoidROffset };
+  return { group, bones, muscles, mastoidLOffset, mastoidROffset,  hyoidForceBuffer: []  };
 }
+
+function createSpine(bones, muscles, parentGroup, numVertebrae = 7) {
+  const spineMaterial = new THREE.MeshPhongMaterial({ color: 0xccddff });
+  const vertebraRadius = 0.2;
+  const vertebraHeight = 0.3;
+  const spacing = 0.6; // vertical spacing between vertebrae
+
+  const vertebrae = [];
+
+  // Create vertebrae from C1 (top) to L5 (bottom)
+  for (let i = 0; i < numVertebrae; i++) {
+    const name = `vertebra${i + 1}`; // e.g. vertebra1, vertebra2, ...
+    const geom = new THREE.CylinderGeometry(vertebraRadius, vertebraRadius, vertebraHeight, 16);
+    const v = new THREE.Mesh(geom, spineMaterial);
+    v.name = name;
+    v.castShadow = true;
+
+    // Initial position (descending from below the skull)
+    const y = 3.8 - (i + 1) * spacing;
+    v.position.set(0, y, 0);
+    v.velocity = new THREE.Vector3();
+    v.force = new THREE.Vector3();
+
+    bones[name] = v;
+    vertebrae.push(v);
+    parentGroup.add(v);
+  }
+
+  // === Connections (springs) ===
+
+  const spineSpringColor = 0xaaaaee;
+  const springMaterial = new THREE.MeshPhongMaterial({ color: spineSpringColor });
+
+  function connectBone(b1, b2) {
+    const start = b1.position.clone();
+    const end = b2.position.clone();
+    const mid = start.clone().add(end).multiplyScalar(0.5);
+    const dir = new THREE.Vector3().subVectors(end, start).normalize();
+    const up = new THREE.Vector3(0, 1, 0);
+    let perpendicular = new THREE.Vector3().crossVectors(dir, up);
+    if (perpendicular.length() === 0) {
+      perpendicular = new THREE.Vector3(1, 0, 0);
+    }
+    perpendicular.normalize();
+    const control = mid.add(perpendicular.multiplyScalar(start.distanceTo(end) * 0.2));
+
+    const curve = new THREE.CatmullRomCurve3([start, control, end]);
+    const tubeGeometry = new THREE.TubeGeometry(curve, 20, 0.04, 8, false);
+    const tube = new THREE.Mesh(tubeGeometry, springMaterial);
+
+    const restLength = start.distanceTo(end);
+    muscles.push({ mesh: tube, pair: [b1, b2], restLength });
+    parentGroup.add(tube);
+  }
+
+  // Connect skull to vertebra1 (C1)
+  connectBone(bones.skull, vertebrae[0]);
+
+  // Connect vertebrae down the spine
+  for (let i = 0; i < vertebrae.length - 1; i++) {
+    connectBone(vertebrae[i], vertebrae[i + 1]);
+  }
+
+  // Optionally connect bottom vertebra (L5) to scapulae or clavicles
+  if (bones.scapulaL && bones.scapulaR) {
+    connectBone(vertebrae[vertebrae.length - 1], bones.scapulaL);
+    connectBone(vertebrae[vertebrae.length - 1], bones.scapulaR);
+  } else if (bones.clavicleL && bones.clavicleR) {
+    connectBone(vertebrae[vertebrae.length - 1], bones.clavicleL);
+    connectBone(vertebrae[vertebrae.length - 1], bones.clavicleR);
+  }
+}
+
 
 // --------------------------------------------------------------
 // MAIN SETUP
@@ -184,6 +283,29 @@ const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
 renderer.shadowMap.enabled = true;
 document.body.appendChild(renderer.domElement);
+
+// === Hyoid Force Displays for Two Models ===
+const forceContainer = document.createElement('div');
+forceContainer.style.position = 'absolute';
+forceContainer.style.top = '10px';
+forceContainer.style.left = '10px';
+forceContainer.style.color = 'white';
+forceContainer.style.backgroundColor = 'rgba(0, 0, 0, 0.5)';
+forceContainer.style.padding = '8px 12px';
+forceContainer.style.fontFamily = 'monospace';
+forceContainer.style.fontSize = '14px';
+forceContainer.style.lineHeight = '1.5em';
+forceContainer.style.borderRadius = '6px';
+forceContainer.style.zIndex = '1000';
+
+const forceDisplayA = document.createElement('div');
+const forceDisplayB = document.createElement('div');
+forceDisplayA.innerText = 'Model A Hyoid Force: 0.000';
+forceDisplayB.innerText = 'Model B Hyoid Force: 0.000';
+
+forceContainer.appendChild(forceDisplayA);
+forceContainer.appendChild(forceDisplayB);
+document.body.appendChild(forceContainer);
 
 // Lights
 const ambientLight = new THREE.AmbientLight(0xffffff, 0.7);
@@ -207,7 +329,7 @@ const params = {
   springConstant: 5,
   dampingFactor: 0.9
 };
-gui.add(params, 'breathAmplitude', 0.1, 15.0).name('Breath Amplitude');
+gui.add(params, 'breathAmplitude', 0.1, 25.0).name('Breath Amplitude');
 gui.add(params, 'breathFrequency', 0.1, 10.0).name('Breath Speed');
 gui.add(params, 'toggleBreath').name('Toggle Breath');
 gui.add(params, 'toggleMuscles').name('Show Muscles');
@@ -270,8 +392,8 @@ function updateModelPhysics(model) {
   if (params.toggleBreath) {
     const breathForce = params.breathAmplitude * Math.sin(time * params.breathFrequency);
     // Apply upward forces to clavicles, scapulae and a bit to the hyoid.
-    bones.clavicleL.force.add(new THREE.Vector3(0, breathForce, 0));
-    bones.clavicleR.force.add(new THREE.Vector3(0, breathForce, 0));
+    //bones.clavicleL.force.add(new THREE.Vector3(0, breathForce, 0));
+    //bones.clavicleR.force.add(new THREE.Vector3(0, breathForce, 0));
     bones.scapulaL.force.add(new THREE.Vector3(0, breathForce * 0.6, 0));
     bones.scapulaR.force.add(new THREE.Vector3(0, breathForce * 0.6, 0));
     //bones.hyoid.force.add(new THREE.Vector3(0, breathForce * 0.3, 0));
@@ -292,27 +414,97 @@ function updateModelPhysics(model) {
 
   // Update muscle visuals.
   if (params.toggleMuscles) {
-    muscles.forEach(obj => {
-      const b1 = obj.pair[0];
-      const b2 = obj.pair[1];
-      const start = b1.position.clone();
-      const end = b2.position.clone();
-      const mid = start.clone().add(end).multiplyScalar(0.5);
-      const dir = new THREE.Vector3().subVectors(end, start).normalize();
-      const up = new THREE.Vector3(0, 1, 0);
-      let perpendicular = new THREE.Vector3().crossVectors(dir, up);
-      if (perpendicular.length() === 0) {
-        perpendicular = new THREE.Vector3(1, 0, 0);
-      }
-      perpendicular.normalize();
-      const offsetMagnitude = start.distanceTo(end) * 0.2;
-      const control = mid.add(perpendicular.multiplyScalar(offsetMagnitude));
-      const curve = new THREE.CatmullRomCurve3([start, control, end]);
-      const dynamicTubeGeometry = new THREE.TubeGeometry(curve, 20, 0.05, 8, false);
-      obj.mesh.geometry.dispose();
-      obj.mesh.geometry = dynamicTubeGeometry;
-    });
+	  muscles.forEach(obj => {
+  const b1 = obj.pair[0];
+  const b2 = obj.pair[1];
+  const start = b1.position.clone();
+  const end = b2.position.clone();
+  const mid = start.clone().add(end).multiplyScalar(0.5);
+  const dir = new THREE.Vector3().subVectors(end, start).normalize();
+  const up = new THREE.Vector3(0, 1, 0);
+  let perpendicular = new THREE.Vector3().crossVectors(dir, up);
+  if (perpendicular.length() === 0) {
+    perpendicular = new THREE.Vector3(1, 0, 0);
   }
+  perpendicular.normalize();
+  const offsetMagnitude = start.distanceTo(end) * 0.2;
+  const control = mid.add(perpendicular.multiplyScalar(offsetMagnitude));
+  const curve = new THREE.CatmullRomCurve3([start, control, end]);
+
+  // Update geometry
+  const dynamicTubeGeometry = new THREE.TubeGeometry(curve, 20, 0.05, 8, false);
+  obj.mesh.geometry.dispose();
+  obj.mesh.geometry = dynamicTubeGeometry;
+
+		  // --- Muscle Tension Visualization with Centered Heatmap ---
+const currentLen = start.distanceTo(end);
+const restLen = obj.restLength;
+const stretchRatio = currentLen / restLen;
+
+// Centered around 1.0 (resting)
+const tensionDelta = stretchRatio - 1.0;  // positive = stretch, negative = compress
+const maxDelta = 0.015;  // what you consider a full extreme (tweakable)
+const normalized = Math.max(Math.min(tensionDelta / maxDelta, 1), -1); // clamp [-1, 1]
+
+// Color logic:
+// -1 → green  (compressed)
+//  0 → yellow (rest)
+// +1 → red    (stretched)
+let r, g, b;
+if (normalized < 0) {
+  // Compression: green → yellow
+  r = 1 + normalized; // 1 to 0
+  g = 1;
+  b = 0;
+} else {
+  // Stretch: yellow → red
+  r = 1;
+  g = 1 - normalized; // 1 to 0
+  b = 0;
+}
+
+obj.mesh.material.color.setRGB(r, g, b);
+
+});
+
+
+  }
+	// --- Track hyoid force magnitude ---
+const hyoid = model.bones.hyoid;
+const forceMagnitude = hyoid.force.length();
+const buffer = model.hyoidForceBuffer;
+
+// Keep last N frames (e.g., 60 frames = ~1 second)
+const MAX_FRAMES = 600;
+buffer.push(forceMagnitude);
+if (buffer.length > MAX_FRAMES) buffer.shift();
+
+// Compute moving average
+const average = buffer.reduce((a, b) => a + b, 0) / buffer.length;
+
+if (model === models[0]) {
+  forceDisplayA.innerText = `Model A Hyoid Force: ${average.toFixed(3)}`;
+}
+
+if (model === models[1]) {
+  forceDisplayB.innerText = `Model B Hyoid Force: ${average.toFixed(3)}`;
+}
+
+// --- Color-code hyoid based on net force magnitude ---
+const hyoidForce = model.bones.hyoid.force.length();
+const hyoidMat = model.bones.hyoid.material;
+const maxExpectedForce = 2.0;  // tune this upper bound based on your system
+
+// Normalize the force (0 to 1)
+const fNorm = Math.min(hyoidForce / maxExpectedForce, 1.0);
+
+// Convert to color gradient from green → yellow → red
+const r = fNorm < 0.5 ? fNorm * 2 : 1;
+const g = fNorm < 0.5 ? 1 : 1 - (fNorm - 0.5) * 2;
+const b = 0;
+
+hyoidMat.color.setRGB(r, g, b);
+
 }
 
 let selectedBone = null; // For drag interaction (shared by both models)
