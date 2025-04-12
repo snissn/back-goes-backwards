@@ -1,3 +1,9 @@
+# Rewrite notes:
+    revisit this section
+        Adaptive Responses and Baseline Tone:**  
+
+        it doesn't have the correct ideas
+
 # Section 1
  - cross reference the outline with the long list of mechanical disorders we've made
 
