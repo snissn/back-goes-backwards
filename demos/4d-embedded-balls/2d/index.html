@@ -32,7 +32,7 @@
         staticLayer.stroke(0);
         staticLayer.strokeWeight(2);
         staticLayer.ellipse(width / 2, height / 2, outerRadius * 2 + 20, outerRadius * 2 + 20);
-        staticLayer.ellipse(width / 2, height / 2, innerRadius * 2, innerRadius * 2);
+        staticLayer.ellipse(width / 2, height / 2 + innerRadius, innerRadius * 2, innerRadius * 2);
       }
 
       function draw() {
@@ -69,8 +69,8 @@
 
         // Smooth breathing curve
         noFill();
-        strokeWeight(1 + f * 2.5);
-        stroke(lerpColor(color('#aaa'), color('#000'), f));
+        strokeWeight(2)
+        stroke(lerpColor(color('#aaa'), color('#aaa'), f));
         beginShape();
         curveVertex(points[points.length - 2].x, points[points.length - 2].y);
         for (let pt of points) {
@@ -91,7 +91,7 @@
 
           stroke(0, 100 * pt.rel);
           strokeWeight(1);
-          line(cx, cy, x, y);
+          line(cx, cy + innerRadius, x, y);
         }
 
         // Optional label
