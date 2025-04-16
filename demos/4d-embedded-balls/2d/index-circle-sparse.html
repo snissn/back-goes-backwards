@@ -1,0 +1,110 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Breath Cycle Spiral Animation</title>
+    <!-- Include the p5.js library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      // Define global variables for the structural layers and animation settings.
+      let outerRadius, innerRadius;
+      const breathPeriod = 4000; // Total period of the inhale-exhale cycle (ms)
+      let theta = 0; // Continuous rotation angle
+      const nParticles = 8; // Number of particles along the spiral
+
+      function setup() {
+        createCanvas(windowWidth, windowHeight);
+        angleMode(RADIANS);
+        // Set radii relative to canvas size
+        outerRadius = min(width, height) * 0.3; // Outer circle (e.g., skull)
+        innerRadius = outerRadius * 0.5; // Inner circle (e.g., hyoid)
+      }
+
+      function draw() {
+        // Use a white background for contrast.
+        background(255);
+
+        // Center of the canvas.
+        const cx = width / 2;
+        const cy = height / 2;
+
+        // Draw the two concentric circles (structural layers).
+        stroke(0);
+        strokeWeight(2);
+        noFill();
+        ellipse(cx, cy, outerRadius * 2, outerRadius * 2); // Outer layer
+
+        // Calculate the breath cycle phase.
+        // phase goes from 0 to 1 over the breathPeriod.
+        const currentTime = millis();
+        const phase = (currentTime % breathPeriod) / breathPeriod;
+        // Using a cosine function to smoothly transition:
+        // At phase=0: f = 0 (particle at the outer radius)
+        // At phase=0.5: f = 1 (particle at the inner radius, simulating inhale)
+        // At phase=1: f returns to 0 (exhale)
+        const f = (1 - cos(TWO_PI * phase)) / 2;
+        const currentRadius = outerRadius - (outerRadius - innerRadius) * f;
+
+        ellipse(cx, cy, currentRadius * 2, currentRadius * 2); // Inner layer
+
+	      // Angle varies smoothly with breath phase (like a twist per cycle)
+	const maxRotations = 1; // Number of full twists during one inhale/exhale cycle
+	theta = TWO_PI/4
+
+        // For each particle, compute a shifted angle and draw it.
+        for (let i = 0; i < nParticles; i++) {
+		// Centered around theta
+const totalSpread = PI* 7/8 ; // total angular spread (60 degrees)
+const centerIndex = (nParticles - 1) / 2; // center index (e.g., 3.5 for 8 particles)
+const offset = i - centerIndex; // ranges from -3.5 to 3.5
+
+// Angular spacing is symmetrical and scaled by breath phase
+const angleOffset = (totalSpread * (1-f/2)) * (offset / centerIndex);
+const angle = theta + angleOffset;
+
+
+          const x = cx + currentRadius * cos(angle);
+          const y = cy + currentRadius * sin(angle);
+
+          // Draw the particle as a small filled black circle.
+          noStroke();
+          fill(0);
+          ellipse(x, y, 10, 10);
+
+          // Draw a gray vector line from the center to the particle.
+          stroke(100);
+          strokeWeight(1);
+          line(cx, cy, x, y);
+
+          // Draw an arrowhead at the particle's location to indicate directional force.
+          push();
+          translate(x, y);
+          // Align the arrowhead along the particle’s rotation direction.
+          rotate(angle);
+          const arrowSize = 7;
+          fill(100);
+          noStroke();
+          triangle(0, 0, -arrowSize, arrowSize / 2, -arrowSize, -arrowSize / 2);
+          pop();
+        }
+      }
+
+      // Adjust canvas size when the window is resized.
+      function windowResized() {
+        resizeCanvas(windowWidth, windowHeight);
+        outerRadius = min(width, height) * 0.3;
+        innerRadius = outerRadius * 0.5;
+      }
+    </script>
+  </body>
+</html>
