@@ -17,13 +17,13 @@
     <script>
       let outerRadius, innerRadius;
       const breathPeriod = 4000;
-      const nParticles = 80;
+      const nParticles = 30;
 
       function setup() {
         createCanvas(windowWidth, windowHeight);
         angleMode(RADIANS);
         outerRadius = min(width, height) * 0.3;
-        innerRadius = outerRadius * 0.5;
+        innerRadius = outerRadius * 0.25;
       }
 
       function draw() {
@@ -41,20 +41,20 @@
         const phase = (currentTime % breathPeriod) / breathPeriod;
         const f = (1 - cos(TWO_PI * phase)) / 2;
 
-        const theta = 3 * PI / 2; // point of heart fixed on bottom (outer circle)
-        const nParticlesDrawn = Math.floor(nParticles * (0.5 + 0.5 * f));
+        const theta = PI / 2; // flipped to place point of heart at top
         const totalSpread = PI;
-        const centerIndex = (nParticlesDrawn - 1) / 2;
+        const centerIndex = (nParticles - 1) / 2;
 
         let points = [];
 
-        for (let i = 0; i < nParticlesDrawn; i++) {
+        for (let i = 0; i < nParticles; i++) {
           const offset = i - centerIndex;
           const angleOffset = totalSpread * (offset / centerIndex);
-          const angle = theta - angleOffset;
+          const angle = theta + angleOffset;
 
           const relativeLift = 1 - abs(offset / centerIndex);
-          const particle_radius = outerRadius - (outerRadius - innerRadius) * relativeLift * f;
+          const strength = constrain(f + relativeLift * (1 - f), 0, 1);
+          const particle_radius = innerRadius + (outerRadius - innerRadius) * strength;
 
           const x = cx + particle_radius * cos(angle);
           const y = cy + particle_radius * sin(angle);
@@ -62,22 +62,18 @@
           points.push({ x, y });
         }
 
-        // Draw connecting curve and explicitly close the loop
         noFill();
         stroke(0);
         strokeWeight(2);
         beginShape();
-        // Add two leading control points to make curveVertex close properly
         curveVertex(points[points.length - 2].x, points[points.length - 2].y);
         for (let pt of points) {
           curveVertex(pt.x, pt.y);
         }
-        // Add two trailing control points to ensure the last segment closes
         curveVertex(points[0].x, points[0].y);
         curveVertex(points[1].x, points[1].y);
         endShape();
 
-        // Draw points and vectors
         for (let pt of points) {
           const x = pt.x;
           const y = pt.y;
@@ -100,4 +96,5 @@
     </script>
   </body>
 </html>
+
 
