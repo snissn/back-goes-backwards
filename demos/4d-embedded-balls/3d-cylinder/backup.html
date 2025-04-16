@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Breath Cycle Spiral Animation</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      let outerRadius, innerRadius;
+      const breathPeriod = 6000;
+      const nParticles = 30;
+
+      function setup() {
+        pixelDensity(1);
+        createCanvas(windowWidth, windowHeight);
+        angleMode(RADIANS);
+        outerRadius = min(width, height) * 0.3;
+        innerRadius = outerRadius * 0.25;
+      }
+
+      function draw() {
+        background(255);
+
+        const cx = width / 2;
+        const baseCy = height / 2;
+
+        const currentTime = millis();
+        const phase = (currentTime % breathPeriod) / breathPeriod;
+        const f = (1 - cos(TWO_PI * phase)) / 2;
+
+        // Further reduced movement during exhale
+        const cylinderHeight = map(f, 0, 1, 20, 80);
+        const offset = map(f, 0, 1, cylinderHeight * 0.25, cylinderHeight * 0.85);
+        const topY = baseCy - offset;
+        const bottomY = baseCy + offset;
+
+        const theta = PI / 2;
+        const totalSpread = PI;
+        const centerIndex = (nParticles - 1) / 2;
+
+        let points = [];
+        let outerPoints = [];
+
+        for (let i = 0; i < nParticles; i++) {
+          const offsetIdx = i - centerIndex;
+          const angleOffset = totalSpread * (offsetIdx / centerIndex);
+          const angle = theta + angleOffset;
+
+          const relativeLift = 1 - abs(offsetIdx / centerIndex);
+          const strength = constrain(f + relativeLift * (1 - f), 0, 1);
+          const particle_radius = innerRadius + (outerRadius - innerRadius) * strength;
+
+          const x = cx + particle_radius * cos(angle);
+          const y = topY + particle_radius * sin(angle);
+
+          const offsetDist = 25;
+          const xo = cx + (particle_radius + offsetDist) * cos(angle);
+          const yo = topY + (particle_radius + offsetDist) * sin(angle);
+
+          points.push({ x, y, rel: relativeLift });
+          outerPoints.push({ x: xo, y: yo });
+        }
+
+        // Draw full cylinder body using quads
+        noStroke();
+        fill(255);
+        beginShape(QUAD_STRIP);
+        for (let i = 0; i <= TWO_PI; i += TWO_PI / 60) {
+          let x1 = cx + innerRadius * cos(i);
+          let y1 = topY + innerRadius * sin(i);
+          let x2 = cx + innerRadius * cos(i);
+          let y2 = bottomY + innerRadius * sin(i);
+          vertex(x1, y1);
+          vertex(x2, y2);
+        }
+        endShape(CLOSE);
+
+        // Cylinder outline
+        stroke(0);
+        strokeWeight(2);
+	      fill(200)
+        ellipse(cx, bottomY, innerRadius * 2, innerRadius * 2);
+        ellipse(cx, topY, innerRadius * 2, innerRadius * 2);
+        line(cx - innerRadius, topY, cx - innerRadius, bottomY);
+        line(cx + innerRadius, topY, cx + innerRadius, bottomY);
+
+        // Shadow
+        noStroke();
+        fill(0, 15);
+        //ellipse(cx, bottomY + 10, innerRadius * 2.2, innerRadius * 0.8);
+
+        // Breathing curve
+        noFill();
+        strokeWeight(2);
+        stroke(lerpColor(color('#aaa'), color('#aaa'), f));
+        beginShape();
+        curveVertex(points[points.length - 2].x, points[points.length - 2].y);
+        for (let pt of points) curveVertex(pt.x, pt.y);
+        curveVertex(points[0].x, points[0].y);
+        curveVertex(points[1].x, points[1].y);
+        endShape();
+
+        // Outer fascia
+        stroke(0, 80);
+        strokeWeight(1);
+        beginShape();
+        curveVertex(outerPoints[outerPoints.length - 2].x, outerPoints[outerPoints.length - 2].y);
+        for (let pt of outerPoints) curveVertex(pt.x, pt.y);
+        curveVertex(outerPoints[0].x, outerPoints[0].y);
+        curveVertex(outerPoints[1].x, outerPoints[1].y);
+        endShape();
+
+        // Particles and fascia threads
+        for (let pt of points) {
+          const x = pt.x;
+          const y = pt.y;
+          noStroke();
+          fill(0);
+          ellipse(x, y, 10, 10);
+          stroke(0, 100 * pt.rel);
+          strokeWeight(1);
+          line(cx, bottomY, x, y);
+        }
+
+        // Label
+        noStroke();
+        fill(0, 80);
+        textAlign(CENTER, CENTER);
+        textSize(16);
+        if (phase > 0.5) text("EXHALE", cx, topY - outerRadius - 20);
+        else if (phase < 0.5) text("INHALE", cx, topY - outerRadius - 20);
+      }
+
+      function windowResized() {
+        resizeCanvas(windowWidth, windowHeight);
+        outerRadius = min(width, height) * 0.3;
+        innerRadius = outerRadius * 0.25;
+      }
+    </script>
+  </body>
+</html>
+
