@@ -18,30 +18,35 @@
       let outerRadius, innerRadius;
       const breathPeriod = 6000;
       const nParticles = 30;
+      let staticLayer;
 
       function setup() {
+        pixelDensity(1);
         createCanvas(windowWidth, windowHeight);
         angleMode(RADIANS);
         outerRadius = min(width, height) * 0.3;
         innerRadius = outerRadius * 0.25;
+
+        staticLayer = createGraphics(width, height);
+        staticLayer.noFill();
+        staticLayer.stroke(0);
+        staticLayer.strokeWeight(2);
+        staticLayer.ellipse(width / 2, height / 2, outerRadius * 2 + 20, outerRadius * 2 + 20);
+        staticLayer.ellipse(width / 2, height / 2, innerRadius * 2, innerRadius * 2);
       }
 
       function draw() {
         background(255);
+        image(staticLayer, 0, 0);
+
         const cx = width / 2;
         const cy = height / 2;
-
-        stroke(0);
-        strokeWeight(2);
-        noFill();
-        ellipse(cx, cy, outerRadius * 2 + 20, outerRadius * 2 + 20);
-        ellipse(cx, cy, innerRadius * 2, innerRadius * 2);
 
         const currentTime = millis();
         const phase = (currentTime % breathPeriod) / breathPeriod;
         const f = (1 - cos(TWO_PI * phase)) / 2;
 
-        const theta = PI / 2; // flipped to place point of heart at top
+        const theta = PI / 2;
         const totalSpread = PI;
         const centerIndex = (nParticles - 1) / 2;
 
@@ -59,12 +64,13 @@
           const x = cx + particle_radius * cos(angle);
           const y = cy + particle_radius * sin(angle);
 
-          points.push({ x, y });
+          points.push({ x, y, rel: relativeLift });
         }
 
+        // Smooth breathing curve
         noFill();
-        stroke(0);
-        strokeWeight(2);
+        strokeWeight(1 + f * 2.5);
+        stroke(lerpColor(color('#aaa'), color('#000'), f));
         beginShape();
         curveVertex(points[points.length - 2].x, points[points.length - 2].y);
         for (let pt of points) {
@@ -74,6 +80,7 @@
         curveVertex(points[1].x, points[1].y);
         endShape();
 
+        // Particles and fascia threads
         for (let pt of points) {
           const x = pt.x;
           const y = pt.y;
@@ -82,16 +89,31 @@
           fill(0);
           ellipse(x, y, 10, 10);
 
-          stroke(100);
+          stroke(0, 100 * pt.rel);
           strokeWeight(1);
           line(cx, cy, x, y);
         }
+
+        // Optional label
+        noStroke();
+        fill(0, 80);
+        textAlign(CENTER, CENTER);
+        textSize(16);
+        if (phase > 0.5) text("EXHALE", cx, cy - outerRadius - 30);
+        else if (phase < 0.5) text("INHALE", cx, cy - outerRadius - 30);
       }
 
       function windowResized() {
         resizeCanvas(windowWidth, windowHeight);
         outerRadius = min(width, height) * 0.3;
-        innerRadius = outerRadius * 0.5;
+        innerRadius = outerRadius * 0.25;
+
+        staticLayer = createGraphics(width, height);
+        staticLayer.noFill();
+        staticLayer.stroke(0);
+        staticLayer.strokeWeight(2);
+        staticLayer.ellipse(width / 2, height / 2, outerRadius * 2 + 20, outerRadius * 2 + 20);
+        staticLayer.ellipse(width / 2, height / 2, innerRadius * 2, innerRadius * 2);
       }
     </script>
   </body>
