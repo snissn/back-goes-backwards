@@ -17,14 +17,14 @@
     <script>
       let outerRadius, innerRadius;
       const breathPeriod = 6000;
-      const nParticles = 30;
+      const nParticles = 32;
       let staticLayer;
 
       function setup() {
         pixelDensity(1);
         createCanvas(windowWidth, windowHeight);
         angleMode(RADIANS);
-        outerRadius = min(width, height) * 0.3;
+        outerRadius = min(width, height) * 0.4;
         innerRadius = outerRadius * 0.25;
 
         staticLayer = createGraphics(width, height);
