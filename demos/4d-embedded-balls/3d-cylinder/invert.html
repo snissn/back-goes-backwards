@@ -15,8 +15,17 @@
   <body>
     <script>
       let outerRadius, innerRadius;
-      const breathPeriod = 12000;
-      const nParticles = 32;
+
+      // ─── DURATION SETTINGS (ms) ───────────────────────────────────────────────
+      const inhaleDuration = 4000;  // ramp from 0→peak
+      const holdInDuration = 1000;  // pause at peak inhale
+      const exhaleDuration = 4000;  // ramp from peak→0
+      const holdExDuration = 1000;  // pause at full exhale
+      // ───────────────────────────────────────────────────────────────────────────
+
+      // total cycle length
+      const cyclePeriod = inhaleDuration + holdInDuration + exhaleDuration + holdExDuration;
+      const nParticles  = 32;
 
       function setup() {
         pixelDensity(1);
@@ -26,53 +35,72 @@
       }
 
       function draw() {
-        const cx = width / 2;
-        const cy = height / 2;
+        const cx = width/2, cy = height/2;
+        const t  = millis() % cyclePeriod;
 
-        // normalized breath phase [0→1→0]
-        const phase = (millis() % breathPeriod) / breathPeriod;
-        const f = (1 - cos(TWO_PI * phase)) / 2;
+        // determine segmentPhase (0→0.5 inhale, hold, 0.5→1 exhale, hold)
+        let segmentPhase;
+        let label, labelColor;
+        if (t < inhaleDuration) {
+          // inhale ramp
+          segmentPhase = map(t, 0, inhaleDuration, 0, 0.5);
+          label = 'INHALE';
+          labelColor = color(0);
+        } else if (t < inhaleDuration + holdInDuration) {
+          // hold at inhale peak
+          segmentPhase = 0.5;
+          label = 'HOLD';
+          labelColor = color(255);
+        } else if (t < inhaleDuration + holdInDuration + exhaleDuration) {
+          // exhale ramp
+          const te = t - inhaleDuration - holdInDuration;
+          segmentPhase = map(te, 0, exhaleDuration, 0.5, 1);
+          label = 'EXHALE';
+          labelColor = color(255);
+        } else {
+          // hold at full exhale
+          segmentPhase = 1;
+          label = 'HOLD';
+          labelColor = color(255);
+        }
 
-        // interpolate background from white→black and shapes from black→white
-        const colorDiff = 32
-        const light = colorDiff
-        const dark = 255 -colorDiff 
-        const colorf = (1 - sin(TWO_PI * phase)) / 2;
-        const bgColor    = lerpColor(color(dark), color(light), colorf);
-        const shapeColor = lerpColor(color(light),   color(dark), colorf);
+        // geometry driver (f) and color driver (colorf) freeze during holds
+        const f      = (1 - cos(TWO_PI * segmentPhase)) / 2;
+        const colorf = (1 - sin(TWO_PI * segmentPhase)) / 2;
 
-        const lightTextColor = lerpColor(color(0),color(light))
-        const darkTextColor = lerpColor(color(dark),color(255))
+        // color setup
+        const colorDiff = 32;
+        const light     = colorDiff;
+        const dark      = 255 - colorDiff;
+        const bgColor    = lerpColor(color(dark),  color(light), colorf);
+        const shapeColor = lerpColor(color(light), color(dark),  colorf);
 
-        // optional fills for the cylinder
-        const cylLight = color(200);
-        const cylDark  = color(55);
+        const cylLight    = color(200);
+        const cylDark     = color(55);
         const shadingLight = color(150);
         const shadingDark  = color(105);
-
-        const cylFill    = lerpColor(cylLight, shadingDark, f);    // you can tweak which pair you interpolate
-        const shadeFill  = lerpColor(shadingLight, shadingDark, f);
+        const cylFill   = lerpColor(cylLight,    shadingDark, f);
+        const shadeFill = lerpColor(shadingLight, shadingDark, f);
 
         background(bgColor);
 
-
         // cylinder geometry
         const cylH = map(f, 0, 1, 10, 50);
-        const topY = cy - cylH + innerRadius *1.25;
-        const botY = cy + cylH + innerRadius *1.25;
+        const topY = cy - cylH + innerRadius * 1.25;
+        const botY = cy + cylH + innerRadius * 1.25;
         const yScaleTop    = map(f, 0, 1, 0.9, 1);
         const yScaleBottom = map(f, 1, 0, 1, 0.9);
-        const topRad  = map(f, 0, 1, innerRadius, innerRadius*1.25);
-        const botRad  = map(f, 0, 1, innerRadius, innerRadius*0.9375);
+        const topRad = map(f, 0, 1, innerRadius, innerRadius*1.25);
+        const botRad = map(f, 0, 1, innerRadius, innerRadius*0.9375);
 
-        // compute breathing curve points
+        // breathing curve points
         const theta = PI/2, spread = PI, center = (nParticles-1)/2;
         let points = [], outerPts = [];
         for (let i=0; i<nParticles; i++){
-          const off = i-center;
-          const ang = theta + spread * (off/center);
+          const off = i - center;
+          const ang = theta + spread*(off/center);
           const lift = 1 - abs(off/center);
-          const strength = constrain(f + lift*(1-f), 0,1);
+          const strength = constrain(f + lift*(1-f), 0, 1);
           const pr = innerRadius + (outerRadius-innerRadius)*strength;
           const x = cx + pr*cos(ang), y = cy + pr*sin(ang);
           points.push({x,y,rel:lift});
@@ -100,6 +128,7 @@
           vertex(xb, yb);
         }
         endShape();
+
         // inner curve
         noFill();
         stroke(shapeColor);
@@ -121,27 +150,23 @@
         curveVertex(outerPts[1].x, outerPts[1].y);
         endShape();
 
-        // particles and threads
+        // particles + threads
         points.forEach(pt => {
           noStroke();
-                    // Always use a clean, full-opacity fill
-let fillColor = color(shapeColor);
-fillColor.setAlpha(255);
-fill(fillColor);
-noStroke();
-ellipse(pt.x, pt.y, 10, 10);
+          let fillColor = color(shapeColor);
+          fillColor.setAlpha(255);
+          fill(fillColor);
+          ellipse(pt.x, pt.y, 10, 10);
 
-// Now make a separate thread color with alpha
-let botThread = color(shapeColor);
-botThread.setAlpha(20 + 100 * pt.rel);
-stroke(botThread);
-line(cx, botY, pt.x, pt.y);
+          let botThread = color(shapeColor);
+          botThread.setAlpha(20 + 100*pt.rel);
+          stroke(botThread);
+          line(cx, botY, pt.x, pt.y);
 
-let topThread = color(shapeColor);
-topThread.setAlpha(20 + 200 * pt.rel);
-stroke(topThread);
-line(cx, topY, pt.x, pt.y);
-
+          let topThread = color(shapeColor);
+          topThread.setAlpha(20 + 200*pt.rel);
+          stroke(topThread);
+          line(cx, topY, pt.x, pt.y);
         });
 
         // draw cylinder top
@@ -150,20 +175,12 @@ line(cx, topY, pt.x, pt.y);
         fill(cylFill);
         ellipse(cx, topY, topRad*2, topRad*2*yScaleTop);
 
-
         // label
         noStroke();
-            textAlign(CENTER, CENTER);
-textSize(16);
-
-if (phase < 0.5) {
-  fill(0, 0,0);
-  text('INHALE', cx, cy - outerRadius - 30);
-} else {
-  fill(255, 255, 255)
-  text('EXHALE', cx, cy - outerRadius - 30);
-}
-
+        textAlign(CENTER, CENTER);
+        textSize(16);
+        fill(labelColor);
+        text(label, cx, cy - outerRadius - 30);
       }
 
       function windowResized(){
