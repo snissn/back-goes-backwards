@@ -45,35 +45,33 @@
           // inhale ramp
           segmentPhase = map(t, 0, inhaleDuration, 0, 0.5);
           label = 'INHALE';
-          labelColor = color(0);
         } else if (t < inhaleDuration + holdInDuration) {
           // hold at inhale peak
           segmentPhase = 0.5;
           label = 'HOLD';
-          labelColor = color(255);
         } else if (t < inhaleDuration + holdInDuration + exhaleDuration) {
           // exhale ramp
           const te = t - inhaleDuration - holdInDuration;
           segmentPhase = map(te, 0, exhaleDuration, 0.5, 1);
           label = 'EXHALE';
-          labelColor = color(255);
         } else {
           // hold at full exhale
           segmentPhase = 1;
           label = 'HOLD';
-          labelColor = color(255);
         }
 
         // geometry driver (f) and color driver (colorf) freeze during holds
         const f      = (1 - cos(TWO_PI * segmentPhase)) / 2;
-        const colorf = (1 - sin(TWO_PI * segmentPhase)) / 2;
+        const colorf = (cos(TWO_PI * segmentPhase)) / 2 + 0.5
+	      console.log(colorf)
 
         // color setup
-        const colorDiff = 32;
+        const colorDiff = 2;
         const light     = colorDiff;
         const dark      = 255 - colorDiff;
         const bgColor    = lerpColor(color(dark),  color(light), colorf);
         const shapeColor = lerpColor(color(light), color(dark),  colorf);
+	labelColor = shapeColor;
 
         const cylLight    = color(200);
         const cylDark     = color(55);
@@ -170,16 +168,19 @@
         });
 
         // draw cylinder top
+	let cylTopColor = color(shapeColor);
+	cylTopColor.setAlpha(200)
         stroke(shapeColor);
         strokeWeight(2);
-        fill(cylFill);
+        fill(cylTopColor);
         ellipse(cx, topY, topRad*2, topRad*2*yScaleTop);
 
         // label
+        strokeWeight(1);
         noStroke();
         textAlign(CENTER, CENTER);
         textSize(16);
-        fill(labelColor);
+        stroke(labelColor);
         text(label, cx, cy - outerRadius - 30);
       }
 
