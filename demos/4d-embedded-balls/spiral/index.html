@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Toroidal Breath Field</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <style>
+      body { margin: 0; padding: 0; overflow: hidden; background: white; }
+    </style>
+  </head>
+  <body>
+    <script>
+      let breathPeriod = 8000;
+      const nMajor = 80; // points around the major circle
+      const nMinor = 30; // points around the minor circle
+      const R = 150; // major radius
+      const rBase = 40; // base minor radius
+
+      function setup() {
+        createCanvas(windowWidth, windowHeight);
+        angleMode(RADIANS);
+      }
+
+      function draw() {
+        background(255);
+        let rot = millis() * 0.0002;
+        translate(width / 2, height / 2);
+
+        let t = millis() % breathPeriod;
+        let phase = (1 - cos(TWO_PI * t / breathPeriod)) / 2;
+        let r = rBase * (0.75 + 0.5 * phase); // minor radius expands/contracts
+
+        noFill();
+        stroke(0);
+
+        let totalPoints = nMajor * nMinor;
+let vOffset = millis() * 0.001;
+beginShape();
+for (let i = 0; i < totalPoints; i++) {
+  let tIndex = i / totalPoints;
+  let u = nMajor * TWO_PI * tIndex + rot;
+  let v = nMinor * TWO_PI * tIndex + vOffset;
+
+  // Torus parameterization
+  let x = (R + r * cos(u)) * cos(v);
+  let y = (R + r * cos(u)) * sin(v);
+  let z = r * sin(u);
+
+  // Flatten z into y visually
+  vertex(x, y + 0.5 * z);
+}
+endShape();
+
+        noStroke();
+        fill(0);
+        textAlign(CENTER, CENTER);
+        textSize(16);
+        text(phase < 0.5 ? "INHALE" : "EXHALE", 0, -R - rBase - 40);
+      }
+
+      function windowResized() {
+        resizeCanvas(windowWidth, windowHeight);
+      }
+    </script>
+  </body>
+</html>
+

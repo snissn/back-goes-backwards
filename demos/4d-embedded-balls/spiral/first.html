@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Bitoroidal Breath Field Simulation</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <style>
+      body { margin:0; padding:0; overflow:hidden; }
+    </style>
+  </head>
+  <body>
+    <script>
+      let outerR, innerR;
+      const breathPeriod = 12000;
+      const nParticles = 36;
+
+      function setup() {
+        createCanvas(windowWidth, windowHeight);
+        angleMode(RADIANS);
+        calcRadii();
+      }
+
+      function draw() {
+        background(255);
+        const cx = width / 2;
+        const midY = height / 2;
+
+        // phase 0→1→0, inhale then exhale
+        const phase = (millis() % breathPeriod) / breathPeriod;
+        const f = (1 - cos(TWO_PI * phase)) / 2;
+
+        // suspension node moves up/down
+        const nodeY = lerp(midY + innerR, midY - innerR, f);
+
+        // central axis
+        stroke(0); strokeWeight(2);
+        line(cx, 0, cx, height);
+
+        // draw bottom torus (inhale) and top torus (exhale)
+        drawToroid(cx, nodeY, f, true);
+        drawToroid(cx, nodeY, f, false);
+
+        // label
+        noStroke(); fill(0);
+        textAlign(CENTER, CENTER); textSize(16);
+        text(phase < 0.5 ? 'INHALE' : 'EXHALE', cx, midY - outerR - 40);
+      }
+
+      function drawToroid(cx, cy0, f, isBottom) {
+        // modulate major/minor radii
+        let R = outerR * (isBottom ? (1 - 0.2 * f) : (0.8 + 0.2 * f));
+        let r = innerR * (isBottom ? (0.8 + 0.2 * f) : (1 - 0.2 * f));
+        let pts = [];
+
+        // generate torus contour points
+        for (let i = 0; i < nParticles; i++) {
+          const ang = map(i, 0, nParticles, 0, TWO_PI);
+          const x = cx + (R + r * cos(ang)) * cos(ang);
+          const y = cy0 + (R + r * cos(ang)) * sin(ang);
+          pts.push({ x, y, ang });
+        }
+
+        // draw the ring
+        noFill();
+        strokeWeight(2);
+        stroke(isBottom ? color(50,150,200) : color(200,100,50));
+        beginShape();
+        pts.forEach(p => vertex(p.x, p.y));
+        endShape(CLOSE);
+
+        // draw little swirl lines showing handedness
+        pts.forEach(p => {
+          // dir = +1 for bottom (inhale), -1 for top (exhale)
+          const dir = isBottom ? 1 : -1;
+          // determine side: right half (cos(ang)>0) vs left
+          const sideSign = (cos(p.ang) > 0 ? 1 : -1);
+          // swirl offset
+          const dx = cx - p.x;
+          const dy = cy0 - p.y;
+          const ex = p.x + dx * 0.15 * dir * sideSign;
+          const ey = p.y + dy * 0.15 * dir * sideSign;
+          strokeWeight(1);
+          stroke(isBottom ? color(50,150,200,150) : color(200,100,50,150));
+          line(p.x, p.y, ex, ey);
+        });
+      }
+
+      function windowResized() {
+        resizeCanvas(windowWidth, windowHeight);
+        calcRadii();
+      }
+
+      function calcRadii() {
+        outerR = min(width, height) * 0.35;
+        innerR = outerR * 0.3;
+      }
+    </script>
+  </body>
+</html>
+
+
