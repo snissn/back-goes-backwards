@@ -1,0 +1,237 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Elastic Cube Tower Simulation</title>
+  <style>
+    body { margin: 0; overflow: hidden; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <script type="module">
+    import * as THREE from 'https://esm.sh/three@0.157.0';
+    import { OrbitControls } from 'https://esm.sh/three@0.157.0/examples/jsm/controls/OrbitControls.js';
+    import * as CANNON from 'https://cdn.jsdelivr.net/npm/cannon-es@0.20.0/dist/cannon-es.js';
+
+    let scene, camera, renderer, world, controls;
+    let innerCornerBodies = [], innerSprings = [], innerSpringLines = [], connectorSprings = [], connectorLines = [], outerSprings = [], outerSpringLines = [], outerCornerVisuals = [];
+    let time = 0;
+
+    const outerSize = 4;
+const outerAspect = { x: 1, y: 2, z: 1 };
+    const innerSize = 1.5;
+const innerAspect = { x: 1, y: 2, z: 1 };
+
+    const outerPoints = [];
+
+    init();
+    animate();
+
+    function init() {
+      scene = new THREE.Scene();
+      camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 100);
+      camera.position.set(8, 8, 8);
+
+      renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+
+      controls = new OrbitControls(camera, renderer.domElement);
+      controls.enableDamping = true;
+      controls.dampingFactor = 0.05;
+      controls.update();
+
+      world = new CANNON.World({ gravity: new CANNON.Vec3(0, 0, 0) });
+
+      const half = outerSize / 2;
+      const outerPointsRaw = [
+        [-half * outerAspect.x, half * outerAspect.y, -half * outerAspect.z],
+        [ half * outerAspect.x, half * outerAspect.y, -half * outerAspect.z],
+        [-half * outerAspect.x, half * outerAspect.y,  half * outerAspect.z],
+        [ half * outerAspect.x, half * outerAspect.y,  half * outerAspect.z],
+        [-half * outerAspect.x, -half * outerAspect.y, -half * outerAspect.z],
+        [ half * outerAspect.x, -half * outerAspect.y, -half * outerAspect.z],
+        [-half * outerAspect.x, -half * outerAspect.y,  half * outerAspect.z],
+        [ half * outerAspect.x, -half * outerAspect.y,  half * outerAspect.z]
+      ];
+
+      outerPointsRaw.forEach((pos, index) => {
+        const isBottom = index >= 4; // bottom four corners
+        const v = new CANNON.Body({ mass: isBottom ? 0 : 0.1 });
+        v.position.set(...pos);
+        world.addBody(v);
+        outerPoints.push(v);
+
+        const sphere = new THREE.Mesh(
+          new THREE.SphereGeometry(0.05),
+          new THREE.MeshBasicMaterial({ color: 0xff0000 })
+        );
+        sphere.userData.body = v;
+        scene.add(sphere);
+        outerCornerVisuals.push(sphere);
+      });
+
+      const edgeIndices = [
+        [0, 1], [1, 3], [3, 2], [2, 0],
+        [4, 5], [5, 7], [7, 6], [6, 4],
+        [0, 4], [1, 5], [2, 6], [3, 7]
+      ];
+
+      edgeIndices.forEach(([a, b]) => {
+        const posA = outerPoints[a].position;
+        const posB = outerPoints[b].position;
+        const restLength = posA.distanceTo(posB);
+        const spring = new CANNON.Spring(outerPoints[a], outerPoints[b], {
+          restLength,
+          stiffness: 100,
+          damping: 2.0
+        });
+        outerSprings.push(spring);
+
+        const geo = new THREE.BufferGeometry().setFromPoints([
+          new THREE.Vector3(), new THREE.Vector3()
+        ]);
+        const mat = new THREE.LineBasicMaterial({ color: 0xffaa00 });
+        const line = new THREE.Line(geo, mat);
+        outerSpringLines.push(line);
+        scene.add(line);
+      });
+
+      const halfInner = innerSize / 2;
+      const innerOffsets = [
+        [-halfInner * innerAspect.x, halfInner * innerAspect.y, -halfInner * innerAspect.z],
+        [ halfInner * innerAspect.x, halfInner * innerAspect.y, -halfInner * innerAspect.z],
+        [-halfInner * innerAspect.x, halfInner * innerAspect.y,  halfInner * innerAspect.z],
+        [ halfInner * innerAspect.x, halfInner * innerAspect.y,  halfInner * innerAspect.z],
+        [-halfInner * innerAspect.x, -halfInner * innerAspect.y, -halfInner * innerAspect.z],
+        [ halfInner * innerAspect.x, -halfInner * innerAspect.y, -halfInner * innerAspect.z],
+        [-halfInner * innerAspect.x, -halfInner * innerAspect.y,  halfInner * innerAspect.z],
+        [ halfInner * innerAspect.x, -halfInner * innerAspect.y,  halfInner * innerAspect.z]
+      ];
+
+      innerOffsets.forEach(offset => {
+        const body = new CANNON.Body({ mass: 0.1 });
+        body.position.set(offset[0], offset[1], offset[2]);
+        world.addBody(body);
+
+        const sphere = new THREE.Mesh(
+          new THREE.SphereGeometry(0.03),
+          new THREE.MeshBasicMaterial({ color: 0x00ffff })
+        );
+        sphere.userData.body = body;
+        scene.add(sphere);
+        innerCornerBodies.push({ body, visual: sphere });
+      });
+
+      const innerEdgeIndices = [
+        [0,1],[1,3],[3,2],[2,0],
+        [4,5],[5,7],[7,6],[6,4],
+        [0,4],[1,5],[2,6],[3,7]
+      ];
+
+      innerEdgeIndices.forEach(([a,b]) => {
+        const posA = innerCornerBodies[a].body.position;
+        const posB = innerCornerBodies[b].body.position;
+        const restLength = posA.distanceTo(posB);
+        const spring = new CANNON.Spring(innerCornerBodies[a].body, innerCornerBodies[b].body, {
+          restLength,
+          stiffness: 30,
+          damping: 1.5
+        });
+        innerSprings.push(spring);
+
+        const geo = new THREE.BufferGeometry().setFromPoints([
+          new THREE.Vector3(), new THREE.Vector3()
+        ]);
+        const mat = new THREE.LineBasicMaterial({ color: 0xffff00 });
+        const line = new THREE.Line(geo, mat);
+        innerSpringLines.push(line);
+        scene.add(line);
+      });
+
+      innerCornerBodies.forEach((corner, i) => {
+        const outer = outerPoints[i];
+        const spring = new CANNON.Spring(corner.body, outer, {
+          restLength: 0.1,
+          stiffness: 50,
+          damping: 1.5
+        });
+        connectorSprings.push(spring);
+
+        const geo = new THREE.BufferGeometry().setFromPoints([
+          new THREE.Vector3(), new THREE.Vector3()
+        ]);
+        const mat = new THREE.LineBasicMaterial({ color: 0x00ffcc });
+        const line = new THREE.Line(geo, mat);
+        connectorLines.push(line);
+        scene.add(line);
+      });
+
+      const light = new THREE.DirectionalLight(0xffffff, 1);
+      light.position.set(5, 10, 7);
+      scene.add(light);
+    }
+
+    function animate() {
+      requestAnimationFrame(animate);
+      time += 0.016;
+
+      innerSprings.forEach(s => s.applyForce());
+
+      connectorSprings.forEach((spring, i) => {
+        const amp = i < 4 ? Math.sin(time) : Math.cos(time);
+        spring.stiffness = 50 + 20 * amp;
+        spring.applyForce();
+      });
+
+      outerSprings.forEach(s => s.applyForce());
+
+      world.step(1 / 60);
+
+      innerCornerBodies.forEach(p => {
+        p.visual.position.copy(p.body.position);
+      });
+
+      outerCornerVisuals.forEach(sphere => {
+        sphere.position.copy(sphere.userData.body.position);
+      });
+
+      innerSpringLines.forEach((line, i) => {
+        const s = innerSprings[i];
+        const a = s.bodyA.position;
+        const b = s.bodyB.position;
+        line.geometry.setFromPoints([
+          new THREE.Vector3(a.x, a.y, a.z),
+          new THREE.Vector3(b.x, b.y, b.z)
+        ]);
+      });
+
+      connectorLines.forEach((line, i) => {
+        const spring = connectorSprings[i];
+        const a = spring.bodyA.position;
+        const b = spring.bodyB.position;
+        line.geometry.setFromPoints([
+          new THREE.Vector3(a.x, a.y, a.z),
+          new THREE.Vector3(b.x, b.y, b.z)
+        ]);
+      });
+
+      outerSpringLines.forEach((line, i) => {
+        const spring = outerSprings[i];
+        const a = spring.bodyA.position;
+        const b = spring.bodyB.position;
+        line.geometry.setFromPoints([
+          new THREE.Vector3(a.x, a.y, a.z),
+          new THREE.Vector3(b.x, b.y, b.z)
+        ]);
+      });
+
+      controls.update();
+      renderer.render(scene, camera);
+    }
+  </script>
+</body>
+</html>
+
