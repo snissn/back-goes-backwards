@@ -84,8 +84,8 @@ To illustrate how this mechanical organization works, we can model spinal motion
 \\[
 R_x(\theta_x) = 
 \begin{bmatrix}
-1 & 0 & 0 \\\\
-0 & \cos \theta_x & -\sin \theta_x \\\\
+1 & 0 & 0 &#92;&#92;
+0 & \cos \theta_x & -\sin \theta_x &#92;&#92;
 0 & \sin \theta_x & \cos \theta_x
 \end{bmatrix}
 \\]
@@ -95,8 +95,8 @@ R_x(\theta_x) =
 \\[
 R_y(\theta_y) = 
 \begin{bmatrix}
-\cos \theta_y & 0 & \sin \theta_y \\\\
-0 & 1 & 0 \\\\
+\cos \theta_y & 0 & \sin \theta_y &#92;&#92;
+0 & 1 & 0 &#92;&#92;
 -\sin \theta_y & 0 & \cos \theta_y
 \end{bmatrix}
 \\]
@@ -106,8 +106,8 @@ R_y(\theta_y) =
 \\[
 R_z(\theta_z) = 
 \begin{bmatrix}
-\cos \theta_z & -\sin \theta_z & 0 \\\\
-\sin \theta_z & \cos \theta_z & 0 \\\\
+\cos \theta_z & -\sin \theta_z & 0 &#92;&#92;
+\sin \theta_z & \cos \theta_z & 0 &#92;&#92;
 0 & 0 & 1
 \end{bmatrix}
 \\]
@@ -354,8 +354,8 @@ Mathematically, this rotation is represented by the transformation matrix:
 \\[
 R_z(\theta) =
 \begin{bmatrix}
-\cos \theta & -\sin \theta & 0 \\\\
-\sin \theta & \cos \theta & 0 \\\\
+\cos \theta & -\sin \theta & 0 &#92;&#92;
+\sin \theta & \cos \theta & 0 &#92;&#92;
 0 & 0 & 1
 \end{bmatrix}
 \\]
@@ -384,8 +384,8 @@ This lateral lean can be modeled as a rotation about the \\(x\\)-axis by an angl
 \\[
 R_x(\phi) =
 \begin{bmatrix}
-1 & 0 & 0 \\\\
-0 & \cos \phi & -\sin \phi \\\\
+1 & 0 & 0 &#92;&#92;
+0 & \cos \phi & -\sin \phi &#92;&#92;
 0 & \sin \phi & \cos \phi
 \end{bmatrix}
 \\]
