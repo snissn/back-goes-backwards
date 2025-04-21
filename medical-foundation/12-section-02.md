@@ -169,7 +169,7 @@ In conclusion, the reduction of strain energy is essential for maintaining the h
 
 ---
 
-## **Biomechanical insights into health**
+## **3. Biomechanical insights into health**
 ### **3.1. Stability Through Coupled Movements**
 
 The spine is a marvel of biomechanical engineering, designed to balance mobility and stability even during complex movements. When the spine rotates left while leaning right, it employs a natural mechanism that aligns the body’s center of mass, prevents collapse, and promotes vertical elongation. This process echoes the dynamics of a spinning top, where rotational forces generate stability and counteract external disruptions. By coupling leftward rotation with a rightward lateral lean, the spine achieves dynamic equilibrium, distributing forces evenly and protecting its structural integrity.
