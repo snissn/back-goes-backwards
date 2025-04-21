@@ -1,10 +1,10 @@
 <div class="title-page">
-  <h1 id="ref-title-page">Title Page</h1>
-  <h2>The Back Goes Backwards: Integrating Biomechanics into Modern Medicine</h2>
+  <h1 id="ref-title-page" data-toc="false">Title Page</h1>
+  <h2 data-toc="false">The Back Goes Backwards: Integrating Biomechanics into Modern Medicine</h2>
   <p><strong>By Michael Seiler and Dr. Katherine E. Gallardo, MD</strong></p>
 </div>
 <div class="copyright-page">
-  <h1 id="ref-copyright">Copyright</h1>
+  <h1 data-toc="false" id="ref-copyright">Copyright</h1>
   <p>© 2025 Michael Seiler and Dr. Katherine E. Gallardo, MD<br>
   All rights reserved.</p>
 
@@ -17,11 +17,11 @@
   Printed in the United States of America</p>
 </div>
 <div class="dedication-page">
-  <h1 id="ref-dedication">Dedication</h1>
+  <h1 data-toc="false" id="ref-dedication">Dedication</h1>
   <p><em>For those who seek alignment — in body, breath, and being.</em></p>
 </div>
 <div class="about-author">
-  <h1 id="ref-about-author">About the Author</h1>
+  <h1 data-toc="false" id="ref-about-author">About the Author</h1>
   <p><strong>Michael Seiler</strong> and <strong>Dr. Katherine E. Gallardo, MD</strong> are practitioners, researchers, and teachers working at the intersection of yoga, Traditional Chinese Medicine (TCM), and biomechanics.</p>
 
   <p>With backgrounds in applied physics and medicine, they integrate Eastern philosophy and Western science to explore new frontiers of healing and human potential.</p>
@@ -1330,7 +1330,7 @@ In conclusion, the reduction of strain energy is essential for maintaining the h
 
 ---
 
-## **Biomechanical insights into health**
+## **3. Biomechanical insights into health**
 ### **3.1. Stability Through Coupled Movements**
 
 The spine is a marvel of biomechanical engineering, designed to balance mobility and stability even during complex movements. When the spine rotates left while leaning right, it employs a natural mechanism that aligns the body’s center of mass, prevents collapse, and promotes vertical elongation. This process echoes the dynamics of a spinning top, where rotational forces generate stability and counteract external disruptions. By coupling leftward rotation with a rightward lateral lean, the spine achieves dynamic equilibrium, distributing forces evenly and protecting its structural integrity.

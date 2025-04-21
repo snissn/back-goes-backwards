@@ -23,7 +23,13 @@ if (placeholder && placeholder.parentNode) {
       const tagLevel = el.tagName.toLowerCase();
       const refId = `ref-${index}`;
       const label = el.textContent?.trim();
-      if (!label || seenLabels.has(label)) return;
+if (
+  !label ||
+  seenLabels.has(label) ||
+  el.getAttribute("data-toc") === "false"
+) return;
+
+
       seenLabels.add(label);
 
       // Add TOC data-ref
