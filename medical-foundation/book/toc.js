@@ -5,7 +5,7 @@ class TOCHandler extends Paged.Handler {
     // Build TOC
     const toc = doc.createElement("section");
     toc.id = "toc";
-    toc.innerHTML = "<h1>Table of Contents</h1><ul id='toc-list'></ul>";
+    toc.innerHTML = "<h1 data-toc='false'>Table of Contents</h1><ul id='toc-list'></ul>";
 
 const placeholder = content.querySelector("#toc-placeholder");
 if (placeholder && placeholder.parentNode) {
