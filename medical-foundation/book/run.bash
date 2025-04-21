@@ -4,7 +4,7 @@
 
 pagedjs-cli ./snissn.github.io/back-goes-backwards/medical-foundation/combined/combined.html \
   -o pagejs.pdf \
-  --outline-tags "h1,h2,h3" \
+  --outline-tags "h1,h2,h3,h4" \
   --additional-script ./toc.js \
   --style layout.css --style ./toc.css --style page-override.css
 
