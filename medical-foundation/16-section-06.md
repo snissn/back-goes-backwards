@@ -301,24 +301,6 @@ Inhale sets the conditions for exhale. Without load, there can be no rebound. Wi
 Breath, then, is not only how we bring air in. It is **how we organize tension, load structure, and maintain form**—one phase at a time.
 ***
 
-***
-
-### **3.1 The Axis Shift of Exhale**
-
-#### **3.1.1 From Spinal Rotation to Lateral Reorganization**
-
-The inhale rotates the body open around the spine. The ribs flare, the posterior tissues lengthen, and the pelvis broadens—all organized around a **vertical axis**. This movement defines the yang phase of breath: external rotation, posterior expansion, and structural availability centered along the spine.
-
-Exhale does not reverse this pattern. It does not close what was opened, nor does it wind tension back in the opposite direction. Instead, it marks a **shift in axis priority**. The shape built by the inhale remains; what changes is the **direction in which movement now flows**.
-
-As the breath exits, the internal mass—air, fluid, viscera—no longer descends. It reorganizes **upward and inward**, folding along a **lateral axis** that runs side to side: through the base of the pelvis, the dome of the diaphragm, and the lower ribs. This axis becomes the structural hinge of the exhale. The body no longer expands away from the spine—it draws upward into the space created by the inhale, **consolidating without collapsing**.
-
-This movement is not forceful. It does not require contraction or withdrawal. The rotation occurs through **tissue shape and pressure redirection**. The anterior body—particularly the abdominal wall, diaphragm, and pelvic floor—becomes the guide for this lift. They do not compress the breath out; they contain it as it reorganizes vertically within the existing structure.
-
-This phase is still rotational. But where inhale spirals outward from the spine, exhale **gathers inward through the anterior field**, lifting the internal contents into axial alignment. The system does not unwind—it shifts. And that shift is not a loss of integrity, but its quiet refinement.
-
-***
-
 ## **Chapter 3 – Yin Mechanics: Exhale as Internal Consolidation in the 4D Tension Model**
 
 ### **3.0 Introduction: Continuity Through Phase Shift**
@@ -352,8 +334,6 @@ This movement is not forceful. It does not require contraction or withdrawal. Th
 This phase is still rotational. But where inhale spirals outward from the spine, exhale **gathers inward through the anterior field**, lifting the internal contents into axial alignment. The system does not unwind—it shifts. And that shift is not a loss of integrity, but its quiet refinement.
 
 ***
-
-Would you like to follow with **3.1.2 The Hyoid as a Suspension Fulcrum** next?
 
 #### **3.1.2 The Hyoid as a Suspension Fulcrum**
 
