@@ -31,15 +31,19 @@ h1 {
 @page :left {
   @top {
     content: "The Back Goes Backwards";
-    font-size: 10pt;
-    font-style: italic;
+    font-size: 6pt;
+    font-weight: bold;
   }
 }
 @page :right{
   @top {
     content: string(chapter);
-    font-size: 10pt;
+    font-size: 6pt;
     font-style: italic;
   }
 }
 
+
+.pagedjs_first_page .pagedjs_margin-content{
+	display:none;
+}

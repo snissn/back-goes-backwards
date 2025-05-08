@@ -5,7 +5,7 @@ class TOCHandler extends Paged.Handler {
     // Build TOC
     const toc = doc.createElement("section");
     toc.id = "toc";
-    toc.innerHTML = "<h1>Table of Contents</h1><ul id='toc-list'></ul>";
+    toc.innerHTML = "<h1 data-toc='false'>Table of Contents</h1><ul id='toc-list'></ul>";
 
 const placeholder = content.querySelector("#toc-placeholder");
 if (placeholder && placeholder.parentNode) {
@@ -23,7 +23,13 @@ if (placeholder && placeholder.parentNode) {
       const tagLevel = el.tagName.toLowerCase();
       const refId = `ref-${index}`;
       const label = el.textContent?.trim();
-      if (!label || seenLabels.has(label)) return;
+if (
+  !label ||
+  seenLabels.has(label) ||
+  el.getAttribute("data-toc") === "false"
+) return;
+
+
       seenLabels.add(label);
 
       // Add TOC data-ref
