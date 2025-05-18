@@ -3,13 +3,13 @@
 ## **1. The Body as a Biomechanical System**
 ### **1.1 Integrated Structure and Function**
 ### **1.2 Hard Tissue Dynamics**
-### **1.2.1 Structural Alignment**
-### **1.2.2 Dynamic Overload on Rigid Structures**
+#### **1.2.1 Structural Alignment**
+#### **1.2.2 Dynamic Overload on Rigid Structures**
 ### **1.3 Soft Tissue Dynamics: The Body’s Tension Network**
 #### **1.3.1 Introduction to the Tension Network**
-### **1.3.2 Tensegrity and Baseline Tone**
-###  **1.3.3 The Fascial Continuum and Internal Regulation**
-### **1.3.4 From Adaptation to Dysfunction: Systemic Implications**
+#### **1.3.2 Tensegrity and Baseline Tone**
+####  **1.3.3 The Fascial Continuum and Internal Regulation**
+#### **1.3.4 From Adaptation to Dysfunction: Systemic Implications**
 ## **2. Biomechanical Dysfunctions as Origins of Disease**
 ### **2.1 Introduction: When Disease Has a Mechanical Origin**
 ### **2.2 Clear Mechanical Conditions: Structural Dysfunction as Primary Cause**
