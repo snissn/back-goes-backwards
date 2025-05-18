@@ -1,31 +1,50 @@
-import os
 from openai import OpenAI
 from pathlib import Path
 from datetime import datetime
+import os
+import sys
 
-# --- Config ---
+# --- Setup ---
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 MODEL = "gpt-4.1-nano"
 TEMPERATURE = 0.7
-TONE_GUIDE = "The tone should be warm, clinical, and biomechanics-informed."
-BASE_PROMPT = f"You are helping write a book. {TONE_GUIDE} Please write a short, clear, focused paragraph for the following book heading:\n\n"
 
-OUTLINE_DIR = "outline"
-OUTPUT_BASE = sorted(Path("output").glob("book_output_*"))[-1]  # Use latest output folder
+# --- Load shared context ---
+tone_guide = Path("tone-guide.md").read_text(encoding="utf-8").strip()
+book_memo = Path("book-memo.md").read_text(encoding="utf-8").strip()
+task_template = Path("task-prompt.md").read_text(encoding="utf-8").strip()
 
-# --- Setup OpenAI Client ---
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# Get full outline content from all .md files in the outline folder
+outline_dir = Path("outline")
+outline_texts = [p.read_text(encoding="utf-8") for p in sorted(outline_dir.glob("*.md"))]
+full_outline = "\n\n".join(outline_texts).strip()
 
-# --- Process each outline file ---
-for outline_file in sorted(Path(OUTLINE_DIR).glob("*.md")):
+# Compose shared context
+shared_context = f"{tone_guide}\n\n{book_memo}\n\n# FULL BOOK OUTLINE\n\n{full_outline}"
+
+# --- Set output base folder (latest) ---
+output_base = sorted(Path("output").glob("book_output_*"))[-1]
+
+# --- Iterate over each outline file ---
+for outline_file in sorted(outline_dir.glob("*.md")):
     section_name = outline_file.stem
-    output_dir = OUTPUT_BASE / section_name
+    output_dir = output_base / section_name
 
     with open(outline_file, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     for i, line in enumerate(lines):
-        if line.strip().startswith("#"):  # Only process headers
-            prompt = BASE_PROMPT + line.strip()
+        if line.strip().startswith("#"):
+            # Compose the full prompt using shared context and customized task
+            heading = line.strip()
+            task_prompt = task_template.replace("{{HEADING}}", heading)
+
+            prompt = f"""{shared_context}
+
+---
+
+{task_prompt}
+"""
 
             try:
                 response = client.chat.completions.create(
@@ -43,6 +62,5 @@ for outline_file in sorted(Path(OUTLINE_DIR).glob("*.md")):
                 out_file.write(f"## {line.strip()}\n\n{content}\n")
 
             print(f"✅ Wrote: {out_path}")
-        break
 
 
