@@ -3,6 +3,7 @@ from pathlib import Path
 from datetime import datetime
 import os
 import sys
+import re
 
 # --- Setup ---
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -22,6 +23,13 @@ full_outline = "\n\n".join(outline_texts).strip()
 # Compose shared context
 shared_context = f"{tone_guide}\n\n{book_memo}\n\n# FULL BOOK OUTLINE\n\n{full_outline}"
 
+# Helper to create slug from heading
+def slugify(heading: str) -> str:
+    heading_text = re.sub(r"#+\s*", "", heading).strip()
+    heading_text = re.sub(r"[^\w\s-]", "", heading_text)
+    heading_text = re.sub(r"\s+", "-", heading_text)
+    return heading_text.lower()[:60]
+
 # --- Set output base folder (latest) ---
 output_base = sorted(Path("output").glob("book_output_*"))[-1]
 
@@ -34,33 +42,30 @@ for outline_file in sorted(outline_dir.glob("*.md")):
         lines = f.readlines()
 
     for i, line in enumerate(lines):
-        if line.strip().startswith("#"):
-            # Compose the full prompt using shared context and customized task
-            heading = line.strip()
-            task_prompt = task_template.replace("{{HEADING}}", heading)
+        if not line.strip().startswith("#"):
+            continue
 
-            prompt = f"""{shared_context}
+        heading = line.strip()
+        task_prompt = task_template.replace("{{HEADING}}", heading)
+        prompt = f"{shared_context}\n\n---\n\n{task_prompt}"
+        print(prompt)
 
----
+        try:
+            response = client.chat.completions.create(
+                model=MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=TEMPERATURE
+            )
+            content = response.choices[0].message.content.strip()
+        except Exception as e:
+            content = f"ERROR: {str(e)}"
+            print(f"❌ Error processing line {i} in {section_name}: {e}")
 
-{task_prompt}
-"""
+        safe_filename = f"{i:02d}-{slugify(heading)}.md"
+        out_path = output_dir / safe_filename
 
-            try:
-                response = client.chat.completions.create(
-                    model=MODEL,
-                    messages=[{"role": "user", "content": prompt}],
-                    temperature=TEMPERATURE
-                )
-                content = response.choices[0].message.content.strip()
-            except Exception as e:
-                content = f"ERROR: {str(e)}"
-                print(f"❌ Error processing line {i} in {section_name}: {e}")
+        with open(out_path, "w", encoding="utf-8") as out_file:
+            out_file.write(f"{content}\n")
 
-            out_path = output_dir / f"{i:02d}.md"
-            with open(out_path, "w", encoding="utf-8") as out_file:
-                out_file.write(f"## {line.strip()}\n\n{content}\n")
-
-            print(f"✅ Wrote: {out_path}")
-
+        print(f"✅ Wrote: {out_path}")
 

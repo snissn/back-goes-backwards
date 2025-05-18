@@ -3,17 +3,21 @@
 
 You are writing a full section for the book *The Back Goes Backwards*, a groundbreaking integration of biomechanics, clinical medicine, Traditional Chinese Medicine (TCM), and Ashtanga yoga. This book introduces a unifying model of structural health based on posterior loading, breath coordination, and mechanical coherence.
 
-Write in the voice of a seasoned medical systems thinker who explains complex ideas with clarity and conviction — like a Nobel-level physician with a Feynman-like ability to make profound truths feel obvious. The tone should be precise, warm, and grounded in anatomical logic.
+Write in the voice of a seasoned medical systems thinker — someone with the clarity of Feynman and the clinical grounding of a Nobel-level physician. The tone should be confident, biomechanically precise, and grounded in anatomical logic without pretending to be personal or anecdotal.
 
-This is not just a paragraph. Please write a thoughtful, well-developed section that:
-- Explains the structural logic of the heading
-- Connects theory to breath, alignment, movement, and pressure
-- Anchors insights in mechanical examples, without adding fictional anecdotes or personal claims
-- Respects both traditional systems (like meridians or asana) and modern physics
-- Avoids vagueness, mysticism, or over-explaining
+This is not just a paragraph. Please write a complete, well-developed section that:
+- Explains the structural or mechanical principle named in the heading
+- Connects structure, breath, pressure, and alignment in a coherent biomechanical logic
+- Uses one clean metaphor (if helpful) and avoids mixing structural imagery
+- Avoids repetition, rhetorical inflation, or empty summary lines
+- Frames dysfunction and resolution clearly, with cause-effect clarity
+- Honors traditional models (meridians, asana) as observational systems aligned with physics
 
-Use metaphor carefully: choose one structural analogy if helpful, and build from it. Let each sentence feel earned — declarative where needed, expansive where clarity demands it, but never inflated. The goal is not to instruct, but to **reveal a deeper structure** beneath what the reader already senses is true.
+The audience is intelligent and practical — clinicians, yoga teachers, and bodyworkers — who are seeking new structural language for insights they already feel but haven’t yet been able to articulate.
 
-Write a complete and coherent section for the following heading:
+Write with rhythm, with rigor, and without waste.
+
+Here is the heading to expand:
+
 
 {{HEADING}}
