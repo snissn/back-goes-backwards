@@ -1,0 +1,31 @@
+{
+  "Section 4": {
+    "3. Three-Dimensional Practice in Ancient Movement": {
+      "description": "Shows how classical Asian movement arts and medicine mapped the body\u2019s forces, axes, and flows using the Six Stages (Tai Yang, Yang Ming, Shao Yang, Tai Yin, Shao Yin, Jue Yin), corresponding to the body's structural axes and the full system of 12 meridians. This section bridges the three-band theory with modern physics and tensegrity.",
+      "3.1 The Six Stages and Axial Order: Tradition as a Biomechanical Blueprint": {
+        "description": "Explains the Six Stages model\u2014how the order of yang and yin (from spinal to rotational to lateral in yang, then lateral to rotational to spinal in yin) forms a structural and energetic loop, analogous to multi-axis force systems in physics.",
+        "3.1.1 Six Stages in TCM: Names, Order, and Traditional Significance": {
+          "description": "Introduces Tai Yang, Yang Ming, Shao Yang (yang stages) and Tai Yin, Shao Yin, Jue Yin (yin stages), their classical order, and why the sequence matters in diagnosis and movement."
+        },
+        "3.1.2 Axial Mapping: Spinal, Rotational, Lateral Axes": {
+          "description": "Shows how each stage maps to a physical axis\u2014spinal/posterior, rotational/spiral, lateral/side-to-side\u2014and why this matches modern kinetic chain models."
+        },
+        "3.1.3 Yin-Yang Pairing and the Closed Loop": {
+          "description": "Describes how each yang stage is balanced by a yin opposite, completing a full cycle that sustains dynamic equilibrium in the body."
+        }
+      },
+      "3.2 The 12 Meridians: Axis, Polarity, and the Physics of Hand/Foot Distribution": {
+        "description": "Maps all 12 meridians to their axes (spinal, rotational, lateral), polarities (yin/yang), and anatomical division (hand/foot), showing that the ancient system is structurally and mathematically complete.",
+        "3.2.1 Hand and Foot Meridians: Upper and Lower Body Integration": {
+          "description": "Explains why TCM divides meridians into hand (arms/upper) and foot (legs/lower), and how this mirrors the body's need for both central (trunk/spine) and peripheral (limb) stability."
+        },
+        "3.2.2 Physics Connection: The Body as a 3D Vector Field": {
+          "description": "Frames the meridian/axis system as a biological analog to vector decomposition\u2014each meridian acting as a structural or energetic line of force, analogous to how physics describes tension/compression networks or multi-axis support."
+        }
+      },
+      "3.3 Tradition Meets Modern Science: Why the Six-Stage/Meridian System Still Matters": {
+        "description": "Synthesizes the above by arguing that the TCM six-stage/12-meridian model is essentially a classical biomechanics system, and explains why this cross-cultural language is still highly relevant for movement, injury, and performance."
+      }
+    }
+  }
+}
