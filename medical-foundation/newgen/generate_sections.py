@@ -1,3 +1,4 @@
+import argparse
 from openai import OpenAI
 from pathlib import Path
 import os
@@ -7,7 +8,13 @@ import time
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# Load Assistant ID
+# Parse CLI arguments
+parser = argparse.ArgumentParser(description="Generate book sections using Assistants API.")
+parser.add_argument("--section", type=int, help="Only generate this specific line number (zero-based)")
+parser.add_argument("--file", type=str, help="Only process this outline file (filename only, no path)")
+args = parser.parse_args()
+
+# Load assistant ID
 assistant_id = json.loads(Path("assistant_id.json").read_text(encoding="utf-8"))["assistant_id"]
 
 # Slugify helper
@@ -17,7 +24,7 @@ def slugify(text: str) -> str:
     text = re.sub(r"\s+", "-", text)
     return text.lower()[:60]
 
-# Determine or resume output root
+# Determine output root (resume support)
 output_path_file = Path("latest_output_path.txt")
 if output_path_file.exists():
     output_root = Path(output_path_file.read_text(encoding="utf-8").strip())
@@ -29,9 +36,11 @@ else:
     output_path_file.write_text(str(output_root), encoding="utf-8")
     print(f"🚀 Starting new output folder: {output_root}")
 
-# Loop through outline files
+# Process outlines
 outline_dir = Path("outline")
-for outline_file in sorted(outline_dir.glob("*.md")):
+target_files = [outline_dir / args.file] if args.file else sorted(outline_dir.glob("*.md"))
+
+for outline_file in target_files:
     section_name = outline_file.stem
     output_dir = output_root / section_name
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -39,6 +48,8 @@ for outline_file in sorted(outline_dir.glob("*.md")):
     lines = outline_file.read_text(encoding="utf-8").splitlines()
     for i, line in enumerate(lines):
         if not line.strip().startswith("#"):
+            continue
+        if args.section is not None and i != args.section:
             continue
 
         heading = re.sub(r"#+\s*", "", line.strip())
@@ -69,6 +80,7 @@ for outline_file in sorted(outline_dir.glob("*.md")):
                 break
             time.sleep(1)
 
+        print(run_status)
         messages = client.beta.threads.messages.list(thread_id=thread.id)
         content = messages.data[0].content[0].text.value.strip()
         out_path.write_text(content + "\n", encoding="utf-8")
