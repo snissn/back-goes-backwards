@@ -6,7 +6,7 @@ import re
 import os
 
 # ---- CONFIG ----
-MODEL = "gpt-4.1-nano"   # or your preferred model
+MODEL = "gpt-4.1"   # or your preferred model
 TEMPERATURE = 0.6
 MAX_TOKENS = 2500
 
@@ -151,14 +151,28 @@ def main(resume=False):
         section_folder.mkdir(exist_ok=True)
         outline = json.loads(outline_file.read_text(encoding="utf-8"))
 
+        first_key = list(outline.keys())[0]
+        section_title = outline[first_key].get("title", first_key.replace("-", " ").title())
+        cover_filename = f"0000-{slugify(section_title)}.md"
+        cover_path = section_folder / cover_filename
+        cover_path.write_text(f"# {section_title}\n", encoding="utf-8")
+
+
         # Prepare outline listing (TOC)
         #outline_listing = "\n".join(get_outline_titles(outline))
         global_outline = get_outline_globally(OUTLINE_DIR, depth=2)
+        system_prompt = SYSTEM_PROMPT.replace("{global_outline}", global_outline)
+
 
 
         # Each describable section:
-        for key_path, node in find_sections_with_description(outline):
-            filename = f"{'-'.join(str(i).zfill(2) for i in range(len(key_path)))}-{slugify(key_path[-1])}.md"
+        sections = find_sections_with_description(outline)
+        for flat_index, (key_path, node) in enumerate(sections, start=1):
+            filename = f"{flat_index:04d}-{slugify(key_path[-1])}.md"
+            heading_level = len(key_path)     # for Markdown heading
+            heading_line = "#" * heading_level + " " + key_path[-1]
+
+
             out_path = section_folder / filename
             if out_path.exists():
                 print(f"⏩ Skipping existing: {out_path.name}")
@@ -187,10 +201,6 @@ def main(resume=False):
 
             # ---- Compose prompt ----
             user_prompt = f"""
-
-Book Outline (key sections):
-{global_outline}
-
 Current location in outline for context:
 {parent_context} > {heading}
 
@@ -198,6 +208,10 @@ Current location in outline for context:
 
 Write a complete section for:
 Heading: {heading}
+
+Do not include a section heading or Markdown title in your output; only provide the body text for this section.
+
+IMPORTANT: Make sure to connect your explanation, wherever appropriate, to the book’s core model—posterior loading coordinated with breath as the foundation for health, regulation, and structural coherence.
 
 Use the following description as your central focus, integrating the established tone, logic, and principles from above. If the description leaves room for interpretation, ground your answer in the book’s broader biomechanical perspective.
 
@@ -211,7 +225,7 @@ Description:
             response = openai.chat.completions.create(
                 model=MODEL,
                 messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt},
                 ],
                 temperature=TEMPERATURE,
@@ -220,7 +234,7 @@ Description:
 
             # ---- Output ----
             content = response.choices[0].message.content.strip()
-            out_path.write_text(content + "\n", encoding="utf-8")
+            out_path.write_text(f"{heading_line}\n\n{content}\n", encoding="utf-8")
             usage = response.usage
             print(f"✅ Wrote: {out_path} | Prompt: {usage.prompt_tokens} | Output: {usage.completion_tokens} | Total: {usage.total_tokens}")
 
