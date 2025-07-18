@@ -7,7 +7,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 1 Reciprocate the Ribs** *(breaks rib synergy)*
+### **Step 1 Reciprocate the Ribs** *(breaks rib synergy)*
 
 1. **Right:**
 
@@ -18,7 +18,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 2 Discharge Posterior Twist** *(unloads stiff back tissues)*
+### **Step 2 Discharge Posterior Twist** *(unloads stiff back tissues)*
 
 1. **Right:** keep right arm up.
 
@@ -29,7 +29,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 3 Equalise Rib Volume** *(removes one-sided compression)*
+### **Step 3 Equalise Rib Volume** *(removes one-sided compression)*
 
 1. **Right:** place **both hands on right lower ribs**.
 
@@ -38,7 +38,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 4 Align with Gravity** *(re-centres spine under skull)*
+### **Step 4 Align with Gravity** *(re-centres spine under skull)*
 
 * Stand (or sit) tall, arms relaxed.
 * For **3 slow breaths**:
@@ -48,7 +48,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 5 Set Axial Balance** *(locks in correct front/back torque)*
+### **Step 5 Set Axial Balance** *(locks in correct front/back torque)*
 
 * Lace fingers **lightly behind the skull**.
 * On each of **2 breaths**:
@@ -58,7 +58,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 6 Sweep Residual Twist** *(clears tiny front-chain spirals)*
+### **Step 6 Sweep Residual Twist** *(clears tiny front-chain spirals)*
 
 1. **Right sweep:**
 
