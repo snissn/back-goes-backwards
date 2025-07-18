@@ -1,5 +1,3 @@
----
-
 ## **Ground-State Reset – 3-Minute Bilateral Routine**
 
 A single **left-and-right run-through** of the six moves below will unwind any postural pattern and land you in the mechanically optimal “ground state.”
