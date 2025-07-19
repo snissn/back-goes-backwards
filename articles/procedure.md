@@ -1,11 +1,16 @@
-## **Ground-State Reset – 3-Minute Bilateral Routine**
+## **Ground-State Reset – 5-Minute Bilateral Routine**
 
-A single **left-and-right run-through** of the six moves below will unwind any postural pattern and land you in the mechanically optimal “ground state.”
-No decisions, no tests mid-flow—just do each side exactly as written.
+A single **left-and-right run-through** of the three sections below will unwind any postural pattern and land you in the mechanically optimal “ground state.”
+
+ * No decisions or tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 1 Reciprocate the Ribs** *(breaks rib synergy)*
+### **Rib Loop – Rebalance Rib Cage & Scapula ** *(all standing, \~3 min)*
+
+---
+
+### **Step R1 Reciprocate the Ribs** *(breaks rib synergy)*
 
 1. **Right:**
 
@@ -16,7 +21,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 2 Discharge Posterior Twist** *(unloads stiff back tissues)*
+### **Step R2 Discharge Posterior Twist** *(unloads stiff back tissues)*
 
 1. **Right:** keep right arm up.
 
@@ -27,7 +32,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 3 Equalise Rib Volume** *(removes one-sided compression)*
+### **Step R3 Equalise Rib Volume** *(removes one-sided compression)*
 
 1. **Right:** place **both hands on right lower ribs**.
 
@@ -36,7 +41,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 4 Align with Gravity** *(re-centres spine under skull)*
+### **Step R4 Align with Gravity** *(re-centres spine under skull)*
 
 * Stand (or sit) tall, arms relaxed.
 * For **3 slow breaths**:
@@ -46,7 +51,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 5 Set Axial Balance** *(locks in correct front/back torque)*
+### **Step R5 Set Axial Balance** *(locks in correct front/back torque)*
 
 * Lace fingers **lightly behind the skull**.
 * On each of **2 breaths**:
@@ -56,7 +61,7 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
-### **Step 6 Sweep Residual Twist** *(clears tiny front-chain spirals)*
+### **Step R6 Sweep Residual Twist** *(clears tiny front-chain spirals)*
 
 1. **Right sweep:**
 
@@ -72,25 +77,102 @@ No decisions, no tests mid-flow—just do each side exactly as written.
 
 ---
 
+### **Hip Loop – Rebalance Pelvis & SI Joints** *(all standing, 1 min)*
+
+---
+
+### **Step H1 Reciprocate the Hemipelves** *(sets pelvic coupling, undoes “duck-foot” torque)*
+
+1. **Right:**
+
+   * Shift your weight fully onto your **right foot**.
+   * Slide the **left foot** back about 10 cm (4 inches), toes touching down lightly.
+   * **Inhale**—feel the **right greater trochanter** (hip bone) widen out to the side.
+   * **Exhale**—gently **tuck the left sit-bone** (ischial tuberosity) under, as if folding the left side of the pelvis forward.
+2. **Left:**
+
+   * Shift your weight fully onto your **left foot**.
+   * Slide the **right foot** back about 10 cm (4 inches), toes touching down lightly.
+   * **Inhale**—feel the **left greater trochanter** (hip bone) widen out to the side.
+   * **Exhale**—gently **tuck the right sit-bone** (ischial tuberosity) under, as if folding the right side of the pelvis forward.
+
+*Tip: Keep a micro-bend in the knees to encourage movement at the pelvis, not the low back.*
+
+---
+
+### **Step H2 Unload the Lumbar Twist** *(clears stored lumbar/posterior twist)*
+
+1. **Right:**
+
+   * In the same stance, focus weight on the **right foot**.
+   * **Exhale**—spiral your navel gently **toward the right leg** while your left arm counter-reaches (reaches forward or out to the left).
+   * **Inhale**—return to neutral.
+2. **Left:** 
+
+   * In the same stance, focus weight on the **left foot**.
+   * **Exhale**—spiral your navel gently **toward the left leg** while your right arm counter-reaches (reaches forward or out to the right).
+   * **Inhale**—return to neutral.
+
+---
+
+### **Step H3 Equalise Iliac Volume** *(removes one-sided iliac compression)*
+
+1. **Right:**
+
+   * Place **both hands on the front** of your right hip.
+   * **Inhale** into that waist, gently widening the space under your palms.
+   * **Exhale**—let your right hip flexors soften and lengthen.
+   * Repeat **two breaths**.
+2. **Left:** 
+
+   * Place **both hands on the front** of your left hip.
+   * **Inhale** into that waist, gently widening the space under your palms.
+   * **Exhale**—let your left hip flexors soften and lengthen.
+   * Repeat **two breaths**.
+
+---
+
+## **Skull Loop – Fine-Tune Cranio-Cervical Balance** *(all standing, \~40 s)*
+
+---
+
+### **Step K1 Occipital Float** *(balances occiput-atlas torque)*
+
+1. **Right:**
+
+   * Stand tall, **eyes forward**.
+   * **Inhale**—imagine subtly lifting the **right back corner of your skull** upward (like you’re “lengthening” that side of your head).
+   * **Exhale**—let your **jaw swing slightly to the left** (opposite side).
+2. **Left:** 
+
+   * Stand tall, **eyes forward**.
+   * **Inhale**—imagine subtly lifting the **left back corner of your skull** upward (like you’re “lengthening” that side of your head).
+   * **Exhale**—let your **jaw swing slightly to the right** (opposite side).
+---
+
+### **Step K2 Jaw-Hyoid Spiral** *(clears residual anterior twist at skull base)*
+
+1. **Right:**
+
+   * With **tongue lightly touching the roof of your mouth**, focus on the right back corner of your skull.
+   * **Exhale**—allow your **jaw to spiral microscopically toward the lifted corner** (right).
+   * **Inhale**—return to neutral, center the jaw.
+2. **Left:** 
+
+   * With **tongue lightly touching the roof of your mouth**, focus on the left back corner of your skull.
+   * **Exhale**—allow your **jaw to spiral microscopically toward the lifted corner** (left).
+   * **Inhale**—return to neutral, center the jaw.
+
+---
+
 ### **You’re Done – Quick Confirmation**
 
 Take one natural inhale.
 
-> **Both sides of your ribcage should now expand evenly.**
-> If they don’t, run the entire six-step sequence once more.
+> **Both sides of your ribcage, pelvis, and neck should now feel balanced and move evenly.**
+> If any area still feels restricted or uneven, repeat the entire routine once more from the top.
 
 ---
-
-### **Routine at a Glance**
-
-| Step | Breath Count     | Key Cue               | Fixes              |
-| ---- | ---------------- | --------------------- | ------------------ |
-| 1    | 1 breath / side  | Reach-&-melt          | Rib torque balance |
-| 2    | 1 breath / side  | Bend + chin tuck      | Posterior twist    |
-| 3    | 3 breaths / side | Hands-on-ribs inflate | Rib compression    |
-| 4    | 3 central        | Tail down, crown up   | Gravity line       |
-| 5    | 2 central        | Sternum glides back   | Axial torque set   |
-| 6    | 1 breath / side  | Micro spirals         | Residual twist     |
 
 Use **one full cycle daily** for maintenance; up to **three cycles** back-to-back for stubborn patterns. No measurements or side-decisions needed—just follow the script and let your body reset.
 
