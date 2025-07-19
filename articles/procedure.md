@@ -6,7 +6,7 @@ A single **left-and-right run-through** of the three sections below will unwind 
 
 ---
 
-### **Rib Loop – Rebalance Rib Cage & Scapula ** *(all standing, \~3 min)*
+### **Rib Loop – Rebalance Rib Cage & Scapula** *(all standing, \~3 min)*
 
 ---
 
