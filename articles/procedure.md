@@ -146,6 +146,7 @@ A single **left-and-right run-through** of the three sections below will unwind 
    * Stand tall, **eyes forward**.
    * **Inhale**—imagine subtly lifting the **left back corner of your skull** upward (like you’re “lengthening” that side of your head).
    * **Exhale**—let your **jaw swing slightly to the right** (opposite side).
+
 ---
 
 ### **Step K2 Jaw-Hyoid Spiral** *(clears residual anterior twist at skull base)*
