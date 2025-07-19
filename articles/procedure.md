@@ -13,10 +13,10 @@ A single **left-and-right run-through** of the three sections below will unwind 
 ### **Step R1 Reciprocate the Ribs** *(breaks rib synergy)*
 
 1. **Right:**
-
    * Reach the **right arm** overhead, palm in.
    * **Inhale** 4 s—feel the right flank expand sideways.
    * **Exhale** 6 s—let the **left scapula** glide down and back.
+
 2. **Left:** repeat with sides reversed.
 
 ---
@@ -84,13 +84,12 @@ A single **left-and-right run-through** of the three sections below will unwind 
 ### **Step H1 Reciprocate the Hemipelves** *(sets pelvic coupling, undoes “duck-foot” torque)*
 
 1. **Right:**
-
    * Shift your weight fully onto your **right foot**.
    * Slide the **left foot** back about 10 cm (4 inches), toes touching down lightly.
    * **Inhale**—feel the **right greater trochanter** (hip bone) widen out to the side.
    * **Exhale**—gently **tuck the left sit-bone** (ischial tuberosity) under, as if folding the left side of the pelvis forward.
-2. **Left:**
 
+2. **Left:**
    * Shift your weight fully onto your **left foot**.
    * Slide the **right foot** back about 10 cm (4 inches), toes touching down lightly.
    * **Inhale**—feel the **left greater trochanter** (hip bone) widen out to the side.
@@ -103,12 +102,11 @@ A single **left-and-right run-through** of the three sections below will unwind 
 ### **Step H2 Unload the Lumbar Twist** *(clears stored lumbar/posterior twist)*
 
 1. **Right:**
-
    * In the same stance, focus weight on the **right foot**.
    * **Exhale**—spiral your navel gently **toward the right leg** while your left arm counter-reaches (reaches forward or out to the left).
    * **Inhale**—return to neutral.
-2. **Left:** 
 
+2. **Left:** 
    * In the same stance, focus weight on the **left foot**.
    * **Exhale**—spiral your navel gently **toward the left leg** while your right arm counter-reaches (reaches forward or out to the right).
    * **Inhale**—return to neutral.
@@ -118,13 +116,12 @@ A single **left-and-right run-through** of the three sections below will unwind 
 ### **Step H3 Equalise Iliac Volume** *(removes one-sided iliac compression)*
 
 1. **Right:**
-
    * Place **both hands on the front** of your right hip.
    * **Inhale** into that waist, gently widening the space under your palms.
    * **Exhale**—let your right hip flexors soften and lengthen.
    * Repeat **two breaths**.
-2. **Left:** 
 
+2. **Left:** 
    * Place **both hands on the front** of your left hip.
    * **Inhale** into that waist, gently widening the space under your palms.
    * **Exhale**—let your left hip flexors soften and lengthen.
@@ -139,12 +136,11 @@ A single **left-and-right run-through** of the three sections below will unwind 
 ### **Step K1 Occipital Float** *(balances occiput-atlas torque)*
 
 1. **Right:**
-
    * Stand tall, **eyes forward**.
    * **Inhale**—imagine subtly lifting the **right back corner of your skull** upward (like you’re “lengthening” that side of your head).
    * **Exhale**—let your **jaw swing slightly to the left** (opposite side).
-2. **Left:** 
 
+2. **Left:** 
    * Stand tall, **eyes forward**.
    * **Inhale**—imagine subtly lifting the **left back corner of your skull** upward (like you’re “lengthening” that side of your head).
    * **Exhale**—let your **jaw swing slightly to the right** (opposite side).
