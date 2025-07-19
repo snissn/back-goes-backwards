@@ -17,35 +17,40 @@ A single **left-and-right run-through** of the three sections below will unwind 
    * **Inhale** 4 s—feel the right flank expand sideways.
    * **Exhale** 6 s—let the **left scapula** glide down and back.
 
-2. **Left:** repeat with sides reversed.
+2. **Left:**
+   * Reach the **left arm** overhead, palm in.
+   * **Inhale** 4 s—feel the left flank expand sideways.
+   * **Exhale** 6 s—let the **right scapula** glide down and back.
 
 ---
 
 ### **Step R2 Discharge Posterior Twist** *(unloads stiff back tissues)*
 
 1. **Right:** keep right arm up.
-
    * **Exhale** as you **side-bend toward the raised arm** (body arcs right).
    * Add a gentle **chin tuck**, letting the **eyes drop slightly** with the nod.
-   * **Inhale** return to centre.
-2. **Left:** mirror the action.
+   * **Inhale** return to center.
+
+2. **Left:** keep left arm up.
+   * **Exhale** as you **side-bend toward the raised arm** (body arcs left).
+   * Add a gentle **chin tuck**, letting the **eyes drop slightly** with the nod.
+   * **Inhale** return to center.
 
 ---
 
 ### **Step R3 Equalise Rib Volume** *(removes one-sided compression)*
 
 1. **Right:** place **both hands on right lower ribs**.
-
    * Take **3 quiet breaths**, widening the ribs sideways into your palms.
-2. **Left:** move hands to left ribs; repeat 3 breaths.
+2. **Left:** place **both hands on left lower ribs**.
+   * Take **3 quiet breaths**, widening the ribs sideways into your palms.
 
 ---
 
-### **Step R4 Align with Gravity** *(re-centres spine under skull)*
+### **Step R4 Align with Gravity** *(re-centers spine under skull)*
 
 * Stand (or sit) tall, arms relaxed.
 * For **3 slow breaths**:
-
   * **Exhale**—let the **tailbone melt downward** into the floor.
   * **Inhale**—feel the **crown float upward**, as if lengthening the spine.
 
@@ -55,7 +60,6 @@ A single **left-and-right run-through** of the three sections below will unwind 
 
 * Lace fingers **lightly behind the skull**.
 * On each of **2 breaths**:
-
   1. **Inhale**—allow the **sternum to glide back and up** (subtle).
   2. **Exhale**—keep that length without shrugging shoulders.
 
@@ -64,13 +68,11 @@ A single **left-and-right run-through** of the three sections below will unwind 
 ### **Step R6 Sweep Residual Twist** *(clears tiny front-chain spirals)*
 
 1. **Right sweep:**
-
    * Right hand rests on sternum, fingers pointing left.
    * **Exhale**—use your hand to gently draw your breastbone a finger-width to the **right**; let your gaze follow the movement.
    * **Inhale**—release the pull and allow your chest to return to center.
 
 2. **Left sweep:**
-
    * Left hand rests on sternum, fingers pointing right.
    * **Exhale**—gently draw your breastbone to the **left**; eyes follow.
    * **Inhale**—release and let the chest come back to neutral.
@@ -149,12 +151,11 @@ A single **left-and-right run-through** of the three sections below will unwind 
 ### **Step K2 Jaw-Hyoid Spiral** *(clears residual anterior twist at skull base)*
 
 1. **Right:**
-
    * With **tongue lightly touching the roof of your mouth**, focus on the right back corner of your skull.
    * **Exhale**—allow your **jaw to spiral microscopically toward the lifted corner** (right).
    * **Inhale**—return to neutral, center the jaw.
-2. **Left:** 
 
+2. **Left:** 
    * With **tongue lightly touching the roof of your mouth**, focus on the left back corner of your skull.
    * **Exhale**—allow your **jaw to spiral microscopically toward the lifted corner** (left).
    * **Inhale**—return to neutral, center the jaw.
