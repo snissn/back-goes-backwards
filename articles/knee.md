@@ -45,3 +45,17 @@
 
 **Key takeaway:**  
 Treat the knee as the *middle gear* in a rotational system: hip → knee → ankle. Let external rotation generated at the hip (and balanced by the ankle) pass *through* the knee. Forcing the joint to stay “forward” and pushing linearly overloads soft tissue and is a common recipe for chronic knee pain. Shift your mindset from “keep knees still” to “coordinate the spiral,” and the joint can lock, unlock and load the way anatomy intended.
+
+
+<!-- Screw-home mechanism – image 1 -->
+![Knee screw-home locking mechanism diagram 1](https://image4.slideserve.com/9197912/screw-home-locking-mechanism-l.jpg)
+
+<!-- Hip–knee–ankle rotational coupling illustration -->
+![Rotational coupling between hip, knee, and ankle](https://static.wixstatic.com/media/21b0dd_650add3bfea04caf875b8e978f227e27f000.jpg/v1/fill/w_980%2Ch_623%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_auto/21b0dd_650add3bfea04caf875b8e978f227e27f000.jpg)
+
+<!-- Tibia–femur rotation during knee extension -->
+![Rotation between tibia and femur during knee extension](https://slideplayer.com/slide/5831888/19/images/11/Rotation%2Bbetween%2Bthe%2Btibia%2Band%2Bfemur.%2BDuring%2BKnee%2Bextension%3A.jpg)
+
+<!-- Screw-home mechanism – image 2 -->
+![Knee screw-home locking mechanism diagram 2](https://image1.slideserve.com/2176746/screw-home-mechanism-l.jpg)
+
