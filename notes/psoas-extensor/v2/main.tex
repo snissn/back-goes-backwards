@@ -1,0 +1,237 @@
+\documentclass[11pt]{article}
+
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\title{The Helical Extension Theorem:\\
+Psoas--Ligament Coupling and Rotational-to-Axial Work Conversion in Hip Hyperextension}
+\author{Concept Note}
+\date{}
+
+\newtheorem{theorem}{Helical Extension Theorem}
+\newtheorem{definition}{Definition}
+\newtheorem{remark}{Remark}
+\newtheorem{assumption}{Assumption}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Standard descriptions of the iliopsoas emphasize its role as a hip flexor and trunk stabilizer,
+and the hip joint is often modeled as a simple ball-and-socket or hinge for teaching purposes.
+In extreme ranges of motion, however (e.g.\ deep backbends such as Urdhva Dhanurasana, martial
+front splits, or maximal sprint extension), the anterior hip capsule and spiral ligaments become
+fully tensioned. In this regime, the hip behaves like a screw constrained within a helical capsule.
+We propose a simple kinematic and energetic model showing how an external rotation torque driven
+by psoas can indirectly contribute to extension work through psoas--ligament coupling, without
+requiring the psoas to change sign from flexor to extensor.
+\end{abstract}
+
+\section{Introduction}
+
+Anatomy texts commonly describe psoas major as a powerful hip flexor that may also contribute
+to external rotation and trunk control. The hip joint itself is a synovial ball-and-socket
+joint reinforced by strong capsular ligaments, notably the iliofemoral (Y) ligament.
+These ligaments are arranged in a spiral fashion from pelvis to proximal femur and tighten
+in hip extension, with additional tightening reported in combined extension and external
+rotation (a ``screw-home'' mechanism).
+
+In functional movement disciplines such as yoga and martial arts, practitioners observe that
+certain spiral activation patterns around the hip seem to improve lift, stability, and
+force transmission in extreme positions (e.g.\ Wheel pose or loaded stances), even though
+psoas is typically classified as an antagonist to hip extension. This note proposes a
+mechanical explanation: in a ``helical constraint regime'' near terminal extension, rotation
+and extension are kinematically coupled by ligament geometry, so that external rotation work
+can manifest as effective extension work at the system level.
+
+\section{Anatomical and Mechanical Background}
+
+\subsection{Rigid bodies and constraints}
+
+We model the system with three primary rigid bodies:
+
+\begin{itemize}
+  \item the pelvis and trunk (treated as a single body),
+  \item the femur,
+  \item the ground (feet fixed; closed kinetic chain).
+\end{itemize}
+
+The hip joint is modeled as a ball-and-socket with additional passive constraints arising from:
+
+\begin{itemize}
+  \item the iliofemoral, pubofemoral, and ischiofemoral ligaments,
+  \item the anterior joint capsule and zona orbicularis.
+\end{itemize}
+
+These structures are known to run in a spiral from the acetabulum/ilium to the proximal femur
+and to tighten in hip extension, with further tightening in some patterns of combined
+extension and rotation.
+
+\subsection{Psoas major}
+
+Psoas major originates from T12--L5 vertebral bodies and transverse processes and inserts
+on the lesser trochanter of the femur. It is classically described as:
+
+\begin{itemize}
+  \item a strong hip flexor,
+  \item a contributor to lumbar flexion and lateral flexion,
+  \item a potential external (lateral) rotator of the hip near neutral,
+  \item an important postural stabilizer of the lumbopelvic region.
+\end{itemize}
+
+More detailed modeling shows that the rotational moment arm of psoas may vary with hip angle,
+but for the purposes of this concept note we assume that in the extended or near-neutral
+positions relevant to deep backbending, psoas can generate a net external rotation torque
+about the hip.
+
+\section{Kinematic Model of the Helical Constraint}
+
+\begin{definition}[Joint coordinates]
+Let
+\begin{itemize}
+  \item $\theta$ denote the hip extension angle measured from neutral standing
+        ($\theta = 0^\circ$ in neutral, $\theta > 0^\circ$ in extension/hyperextension),
+  \item $\phi$ denote the external rotation angle of the femur at the hip
+        ($\phi > 0$ for external rotation),
+  \item $L(\theta,\phi)$ denote an effective length of the anterior capsular/ligamentous
+        complex between pelvis and femur.
+\end{itemize}
+\end{definition}
+
+\begin{assumption}[Helical constraint regime]
+There exists a range of motion near terminal extension in which:
+\begin{enumerate}
+  \item the anterior capsular ligaments (including the iliofemoral ligament) are fully
+        tensioned and act as a primary constraint on motion,
+  \item further motion of the hip approximately preserves $L$, so that
+        \[
+          L(\theta,\phi) \approx L_0,
+        \]
+        with $L_0$ constant over small variations of $(\theta,\phi)$,
+  \item $L$ is differentiable in $\theta$ and $\phi$.
+\end{enumerate}
+\end{assumption}
+
+Differentiating the constraint $L(\theta,\phi) = L_0$ yields
+\begin{equation}
+  \frac{\partial L}{\partial \theta}\, d\theta
+  + \frac{\partial L}{\partial \phi}\, d\phi = 0.
+\end{equation}
+
+Provided $\partial L / \partial \theta \neq 0$ in this regime, we obtain the local coupling
+relation
+\begin{equation}
+  \frac{d\theta}{d\phi} = - \frac{\partial L / \partial \phi}{\partial L / \partial \theta}
+  =: \lambda,
+\end{equation}
+where $\lambda$ is an effective helical pitch that characterizes the coupling between
+external rotation and extension near the chosen configuration.
+
+\begin{assumption}[Sign of the helical pitch]
+Empirically, the spiral orientation of the capsular ligaments and their reported tightening
+in combined extension and external rotation suggest that in the relevant end-range regime,
+a small increase in external rotation is associated with a small increase in extension.
+We therefore assume $\lambda > 0$ locally.
+\end{assumption}
+
+Under these assumptions, small changes obey
+\begin{equation}
+  \Delta \theta \approx \lambda\, \Delta \phi
+\end{equation}
+for sufficiently small variations around a fixed extended configuration.
+
+\section{Energetic Contribution of Psoas Rotation Torque}
+
+Let $\tau_{\phi,\text{psoas}}$ denote the torque about the hip's rotational axis generated
+by psoas in the external rotation direction.
+
+The incremental work done by psoas in the rotational coordinate is
+\begin{equation}
+  dW_{\text{psoas}} = \tau_{\phi,\text{psoas}}\, d\phi.
+\end{equation}
+
+Using the kinematic coupling $d\theta = \lambda\, d\phi$, we may write
+\begin{equation}
+  d\phi = \frac{1}{\lambda}\, d\theta,
+\end{equation}
+and therefore
+\begin{equation}
+  dW_{\text{psoas}} = \tau_{\phi,\text{psoas}}\, \frac{1}{\lambda}\, d\theta.
+\end{equation}
+
+We define the \emph{effective extension work} of psoas in the helical regime as
+\begin{equation}
+  W_{\text{ext, eff}}
+  := \int_{\theta_1}^{\theta_2} \tau_{\phi,\text{psoas}}(\theta)\, \frac{1}{\lambda(\theta)}\, d\theta.
+\end{equation}
+
+Note that this does \emph{not} imply that psoas has become a mechanical hip extensor
+in the sagittal plane. Its classical flexion moment arm remains; rather, the geometry
+of the capsular constraint causes some of the rotational work it performs to appear
+as axial motion in the extension coordinate.
+
+\begin{theorem}[Helical Extension Theorem]
+Assume:
+\begin{enumerate}
+  \item The hip is in a configuration where the anterior capsular ligaments are fully
+        tensioned and impose a differentiable helical constraint $L(\theta,\phi) = L_0$.
+  \item The local helical pitch $\lambda = d\theta / d\phi$ is nonzero and positive.
+  \item Psoas generates a nonzero external rotation torque $\tau_{\phi,\text{psoas}}$
+        about the hip.
+\end{enumerate}
+Then, for any motion respecting the constraint between $\theta_1$ and $\theta_2$ in this regime,
+the effective extension work of psoas satisfies
+\[
+  W_{\text{ext, eff}} =
+  \int_{\theta_1}^{\theta_2} \tau_{\phi,\text{psoas}}(\theta)\, \frac{1}{\lambda(\theta)}\, d\theta
+  \neq 0
+\]
+whenever $\tau_{\phi,\text{psoas}}$ is not identically zero.
+
+In a closed kinetic chain (feet fixed on the ground), this extension work corresponds to
+a forward and upward displacement of the pelvis relative to the feet, so that psoas can
+indirectly assist the global extension of the body in configurations such as deep backbends.
+\end{theorem}
+
+\begin{remark}[Compatibility with classical anatomy]
+The theorem does not require psoas to change sign from hip flexor to hip extensor. Locally,
+its flexion moment arm remains, and net extension requires the dominant action of musculature
+such as gluteus maximus and hamstrings. The result simply states that in a constrained
+helical regime, rotational work performed by psoas can contribute indirectly to the
+extension degree of freedom.
+\end{remark}
+
+\begin{remark}[Practical interpretations]
+In yoga backbends such as Urdhva Dhanurasana, practitioners often report that subtle
+spiral actions of the femurs and a sense of ``drawing into the hip sockets'' create
+more lift and less compression. In martial arts, ``screwing'' the legs into the ground
+to load the kua is a similar experiential description. The helical extension model
+provides a mechanical language for these observations: psoas supplies a controlled
+external rotation torque that engages the spiral ligaments, and the resulting geometric
+coupling improves extension support at the system level.
+\end{remark}
+
+\section{Limitations and Future Work}
+
+This concept note is intentionally simplified. Among the limitations:
+
+\begin{itemize}
+  \item The effective ligament length $L(\theta,\phi)$ and helical pitch $\lambda(\theta)$
+        have not been quantitatively measured in vivo for the extreme positions considered.
+  \item The rotational moment arm of psoas may vary substantially across individuals
+        and hip flexion/extension angles.
+  \item Other muscles (e.g.\ deep rotators, gluteus maximus) also contribute to external
+        rotation torque and thus may share or dominate the proposed effect.
+  \item The model neglects three-dimensional translations of the femoral head and the
+        complex anisotropic behavior of ligaments and capsule.
+\end{itemize}
+
+Nevertheless, the helical extension theorem offers a useful conceptual bridge between
+standard anatomy, advanced asana and martial practice, and formal mechanics. It motivates
+further imaging, modeling, and experimental work to quantify capsular and ligamentous
+constraints at end-range hip motion.
+
+\end{document}
+
