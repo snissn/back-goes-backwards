@@ -1,6 +1,8 @@
 \documentclass[11pt]{article}
 
 \usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage{grffile}
 \usepackage{geometry}
 \geometry{margin=1in}
 
@@ -45,6 +47,13 @@ psoas is typically classified as an antagonist to hip extension. This note propo
 mechanical explanation: in a ``helical constraint regime'' near terminal extension, rotation
 and extension are kinematically coupled by ligament geometry, so that external rotation work
 can manifest as effective extension work at the system level.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.6\textwidth]{deep wheel pose rotational torque woman yoga and sksleton muscle force diagram.jpeg}
+  \caption{Conceptual illustration of deep Wheel pose with rotational torque and muscle force pathways.}
+  \label{fig:wheel-torque}
+\end{figure}
 
 \section{Anatomical and Mechanical Background}
 
@@ -114,6 +123,13 @@ There exists a range of motion near terminal extension in which:
 \end{enumerate}
 \end{assumption}
 
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.55\textwidth]{helical force model.jpeg}
+  \caption{Helical force model emphasizing the spiral orientation and tensioning of the anterior hip capsule.}
+  \label{fig:helical-force}
+\end{figure}
+
 Differentiating the constraint $L(\theta,\phi) = L_0$ yields
 \begin{equation}
   \frac{\partial L}{\partial \theta}\, d\theta
@@ -142,6 +158,13 @@ Under these assumptions, small changes obey
 \end{equation}
 for sufficiently small variations around a fixed extended configuration.
 
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.45\textwidth]{rotate.png}
+  \caption{Schematic of rotational-to-axial coupling in the helical hip model.}
+  \label{fig:helical-rotate}
+\end{figure}
+
 \section{Energetic Contribution of Psoas Rotation Torque}
 
 Let $\tau_{\phi,\text{psoas}}$ denote the torque about the hip's rotational axis generated
@@ -166,6 +189,13 @@ We define the \emph{effective extension work} of psoas in the helical regime as
   W_{\text{ext, eff}}
   := \int_{\theta_1}^{\theta_2} \tau_{\phi,\text{psoas}}(\theta)\, \frac{1}{\lambda(\theta)}\, d\theta.
 \end{equation}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.6\textwidth]{hip force model full lower body.jpeg}
+  \caption{Lower-body hip force model in a closed-chain configuration, illustrating load transfer through the extended hip.}
+  \label{fig:hip-force-lower-body}
+\end{figure}
 
 Note that this does \emph{not} imply that psoas has become a mechanical hip extensor
 in the sagittal plane. Its classical flexion moment arm remains; rather, the geometry
@@ -234,4 +264,3 @@ further imaging, modeling, and experimental work to quantify capsular and ligame
 constraints at end-range hip motion.
 
 \end{document}
-

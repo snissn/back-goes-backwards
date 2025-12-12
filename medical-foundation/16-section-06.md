@@ -1,6 +1,11 @@
 # **Section 6 — Tensegrity and the Breath-Structured Body: A Rotational Model for Systemic Health**  
 ## **Introduction: From Linear Breath to Rotational Tensegrity**
+
+<!---
+
 https://chatgpt.com/c/6807d049-2a80-8002-8f42-cb700a679bcf
+-->
+
 Breathing is typically described in linear terms: air moves in during inhalation, and out during exhalation. This description accurately reflects the flow of air, but it does not account for how breath affects structure. With each breath, the body changes shape. Tension shifts across the spine. Pressure redistributes between cavities. Joints reposition, soft tissue deforms, and internal mass reorganizes. These effects are mechanical and repeatable, yet they are often overlooked in both movement and clinical models of breathing.
 
 This section presents a structural interpretation of breath. It describes how inhale and exhale function as **phases of load and return**, and how these phases interact with the body’s architecture of suspension. The model draws on principles of **tensegrity**—a system in which form is maintained not by compression or bracing, but by the continuous redistribution of tension across space.

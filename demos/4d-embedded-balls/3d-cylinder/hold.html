@@ -100,7 +100,6 @@
         let points = [],
           outerPts = [];
 
-        if (label != "HOLD") {
           for (let i = 0; i < nParticles; i++) {
             const off = i - center;
             const ang = theta + spread * (off / center);
@@ -114,7 +113,6 @@
               yo = cy + (pr + 25) * sin(ang);
             outerPts.push({ x: xo, y: yo });
           }
-        }
         // draw cylinder bottom
         stroke(shapeColor);
         strokeWeight(2);

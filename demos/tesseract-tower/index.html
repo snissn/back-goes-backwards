@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,11 +19,13 @@
     let time = 0;
 
     const outerSize = 4;
-const outerAspect = { x: 1, y: 2, z: 1 };
+    const outerAspect = { x: 1, y: 2, z: 1 };
     const innerSize = 1.5;
-const innerAspect = { x: 1, y: 2, z: 1 };
+    const innerAspect = { x: 1, y: 2, z: 1 };
 
     const outerPoints = [];
+const anchorBodies = [];
+const anchorSprings = [];
 
     init();
     animate();
@@ -58,20 +59,63 @@ const innerAspect = { x: 1, y: 2, z: 1 };
       ];
 
       outerPointsRaw.forEach((pos, index) => {
-        const isBottom = index >= 4; // bottom four corners
-        const v = new CANNON.Body({ mass: isBottom ? 0 : 0.1 });
-        v.position.set(...pos);
-        world.addBody(v);
-        outerPoints.push(v);
+  const isBottom = index >= 4;
+  const v = new CANNON.Body({ mass: isBottom ? 0 : 0.1 });
+  v.position.set(...pos);
 
-        const sphere = new THREE.Mesh(
-          new THREE.SphereGeometry(0.05),
-          new THREE.MeshBasicMaterial({ color: 0xff0000 })
-        );
-        sphere.userData.body = v;
-        scene.add(sphere);
-        outerCornerVisuals.push(sphere);
-      });
+  if (index === 4 || index === 5) {
+    v.type = CANNON.Body.STATIC;
+    v.linearFactor = new CANNON.Vec3(0, 0, 0);
+    v.angularFactor = new CANNON.Vec3(0, 0, 0);
+  }
+
+  if (index === 0 || index === 1) {
+    const anchor = new CANNON.Body({ mass: 0 });
+    anchor.position.set(...pos);
+    world.addBody(anchor);
+    anchorBodies.push(anchor);
+    const lock = new CANNON.LockConstraint(v, anchor);
+    world.addConstraint(lock);
+    anchorSprings.push({ body: v, anchor });
+  }
+});
+  }
+
+    world.addBody(v);
+  outerPoints.push(v);
+  const sphere = new THREE.Mesh(
+    new THREE.SphereGeometry(0.05),
+    new THREE.MeshBasicMaterial({ color: 0xff0000 })
+  );
+  sphere.userData.body = v;
+  scene.add(sphere);
+  outerCornerVisuals.push(sphere);
+        world.addBody(v);
+  outerPoints.push(v);
+
+  const sphere = new THREE.Mesh(
+    new THREE.SphereGeometry(0.05),
+    new THREE.MeshBasicMaterial({ color: 0xff0000 })
+  );
+  sphere.userData.body = v;
+  scene.add(sphere);
+  outerCornerVisuals.push(sphere);
+});
+
+// Add markers for posterior and ventral sides
+      const posteriorMarker = new THREE.Mesh(
+        new THREE.BoxGeometry(0.1, 0.1, 0.1),
+        new THREE.MeshBasicMaterial({ color: 0x0000ff }) // Blue = posterior
+      );
+      posteriorMarker.position.set(0, 0, -outerSize * 0.6);
+      scene.add(posteriorMarker);
+
+      const ventralMarker = new THREE.Mesh(
+        new THREE.BoxGeometry(0.1, 0.1, 0.1),
+        new THREE.MeshBasicMaterial({ color: 0x00ff00 }) // Green = ventral
+      );
+      ventralMarker.position.set(0, 0, outerSize * 0.6);
+      scene.add(ventralMarker);
 
       const edgeIndices = [
         [0, 1], [1, 3], [3, 2], [2, 0],
@@ -101,15 +145,19 @@ const innerAspect = { x: 1, y: 2, z: 1 };
 
       const halfInner = innerSize / 2;
       const innerOffsets = [
-        [-halfInner * innerAspect.x, halfInner * innerAspect.y, -halfInner * innerAspect.z],
-        [ halfInner * innerAspect.x, halfInner * innerAspect.y, -halfInner * innerAspect.z],
-        [-halfInner * innerAspect.x, halfInner * innerAspect.y,  halfInner * innerAspect.z],
-        [ halfInner * innerAspect.x, halfInner * innerAspect.y,  halfInner * innerAspect.z],
-        [-halfInner * innerAspect.x, -halfInner * innerAspect.y, -halfInner * innerAspect.z],
-        [ halfInner * innerAspect.x, -halfInner * innerAspect.y, -halfInner * innerAspect.z],
-        [-halfInner * innerAspect.x, -halfInner * innerAspect.y,  halfInner * innerAspect.z],
-        [ halfInner * innerAspect.x, -halfInner * innerAspect.y,  halfInner * innerAspect.z]
-      ];
+  // Posterior top (closer to Z-) - remains aligned
+  [-halfInner * innerAspect.x, halfInner * innerAspect.y, -half * outerAspect.z + 0.3],
+  [ halfInner * innerAspect.x, halfInner * innerAspect.y, -half * outerAspect.z + 0.3],
+  // Ventral top (Z+) - start lower to simulate convex drop
+  [-halfInner * innerAspect.x, halfInner * innerAspect.y, -half * outerAspect.z + 0.3 + innerSize - 0.3],
+  [ halfInner * innerAspect.x, halfInner * innerAspect.y, -half * outerAspect.z + 0.3 + innerSize - 0.3],
+  // Posterior bottom
+  [-halfInner * innerAspect.x, -halfInner * innerAspect.y, -half * outerAspect.z + 0.3],
+  [ halfInner * innerAspect.x, -halfInner * innerAspect.y, -half * outerAspect.z + 0.3],
+  // Ventral bottom
+  [-halfInner * innerAspect.x, -halfInner * innerAspect.y, -half * outerAspect.z + 0.3 + innerSize],
+  [ halfInner * innerAspect.x, -halfInner * innerAspect.y, -half * outerAspect.z + 0.3 + innerSize]
+];
 
       innerOffsets.forEach(offset => {
         const body = new CANNON.Body({ mass: 0.1 });
@@ -175,7 +223,7 @@ const innerAspect = { x: 1, y: 2, z: 1 };
     }
 
     function animate() {
-      requestAnimationFrame(animate);
+  requestAnimationFrame(animate);
       time += 0.016;
 
       innerSprings.forEach(s => s.applyForce());
@@ -187,6 +235,11 @@ const innerAspect = { x: 1, y: 2, z: 1 };
       });
 
       outerSprings.forEach(s => s.applyForce());
+anchorSprings.forEach(({ body, anchor }) => {
+  anchor.position.z = body.position.z;
+});
+
+  // Constraint override removed — using anchor springs instead
 
       world.step(1 / 60);
 
@@ -234,4 +287,5 @@ const innerAspect = { x: 1, y: 2, z: 1 };
   </script>
 </body>
 </html>
+
 

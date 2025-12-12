@@ -237,6 +237,7 @@ Description:
             out_path.write_text(f"{heading_line}\n\n{content}\n", encoding="utf-8")
             usage = response.usage
             print(f"✅ Wrote: {out_path} | Prompt: {usage.prompt_tokens} | Output: {usage.completion_tokens} | Total: {usage.total_tokens}")
+        break
 
 if __name__ == "__main__":
     import argparse
