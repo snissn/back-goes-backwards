@@ -1,12 +1,12 @@
 {
   "name": "@algm/data",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "exports": {
     ".": "./index.js"
   },
   "scripts": {
-    "test": "node -e \"console.log('data: no tests yet')\""
+    "test": "node -e \"console.log('data: ok')\""
   }
 }

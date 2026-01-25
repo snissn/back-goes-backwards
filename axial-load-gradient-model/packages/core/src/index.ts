@@ -1,1 +1,2 @@
-export const coreVersion = "0.0.0";
+export { coreVersion } from "./version.js";
+export * from "./types.js";

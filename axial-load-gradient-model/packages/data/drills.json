@@ -1,0 +1,115 @@
+{
+  "version": "0.1.0",
+  "drills": [
+    {
+      "id": "B90",
+      "name": "Supine 90/90 breathing",
+      "tier": 0,
+      "risk": 0,
+      "cost": 1,
+      "dose": "4-6 slow breaths",
+      "signature": {"L": 0, "T": -1, "C": -1},
+      "failureMode": "Neck presses into floor or ribs forced down.",
+      "notes": "Use long exhale to reduce cervical load-bearing."
+    },
+    {
+      "id": "SB",
+      "name": "Standing quiet-neck breath",
+      "tier": 0,
+      "risk": 0,
+      "cost": 1,
+      "dose": "2-4 slow breaths",
+      "signature": {"L": 0, "T": 0, "C": -1},
+      "failureMode": "Chest lifts or shoulders rise.",
+      "notes": "Isolates cervical inversion without bracing."
+    },
+    {
+      "id": "WSX",
+      "name": "Wall slide + exhale",
+      "tier": 0,
+      "risk": 1,
+      "cost": 1,
+      "dose": "4-6 reps",
+      "signature": {"L": 0, "T": -1, "C": -1},
+      "failureMode": "Rib flare to get range.",
+      "notes": "Scap-thorax coupling without shrug."
+    },
+    {
+      "id": "HANG-S",
+      "name": "Supported hang",
+      "tier": 1,
+      "risk": 1,
+      "cost": 1,
+      "dose": "15-30 seconds",
+      "signature": {"L": 0, "T": -1, "C": -1},
+      "failureMode": "Shrugging or neck tightening.",
+      "notes": "Feet grounded; shoulders should feel heavy."
+    },
+    {
+      "id": "ERBL",
+      "name": "Externally Rotated Backward Load",
+      "tier": 0,
+      "risk": 1,
+      "cost": 1,
+      "dose": "3 slow reps per side",
+      "signature": {"L": -1, "T": 0, "C": 0},
+      "failureMode": "Lumbar arching to fake extension.",
+      "notes": "Establish ER before extension."
+    },
+    {
+      "id": "BSTEP",
+      "name": "Backward step acceptance drill",
+      "tier": 0,
+      "risk": 1,
+      "cost": 1,
+      "dose": "2 reps per side",
+      "signature": {"L": -1, "T": 0, "C": 0},
+      "failureMode": "Short stride or rib flare.",
+      "notes": "Back leg accepts load without lumbar hinge."
+    },
+    {
+      "id": "BW",
+      "name": "Backward walking",
+      "tier": 0,
+      "risk": 1,
+      "cost": 1,
+      "dose": "45-90 seconds",
+      "signature": {"L": -1, "T": -1, "C": 0},
+      "failureMode": "Looking up or neck bracing.",
+      "notes": "Global negative gradient builder."
+    },
+    {
+      "id": "TROT",
+      "name": "Thorax-over-pelvis rotation (head last)",
+      "tier": 1,
+      "risk": 1,
+      "cost": 1,
+      "dose": "4-6 slow reps",
+      "signature": {"L": 0, "T": -1, "C": -1},
+      "failureMode": "Head leads or jaw tightens.",
+      "notes": "Teaches thoracic rotation without cervical substitution."
+    },
+    {
+      "id": "CRAWL",
+      "name": "Contralateral crawl",
+      "tier": 2,
+      "risk": 2,
+      "cost": 2,
+      "dose": "20 steps",
+      "signature": {"L": -1, "T": -1, "C": -1},
+      "failureMode": "Neck leads or ribs brace.",
+      "notes": "Global integrator; easy to contaminate."
+    },
+    {
+      "id": "SCARRY",
+      "name": "Suitcase carry",
+      "tier": 2,
+      "risk": 2,
+      "cost": 2,
+      "dose": "30-60 seconds per side",
+      "signature": {"L": -1, "T": -1, "C": -1},
+      "failureMode": "Shoulder hikes or SCM clamps.",
+      "notes": "Use light load and keep neck quiet."
+    }
+  ]
+}

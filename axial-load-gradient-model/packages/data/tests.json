@@ -1,0 +1,57 @@
+{
+  "version": "0.1.0",
+  "quick": {
+    "id": "SGS-120",
+    "name": "Segmental Gradient Screen",
+    "durationSec": 120,
+    "steps": [
+      {
+        "id": "Q1",
+        "name": "Arm elevation load-routing",
+        "durationSec": 20,
+        "flags": ["T", "C"],
+        "passCriteria": "Neck quiet, ribs stacked, shoulders do not hike.",
+        "failCriteria": "SCM/upper trap fires immediately or ribs flare hard."
+      },
+      {
+        "id": "Q2",
+        "name": "Backward step acceptance (L/R)",
+        "durationSec": 30,
+        "flags": ["L"],
+        "passCriteria": "Back leg accepts load quietly; no neck tension.",
+        "failCriteria": "Stride shortens, lumbar hinge, or anterior hip pinch."
+      },
+      {
+        "id": "Q3",
+        "name": "Single-leg quiet spine (L/R)",
+        "durationSec": 30,
+        "flags": ["L", "T"],
+        "passCriteria": "Pelvis rotates over femur without spinal substitution.",
+        "failCriteria": "Ribs shift or lumbar twist substitutes."
+      },
+      {
+        "id": "Q4",
+        "name": "Breath probe under stack",
+        "durationSec": 20,
+        "flags": ["C"],
+        "passCriteria": "Posterior/lateral expansion; no shoulder rise.",
+        "failCriteria": "Chest lifts vertically or SCM engages."
+      }
+    ],
+    "scoring": {
+      "bDominantMaxFails": 1,
+      "mixedMaxFails": 3,
+      "aDominantMinFails": 4
+    }
+  },
+  "adaptive": {
+    "id": "ADAPT-1",
+    "name": "Adaptive branches",
+    "notes": "Branching tests based on Quick screen failures."
+  },
+  "advanced": {
+    "id": "ADV-1",
+    "name": "Advanced validation",
+    "notes": "Stability under load and dynamic perturbation."
+  }
+}
