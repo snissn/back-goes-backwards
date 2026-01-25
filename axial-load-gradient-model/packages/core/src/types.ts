@@ -22,6 +22,7 @@ export type TestStep = {
   flags: Segment[];
   passCriteria: string;
   failCriteria: string;
+  sided?: boolean;
 };
 
 export type QuickTest = {

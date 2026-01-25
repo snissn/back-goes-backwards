@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "quick": {
     "id": "SGS-120",
     "name": "Segmental Gradient Screen",
@@ -11,23 +11,26 @@
         "durationSec": 20,
         "flags": ["T", "C"],
         "passCriteria": "Neck quiet, ribs stacked, shoulders do not hike.",
-        "failCriteria": "SCM/upper trap fires immediately or ribs flare hard."
+        "failCriteria": "SCM/upper trap fires immediately or ribs flare hard.",
+        "sided": false
       },
       {
         "id": "Q2",
-        "name": "Backward step acceptance (L/R)",
+        "name": "Backward step acceptance",
         "durationSec": 30,
         "flags": ["L"],
         "passCriteria": "Back leg accepts load quietly; no neck tension.",
-        "failCriteria": "Stride shortens, lumbar hinge, or anterior hip pinch."
+        "failCriteria": "Stride shortens, lumbar hinge, or anterior hip pinch.",
+        "sided": true
       },
       {
         "id": "Q3",
-        "name": "Single-leg quiet spine (L/R)",
+        "name": "Single-leg quiet spine",
         "durationSec": 30,
         "flags": ["L", "T"],
         "passCriteria": "Pelvis rotates over femur without spinal substitution.",
-        "failCriteria": "Ribs shift or lumbar twist substitutes."
+        "failCriteria": "Ribs shift or lumbar twist substitutes.",
+        "sided": true
       },
       {
         "id": "Q4",
@@ -35,7 +38,8 @@
         "durationSec": 20,
         "flags": ["C"],
         "passCriteria": "Posterior/lateral expansion; no shoulder rise.",
-        "failCriteria": "Chest lifts vertically or SCM engages."
+        "failCriteria": "Chest lifts vertically or SCM engages.",
+        "sided": false
       }
     ],
     "scoring": {

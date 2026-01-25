@@ -1,13 +1,22 @@
 {
   "name": "@algm/cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "bin": {
-    "algm": "src/index.js"
+    "algm": "src/index.ts"
   },
   "scripts": {
-    "start": "node src/index.js",
-    "test": "node -e \"console.log('cli: no tests yet')\""
+    "start": "tsx src/index.ts",
+    "test": "node -e \"console.log('cli: ok')\""
+  },
+  "dependencies": {
+    "@algm/core": "workspace:*",
+    "@algm/data": "workspace:*",
+    "commander": "^14.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
   }
 }

@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 
 import {
   chooseMinimalDrillSet,
+  classifyQuick,
   inferPositiveSegments,
   orderProtocol
 } from "../src/engine.js";
@@ -46,6 +47,20 @@ function sumSignature(items: Drill[]): Signature {
   };
   const positives = inferPositiveSegments(result, quick).sort();
   assert.deepEqual(positives, ["C", "L", "T"]);
+})();
+
+(function testClassifyQuick() {
+  const result = {
+    steps: [
+      { id: "Q1", failed: true },
+      { id: "Q2", failed: false },
+      { id: "Q3", failed: false },
+      { id: "Q4", failed: false }
+    ]
+  };
+  const classification = classifyQuick(result, quick);
+  assert.equal(classification.classification, "B-dominant");
+  assert.equal(classification.fails, 1);
 })();
 
 (function testChooseMinimalDrillSetSingle() {

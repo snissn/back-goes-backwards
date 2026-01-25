@@ -11,6 +11,11 @@ export type QuickResult = {
   steps: QuickStepResult[];
 };
 
+export type QuickClassification = {
+  fails: number;
+  classification: "B-dominant" | "Mixed" | "A-dominant";
+};
+
 export type ProtocolCard = {
   targets: Segment[];
   drills: Drill[];
@@ -31,6 +36,17 @@ export function inferPositiveSegments(result: QuickResult, quickTest: QuickTest)
     }
   }
   return Array.from(positives);
+}
+
+export function classifyQuick(result: QuickResult, quickTest: QuickTest): QuickClassification {
+  const fails = result.steps.filter((s) => s.failed).length;
+  if (fails <= quickTest.scoring.bDominantMaxFails) {
+    return { fails, classification: "B-dominant" };
+  }
+  if (fails <= quickTest.scoring.mixedMaxFails) {
+    return { fails, classification: "Mixed" };
+  }
+  return { fails, classification: "A-dominant" };
 }
 
 function signatureSum(a: Signature, b: Signature): Signature {

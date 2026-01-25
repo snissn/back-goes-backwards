@@ -77,6 +77,7 @@ function validateTests() {
     });
     assertString(s.passCriteria, `${base}.passCriteria`);
     assertString(s.failCriteria, `${base}.failCriteria`);
+    if (s.sided !== undefined && typeof s.sided !== "boolean") fail(`${base}.sided must be boolean`);
   });
   const scoring = quick.scoring;
   if (!scoring) fail("tests.quick.scoring is required");
