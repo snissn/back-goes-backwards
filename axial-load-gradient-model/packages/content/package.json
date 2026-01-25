@@ -1,0 +1,9 @@
+{
+  "name": "@algm/content",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node -e \"console.log('content: no tests yet')\""
+  }
+}
