@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+  <rect width="720" height="360" fill="#fbfaf7"/>
+  <text x="24" y="32" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f1b16">Axial Load Gradient: State A vs State B</text>
+
+  <line x1="80" y1="300" x2="80" y2="80" stroke="#1f1b16" stroke-width="2"/>
+  <line x1="80" y1="300" x2="640" y2="300" stroke="#1f1b16" stroke-width="2"/>
+  <text x="50" y="70" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f1b16">L(z)</text>
+  <text x="640" y="320" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f1b16">z</text>
+
+  <line x1="100" y1="260" x2="620" y2="120" stroke="#b91c1c" stroke-width="3"/>
+  <text x="500" y="130" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#b91c1c">State A (G &gt; 0)</text>
+
+  <line x1="100" y1="120" x2="620" y2="260" stroke="#15803d" stroke-width="3"/>
+  <text x="500" y="250" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#15803d">State B (G &lt; 0)</text>
+</svg>

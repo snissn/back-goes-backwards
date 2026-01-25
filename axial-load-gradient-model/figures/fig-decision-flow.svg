@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+  <rect width="720" height="360" fill="#fbfaf7"/>
+  <text x="24" y="32" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f1b16">Quick Screen -> Adaptive -> Drill -> Retest</text>
+
+  <rect x="40" y="80" width="140" height="50" fill="#ffffff" stroke="#1f1b16"/>
+  <text x="62" y="110" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f1b16">Quick Screen</text>
+
+  <rect x="220" y="80" width="160" height="50" fill="#ffffff" stroke="#1f1b16"/>
+  <text x="238" y="110" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f1b16">Adaptive Branch</text>
+
+  <rect x="420" y="80" width="120" height="50" fill="#ffffff" stroke="#1f1b16"/>
+  <text x="442" y="110" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f1b16">Drill Set</text>
+
+  <rect x="580" y="80" width="110" height="50" fill="#ffffff" stroke="#1f1b16"/>
+  <text x="602" y="110" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f1b16">Retest</text>
+
+  <line x1="180" y1="105" x2="220" y2="105" stroke="#1f1b16" stroke-width="2"/>
+  <line x1="380" y1="105" x2="420" y2="105" stroke="#1f1b16" stroke-width="2"/>
+  <line x1="540" y1="105" x2="580" y2="105" stroke="#1f1b16" stroke-width="2"/>
+
+  <path d="M 635 130 Q 635 180 580 200" fill="none" stroke="#1f1b16" stroke-width="2"/>
+  <text x="520" y="210" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f1b16">If not flipped, repeat</text>
+</svg>
