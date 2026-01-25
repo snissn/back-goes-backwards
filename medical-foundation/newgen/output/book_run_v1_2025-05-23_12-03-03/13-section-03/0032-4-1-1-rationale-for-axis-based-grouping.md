@@ -1,0 +1,11 @@
+#### 4.1.1 Rationale for Axis-Based Grouping
+
+Grouping meridians according to their associated mechanical axes provides a foundational framework that bridges traditional energetic maps with contemporary biomechanical understanding. This organizational approach clarifies the body’s structural and functional coherence, allowing clinicians and movement professionals to interpret meridian pathways not as isolated lines of energy but as manifestations of the body's underlying mechanical architecture.
+
+Each axis—vertical, sagittal, and rotational—serves as a primary vector of load transmission and movement. Meridians aligned with these axes reflect the body's natural lines of least resistance, where structural stability and dynamic flexibility converge. By associating meridians with specific axes, practitioners can better understand how tension, compression, and rotational forces distribute across the body’s tensegrity network, revealing the mechanical basis for traditional pathways.
+
+This axis-based grouping enhances diagnostic precision by highlighting patterns of dysfunction that align with biomechanical load vectors. For example, rotational axis meridians—such as the spleen, stomach, large intestine, and lung meridians—correspond to the body's rotational movements and load patterns, which are often disrupted in postural imbalances or chronic tension. Recognizing these meridians as part of a rotational axis provides a clear map for targeted intervention, whether through manual therapy, movement correction, or breath regulation.
+
+Furthermore, this approach supports treatment strategies rooted in mechanical coherence. Instead of viewing meridians solely as energetic channels, practitioners understand them as pathways that reflect and influence the body's structural integrity. Restoring balance along an axis—by realigning load, releasing rotational tension, and optimizing breath—re-establishes the body's tensegrity and enhances overall health.
+
+In essence, organizing meridians by axis demystifies their complex pathways, integrating traditional empirical maps with a precise biomechanical logic. It transforms meridian theory from a symbolic system into a practical, structural blueprint—facilitating more accurate diagnosis, effective treatment, and a deeper understanding of how ancient wisdom aligns with modern science.

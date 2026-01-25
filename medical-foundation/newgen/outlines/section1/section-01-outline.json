@@ -1,0 +1,38 @@
+{
+  "Section 1": {
+    "title": "The Mechanics of Health: Unveiling the Role of Biomechanical Dysfunction in Modern Disease",
+    "Introduction: A New Perspective on Health": {
+      "description": "Establishes the limitations of a purely biochemical or genetic model of health, and introduces the biomechanical foundation\u2014alignment, force distribution, and structural integrity\u2014as critical yet overlooked determinants of chronic disease, resilience, and systemic function."
+    },
+    "1. The Body as a Biomechanical System": {
+      "description": "Lays out the conceptual model for understanding the body as an integrated, load-bearing mechanical system. Explains the dynamic relationship between hard (bones, joints, ligaments) and soft (muscles, fascia, vessels, nerves) tissue domains, and how their interactions set the stage for both health and dysfunction.",
+      "1.1 Integrated Structure and Function": {
+        "description": "Explores the inseparable partnership of rigid and compliant tissues, showing how bones, joints, ligaments, muscles, fascia, nerves, and vessels cooperate to maintain posture, facilitate movement, and regulate physiological processes. Emphasizes that health depends on the quality of their integration, not the function of isolated parts."
+      },
+      "1.2 Hard Tissue Dynamics": {
+        "description": "Focuses on the mechanics of bones, joints, and ligaments\u2014the body\u2019s architectural core\u2014and the conditions under which their ability to transmit load and maintain alignment is preserved or degraded.",
+        "1.2.1 Structural Alignment": {
+          "description": "Details the importance of skeletal alignment for healthy force transmission, explaining how deviations from biomechanical neutrality disrupt normal load pathways, concentrate stress, and trigger global compensations. Describes how misalignment propagates dysfunction through the kinetic chain."
+        },
+        "1.2.2 Dynamic Overload on Rigid Structures": {
+          "description": "Examines how repetitive or excessive force\u2014especially in the context of poor alignment\u2014leads to microtrauma and cumulative fatigue in bone, cartilage, and ligament. Explains why even submaximal, habitual stress can cause silent but progressive structural damage over time."
+        }
+      },
+  "1.3 Soft Tissue Dynamics: The Body\u2019s Tension Network": {
+    "description": "Explores how soft tissues operate not as isolated anatomical parts, but as a unified, dynamic tension network\u2014balancing, adapting, and sometimes distorting load throughout the entire body. This section lays out the foundational tensegrity logic, clinical relevance, and the path from healthy adaptation to system-wide dysfunction.",
+    "1.3.1 Introduction to the Tension Network": {
+      "description": "Soft tissues\u2014muscles, fascia, nerves, and vessels\u2014form a continuous, integrated system of tension, not a collection of separate structures. This network orchestrates force transmission, posture, and adaptation in real time. When misalignment occurs, the tension network compensates globally, often masking underlying structural problems but at a systemic cost."
+    },
+    "1.3.2 Tensegrity and Baseline Tone": {
+      "description": "The body's architecture is best modeled as a tensegrity system: bones are suspended by a matrix of soft tissue, allowing for both strength and flexibility. Baseline muscle and fascial tone preserve joint integrity and distribute load efficiently. When alignment is lost, the tensegrity system adapts, creating regions of overload and disuse that eventually alter the whole-body baseline."
+    },
+    "1.3.3 The Fascial Continuum and Internal Regulation": {
+      "description": "Fascia is a continuous, adaptive tissue that maintains internal geometry, connects all regions, and regulates pressure and proprioception. Altered fascial tone\u2014due to chronic misalignment or overload\u2014leads to adhesions, impaired fluid and nerve flow, and changes in organ mobility, affecting both movement and systemic physiology."
+    },
+    "1.3.4 From Adaptation to Dysfunction: Systemic Implications": {
+      "description": "The soft tissue system is inherently adaptive, but prolonged compensation can entrench new, dysfunctional baselines. Chronic mechanical strain increases energetic cost, distorts interoception, and disrupts physiology, often without overt injury. Over time, these adaptations propagate systemic dysfunction, setting the stage for pain, fatigue, and disease."
+    }
+  }
+}
+    }
+}

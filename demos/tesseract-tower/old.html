@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Breath Cube Tower</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background-color: #888; /* Muted, soft gray */
+    }
+    canvas {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <script type="module">
+    import * as THREE from 'https://esm.sh/three@0.157.0';
+    import { OrbitControls } from 'https://esm.sh/three@0.157.0/examples/jsm/controls/OrbitControls.js';
+    import * as CANNON from 'https://cdn.jsdelivr.net/npm/cannon-es@0.20.0/dist/cannon-es.js';
+
+    let scene, camera, renderer, world, controls;
+    let innerCornerBodies = [], innerSprings = [], innerSpringLines = [],
+        connectorSprings = [], connectorLines = [],
+        outerSprings = [], outerSpringLines = [], outerCornerVisuals = [];
+    let time = 0;
+    const outerSize = 4, innerSize = 1.5;
+    const outerAspect = { x: 1, y: 2, z: 1 }, innerAspect = { x: 1, y: 2, z: 1 };
+    const outerPoints = [];
+
+    init();
+    animate();
+
+    function init() {
+      scene = new THREE.Scene();
+      camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 100);
+      camera.position.set(6, 8, 8);
+
+      renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+
+      controls = new OrbitControls(camera, renderer.domElement);
+      controls.enableDamping = true;
+      controls.dampingFactor = 0.05;
+
+      world = new CANNON.World({ gravity: new CANNON.Vec3(0, 0, 0) });
+
+      const ambient = new THREE.AmbientLight(0xffffff, 0.7);
+      scene.add(ambient);
+      const dirLight = new THREE.DirectionalLight(0xffffff, 0.4);
+      dirLight.position.set(10, 10, 10);
+      scene.add(dirLight);
+
+      const half = outerSize / 2;
+      const outerPointsRaw = [
+        [-half * outerAspect.x, half * outerAspect.y, -half * outerAspect.z],
+        [ half * outerAspect.x, half * outerAspect.y, -half * outerAspect.z],
+        [-half * outerAspect.x, half * outerAspect.y,  half * outerAspect.z],
+        [ half * outerAspect.x, half * outerAspect.y,  half * outerAspect.z],
+        [-half * outerAspect.x, -half * outerAspect.y, -half * outerAspect.z],
+        [ half * outerAspect.x, -half * outerAspect.y, -half * outerAspect.z],
+        [-half * outerAspect.x, -half * outerAspect.y,  half * outerAspect.z],
+        [ half * outerAspect.x, -half * outerAspect.y,  half * outerAspect.z]
+      ];
+
+      outerPointsRaw.forEach((pos, index) => {
+        const isBottom = index >= 4;
+        const body = new CANNON.Body({ mass: isBottom ? 0 : 0.1 });
+        body.position.set(...pos);
+        world.addBody(body);
+        outerPoints.push(body);
+
+        const sphere = new THREE.Mesh(
+          new THREE.SphereGeometry(0.06),
+          new THREE.MeshStandardMaterial({
+            color: 0xbbbbbb,
+            roughness: 0.9,
+            metalness: 0.1
+          })
+        );
+        sphere.userData.body = body;
+        scene.add(sphere);
+        outerCornerVisuals.push(sphere);
+      });
+
+      const edges = [
+        [0, 1], [1, 3], [3, 2], [2, 0],
+        [4, 5], [5, 7], [7, 6], [6, 4],
+        [0, 4], [1, 5], [2, 6], [3, 7]
+      ];
+
+      edges.forEach(([a, b]) => {
+        const posA = outerPoints[a].position;
+        const posB = outerPoints[b].position;
+        const spring = new CANNON.Spring(outerPoints[a], outerPoints[b], {
+          restLength: posA.distanceTo(posB),
+          stiffness: 100,
+          damping: 2.0
+        });
+        outerSprings.push(spring);
+
+        const line = new THREE.Line(
+          new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(), new THREE.Vector3()]),
+          new THREE.LineBasicMaterial({
+            color: 0xffffff,
+            transparent: true,
+            opacity: 0.2
+          })
+        );
+        outerSpringLines.push(line);
+        scene.add(line);
+      });
+
+      const halfInner = innerSize / 2;
+      const innerOffsets = [
+        [-halfInner * innerAspect.x, halfInner * innerAspect.y, -halfInner * innerAspect.z],
+        [ halfInner * innerAspect.x, halfInner * innerAspect.y, -halfInner * innerAspect.z],
+        [-halfInner * innerAspect.x, halfInner * innerAspect.y,  halfInner * innerAspect.z],
+        [ halfInner * innerAspect.x, halfInner * innerAspect.y,  halfInner * innerAspect.z],
+        [-halfInner * innerAspect.x, -halfInner * innerAspect.y, -halfInner * innerAspect.z],
+        [ halfInner * innerAspect.x, -halfInner * innerAspect.y, -halfInner * innerAspect.z],
+        [-halfInner * innerAspect.x, -halfInner * innerAspect.y,  halfInner * innerAspect.z],
+        [ halfInner * innerAspect.x, -halfInner * innerAspect.y,  halfInner * innerAspect.z]
+      ];
+
+      innerOffsets.forEach(offset => {
+        const body = new CANNON.Body({ mass: 0.1 });
+        body.position.set(...offset);
+        world.addBody(body);
+
+        const sphere = new THREE.Mesh(
+          new THREE.SphereGeometry(0.045),
+          new THREE.MeshStandardMaterial({
+            color: 0xbbbbbb,
+            roughness: 0.8,
+            metalness: 0.05
+          })
+        );
+        sphere.userData.body = body;
+        scene.add(sphere);
+        innerCornerBodies.push({ body, visual: sphere });
+      });
+
+      edges.forEach(([a, b]) => {
+        const posA = innerCornerBodies[a].body.position;
+        const posB = innerCornerBodies[b].body.position;
+        const spring = new CANNON.Spring(innerCornerBodies[a].body, innerCornerBodies[b].body, {
+          restLength: posA.distanceTo(posB),
+          stiffness: 30,
+          damping: 1.5
+        });
+        innerSprings.push(spring);
+
+        const line = new THREE.Line(
+          new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(), new THREE.Vector3()]),
+          new THREE.LineBasicMaterial({
+            color: 0xffffff,
+            transparent: true,
+            opacity: 0.2
+          })
+        );
+        innerSpringLines.push(line);
+        scene.add(line);
+      });
+
+      innerCornerBodies.forEach((corner, i) => {
+        const outer = outerPoints[i];
+        const spring = new CANNON.Spring(corner.body, outer, {
+          restLength: 0.1,
+          stiffness: 50,
+          damping: 1.5
+        });
+        connectorSprings.push(spring);
+
+        const line = new THREE.Line(
+          new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(), new THREE.Vector3()]),
+          new THREE.LineBasicMaterial({
+            color: 0xffffff,
+            transparent: true,
+            opacity: 0.1
+          })
+        );
+        connectorLines.push(line);
+        scene.add(line);
+      });
+    }
+
+    function animate() {
+      requestAnimationFrame(animate);
+      time += 0.016;
+
+      const breath = 0.5 * (1 - Math.cos(time * 0.5));
+      innerSprings.forEach(s => s.applyForce());
+      outerSprings.forEach(s => s.applyForce());
+      connectorSprings.forEach((s, i) => {
+        s.stiffness = 50 + 20 * breath;
+        s.applyForce();
+      });
+
+      world.step(1 / 60);
+
+      innerCornerBodies.forEach(p => p.visual.position.copy(p.body.position));
+      outerCornerVisuals.forEach(s => s.position.copy(s.userData.body.position));
+
+      const updateLines = (springs, lines) => {
+        springs.forEach((s, i) => {
+          const a = s.bodyA.position, b = s.bodyB.position;
+          lines[i].geometry.setFromPoints([new THREE.Vector3(a.x, a.y, a.z), new THREE.Vector3(b.x, b.y, b.z)]);
+        });
+      };
+
+      updateLines(innerSprings, innerSpringLines);
+      updateLines(outerSprings, outerSpringLines);
+      updateLines(connectorSprings, connectorLines);
+
+      controls.update();
+      renderer.render(scene, camera);
+    }
+  </script>
+</body>
+</html>
+

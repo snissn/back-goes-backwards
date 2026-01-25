@@ -1,0 +1,47 @@
+from PIL import Image, ImageDraw, ImageFont
+
+# === SETTINGS ===
+image_width_px = 1000
+image_height_px = 300
+background_color = "white"
+
+# === CREATE HORIZONTAL IMAGE ===
+image = Image.new("RGB", (image_width_px, image_height_px), color=background_color)
+draw = ImageDraw.Draw(image)
+
+# === FONT SETTINGS ===
+title_text = "The Back Goes Backwards"
+author_text = "Seiler & Gallardo"
+title_font_size = 64
+author_font_size = 48
+
+try:
+    title_font = ImageFont.truetype("./SourceSansPro-Bold.otf", title_font_size)
+    author_font = ImageFont.truetype("./SourceSansPro-Bold.otf", author_font_size)
+except:
+    title_font = ImageFont.load_default()
+    author_font = ImageFont.load_default()
+
+# === MEASURE TEXT AND CENTER ===
+title_bbox = draw.textbbox((0, 0), title_text, font=title_font)
+title_width = title_bbox[2] - title_bbox[0]
+title_height = title_bbox[3] - title_bbox[1]
+title_x = (image_width_px - title_width) // 2
+title_y = 40
+
+author_bbox = draw.textbbox((0, 0), author_text, font=author_font)
+author_width = author_bbox[2] - author_bbox[0]
+author_height = author_bbox[3] - author_bbox[1]
+author_x = (image_width_px - author_width) // 2
+author_y = title_y + title_height + 30
+
+# === DRAW TEXT ===
+draw.text((title_x, title_y), title_text, font=title_font, fill="#3c3c3c")
+draw.text((author_x, author_y), author_text, font=author_font, fill="#3c3c3c")
+
+# === EXPORT IMAGE ===
+output_path = "/mnt/data/spine_text_horizontal_debug.png"
+image.save(output_path, dpi=(300, 300))
+
+output_path
+

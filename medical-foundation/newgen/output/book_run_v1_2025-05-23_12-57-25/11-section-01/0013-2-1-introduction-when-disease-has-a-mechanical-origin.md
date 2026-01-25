@@ -1,0 +1,11 @@
+### 2.1 Introduction: When Disease Has a Mechanical Origin
+
+Disease does not arise in a vacuum. The body, as a living structure, is constantly shaped by the distribution of mechanical stresses—by how tissue, bone, and fascia are loaded, by how pressure is organized and dissipated. While genetics and chemistry set the stage, it is mechanical adaptation that scripts the daily performance. When the forces moving through the body are misdirected—when alignment falters, when load is shifted forward or collapsed inward—tissues are forced to compensate. Over time, these compensations solidify into dysfunction.
+
+The clinical consequences of such mechanical error are not subtle. Chronic pain, joint degeneration, nerve entrapment, and vascular compromise often follow a clear sequence: misaligned structure leads to abnormal pressure; abnormal pressure demands adaptation; adaptation, repeated, becomes pathology. This is not theory; it is the visible logic of anatomy under load.
+
+Consider the body as an engineered bridge. When weight is distributed along its strongest arches and cables, stress is absorbed and rerouted safely. But if the load shifts off axis, tension accumulates where the structure is weakest. Microfractures propagate, supports buckle, and eventual collapse is not a matter of “if,” but “when.” In the human body, this collapse may manifest as disc herniation, impingement syndromes, or chronic inflammation—each a direct consequence of mechanical failure.
+
+Focusing on mechanical origins clarifies the relationship between symptom and source. It reveals why certain diseases persist despite pharmacological or surgical intervention: the underlying forces remain unaddressed. Where load is poorly organized, no pill can restore order. Only by reestablishing proper mechanical pathways—by returning the body to its intended alignment and pressure distribution—can true resolution occur.
+
+This perspective demands a shift. The clinician, teacher, or therapist must see not only tissue but tension; not only symptoms but the vectors of force that create them. Disease, in this light, is not merely a biochemical error but a structural breakdown—one that can be analyzed, predicted, and, crucially, reversed. The path forward begins with recognizing when disease has a mechanical origin.

@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tensegrity with PhysX via physx-js-webidl</title>
+    <style>
+      html, body, canvas {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+      }
+      canvas {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- The canvas for Three.js rendering -->
+    <canvas id="three-canvas"></canvas>
+    
+    <!-- Include gl-matrix for the PhysX debug drawer (if needed) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gl-matrix/3.4.2/gl-matrix-min.js" 
+      integrity="sha512-eV9ExyTa3b+YHr99IBTYpwk4wbgDMDlfW8uTxhywO8dWb810fGUSKDgHhEv1fAqmJT4jyYnt1iWWMW4FRxeQOQ==" 
+      crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      
+    <!-- Include physx-js-webidl (either from npm build or via a script tag) -->
+    <script src="./node_modules/physx-js-webidl/physx-js-webidl.js"></script>
+    
+    <!-- Include Three.js, OrbitControls and dat.GUI (from a CDN or your local build) -->
+    <script type="module">
+      import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.150.1/build/three.module.js';
+      import { OrbitControls } from 'https://cdn.jsdelivr.net/npm/three@0.150.1/examples/jsm/controls/OrbitControls.js';
+      import * as dat from 'https://cdn.jsdelivr.net/npm/dat.gui/build/dat.gui.module.js';
+      
+      // Wrap our initialization in an async block after PhysX is loaded.
+      PhysX().then(function (PhysX) {
+        // =======================================================
+        // PHYSX SETUP (similar to the hello world example)
+        // =======================================================
+        const version = PhysX.PHYSICS_VERSION;
+        console.log('PhysX loaded! Version: ' +
+          (((version >> 24) & 0xff) + '.' + ((version >> 16) & 0xff) + '.' + ((version >> 8) & 0xff)));
+        
+        const allocator = new PhysX.PxDefaultAllocator();
+        const errorCb   = new PhysX.PxDefaultErrorCallback();
+        const foundation = PhysX.CreateFoundation(version, allocator, errorCb);
+        console.log('Created PxFoundation');
+        
+        const tolerances = new PhysX.PxTolerancesScale();
+        const physics = PhysX.CreatePhysics(version, foundation, tolerances);
+        console.log('Created PxPhysics');
+        
+        // Create a PhysX scene
+        const gravity = new PhysX.PxVec3(0, -9.81, 0);
+        const sceneDesc = new PhysX.PxSceneDesc(tolerances);
+        sceneDesc.set_gravity(gravity);
+        sceneDesc.set_cpuDispatcher(PhysX.DefaultCpuDispatcherCreate(0));
+        sceneDesc.set_filterShader(PhysX.DefaultFilterShader());
+        const physxScene = physics.createScene(sceneDesc);
+        console.log('Created PxScene');
+        
+        // Create a default material for all shapes.
+        const material = physics.createMaterial(0.5, 0.5, 0.5);
+        
+        // =======================================================
+        // THREE.JS SETUP
+        // =======================================================
+        const canvas = document.getElementById('three-canvas');
+        const renderer = new THREE.WebGLRenderer({ canvas, antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.shadowMap.enabled = true;
+        
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.1, 1000);
+        camera.position.set(0, 3, 12);
+        
+        const controls = new OrbitControls(camera, renderer.domElement);
+        controls.enableDamping = true;
+        
+        const gui = new dat.GUI();
+        const params = {
+          breathAmplitude: 5,
+          breathFrequency: 1.0,
+          toggleBreath: true,
+          toggleMuscles: true,
+          springConstant: 5,
+          dampingFactor: 0.9
+        };
+        gui.add(params, 'breathAmplitude', 0.1, 25.0).name('Breath Amplitude');
+        gui.add(params, 'breathFrequency', 0.1, 10.0).name('Breath Speed');
+        gui.add(params, 'toggleBreath').name('Toggle Breath');
+        gui.add(params, 'toggleMuscles').name('Show Muscles');
+        gui.add(params, 'springConstant', 0.1, 5.0).name('Spring Constant');
+        gui.add(params, 'dampingFactor', 0.0, 1).name('Damping Factor');
+        
+        // =======================================================
+        // HELPER FUNCTIONS: Creating PhysX actors & joints
+        // =======================================================
+        function createPhysXActor(geom, mass, position, quaternion) {
+          // Convert Three.js position/quaternion to PhysX types:
+          const pxPos = new PhysX.PxVec3(position.x, position.y, position.z);
+          const pxQuat = new PhysX.PxQuat(quaternion.x, quaternion.y, quaternion.z, quaternion.w);
+          const transform = new PhysX.PxTransform(pxPos, pxQuat);
+          
+          // Create a dynamic actor if mass > 0, else a static actor.
+          let actor;
+          if (mass > 0) {
+            actor = physics.createRigidDynamic(transform);
+            actor.setMass(mass);
+          } else {
+            actor = physics.createRigidStatic(transform);
+          }
+          // Create a shape and attach it.
+          const shape = physics.createShape(geom, material, true);
+          actor.attachShape(shape);
+          physxScene.addActor(actor);
+          return actor;
+        }
+        
+        // Create a distance joint (a “muscle”) between two actors.
+        function createMuscleJoint(actorA, actorB, restDistance) {
+          // The joint anchors are at each actor’s center.
+          const localFrameA = new PhysX.PxTransform(new PhysX.PxVec3(0, 0, 0));
+          const localFrameB = new PhysX.PxTransform(new PhysX.PxVec3(0, 0, 0));
+          const joint = PhysX.PxDistanceJointCreate(
+            physics,
+            actorA, localFrameA,
+            actorB, localFrameB
+          );
+          joint.setDistance(restDistance);
+          joint.setMinDistance(restDistance);
+          joint.setMaxDistance(restDistance);
+          // Spring and damping settings reflect GUI parameters.
+          joint.setStiffness(params.springConstant);
+          joint.setDamping(params.dampingFactor);
+          return joint;
+        }
+        
+        // =======================================================
+        // TENSEGRITY MODEL CREATION
+        // =======================================================
+        function createTensegrityModel(hyoidOffset) {
+          const group = new THREE.Group();
+          const bones = {};
+          
+          // --- Create the Skull ---
+          const skullMaterial = new THREE.MeshPhongMaterial({ color: 0xddeeff });
+          const skullGeo = new THREE.SphereGeometry(0.5, 32, 32);
+          skullGeo.scale(1.0, 1.2, 1.0);
+          const skullMesh = new THREE.Mesh(skullGeo, skullMaterial);
+          skullMesh.position.set(0, 4, 0);
+          skullMesh.name = "skull";
+          skullMesh.castShadow = true;
+          group.add(skullMesh);
+          
+          // Approximate the skull with a sphere for physics.
+          const pxSkullGeom = new PhysX.PxSphereGeometry(0.5);
+          skullMesh.physxActor = createPhysXActor(
+            pxSkullGeom,
+            1.0,  // mass
+            skullMesh.position,
+            new THREE.Quaternion()
+          );
+          bones.skull = skullMesh;
+          
+          // --- Create the Jaw ---
+          const jawMaterial = new THREE.MeshPhongMaterial({ color: 0xffeedd });
+          const jawGeo = new THREE.BoxGeometry(0.8, 0.3, 0.4);
+          const jawMesh = new THREE.Mesh(jawGeo, jawMaterial);
+          jawMesh.position.set(0, 3.2, 0.5);
+          jawMesh.name = "jaw";
+          jawMesh.castShadow = true;
+          group.add(jawMesh);
+          // Create a box shape for physics (using half extents).
+          const halfExtentsJaw = new PhysX.PxVec3(0.4, 0.15, 0.2);
+          const pxJawGeom = new PhysX.PxBoxGeometry(halfExtentsJaw);
+          jawMesh.physxActor = createPhysXActor(
+            pxJawGeom,
+            1.0,
+            jawMesh.position,
+            new THREE.Quaternion()
+          );
+          bones.jaw = jawMesh;
+          
+          // --- Create the Hyoid ---
+          const hyoidMaterial = new THREE.MeshPhongMaterial({ color: 0xffcc66 });
+          const hyoidGeo = new THREE.TorusGeometry(0.2, 0.05, 8, 16);
+          const hyoidMesh = new THREE.Mesh(hyoidGeo, hyoidMaterial);
+          hyoidMesh.rotation.x = Math.PI / 2;  // open side upward
+          hyoidMesh.position.set(hyoidOffset, 3.0, 0.3);
+          hyoidMesh.name = "hyoid";
+          hyoidMesh.castShadow = true;
+          group.add(hyoidMesh);
+          // Approximate the torus with a sphere for PhysX.
+          const pxHyoidGeom = new PhysX.PxSphereGeometry(0.2);
+          hyoidMesh.physxActor = createPhysXActor(
+            pxHyoidGeom,
+            0.5,
+            hyoidMesh.position,
+            new THREE.Quaternion()
+          );
+          bones.hyoid = hyoidMesh;
+          
+          // -----------------------------------------------------------
+          // (Additional bones like clavicles, scapulae, mastoids, vertebrae, etc.
+          // can be created using similar logic.)
+          // -----------------------------------------------------------
+          
+          // --- Muscle / Joint Connections ---
+          const muscles = [];
+          // Define connections as pairs of bones.
+          const muscleConnectionsData = [
+            [bones.skull, bones.jaw],
+            [bones.skull, bones.hyoid]
+            // Add additional pairs as in your original design.
+          ];
+          muscleConnectionsData.forEach(pair => {
+            if (pair[0] && pair[1]) {
+              const restDistance = pair[0].position.distanceTo(pair[1].position);
+              const joint = createMuscleJoint(pair[0].physxActor, pair[1].physxActor, restDistance);
+              muscles.push({ joint, pair });
+            }
+          });
+          
+          return { group, bones, muscles, hyoidForceBuffer: [] };
+        }
+        
+        // Create two models: one with no hyoid offset and one with a slight offset.
+        const modelA = createTensegrityModel(0);
+        const modelB = createTensegrityModel(0.5);
+        modelA.group.position.x = -3;
+        modelB.group.position.x = 3;
+        scene.add(modelA.group);
+        scene.add(modelB.group);
+        
+        // =======================================================
+        // LIGHTS & HUD (as in your original code)
+        // =======================================================
+        const ambientLight = new THREE.AmbientLight(0xffffff, 0.7);
+        scene.add(ambientLight);
+        const dirLight = new THREE.DirectionalLight(0xffffff, 0.7);
+        dirLight.position.set(5, 10, 5);
+        dirLight.castShadow = true;
+        scene.add(dirLight);
+        
+        // (Optional: Add on–screen force displays if desired.)
+        
+        // =======================================================
+        // ANIMATION & PHYSICS SIMULATION LOOP
+        // =======================================================
+        let time = 0;
+        const dt = 1/60;  // physics time step in seconds
+        const models = [modelA, modelB];
+        
+        function animate() {
+          requestAnimationFrame(animate);
+          time += dt;
+          
+          // Apply an external “breath” force if toggled.
+          if (params.toggleBreath) {
+            const breathForce = params.breathAmplitude * Math.sin(time * params.breathFrequency);
+            // For example, apply to the hyoid actors:
+            modelA.bones.hyoid.physxActor.addForce(new PhysX.PxVec3(0, breathForce, 0));
+            modelB.bones.hyoid.physxActor.addForce(new PhysX.PxVec3(0, breathForce, 0));
+          }
+          
+          // Step the PhysX simulation.
+          physxScene.simulate(dt);
+          physxScene.fetchResults(true);
+          
+          // Update each bone’s Three.js mesh from its PhysX actor’s global pose.
+          models.forEach(model => {
+            Object.values(model.bones).forEach(bone => {
+              if (bone.physxActor) {
+                const transform = bone.physxActor.getGlobalPose();
+                const pos = transform.get_p();
+                const quat = transform.get_q();
+                bone.position.set(pos.get_x(), pos.get_y(), pos.get_z());
+                bone.quaternion.set(quat.get_x(), quat.get_y(), quat.get_z(), quat.get_w());
+              }
+            });
+            
+            // Optionally update muscle visuals here (as in your original code)
+            if (params.toggleMuscles) {
+              model.muscles.forEach(muscle => {
+                const b1 = muscle.pair[0];
+                const b2 = muscle.pair[1];
+                const start = b1.position.clone();
+                const end = b2.position.clone();
+                const mid = start.clone().add(end).multiplyScalar(0.5);
+                const dir = new THREE.Vector3().subVectors(end, start).normalize();
+                const up = new THREE.Vector3(0, 1, 0);
+                let perpendicular = new THREE.Vector3().crossVectors(dir, up);
+                if (perpendicular.length() === 0) perpendicular = new THREE.Vector3(1, 0, 0);
+                perpendicular.normalize();
+                const offsetMagnitude = start.distanceTo(end) * 0.2;
+                const control = mid.add(perpendicular.multiplyScalar(offsetMagnitude));
+                const curve = new THREE.CatmullRomCurve3([start, control, end]);
+                const dynamicTubeGeometry = new THREE.TubeGeometry(curve, 20, 0.05, 8, false);
+                muscle.mesh.geometry.dispose();
+                muscle.mesh.geometry = dynamicTubeGeometry;
+              });
+            }
+          });
+          
+          controls.update();
+          renderer.render(scene, camera);
+        }
+        animate();
+        
+        // Handle responsive resize.
+        window.addEventListener('resize', () => {
+          camera.aspect = window.innerWidth / window.innerHeight;
+          camera.updateProjectionMatrix();
+          renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+        
+        // =======================================================
+        // (Optionally, add debug drawing code using gl-matrix here.)
+        // =======================================================
+      });
+    </script>
+  </body>
+</html>
+

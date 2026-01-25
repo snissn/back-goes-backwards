@@ -1,0 +1,21 @@
+.step-columns {
+  display: flex;
+  gap: 2em 4%;
+  margin-bottom: 2.2em;
+  flex-wrap: wrap;
+}
+.step-columns > * {
+  flex: 1 1 45%;
+  background: #f7fbfd;
+  border-radius: 14px;
+  box-shadow: 0 2px 8px rgba(80,120,160,0.07);
+  padding: 1.1em 1.2em 1em 1.1em;
+  min-width: 260px;
+  box-sizing: border-box;
+  border-left: 5px solid #b6d7ef;
+  margin-bottom: 0;
+}
+@media (max-width: 800px) {
+  .step-columns { flex-direction: column; }
+  .step-columns > * { min-width: 0; }
+}

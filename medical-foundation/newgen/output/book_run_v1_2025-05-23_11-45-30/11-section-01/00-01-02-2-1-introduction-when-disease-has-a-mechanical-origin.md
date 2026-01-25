@@ -1,0 +1,15 @@
+### 2.1 Introduction: When Disease Has a Mechanical Origin
+
+Diseases do not arise in isolation from the body's structural framework. Rather, they often originate from the mechanical stresses and adaptations embedded within the body's architecture. Understanding when and how a condition is rooted in biomechanical dysfunction requires a shift from viewing pathology as purely biochemical or genetic to recognizing the body’s physical state as a primary driver of health and disease.
+
+The body functions as an integrated, tensegrity-based system, where stability emerges from the balance of tension and compression across a network of interconnected structures. When this balance is disrupted—through misalignment, improper load distribution, or restricted movement—the mechanical environment of tissues changes. These alterations can initiate a cascade of maladaptive responses, including inflammation, fibrosis, nerve compression, and vascular compromise.
+
+This perspective clarifies why certain chronic conditions are so resistant to purely pharmacological interventions. The underlying pathology is embedded in the body's structural organization—an observable, measurable reality. For example, scoliosis involves a clear asymmetry in spinal alignment that alters load patterns across vertebrae and discs, leading to pain, degenerative changes, and functional impairment. Similarly, spondylolisthesis, where a vertebra slips forward, creates abnormal shear forces that destabilize the segment and provoke pain and nerve irritation.
+
+In these cases, the mechanical dysfunction is not incidental but foundational. It shapes the disease process, providing a predictable pathway from structural misalignment to clinical symptoms. Recognizing this allows clinicians and movement professionals to target the root cause—restoring proper load paths, realigning structures, and rebalancing tension—rather than merely chasing downstream symptoms.
+
+The rationale for focusing on mechanical origins extends beyond these obvious examples. Many chronic conditions, including thoracic outlet syndrome, carpal tunnel syndrome, and certain types of chronic back pain, have identifiable mechanical components. These are cases where abnormal posture, repetitive load, or structural asymmetry predispose tissues to injury, inflammation, and dysfunction.
+
+By framing disease within the context of biomechanical origins, this approach emphasizes the body's capacity for adaptation and self-regulation. When mechanical stresses are addressed—through structural correction, movement re-education, and breath regulation—the body can often restore its resilience, reversing or halting the progression of pathology.
+
+In sum, recognizing when disease has a mechanical origin is fundamental. It grounds clinical understanding in the body's physical reality, providing a clear, empirical pathway to intervention. This paradigm shift moves us away from viewing disease solely as a biochemical malfunction and toward appreciating the body's inherent capacity to heal through structural coherence and mechanical harmony.
