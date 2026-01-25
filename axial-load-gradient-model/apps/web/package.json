@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@algm/content": "workspace:^",
+    "@algm/core": "workspace:^",
     "@algm/data": "workspace:^",
     "@mdx-js/loader": "^3.1.1",
     "@mdx-js/react": "^3.1.1",

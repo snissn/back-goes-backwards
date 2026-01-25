@@ -1,5 +1,5 @@
-import type { Drill, QuickTest, Segment, Signature } from "./types.js";
-import { SEGMENTS } from "./segments.js";
+import type { Drill, QuickTest, Segment, Signature } from "./types";
+import { SEGMENTS } from "./segments";
 
 export type QuickStepResult = {
   id: string;

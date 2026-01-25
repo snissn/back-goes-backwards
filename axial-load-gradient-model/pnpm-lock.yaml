@@ -32,6 +32,9 @@ importers:
       '@algm/content':
         specifier: workspace:^
         version: link:../../packages/content
+      '@algm/core':
+        specifier: workspace:^
+        version: link:../../packages/core
       '@algm/data':
         specifier: workspace:^
         version: link:../../packages/data

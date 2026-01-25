@@ -41,6 +41,9 @@ export default function RootLayout({
                 <a className="hover:underline" href="/tests">
                   Tests
                 </a>
+                <a className="hover:underline" href="/wizard">
+                  Wizard
+                </a>
                 <a className="hover:underline" href="/training">
                   Training
                 </a>
