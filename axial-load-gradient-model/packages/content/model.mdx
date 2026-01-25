@@ -1,11 +1,27 @@
-import { drills } from "@algm/data";
+# Model
 
-# Data-backed drills (placeholder)
+## Definitions (mechanics-first)
 
-This file demonstrates that content imports the shared drill data.
+- Axial coordinate: ground to head, normalized as `z in [0,1]`.
+- Load function: `L(z)` is the net mechanical load transmitted at height `z`.
+- Axial load gradient: `G(z) = dL/dz`.
+  - `G(z) < 0`: load dissipates upward (downward-shedding, tension-routed)
+  - `G(z) > 0`: load accumulates upward (compression-routed)
 
-<ul>
-  {drills.map((d) => (
-    <li key={d.id}>{d.id}: {d.name}</li>
-  ))}
-</ul>
+## Piecewise gradients
+
+Define segment averages:
+
+- `g_L`: lumbar segment
+- `g_T`: thoracic segment
+- `g_C`: cervical segment
+
+State vector:
+
+`S = (sign(g_L), sign(g_T), sign(g_C))`
+
+There are 8 canonical sign patterns. The model treats these as routing regimes, not postural morals.
+
+## Inversion loci
+
+An inversion locus is a region where the sign of `G` flips. Symptoms tend to localize where a segment accumulates load or where the routing strategy changes abruptly.

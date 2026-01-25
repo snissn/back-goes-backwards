@@ -1,0 +1,29 @@
+import { tests } from "../data/index.js";
+
+# Tests
+
+The Quick screen is designed to fit within 2 minutes and to flag which segment(s) are most likely accumulating load.
+
+## Quick screen (SGS-120)
+
+<ul>
+  {tests.quick.steps.map((step) => (
+    <li key={step.id}>
+      <strong>{step.id}</strong> - {step.name} ({step.durationSec}s)
+    </li>
+  ))}
+</ul>
+
+Scoring:
+
+- B-dominant: at most {tests.quick.scoring.bDominantMaxFails} fails
+- Mixed: at most {tests.quick.scoring.mixedMaxFails} fails
+- A-dominant: at least {tests.quick.scoring.aDominantMinFails} fails
+
+## Adaptive branches
+
+Use adaptive branches when the Quick screen flags a segment. The goal is to localize which joint or load path is failing before prescribing drills.
+
+## Advanced validation
+
+Advanced tests check whether a negative gradient can be maintained under load and time.

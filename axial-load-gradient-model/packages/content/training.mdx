@@ -1,0 +1,30 @@
+import { drills } from "../data/index.js";
+
+export const tier01 = drills.filter((d) => d.tier <= 1);
+export const tier2 = drills.filter((d) => d.tier === 2);
+
+# Training
+
+## Negative-gradient builders (Tier 0-1)
+
+<ul>
+  {tier01.map((d) => (
+    <li key={d.id}>
+      <strong>{d.id}</strong> - {d.name} ({d.dose})
+    </li>
+  ))}
+</ul>
+
+## Global integrators (Tier 2)
+
+<ul>
+  {tier2.map((d) => (
+    <li key={d.id}>
+      <strong>{d.id}</strong> - {d.name} ({d.dose})
+    </li>
+  ))}
+</ul>
+
+## Positive-gradient excursions (context only)
+
+Certain tasks (sprint starts, jumps, heavy overhead press) are upward-biased by nature. They are not used to flip inversions; they are trained only if the system can reliably return to negative gradients shortly after.
