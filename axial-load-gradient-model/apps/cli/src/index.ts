@@ -28,6 +28,8 @@ program
   .option("--input <path>", "Read Quick screen results from JSON")
   .option("--output <path>", "Write protocol output to JSON")
   .option("--explain", "Include selection details")
+  .option("--log", "Append run to a local log file")
+  .option("--log-dir <path>", "Directory for logs (default: ./.algm)")
   .action(async (options) => {
     const quick = tests.quick;
     const result = options.input
@@ -46,6 +48,10 @@ program
       fs.writeFileSync(outPath, JSON.stringify(outputObj, null, 2));
     } else {
       printOutput(outputObj);
+    }
+
+    if (options.log) {
+      appendLog(outputObj, options.logDir);
     }
   });
 
@@ -159,4 +165,15 @@ function printOutput(outputObj: ReturnType<typeof buildOutput>) {
     console.log("\nNotes:");
     for (const note of outputObj.notes) console.log(`- ${note}`);
   }
+}
+
+function appendLog(data: ReturnType<typeof buildOutput>, logDir?: string) {
+  const baseDir = logDir ? path.resolve(process.cwd(), logDir) : path.resolve(process.cwd(), ".algm");
+  fs.mkdirSync(baseDir, { recursive: true });
+  const entry = {
+    timestamp: new Date().toISOString(),
+    ...data
+  };
+  const logPath = path.join(baseDir, "runs.jsonl");
+  fs.appendFileSync(logPath, JSON.stringify(entry) + "\n");
 }
