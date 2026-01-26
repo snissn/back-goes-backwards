@@ -8,9 +8,7 @@ import {
   inferPositiveSegments,
   protocolToCard
 } from "@algm/core";
-
-import drillsData from "../../../../../packages/data/drills.json";
-import testsData from "../../../../../packages/data/tests.json";
+import { drills as drillsData, tests } from "@algm/data";
 
 type StepState = {
   failed?: boolean;
@@ -22,8 +20,8 @@ type StepStateMap = Record<string, StepState>;
 
 type Side = "L" | "R" | "B" | undefined;
 
-const drills = drillsData.drills as Drill[];
-const quick = testsData.quick as QuickTest;
+const drills = drillsData as Drill[];
+const quick = tests.quick as QuickTest;
 
 export default function WizardPage() {
   const [state, setState] = useState<StepStateMap>(() => ({}));
@@ -34,7 +32,8 @@ export default function WizardPage() {
         const current = state[step.id] || {};
         if (step.sided) {
           const failed = Boolean(current.left || current.right);
-          const side: Side = current.left && current.right ? "B" : current.left ? "L" : current.right ? "R" : undefined;
+          const side: Side =
+            current.left && current.right ? "B" : current.left ? "L" : current.right ? "R" : undefined;
           return { id: step.id, failed, side };
         }
         return { id: step.id, failed: Boolean(current.failed) };
