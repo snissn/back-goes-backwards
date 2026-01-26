@@ -6,12 +6,23 @@ OUT_DIR="$ROOT_DIR/dist"
 
 mkdir -p "$OUT_DIR"
 
+node "$ROOT_DIR/tools/build-paper.mjs"
+
 pandoc \
-  "$ROOT_DIR/manuscript/manuscript.md" \
-  "$ROOT_DIR/manuscript/abstract.md" \
-  "$ROOT_DIR/manuscript/glossary.md" \
-  "$ROOT_DIR/manuscript/limitations.md" \
-  -o "$OUT_DIR/axial-load-gradient-model.pdf" \
-  --resource-path="$ROOT_DIR:$ROOT_DIR/figures"
+  "$OUT_DIR/paper.md" \
+  --from=markdown+fenced_divs \
+  --standalone \
+  --template "tools/pdf/template.html" \
+  --toc \
+  --toc-depth=2 \
+  --number-sections \
+  --no-highlight \
+  --css "tools/pdf/pdf.css" \
+  -o "$OUT_DIR/paper.html"
+
+weasyprint \
+  --base-url "$ROOT_DIR" \
+  "$OUT_DIR/paper.html" \
+  "$OUT_DIR/axial-load-gradient-model.pdf"
 
 echo "PDF written to $OUT_DIR/axial-load-gradient-model.pdf"
