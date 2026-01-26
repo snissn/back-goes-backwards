@@ -1,0 +1,34 @@
+# PDF
+
+The PDF is the print-friendly version of the docs. It is generated from this repo using **Pandoc + WeasyPrint**
+with a custom CSS theme so the typography matches the site.
+
+## Get the latest build (CI artifact)
+
+The GitHub Actions workflow builds `axial-load-gradient-model.pdf` and uploads it as the `algm-pdf` artifact.
+
+You can download it from the workflow run page:
+
+<a href="https://github.com/snissn/back-goes-backwards/actions/workflows/algm-ci.yml">
+  GitHub Actions: algm-ci
+</a>
+
+## Build locally
+
+```bash
+pnpm pdf
+```
+
+Output:
+
+- `dist/axial-load-gradient-model.pdf`
+
+Requirements:
+
+- `pandoc`
+- `weasyprint`
+
+## Notes
+
+This PDF is not medical advice and does not diagnose or treat disease.
+

@@ -14,3 +14,10 @@ Early scaffold. See `AGENTS.md` for the full plan and iteration milestones.
 
 - Web: `pnpm -C apps/web dev`
 - CLI: `pnpm -C apps/cli start -- --help`
+- PDF: `pnpm pdf` (output: `dist/axial-load-gradient-model.pdf`)
+
+## PDF in CI
+
+The GitHub Actions workflow builds the PDF and uploads it as the `algm-pdf` artifact:
+
+`https://github.com/snissn/back-goes-backwards/actions/workflows/algm-ci.yml`
