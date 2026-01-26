@@ -239,11 +239,18 @@ Outcome:
 - A single PDF can be generated from the manuscript/protocols (print-friendly).
 
 Work:
-- Add `tools/build-pdf` (Pandoc or MDX->PDF pipeline).
+- Generate a single paper from a template + data:
+  - `manuscript/paper.template.md` (prose + placeholders)
+  - `tools/build-paper.mjs` (inject Quick screen + drill library from `packages/data/*.json`)
+- Render with **Pandoc -> HTML -> WeasyPrint** using a CSS theme that matches the website:
+  - `tools/pdf/template.html`
+  - `tools/pdf/pdf.css`
+  - `tools/pdf/fonts/` (IBM Plex + `OFL.txt`)
 - Ensure figures embed and page breaks are sane.
 
 Acceptance:
 - `pnpm pdf` generates `dist/axial-load-gradient-model.pdf` (or similar).
+ - CI uploads the PDF as an artifact (e.g., `algm-pdf`) so non-dev readers can download it.
 
 ### v9 - Instrumentation mode (optional, but bold)
 
