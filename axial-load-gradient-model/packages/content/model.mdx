@@ -1,31 +1,73 @@
 # Model
 
+The Axial Load Gradient Model (ALGM) is a mechanics-first way to talk about **load routing**.
+Instead of labeling muscles as weak/tight, it asks a simpler question:
+
+> When load changes, does it **shed downward** through tension networks, or **accumulate upward** into compression-dominant structures?
+
 ![Axial load gradient states](/figures/fig-load-gradient-a-vs-b.svg)
 
-## Definitions (mechanics-first)
+<Callout kind="danger" title="Medical scope">
+  This is an engineering-style movement model, not medical advice. It does not diagnose or treat disease. Do not run tests if you have red flags (progressive neurologic deficit, bowel/bladder changes, fever, severe unremitting pain, recent significant trauma).
+</Callout>
 
-- Axial coordinate: ground to head, normalized as `z in [0,1]`.
-- Load function: `L(z)` is the net mechanical load transmitted at height `z`.
-- Axial load gradient: `G(z) = dL/dz`.
-  - `G(z) < 0`: load dissipates upward (downward-shedding, tension-routed)
-  - `G(z) > 0`: load accumulates upward (compression-routed)
+## Core objects
 
-## Piecewise gradients
+<Callout kind="definition" title="Axial coordinate">
+  Define an axial coordinate <code>z</code> along the body: ground (low) to head (high), normalized to <code>z in [0,1]</code>.
+</Callout>
+
+<Callout kind="definition" title="Load function">
+  Let <code>L(z)</code> be the net mechanical load transmitted at height <code>z</code> through the axial system. This is not EMG and not “effort”; it is force transmission (tension + compression + shear as an effective quantity).
+</Callout>
+
+<Callout kind="definition" title="Axial load gradient">
+  Define <code>G(z) = dL/dz</code>. Interpreting the sign:
+  <ul>
+    <li><code>G(z) &lt; 0</code>: load <strong>dissipates upward</strong> (downward-shedding bias)</li>
+    <li><code>G(z) &gt; 0</code>: load <strong>accumulates upward</strong> (upward-accumulating bias)</li>
+  </ul>
+</Callout>
+
+## Two regimes (operational)
+
+These are not moral categories. They are **control regimes** you can detect with simple tests.
+
+<Callout kind="heuristic" title="State B: negative-gradient default">
+  A mechanically organized baseline tends to show predominantly negative gradients: load is highest low and is progressively shed as height increases.
+</Callout>
+
+<Callout kind="heuristic" title="State A: positive-gradient default">
+  A mechanically disorganized baseline tends to show predominantly positive gradients: load accumulates upward and the upper spine/neck become load sinks.
+</Callout>
+
+## Piecewise gradients by segment
+
+The global gradient can be approximated as three segment averages:
+
+- <code>g_L</code>: lumbar
+- <code>g_T</code>: thoracic
+- <code>g_C</code>: cervical
+
+Define the sign-vector:
+
+<code>S = (sign(g_L), sign(g_T), sign(g_C))</code>
 
 ![Piecewise gradient segments](/figures/fig-piecewise-segments.svg)
 
-Define segment averages:
-
-- `g_L`: lumbar segment
-- `g_T`: thoracic segment
-- `g_C`: cervical segment
-
-State vector:
-
-`S = (sign(g_L), sign(g_T), sign(g_C))`
-
-There are 8 canonical sign patterns. The model treats these as routing regimes, not postural morals.
+<Callout kind="hypothesis" title="Why this matters">
+  Symptoms and fatigue often localize where a segment accumulates load (<code>g &gt; 0</code>) or where routing strategies change abruptly (an inversion locus).
+</Callout>
 
 ## Inversion loci
 
-An inversion locus is a region where the sign of `G` flips. Symptoms tend to localize where a segment accumulates load or where the routing strategy changes abruptly.
+An inversion locus is a region where the sign of the gradient flips.
+In practice, these often cluster near junctions (lumbar/thoracic/cervical transitions), but the model treats the locus as a measurable feature, not a diagnosis.
+
+## What makes this model useful
+
+- It is **testable**: you can run a consistent screen and watch it change.
+- It is **actionable**: drills are classified by expected sign effects and validated by retest.
+- It is **composable**: you can treat complex patterns as a 3-segment sign state.
+
+Next: see the tests and the wizard.

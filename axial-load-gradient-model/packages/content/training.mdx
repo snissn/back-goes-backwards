@@ -1,30 +1,42 @@
-import { drills } from "@algm/data";
-
-export const tier01 = drills.filter((d) => d.tier <= 1);
-export const tier2 = drills.filter((d) => d.tier === 2);
-
 # Training
 
-## Negative-gradient builders (Tier 0-1)
+The training system is gradient-first.
+Instead of asking “what muscle does this hit?”, it asks:
 
-<ul>
-  {tier01.map((d) => (
-    <li key={d.id}>
-      <strong>{d.id}</strong> - {d.name} ({d.dose})
-    </li>
-  ))}
-</ul>
+- Does this drill tend to push the system toward **negative gradients** (downward shedding)?
+- Or is it a **positive-gradient excursion** (useful later, but not for flipping a collapse pattern)?
 
-## Global integrators (Tier 2)
+<Callout kind="definition" title="Dosing standard">
+  To make drills comparable, keep doses stable (e.g. 4-6 breaths, 15-30s hangs, 45-90s backward walk). Then retest.
+</Callout>
 
-<ul>
-  {tier2.map((d) => (
-    <li key={d.id}>
-      <strong>{d.id}</strong> - {d.name} ({d.dose})
-    </li>
-  ))}
-</ul>
+## Tier 0-1: negative-gradient builders (main library)
 
-## Positive-gradient excursions (context only)
+These are the safest defaults for flipping common inversions.
 
-Certain tasks (sprint starts, jumps, heavy overhead press) are upward-biased by nature. They are not used to flip inversions; they are trained only if the system can reliably return to negative gradients shortly after.
+<DrillGrid tierMin={0} tierMax={1} />
+
+## Tier 2: global integrators (use with care)
+
+These can be powerful, but they are easier to contaminate with neck/rib bracing.
+
+<DrillGrid tierMin={2} tierMax={2} />
+
+## Positive-gradient excursions (context)
+
+Some tasks inherently require upward accumulation (sprint starts, jumps, heavy overhead press). They are not “bad.”
+They are trained only when you can reliably return to negative gradients within a short window afterward.
+
+## Minimal protocol selection
+
+The program (CLI/wizard) does this:
+
+1. Infer target segments from the Quick screen failures.
+2. Choose the smallest drill set that pushes those segments negative without worsening others.
+3. Order drills (cervical -> thoracic -> lumbar -> global).
+4. Execute one drill, retest, stop when flipped.
+
+<Callout kind="heuristic" title="Why minimal matters">
+  If you need 8 drills to feel better, you probably don't know which drill changed the sign.
+  Minimal protocols make the system testable and debuggable.
+</Callout>

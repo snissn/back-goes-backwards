@@ -1,31 +1,49 @@
-import { tests } from "@algm/data";
-
 # Tests
+
+The model only matters if it is operational.
+The tests are designed to answer two questions quickly:
+
+1. Which segment(s) are most likely accumulating load right now?
+2. Can a short intervention flip the sign?
 
 ![Decision flow](/figures/fig-decision-flow.svg)
 
-The Quick screen is designed to fit within 2 minutes and to flag which segment(s) are most likely accumulating load.
+<Callout kind="danger" title="Do not test">
+  Do not run tests if there is progressive weakness/numbness, bowel or bladder changes, fever, severe unremitting pain, recent significant trauma, or other medical red flags.
+</Callout>
 
 ## Quick screen (SGS-120)
 
-<ul>
-  {tests.quick.steps.map((step) => (
-    <li key={step.id}>
-      <strong>{step.id}</strong> - {step.name} ({step.durationSec}s)
-    </li>
-  ))}
-</ul>
+Run the screen exactly the same way each time. Use it as a **before/after** probe.
 
-Scoring:
+<QuickScreen />
 
-- B-dominant: at most {tests.quick.scoring.bDominantMaxFails} fails
-- Mixed: at most {tests.quick.scoring.mixedMaxFails} fails
-- A-dominant: at least {tests.quick.scoring.aDominantMinFails} fails
+## Interpretation
 
-## Adaptive branches
+<Callout kind="heuristic" title="What a 'fail' means">
+  A fail is not a moral judgment and not proof of a single anatomical cause. It is a routing signal: under that demand, a segment is likely acting as a load sink.
+</Callout>
 
-Use adaptive branches when the Quick screen flags a segment. The goal is to localize which joint or load path is failing before prescribing drills.
+Typical immediate signatures:
 
-## Advanced validation
+- If arm elevation fails: thoracic/cervical routing is suspect (arms load goes up instead of down).
+- If backward step fails: lumbar/hip acceptance is suspect (load doesn't settle posteriorly).
+- If breath probe fails: cervical load-bearing is likely present (neck/shoulders lift to inhale).
 
-Advanced tests check whether a negative gradient can be maintained under load and time.
+## What to do with the result
+
+- If you are B-dominant: you can train normally, but keep the negative-gradient builders as maintenance.
+- If you are Mixed or A-dominant: use the wizard to select a minimal Tier 0/1 drill set and retest.
+
+Links:
+
+- <a href="/wizard">Run the wizard</a>
+- <a href="/training">Drill library and taxonomy</a>
+
+## Retest rule
+
+<Callout kind="definition" title="Retest-driven stopping">
+  The goal is not to accumulate exercises. Apply one drill, retest, and stop as soon as the screen flips.
+</Callout>
+
+If a segment does not flip, move to the adaptive branches (coming next) or increase tier carefully.

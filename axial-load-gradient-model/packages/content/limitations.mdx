@@ -1,7 +1,21 @@
 # Limitations
 
-- This model does not diagnose or treat disease.
-- Symptom clusters are not causes; they are routing hypotheses that require validation.
-- The model assumes no acute injury, severe osteoarthritis, or neurologic instability.
-- A positive gradient in one segment can be a task-specific excursion, not pathology.
-- Mechanistic claims require direct measurement to be confirmed (force plate, imaging, EMG, etc.).
+This notebook is intentionally conservative about claims.
+
+<Callout kind="definition" title="What the model is">
+  A testable hypothesis framework for movement organization: define a load routing quantity, classify by gradient sign, and validate changes by retest.
+</Callout>
+
+<Callout kind="definition" title="What the model is not">
+  A diagnosis, a pathology detector, or a single-cause explanation for pain.
+</Callout>
+
+## Practical constraints
+
+- The sign of <code>G(z)</code> is inferred from proxies. Instrumentation would be needed for direct measurement.
+- Many confounders can change test performance (fatigue, acute injury, vestibular issues, fear/guarding).
+- Some tasks are expected to be positive-gradient excursions.
+
+## Safety constraints
+
+If you have numbness/tingling, progressive weakness, bowel/bladder changes, fever, severe unremitting pain, or recent significant trauma, do not test.

@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
-import { IBM_Plex_Sans, IBM_Plex_Serif } from "next/font/google";
+import { IBM_Plex_Mono, IBM_Plex_Sans, IBM_Plex_Serif } from "next/font/google";
+import { SiteHeader } from "../components/SiteHeader";
+import { SiteFooter } from "../components/SiteFooter";
 import "./globals.css";
 
 const serif = IBM_Plex_Serif({
@@ -10,8 +12,14 @@ const serif = IBM_Plex_Serif({
 
 const sans = IBM_Plex_Sans({
   subsets: ["latin"],
-  weight: ["400", "600"],
+  weight: ["400", "500", "600"],
   variable: "--font-sans"
+});
+
+const mono = IBM_Plex_Mono({
+  subsets: ["latin"],
+  weight: ["400", "500"],
+  variable: "--font-mono"
 });
 
 export const metadata: Metadata = {
@@ -25,40 +33,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${serif.variable} ${sans.variable}`}>
-      <body className="bg-stone-50 text-stone-900">
-        <div className="min-h-screen">
-          <header className="border-b border-stone-200 bg-white">
-            <div className="mx-auto flex w-full max-w-4xl items-center justify-between px-6 py-4">
-              <div className="text-lg font-semibold tracking-tight">ALGM</div>
-              <nav className="flex gap-4 text-sm">
-                <a className="hover:underline" href="/">
-                  Home
-                </a>
-                <a className="hover:underline" href="/model">
-                  Model
-                </a>
-                <a className="hover:underline" href="/tests">
-                  Tests
-                </a>
-                <a className="hover:underline" href="/wizard">
-                  Wizard
-                </a>
-                <a className="hover:underline" href="/training">
-                  Training
-                </a>
-                <a className="hover:underline" href="/limitations">
-                  Limitations
-                </a>
-              </nav>
-            </div>
-          </header>
-          <main className="mx-auto w-full max-w-4xl px-6 py-10">
-            <article className="prose prose-stone max-w-none">
-              {children}
-            </article>
-          </main>
-        </div>
+    <html lang="en" className={`${serif.variable} ${sans.variable} ${mono.variable}`}>
+      <body>
+        <div className="site-bg" />
+        <SiteHeader />
+        <main>{children}</main>
+        <SiteFooter />
       </body>
     </html>
   );
