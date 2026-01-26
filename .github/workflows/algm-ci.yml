@@ -32,5 +32,20 @@ jobs:
       - name: Test
         run: pnpm test
 
+      - name: Install PDF toolchain
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc weasyprint
+
+      - name: Build PDF
+        run: pnpm pdf
+
       - name: Build web
         run: pnpm -C apps/web build
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: algm-pdf
+          path: axial-load-gradient-model/dist/axial-load-gradient-model.pdf
+          if-no-files-found: error
