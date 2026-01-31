@@ -1,7 +1,6 @@
 ---
 title: Axial Load Gradient Model (ALGM)
 subtitle: A testable load-routing framework (screen -> protocol -> retest)
-date: {{DATE}}
 lang: en-US
 toc-title: Contents
 ---
