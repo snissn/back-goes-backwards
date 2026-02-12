@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>$if(title)$
+    $title$
+  $else$
+    Book Draft
+  $endif$</title>
+  $for(css)$
+  <link rel="stylesheet" href="$css$" />
+  $endfor$
+  $for(header-includes)$
+  $header-includes$
+  $endfor$
+</head>
+<body>
+  <main id="content" role="main">
+    <div id="toc-placeholder"></div>
+    $body$
+  </main>
+</body>
+</html>

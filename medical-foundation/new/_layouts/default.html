@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <link rel="stylesheet" href="../book/layout.css" media="print">
+  <link rel="stylesheet" href="../book/toc.css">
+  <link rel="stylesheet" href="../book/page-override.css">
+  <style>
+    .title-page h2 {
+      line-height: 1.2;
+    }
+
+    .title-page p {
+      margin-top: 0.4em;
+      margin-bottom: 0;
+      line-height: 1.2;
+    }
+  </style>
+
+    <title>{{TITLE}}</title>
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 data-toc="false" class="project-name">{{TITLE}}</h1>
+      <h2 data-toc="false" class="project-tagline">{{DESCRIPTION}}</h2>
+    </header>
+
+    <main id="content" role="main">
+      {{CONTENT}}
+    </main>
+  </body>
+</html>
