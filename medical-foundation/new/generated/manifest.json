@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-02-12T22:31:59.143174+00:00",
+  "combined_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/generated/combined.md",
+  "section_filter": "",
+  "sections": [
+    {
+      "type": "static",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/00-title-page.md",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/00-title-page.md"
+    },
+    {
+      "type": "static",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/01-copyright-page.md",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/01-copyright-page.md"
+    },
+    {
+      "type": "static",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/02-dedication.md",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/02-dedication.md"
+    },
+    {
+      "type": "static",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/03-about-author.md",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/03-about-author.md"
+    },
+    {
+      "type": "static",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/04-toc.md",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/04-toc.md"
+    },
+    {
+      "type": "generated",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/outlines/11-section-01.json",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/generated/sections/11-section-01.json.md",
+      "section_id": "11",
+      "ordering_key": "11"
+    },
+    {
+      "type": "generated",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/outlines/12-section-02.json",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/generated/sections/12-section-02.json.md",
+      "section_id": "12",
+      "ordering_key": "12"
+    },
+    {
+      "type": "generated",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/outlines/13-section-03.json",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/generated/sections/13-section-03.json.md",
+      "section_id": "13",
+      "ordering_key": "13"
+    },
+    {
+      "type": "generated",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/outlines/14-section-04.json",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/generated/sections/14-section-04.json.md",
+      "section_id": "14",
+      "ordering_key": "14"
+    },
+    {
+      "type": "generated",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/outlines/15-section-05.json",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/generated/sections/15-section-05.json.md",
+      "section_id": "15",
+      "ordering_key": "15"
+    },
+    {
+      "type": "generated",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/outlines/16-section-06.json",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/generated/sections/16-section-06.json.md",
+      "section_id": "16",
+      "ordering_key": "16"
+    },
+    {
+      "type": "static",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/20-afterward.md",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/20-afterward.md"
+    },
+    {
+      "type": "static",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/98-glossary.md",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/98-glossary.md"
+    },
+    {
+      "type": "static",
+      "file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/99-references.md",
+      "output_file": "/Users/michaelseiler/dev/snissn/back-goes-backwards/medical-foundation/new/inputs/static/99-references.md"
+    }
+  ]
+}

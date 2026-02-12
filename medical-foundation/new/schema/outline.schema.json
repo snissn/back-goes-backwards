@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/medical-foundation/outline.schema.json",
+  "title": "Medical Foundation Outline Schema",
+  "type": "object",
+  "description": "Each outline file contains one or more top-level section containers.",
+  "patternProperties": {
+    "^.+$": {
+      "$ref": "#/$defs/section"
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "section": {
+      "type": "object",
+      "description": "A section node in the outline tree.",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        }
+      },
+      "patternProperties": {
+        "^(?!title$|description$).+$": {
+          "$ref": "#/$defs/section"
+        }
+      },
+      "additionalProperties": false,
+      "minProperties": 1
+    }
+  }
+}
