@@ -5,3 +5,11 @@ node_modules
 
 # generated artifacts
 axial-load-gradient-model/dist/
+
+# medical-foundation/new build outputs (keep markdown + manifest tracked; ignore view PDFs/HTML)
+medical-foundation/new/generated/*.pdf
+medical-foundation/new/generated/*.html
+medical-foundation/new/layouts/
+
+# local exported conversations (keep out of git by default)
+The Back goes Backwards - Branch * Book Draft Review.md
