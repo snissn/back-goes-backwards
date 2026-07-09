@@ -4,7 +4,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-from breath_axis_animation import removeTicks, plot_surface
+from breath_axis_animation import remove_ticks, plot_surface
 
 # Base grid
 x = np.linspace(-1, 1, 100)
@@ -99,7 +99,7 @@ plot_surface( axs[0, 0], z_hyoid_reoriented_exhale, y_h, x_h)
 
 for i in range(3):
     for j in range(2):
-        removeTicks(axs[i,j])
+        remove_ticks(axs[i,j])
 
 fig.suptitle("Vertical Breath Axis – Inhale and Exhale Comparison", fontsize=16)
 plt.tight_layout()
