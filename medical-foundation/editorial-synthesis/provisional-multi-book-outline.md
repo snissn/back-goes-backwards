@@ -1,8 +1,10 @@
 # Provisional Multi-Book Architecture
 
-**Status:** Draft 0.1
+**Status:** Draft 0.2
 
 **Date:** 2026-07-09
+
+**Series working title:** *The Back Goes Backwards*
 
 **Purpose:** Provide a provisional series architecture for reorganizing the repository as a source archive and developing a new sequence of books from the aligned project model.
 
@@ -13,7 +15,7 @@ The project contains more than one book-sized argument. Its broadest and most de
 The proposed architecture therefore develops the work in layers:
 
 1. establish the body as a living biomechanical system and load routing as a useful dimension of clinical reasoning;
-2. develop the preferred global configuration and posterior skeletal-routing hypothesis;
+2. investigate whether posterior loading is an anatomical manifestation of a preferred global configuration defined through axial, rotational, and lateral organization;
 3. formalize the three signed dimensions and their correspondence with TCM and other embodied traditions;
 4. investigate breath, pressure, phase, torque, and whole-system geometry;
 5. translate the mature model into assessment, teaching, and practice.
@@ -24,12 +26,12 @@ The five books below are editorial containers, not a commitment to five publishe
 
 ## 2. Series at a glance
 
-The titles are working labels only. Final naming and subtitles should follow the architecture rather than determine it.
+*The Back Goes Backwards* is the working title of the series. The labels below are working titles for the individual books; final titles and subtitles should follow the architecture rather than determine it.
 
 | Book | Working label | Primary job | Central proposition | Relationship to the wider model |
 |---|---|---|---|---|
-| I | **Medical Foundations** | Establish the broadly useful medical and biomechanical foundation | The body must manage forces, moments, pressures, deformation, and accumulated mechanical demand; clinical reasoning improves when load history, distribution, and body-wide routing are considered alongside biological, psychological, and social factors. | Does not depend on a unique preferred configuration, TCM mapping, breath geometry, or practice system. |
-| II | **Preferred Configuration** *(possible title: The Back Goes Backwards)* | State and develop the project's distinctive mechanical hypothesis | Human anatomy may have a preferred body-wide organization characterized by coherent downward, outward, externally rotational, and posteriorly supported load routing. | Makes the all-Yang configuration load-bearing as a hypothesis and begins its formal and anatomical evaluation. |
+| I | **Medical Foundations** | Establish the broadly useful medical and biomechanical foundation | The body continually manages forces, moments, pressures, deformation, and accumulated mechanical demand; clinical reasoning can improve when load history, distribution, and body-wide routing are considered alongside biological, psychological, and social factors. | Establishes the posterior chain as important anatomy and anterior–posterior distribution as a useful lens, but does not depend on a unique preferred configuration, TCM mapping, breath geometry, or practice system. |
+| II | **Preferred Configuration** | State and develop the project's distinctive mechanical hypothesis | Human anatomy may have a preferred body-wide organization defined through coherent signs across axial, rotational, and lateral modes, with posterior loading as a candidate manifestation rather than a primitive coordinate. | Makes the all-Yang configuration load-bearing as a hypothesis and begins its formal and anatomical evaluation. |
 | III | **The Body's Coordinates** | Develop the signed three-dimensional map and its traditional correspondences | Axial, rotational, and lateral/radial organization may provide a mechanical coordinate system that corresponds meaningfully with Yin/Yang directions, the Six Divisions, channels, and related embodied observations. | Treats TCM and other traditions as sources of structured observation and hypotheses, not as proof of the mechanical model. |
 | IV | **The Breath-Structured Body** | Develop the dynamic and higher-specificity whole-system model | Breath, pressure, phase, torque, tissue continuity, and cyclic geometry may help explain how body-wide configurations are established, maintained, and changed. | Houses the torus, paired-loop, tensegrity, hyoid, metastability, and topology research programs without forcing one representation too early. |
 | V | **Embodiment and Practice** | Translate the matured framework into responsible use | A sufficiently developed model may inform observation, teaching, movement, training, rehabilitation, and future clinical practice. | Becomes prescriptive only after the preceding theory, evidence, and safety questions have been developed and reviewed. |
@@ -38,23 +40,27 @@ The titles are working labels only. Final naming and subtitles should follow the
 
 ### Editorial role
 
-This is the first and immediate book. It should be the least objectionable, most useful, and most independently complete expression of the project.
+This is the first and immediate book. It should be the most broadly supportable, useful, and independently complete expression of the project.
 
 Its job is not to prove the entire research program. Its job is to make a strong case that mechanical organization belongs in medical reasoning at a level more integrated than isolated ergonomics, injury mechanics, or downstream rehabilitation.
 
+The series title should have substantive meaning here without functioning as a conclusion announced in advance. Book I establishes that posterior structures are major participants in human load management and that anterior–posterior distribution is worth examining. It then states openly—but does not require—the stronger hypothesis developed by the later books.
+
 ### Provisional thesis
 
-> The human body is a living biomechanical system. Its tissues and structures continuously receive, distribute, transform, transmit, and dissipate forces and moments while managing pressure and deformation over time. Health and function require these demands to remain within viable, context-dependent ranges and to retain workable routes through the system. Clinical reasoning improves when load history, load distribution, and body-wide load routing are considered alongside biological, psychological, and social factors.
+> The human body is a living biomechanical system. Its tissues and structures continuously receive, distribute, transform, transmit, and dissipate forces and moments while managing pressure and deformation over time. The consequences of mechanical demand depend on its magnitude, direction, rate, duration, repetition, and variability; on the geometry and routing of the system; and on tissue state, capacity, recovery, and biological context. Clinical reasoning can improve when load history, load distribution, and body-wide load routing are considered alongside biological, psychological, and social factors.
 
 ### Reader promise
 
 By the end of the book, a clinically or mechanically literate reader should be able to:
 
 - reason about the body in terms of force, moment, stress, strain, pressure, capacity, time, and recovery;
+- understand that bodily forces and moments act in three dimensions and that every model selects a scale, frame, and level of approximation;
 - distinguish external demand, structural routing, local tissue response, and experienced symptoms;
-- recognize concentration, constraint, instability, and compensation as recurring mechanical patterns;
+- use concentration, constraint, instability, and compensation as possible descriptions of recurring mechanical patterns without treating them as an exhaustive taxonomy;
+- understand the posterior chain's major structures and task-dependent roles without treating it as a solitary cable or universally preferred route;
 - see how a whole-system mechanical lens can change questions and interpretations without replacing existing medicine;
-- understand the broader preferred-configuration program without needing to accept it.
+- distinguish established posterior anatomy, anterior–posterior load-sharing analysis, and the broader preferred-configuration hypothesis.
 
 ### Provisional structure
 
@@ -62,15 +68,15 @@ By the end of the book, a clinically or mechanically literate reader should be a
 
 **1. The mechanical dimension of life**
 
-Introduce the body as an active, materially embodied system. Establish that biological regulation occurs within mechanical constraints and situate mechanical organization alongside the other determinants of health and disease.
+Introduce the body as an active, materially embodied, three-dimensional system. Establish that biological processes occur within mechanical conditions and that mechanical and biological states influence one another. Situate mechanical organization alongside psychological, social, developmental, and environmental determinants of health and function.
 
 **2. A working language of load**
 
-Define force, moment and torque, pressure, stress, strain, strain rate, deformation, stiffness, compliance, and load path. Explain why “load” is an umbrella term rather than a single scalar, and why magnitude, direction, rate, duration, repetition, and variability matter.
+Define force, moment and torque, pressure, stress, strain, strain rate, deformation, stiffness, compliance, capacity, and load path. Explain why “load” is an umbrella term rather than a single scalar, distinguish external demand from internal force and tissue stress, and show why magnitude, direction, rate, duration, repetition, and variability matter. Introduce coordinate frames and three-dimensional force-and-moment reasoning without yet privileging the later books' signed anatomical axes.
 
 **3. How living structure carries demand**
 
-Introduce a first-order skeletal-primary model while accounting for muscle, tendon, ligament, fascia, cartilage, fluid, pressure-bearing spaces, and active control. Describe tissues by the roles they perform—contractile, tensile, compressive, stabilizing, compliant, containing, buffering, pressure-bearing, and load-sensitive—without assuming one role per tissue.
+Introduce skeletal-primary load carriage as a useful first-order approximation for selected questions, not as a claim that the skeleton carries demand alone. Account for muscle, tendon, ligament, fascia, cartilage, fluid, pressure-bearing spaces, geometry, and active control. Describe tissues by the roles they perform—contractile, tensile, compressive, stabilizing, compliant, containing, buffering, pressure-bearing, and load-sensitive—without assigning one fixed role to each tissue or arranging them into a universal soft-to-hard sequence.
 
 **4. The posterior chain and posterior support**
 
@@ -84,69 +90,69 @@ Use this anatomy to establish three distinct levels of the series argument: post
 
 **5. Load paths through a changing body**
 
-Move from local forces to chains and networks of transmission. Distinguish a route from the direction of force along it, explain force-and-moment transfer across joints and segments, and show why movement changes routing without eliminating structural continuity.
+Move from local forces to modeled chains and networks of transmission. Distinguish a route from the direction and type of demand carried along it, explain force-and-moment transfer across joints and segments, and show how movement, contact, geometry, active control, and scale change the available routes. Treat a load path as a useful representation to be supported by anatomy and measurement, not as an automatically continuous anatomical cable.
 
 **6. Mechanical homeostasis, capacity, and time**
 
-Develop viable dynamic ranges rather than one fixed posture or set point. Relate current capacity to load history, development, aging, tissue state, recovery, biological regulation, and task. Address adaptation as one possible response among tolerance, compensation, sensitization, injury, remodeling, and failure.
+Develop mechanical homeostasis as the maintenance of viable dynamic ranges rather than one fixed posture or set point. Relate current capacity to load history, development, aging, tissue state, recovery, biological regulation, environment, and task. Treat adaptation as one possible response among tolerance, temporary compensation, sensitization, remodeling, injury, and failure, without implying that every exposure produces a beneficial or predictable adaptation.
 
 **7. Failure signatures and compensation**
 
-Develop a compact pattern language: concentration, constraint, instability, and compensatory rerouting or buffering. Explain how compensation can be locally useful, globally costly, silent, reversible, persistent, or eventually insufficient.
+Offer concentration, constraint, and instability as a provisional pattern language, with compensation, rerouting, and buffering as processes that may interact with any of them. Explain how compensation can be useful, neutral, costly, silent, reversible, persistent, or eventually insufficient depending on scale, duration, task, and available capacity. Do not require every presentation to fit one signature.
 
 #### Part III — The mechanical lens in medicine
 
 **8. Where mechanics already lives in medicine**
 
-Begin from common ground: pressure, pumps, ventilation, fixation, decompression, conduit patency, joint loading, and structural support already matter in medical reasoning and intervention. The proposed extension is greater integration across tissues, regions, and time.
+Begin from common ground: pressure, pumps, ventilation, fixation, decompression, conduit patency, joint loading, and structural support already matter in medical reasoning and intervention. The proposed extension is to ask more consistently how mechanical demand is distributed across tissues, regions, tasks, and time—not to claim that medicine lacks biomechanics.
 
 **9. What load-routing reasoning adds**
 
-Show the difference between identifying a local lesion and asking how demand arrived there, why it concentrated there, what other structures absorbed it, and how the pattern changed over time. Present the framework as an additional level of causal and contextual modeling.
+Show the difference between identifying a local lesion and also asking how demand may have arrived there, why it may have concentrated there, what other structures participated, and how the pattern changed over time. Include geometry, three-dimensional force-and-moment transfer, posterior and anterior participation, exposure, capacity, and recovery. Present the framework as an additional level of causal and contextual modeling whose usefulness varies by case.
 
-**10. Degrees of mechanical contribution**
+**10. Mechanical contribution in context**
 
-Separate mechanical primary causes, material contributors, symptom modifiers, consequences, and incidental findings. Show how mechanical explanations interact with inflammatory, infectious, genetic, metabolic, neurological, psychological, social, and environmental explanations rather than competing with them as a single alternative.
+Make room for mechanics to play different roles in different contexts—for example as a cause, contributor, symptom modifier, consequence, or incidental feature—without requiring every presentation to be forced into a fixed classification. Show how mechanical explanations can interact with inflammatory, infectious, genetic, metabolic, neurological, psychological, social, and environmental explanations rather than competing with them as a single alternative.
 
 #### Part IV — Worked patterns
 
-The book should use three or four worked examples rather than an encyclopedic disease list. Each example should trace external and internal demand, geometry, likely load paths, tissue response, time, symptoms, uncertainty, and credible alternative explanations. The final conditions should be chosen during the evidence audit; the present candidates are intentionally provisional.
+The book should use three or four worked examples rather than an encyclopedic disease list. Each should use only the parts of the framework that illuminate the case: external and internal demand, geometry, possible load paths, tissue response, time, symptoms, uncertainty, and credible alternative explanations. At least one example should make posterior-chain participation central; the others should demonstrate that useful mechanical reasoning is not limited to a posterior-chain explanation. Final examples should be chosen during the evidence audit, so the present candidates remain provisional.
 
 **11. Geometry and force concentration**
 
-Candidate contexts include scoliosis, age-related changes in spinal geometry, or a joint-degeneration pattern. The example should show how a body-wide change in geometry can relocate stress without making geometry the sole explanation for outcome.
+Candidate contexts include scoliosis, age-related changes in spinal geometry, or a joint-degeneration pattern. The example should show how a change in geometry can alter moment arms and relocate demand without making geometry the sole explanation for symptoms or outcome.
 
 **12. Constraint and loss of space**
 
-Candidate contexts include a nerve or vascular corridor such as thoracic outlet syndrome, a local entrapment, or spinal narrowing. The example should distinguish a mechanically intelligible constraint from certainty about diagnosis, origin, or treatment.
+Candidate contexts include a nerve or vascular corridor such as thoracic outlet syndrome, a local entrapment, or spinal narrowing. The example should distinguish a mechanically intelligible change in available space or interface behavior from certainty about diagnosis, origin, or treatment.
 
 **13. Instability, repeated demand, and compensation**
 
-Candidate contexts include segmental instability, recurrent ankle injury, or another pattern in which control, tissue capacity, and repeated loading interact. The emphasis is the failure signature rather than the disease label.
+Candidate contexts include segmental instability, recurrent ankle injury, or another pattern in which control, tissue capacity, and repeated loading interact. The emphasis is how the pattern language helps organize questions, not on assigning a definitive signature or disease label.
 
 **14. A mixed chronic presentation**
 
-Use a case such as nonspecific low-back pain or an age-related decline in structural capacity to demonstrate a genuinely multicausal presentation. Show how mechanical history can remain useful when it is neither exclusive nor sufficient.
+Use a case such as nonspecific low-back pain or age-related change in structural capacity to demonstrate a genuinely multicausal presentation. Show how posterior-chain function, broader mechanical history, tissue state, recovery, expectation, behavior, and social context can all remain relevant without any one of them being automatically exclusive or sufficient.
 
 #### Part V — Integration and research
 
 **15. Mechanical questions in clinical reasoning**
 
-Offer a non-protocol framework for asking about load history, task, geometry, variability, symptom modulation, capacity, and recovery. Explain what observations and measurements could strengthen or weaken a mechanical interpretation.
+Offer a non-protocol set of questions about load history, task, geometry, variability, symptom modulation, capacity, and recovery. Explain what observations and measurements could strengthen, weaken, or leave unresolved a mechanical interpretation. Present these as reasoning aids rather than a diagnostic checklist.
 
 **16. Prevention, education, and a research program**
 
-Identify implications for professional education, longitudinal observation, prevention research, measurement, imaging interpretation, and interdisciplinary study. End with testable questions and bounded proposals for change.
+Identify implications for professional education, longitudinal observation, prevention research, measurement, imaging interpretation, and interdisciplinary study. Include research that can distinguish ordinary posterior-chain function and anterior–posterior load sharing from the stronger preferred-configuration hypothesis. End with testable questions and bounded proposals for change.
 
 **17. The broader hypothesis**
 
-Disclose the later program directly: the project hypothesizes a preferred body-wide organization involving coherent downward, outward, external/opening, and posteriorly supported routing. Explain that Books II–V investigate this possibility and that Book I's argument does not depend on it being correct.
+Return explicitly to the three levels introduced in Chapter 4. First, posterior structures constitute a major human load-management system. Second, anterior–posterior distribution is one useful lens within three-dimensional routing. Third, the later program investigates whether posterior loading is also an anatomical manifestation of a preferred body-wide organization defined more fundamentally through downward axial, external/opening rotational, and outward lateral directions. Explain that posterior describes an anatomical region while Yang describes a signed direction or organizational tendency, and that Book I's argument does not depend on the third proposition being correct.
 
 ### What Book I does not need to settle
 
 - whether the all-Yang state is instantaneous, averaged, dominant under gravity, or an attractor;
 - whether the whole body is usefully approximated as orthotropic;
-- whether one posterior route is evolutionarily optimal;
+- whether human anatomy has one evolutionarily preferred body-wide load-routing configuration;
 - whether the TCM channel map corresponds to measurable mechanical axes;
 - whether breath is necessary to establish the preferred configuration;
 - whether load-routing regime transitions have a topological formalization;
@@ -157,7 +163,7 @@ Disclose the later program directly: the project hypothesizes a preferred body-w
 
 ### Editorial role
 
-This book develops the project's distinctive anatomical and mechanical hypothesis. “The Back Goes Backwards” is likely more accurate here than as the title of Book I because posterior routing becomes a proposition to investigate rather than an implication the foundational reader must accept in advance.
+This book develops the project's distinctive anatomical and mechanical hypothesis. Because *The Back Goes Backwards* names the series, Book II investigates its strongest mechanical reading rather than claiming the title for itself: whether posterior loading is an observable consequence of a preferred all-Yang organization.
 
 ### Provisional thesis
 
