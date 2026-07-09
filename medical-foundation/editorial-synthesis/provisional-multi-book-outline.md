@@ -72,31 +72,39 @@ Define force, moment and torque, pressure, stress, strain, strain rate, deformat
 
 Introduce a first-order skeletal-primary model while accounting for muscle, tendon, ligament, fascia, cartilage, fluid, pressure-bearing spaces, and active control. Describe tissues by the roles they perform—contractile, tensile, compressive, stabilizing, compliant, containing, buffering, pressure-bearing, and load-sensitive—without assuming one role per tissue.
 
+**4. The posterior chain and posterior support**
+
+Define the posterior chain as a conventional functional grouping whose exact boundaries vary by context. Identify its major structures, including the gluteals, hamstrings, calf–Achilles complex, spinal extensors, and—in broader trunk-to-limb accounts—the latissimus dorsi, trapezius, thoracolumbar fascia, and related scapular structures. Describe their established, task-dependent contributions to upright support, locomotion, hip and trunk extension, propulsion, deceleration, stabilization, elastic energy management, and force transfer.
+
+Place these posterior structures within whole-body load sharing rather than treating them as a solitary cable or universally preferred route. The posterior chain works with anterior, lateral, deep, skeletal, and pressure-bearing structures, and its importance does not make those other structures mechanically inferior.
+
+Use this anatomy to establish three distinct levels of the series argument: posterior structures constitute a major human load-management system; anterior–posterior distribution is one useful lens within three-dimensional load routing; and the later books investigate whether posterior loading is also a manifestation of a preferred whole-body organization defined more fundamentally through axial, rotational, and lateral directions. Book I requires the first observation and uses the second lens, but does not depend on the third hypothesis.
+
 #### Part II — Routing, capacity, and failure
 
-**4. Load paths through a changing body**
+**5. Load paths through a changing body**
 
 Move from local forces to chains and networks of transmission. Distinguish a route from the direction of force along it, explain force-and-moment transfer across joints and segments, and show why movement changes routing without eliminating structural continuity.
 
-**5. Mechanical homeostasis, capacity, and time**
+**6. Mechanical homeostasis, capacity, and time**
 
 Develop viable dynamic ranges rather than one fixed posture or set point. Relate current capacity to load history, development, aging, tissue state, recovery, biological regulation, and task. Address adaptation as one possible response among tolerance, compensation, sensitization, injury, remodeling, and failure.
 
-**6. Failure signatures and compensation**
+**7. Failure signatures and compensation**
 
 Develop a compact pattern language: concentration, constraint, instability, and compensatory rerouting or buffering. Explain how compensation can be locally useful, globally costly, silent, reversible, persistent, or eventually insufficient.
 
 #### Part III — The mechanical lens in medicine
 
-**7. Where mechanics already lives in medicine**
+**8. Where mechanics already lives in medicine**
 
 Begin from common ground: pressure, pumps, ventilation, fixation, decompression, conduit patency, joint loading, and structural support already matter in medical reasoning and intervention. The proposed extension is greater integration across tissues, regions, and time.
 
-**8. What load-routing reasoning adds**
+**9. What load-routing reasoning adds**
 
 Show the difference between identifying a local lesion and asking how demand arrived there, why it concentrated there, what other structures absorbed it, and how the pattern changed over time. Present the framework as an additional level of causal and contextual modeling.
 
-**9. Degrees of mechanical contribution**
+**10. Degrees of mechanical contribution**
 
 Separate mechanical primary causes, material contributors, symptom modifiers, consequences, and incidental findings. Show how mechanical explanations interact with inflammatory, infectious, genetic, metabolic, neurological, psychological, social, and environmental explanations rather than competing with them as a single alternative.
 
@@ -104,33 +112,33 @@ Separate mechanical primary causes, material contributors, symptom modifiers, co
 
 The book should use three or four worked examples rather than an encyclopedic disease list. Each example should trace external and internal demand, geometry, likely load paths, tissue response, time, symptoms, uncertainty, and credible alternative explanations. The final conditions should be chosen during the evidence audit; the present candidates are intentionally provisional.
 
-**10. Geometry and force concentration**
+**11. Geometry and force concentration**
 
 Candidate contexts include scoliosis, age-related changes in spinal geometry, or a joint-degeneration pattern. The example should show how a body-wide change in geometry can relocate stress without making geometry the sole explanation for outcome.
 
-**11. Constraint and loss of space**
+**12. Constraint and loss of space**
 
 Candidate contexts include a nerve or vascular corridor such as thoracic outlet syndrome, a local entrapment, or spinal narrowing. The example should distinguish a mechanically intelligible constraint from certainty about diagnosis, origin, or treatment.
 
-**12. Instability, repeated demand, and compensation**
+**13. Instability, repeated demand, and compensation**
 
 Candidate contexts include segmental instability, recurrent ankle injury, or another pattern in which control, tissue capacity, and repeated loading interact. The emphasis is the failure signature rather than the disease label.
 
-**13. A mixed chronic presentation**
+**14. A mixed chronic presentation**
 
 Use a case such as nonspecific low-back pain or an age-related decline in structural capacity to demonstrate a genuinely multicausal presentation. Show how mechanical history can remain useful when it is neither exclusive nor sufficient.
 
 #### Part V — Integration and research
 
-**14. Mechanical questions in clinical reasoning**
+**15. Mechanical questions in clinical reasoning**
 
 Offer a non-protocol framework for asking about load history, task, geometry, variability, symptom modulation, capacity, and recovery. Explain what observations and measurements could strengthen or weaken a mechanical interpretation.
 
-**15. Prevention, education, and a research program**
+**16. Prevention, education, and a research program**
 
 Identify implications for professional education, longitudinal observation, prevention research, measurement, imaging interpretation, and interdisciplinary study. End with testable questions and bounded proposals for change.
 
-**16. The broader hypothesis**
+**17. The broader hypothesis**
 
 Disclose the later program directly: the project hypothesizes a preferred body-wide organization involving coherent downward, outward, external/opening, and posteriorly supported routing. Explain that Books II–V investigate this possibility and that Book I's argument does not depend on it being correct.
 
