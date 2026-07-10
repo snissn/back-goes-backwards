@@ -1,6 +1,6 @@
 # Onboarding and Project-Model Memo
 
-**Status:** Draft 0.2
+**Status:** Draft 0.3
 
 **Date:** 2026-07-09
 
@@ -25,7 +25,7 @@ It is not:
 - a decision about how many books should exist;
 - permission to promote generated prose into a manuscript.
 
-The repository should presently be treated as a source archive containing several generations of thought, not as a coherent draft book.
+The repository should presently be treated as a source archive containing several generations of thought, not as a coherent draft book. Within that archive, the `new` JSON outlines deserve special treatment: they are not reliable manuscript prose, but they preserve the most developed pre-synthesis architecture and should be audited as structural sources rather than flattened into generated Markdown or dismissed because their claims are uneven.
 
 The immediate editorial priority is to shore up the least objectionable and most useful first book. Higher-specificity models should be preserved inclusively as future research directions, but they do not need to be resolved before the first book's argument and source material are assessed.
 
@@ -42,7 +42,7 @@ Statements in the repository should be interpreted according to their source.
 | Exploratory research notes | Medium | Models and formulations under consideration |
 | External scientific and historical evidence | Independent constraint | What can responsibly be claimed, not what the project intends |
 | Visual and engineering analogies | Illustrative | Possible ways to perceive or explain the model |
-| Generated outlines and prose | Low | Extrapolations that may contain useful language but do not determine intent |
+| Generated outlines and prose | Low as evidence; variable as structural record | Extrapolations that may preserve useful architecture, questions, examples, or language but do not determine intent or establish claims |
 | Prompt instructions and pipeline artifacts | None as book content | Evidence about how generated material was produced |
 
 This distinction is necessary because the current Part IV outline contains the intended axis groupings in [the axis-based map](../new/inputs/outlines/14-section-04.json#L111), but later in the same file introduces a [competing hand/foot mapping](../new/inputs/outlines/14-section-04.json#L227). Those should not be reconciled as if both were settled authorial claims.
@@ -52,6 +52,8 @@ The converter also turns every editorial key and description into manuscript tex
 Conversation exports require one additional precaution: a passage attributed to the author may quote or paste generated material. Agreement with a useful formulation also does not necessarily settle every equation, citation, or extrapolation surrounding it. Provenance must therefore follow the origin of each idea, not only the visible speaker label.
 
 Internal scratch work should be read according to its maturity. Informal wording, provisional equations, speculative causal links, and possible applications are not automatically claims intended for publication. They should be preserved when they clarify project intent, then translated and audited when the work reaches the relevant editorial gate.
+
+Epistemic authority and editorial conservation are different judgments. A generated outline may have little authority as evidence while retaining high value as a record of previously developed structure. Before material is removed, reduced to a sentence, or deferred, it should be checked for argument sequence, taxonomies, distinctions, candidate examples, audience transitions, and research questions that would otherwise need to be rediscovered. The companion [reconciliation of the `new` JSON archive](new-json-source-reconciliation.md) records the first such audit.
 
 Ambiguous health language in exploratory notes should receive the weakest reasonable reading consistent with its context, not be inflated into the strongest possible medical claim. For example, “a straighter back may be better for health” may provisionally mean greater comfort, easier movement, improved tolerance of a particular task, or another limited benefit. It does not by itself assert that one posture is universally healthy, that posture determines disease, or that spinal organization is the root cause of all illness. When such language enters a manuscript, the intended outcome, population, conditions, causal strength, and evidence should be made explicit.
 
@@ -381,6 +383,10 @@ For present planning purposes, these appear settled:
 - The hypothesis should nevertheless be disclosed explicitly.
 - Breath, advanced geometry, and practice applications can remain flexible until the mechanical model is clearer.
 - Existing manuscripts and generated runs are research material, not the starting manuscript.
+- The `new` JSON outlines are the principal pre-synthesis structural archive. Their generated claims remain subordinate to direct authorial intent and evidence, but their architecture must be conserved and reconciled before it is replaced.
+- Structural value and claim maturity must be assessed separately; weak or overconfident wording does not by itself justify discarding the question, taxonomy, or explanatory sequence containing it.
+- Book I should retain the archive's full progression from integrated living structure, through hard/soft roles and posterior support, into load-path failure, medical interpretation, worked examples, and research implications.
+- The old disease catalogue should survive as a two-dimensional internal inventory—mechanical failure family by anatomical or physiological context—even though Book I will use only a small number of worked narratives.
 - Orthotropy is a promising future material assumption to refine, not a settled global description of the body.
 - The tall-torus and paired-loop model is an additional future framing, not a replacement for the three-dimensional model.
 - Route, force direction, pressure, respiratory phase, and attention should remain distinguishable in future breath work.
@@ -414,15 +420,35 @@ The primary remaining questions are:
 
 These questions belong to the longer research program. They should be preserved, but they need not all be answered before the first book is rebuilt.
 
-## 15. Next work lines
+## 15. Recovered source architecture
+
+The first deep audit of the `new` JSON outlines changes the working assessment of the repository. The outlines do not contain a viable manuscript, but they do contain a substantial architecture that the initial synthesis compressed too far.
+
+The structure to preserve is:
+
+- **Section 1:** the integrated body; skeletal and compliant tissue roles; local, regional, and body-wide scales; and six families of mechanical breakdown—geometric change, instability, concentration, discoordination, constraint, and compensation.
+- **Section 2:** the hard/soft division of labor; posterior-chain anatomy and mechanics; upright tasks; changing capacity across the lifespan; failure of load transfer; and explicit limits of the model.
+- **Section 3:** the mechanism-first medical sequence—common ground, missing framework, causal boundaries, upstream medical relevance, cumulative demand, clinical integration, and research.
+- **Section 4:** three-dimensional reasoning, the proposed signed modes, Six Division mapping, bandha hypotheses, competing internal maps, and the tradition-to-mechanics translation problem.
+- **Section 5:** the hyoid and related anatomy, breath phase, pressure and volume, cyclic continuity, axis transition, traditional performance phenomena, and a dynamic research program.
+- **Section 6:** individualized practice, staged pedagogy, professional translation, ethics, outcome tracking, and public movement literacy.
+- **Appendix:** a region-first clinical index that can be crossed with Section 1's mechanism-first taxonomy to create an internal candidate-example matrix.
+
+For Book I, Sections 1–3 should be treated as the main structural inheritance. Generic three-dimensional mechanics from Section 4 also belongs in the foundation. The signed axes, TCM correspondences, detailed breath geometry, bandhas, and protocols remain later-book material, but their internal structures should be retained rather than summarized away.
+
+This recovered architecture is developed in the [source-reconciliation audit](new-json-source-reconciliation.md) and incorporated into the provisional series outline.
+
+## 16. Next work lines
 
 The immediate work should return to the foundational medical book:
 
-1. Correct and approve this project-model memo as a sufficiently inclusive alignment document.
-2. Re-read the existing book contract against the narrower foundational argument and revise its scope where necessary.
-3. Audit the repository's major sections as source material: retain, substantially revise, replace, or remove.
-4. Identify the minimum mechanics, tissue biology, clinical reasoning, and worked examples needed for the first book to stand independently, including hard/soft mechanical roles, load-path substitution, strain localization, and constraint-maintained deformation.
-5. Build a first-book claim and evidence map, including the physical narrative from whole-system demand to local exposure, alternative explanations, intrinsic-versus-extrinsic constraint, and explicit exclusions.
-6. Maintain a provenance ledger and future-model notebook so that speculative TCM, orthotropic, toroidal, breath, topology, and practice ideas remain available without controlling the first-book architecture.
-7. Define explicit maturity labels and audit gates for exploratory notes, aligned models, manuscript drafts, scientific and clinical review, and publication readiness.
-8. Defer detailed mathematical formalization and canonical diagrams until they are required either to clarify the first book or to begin the later theoretical work.
+1. Correct and approve this project-model memo and the `new` source reconciliation as sufficiently inclusive alignment documents.
+2. Approve or revise the expanded Book I architecture before reducing or drafting any inherited section.
+3. Re-read the existing book contract against that architecture and revise its purpose, claim stack, scope, and audience where necessary.
+4. Create detailed chapter briefs with explicit pointers to the relevant JSON subsections, classifying source material as promote, integrate, inventory, defer, reformulate, or do not import.
+5. Build a first-book claim and evidence map, including the physical narrative from whole-system demand to local exposure, alternative explanations, intrinsic-versus-extrinsic constraint, scale changes, and explicit exclusions.
+6. Populate the internal mechanism-by-region example matrix and select a small set of worked narratives that test distinct portions of the framework.
+7. Maintain a provenance ledger and future-model notebook so that speculative TCM, orthotropic, toroidal, breath, topology, bandha, and practice ideas remain available without controlling the first-book architecture.
+8. Define explicit maturity labels and audit gates for exploratory notes, aligned models, manuscript drafts, scientific and clinical review, and publication readiness.
+9. Audit generated prose only after chapter briefs exist, salvaging useful language into the new architecture rather than promoting a generated run wholesale.
+10. Defer detailed mathematical formalization and canonical diagrams until they are required either to clarify the first book or to begin the later theoretical work.

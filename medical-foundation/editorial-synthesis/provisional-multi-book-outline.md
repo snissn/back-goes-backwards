@@ -1,6 +1,6 @@
 # *The Back Goes Backwards*: Provisional Series Architecture
 
-**Status:** Draft 0.4
+**Status:** Draft 0.5
 
 **Date:** 2026-07-09
 
@@ -23,6 +23,8 @@ The series therefore unfolds in layers:
 The dependency rule is simple: each book may look ahead, but it should rely only on what the earlier books have established. A reader can accept Book I without accepting the preferred-configuration hypothesis, and can accept that mechanical hypothesis without accepting the later traditional or geometric correspondences.
 
 The five books below remain editorial containers rather than a commitment to five published volumes. Later containers may be merged, split, reordered, or retained as research programs as their evidence and formal clarity develop.
+
+The architecture also follows a conservation rule: inherited material is judged separately for structural value and claim maturity. The `new` JSON outlines may be unreliable as finished prose while still preserving useful explanatory sequences, taxonomies, example families, and pedagogical plans. The [source-reconciliation audit](new-json-source-reconciliation.md) records what has been recovered and where it now belongs.
 
 ## 2. Series at a glance
 
@@ -60,123 +62,154 @@ By the end of the book, a clinically or mechanically literate reader should be a
 
 - use force, moment, pressure, stress, strain, capacity, time, and recovery as a coherent language for bodily demand;
 - distinguish hard and soft mechanical roles without confusing them with fixed tissue classes;
+- distinguish skeletal, active, tensile, compliant, sliding, and pressure-bearing contributions to whole-body support;
 - trace a mechanical narrative from task and configuration through load-path availability, local exposure, tissue response, and possible symptoms;
-- recognize concentration, substitution, maintained deformation, restricted excursion, instability, and compensation without assuming that every instance is harmful;
-- understand the posterior chain as an important participant in whole-body load sharing without treating it as a solitary cable or universally preferred route;
+- recognize geometric change, concentration, interruption, substitution, maintained deformation, restricted excursion, instability, discoordination, and compensation without assuming that every instance is harmful;
+- understand the anatomy and task-dependent mechanics of posterior support across upright movement and changing capacity without treating the posterior chain as a solitary cable or universally preferred route;
 - place mechanical reasoning alongside biological, psychological, social, developmental, and environmental explanations; and
 - distinguish established mechanics, useful organizing models, and the preferred-configuration hypothesis developed later in the series.
 
 ### Provisional structure
 
-#### Part I — The body as living structure
+The chapter boundaries below are deliberately explicit so that source obligations remain visible during synthesis. The count is provisional: adjacent chapters may merge once their briefs, evidence requirements, and worked examples show that the distinction no longer needs a separate chapter.
+
+#### Part I — Mechanical foundations of living structure
 
 **1. The mechanical dimension of life**
 
-Begin with the body as an active, materially embodied, three-dimensional system. Biological processes occur within mechanical conditions, and mechanical and biological states continually influence one another. Place this dimension of life alongside psychological, social, developmental, and environmental determinants of health and function.
+Begin with the body as an active, materially embodied system. Biological processes occur within mechanical conditions, and mechanical and biological states continually influence one another. Place this dimension alongside psychological, social, developmental, and environmental determinants of health and function rather than introducing it as their replacement.
 
 **2. A working language of load**
 
-Give the reader the minimum vocabulary needed for the rest of the book: force, moment and torque, pressure, stress, strain, strain rate, deformation, stiffness, compliance, capacity, and load path. Treat “load” as an umbrella term rather than a single scalar, and distinguish external demand from internal force and tissue stress. Introduce coordinate frames and three-dimensional reasoning without yet privileging the later books' signed anatomical axes.
+Give the reader the minimum vocabulary needed for the rest of the book: force, moment and torque, pressure, stress, strain, strain rate, deformation, stiffness, compliance, capacity, work, energy, and load path. Treat “load” as an umbrella term rather than a scalar, distinguish external demand from internal force and tissue stress, and use free-body diagrams and other simple models where they clarify the argument.
 
 **3. Hard and soft mechanical roles**
 
-Introduce hard and soft as a functional polarity and a division of mechanical labor. A hard role is relatively shape-preserving, force-transmitting, or structurally resolving at the scale under discussion. A soft role is relatively form-receiving and shape-conforming: it yields rather than imposing geometry, deforming in response to surrounding constraints and loads. This softness may enable containment, buffering, sliding, flow, pressure response, and local shape change, but those are expressions of its yielding character rather than the definition itself. Bone often functions as hard in compression and bending; tendon or ligament can function as hard in tension; muscle, fascia, cartilage, vessels, nerves, viscera, and fluid-filled spaces can change roles with state and task. Soft tissues still carry substantial loads, and no tissue receives one permanent classification.
+Introduce hard and soft as a functional polarity and division of mechanical labor. A hard role is relatively shape-preserving, force-transmitting, or structurally resolving at the scale under discussion. A soft role is relatively form-receiving and shape-conforming: it yields rather than imposing geometry. This yielding can enable containment, buffering, sliding, flow, pressure response, and local shape change. Bone, tendon, ligament, muscle, fascia, cartilage, vessels, nerves, viscera, and fluid-filled spaces can perform different roles with state, direction, scale, and task; soft tissues still carry substantial load.
 
-Anchor the chapter in the project's native sentence: “Load wants to travel through the hard body so that the soft body can remain soft.” Its precise meaning is that gross structural demand should ordinarily resolve through capable shape-preserving and force-transmitting routes, leaving soft structures free to yield, conform, and change shape as their functions require. “Soft-to-hard” names this division of labor, not a universal tissue sequence, a demand for rigidity, or a complete TCM claim.
+Anchor the chapter in the project's native sentence: “Load wants to travel through the hard body so that the soft body can remain soft.” “Soft-to-hard” names successful resolution of gross structural demand through capable shape-preserving and force-transmitting routes. It is not a universal sequence of tissue types, a demand for rigidity, or yet a complete Yin/Yang claim.
 
-**4. How living structure carries demand**
+**4. Three-dimensional configuration and load paths**
 
-Put those roles back together. As a first-order model, gross structural demand resolves primarily through skeletal architecture, while muscle, tendon, ligament, fascia, cartilage, fluid, pressure-bearing spaces, contact, and active control organize and adapt that route. Show how compression, tension, shear, bending, torque, and pressure are shared across structures and ultimately resolved against the ground, another external support, inertia, or internal opposition.
+Recover the `new` outline's insistence that the body is more than a set of isolated planar levers. Introduce local and global frames, position and orientation, center of mass, moment arms, contact, boundary conditions, and the decomposition of force and moment in three dimensions. Define configuration as geometry plus active forces, pressure, tissue state, and resulting path organization. The chapter should establish generic three-dimensional reasoning without yet asking the reader to accept the later books' signed axial, rotational, and lateral map.
 
-**5. The posterior chain and posterior support**
+#### Part II — The architecture of support
 
-Use the posterior chain as the book's first major anatomical example. Define it as a conventional functional grouping whose boundaries vary by context, then identify its major structures: the gluteals, hamstrings, calf–Achilles complex, spinal extensors, and—in broader accounts—the latissimus dorsi, trapezius, thoracolumbar fascia, and related scapular structures. Describe their task-dependent roles in upright support, locomotion, extension, propulsion, deceleration, stabilization, elastic energy management, and force transfer.
+This Part restores the old progression from hard structure, through active and compliant tissues, into posterior anatomy and whole-body support. It should make the slogan mechanically tangible before the book turns to failure.
 
-Place these structures within whole-body load sharing: posterior anatomy works with anterior, lateral, deep, skeletal, and pressure-bearing structures. This establishes three levels of argument that remain distinct throughout the series: posterior structures form a major load-management system; anterior–posterior distribution is one useful lens within three-dimensional routing; and posterior loading may be a manifestation of the preferred organization investigated in later books. Book I needs the first observation and uses the second lens without depending on the third hypothesis.
+**5. Skeleton, joints, and shape-preserving paths**
 
-#### Part II — Load paths, capacity, and breakdown
+Examine skeletal geometry, joint surfaces, contact, ligamentous constraint, and force transmission through bones and articulations. Show how geometry changes moments, contact distribution, stability, and the paths available to a task. Replace one universal “neutral alignment” with specific questions about configuration, task, anatomy, capacity, and tolerance.
 
-**6. Load paths through a changing body**
+**6. Active, tensile, compliant, and pressure-bearing systems**
 
-Move from individual structures to routes of transmission. Distinguish a path from the direction and type of demand it carries, and show how joints, contact, geometry, movement, active control, and scale alter the available routes. A load path is a model to be supported by anatomy and measurement, not an automatically continuous anatomical cable.
+Explain how muscle, tendon, ligament, fascia, cartilage, capsules, fluid, pressure-bearing cavities, and sliding interfaces actuate, guide, tension, stabilize, buffer, contain, and adapt skeletal routes. Separate anatomical continuity from claims about clinically meaningful long-range force transmission. Introduce baseline tone, prestress, glide, and tensegrity as bounded ideas whose usefulness depends on scale and model.
 
-**7. Continuity, interruption, and substitution**
+**7. The posterior chain as an anatomical system**
 
-Ask what happens when an adequate path is unavailable. Geometry, contact, task, injury, active control, or limited capacity may interrupt, bypass, or overload a route. Another tissue or interface may then assume the structural role at the cost of greater deformation, sustained activation, reduced excursion, or lower tolerance. A mechanical bottleneck is one expression of this problem: a region where geometry, compliance, contact, or limited mobility concentrates demand or restricts transmission, movement, or flow.
+Define the posterior chain as a conventional functional grouping with boundaries that vary by context. Describe the gluteals, hamstrings, calf–Achilles complex, spinal extensors, and, in broader accounts, the latissimus dorsi, trapezius, thoracolumbar fascia, and related scapular structures. Several of these are among the body's largest and most mechanically consequential muscle groups. Establish what their anatomy can defensibly support before introducing any preferred-routing hypothesis.
 
-**8. Mechanical homeostasis, capacity, and time**
+**8. Posterior support in upright life**
 
-Develop mechanical homeostasis as the maintenance of viable dynamic ranges rather than one posture or set point. Capacity depends on load history, development, aging, tissue state, biological regulation, environment, task, and recovery. Possible responses include tolerance, temporary compensation, sensitization, remodeling, injury, and failure; adaptation is neither uniformly beneficial nor predictable.
+Develop the posterior system's task-dependent roles in stance, gait, lifting, sitting, propulsion, deceleration, balance recovery, stabilization, shock management, and elastic energy storage and return. Treat the evolutionary development of upright locomotion as an anatomical and comparative research question, not as proof of one correct posture. Follow how posterior participation and capacity change across development, training, injury, pregnancy, aging, and illness without turning the chapter into universal advice.
 
-**9. Load mismanagement, adverse exposure, and compensation**
+**9. Posterior support within whole-body load sharing**
 
-Bring the preceding chapters together. Load is mismanaged when demand is resolved through tissues, interfaces, or deformation modes poorly matched to its direction, magnitude, rate, duration, repetition, variability, or recovery context. Concentration, strain localization, maintained deformation, restricted glide, instability, and repeated substitution form a provisional pattern language. Compensation, rerouting, bracing, and buffering may be useful, neutral, costly, silent, reversible, or eventually insufficient; no asymmetry or exposure is harmful merely because it exists.
+Place posterior anatomy in relationship with anterior, lateral, deep, skeletal, active, and pressure-bearing structures. Distinguish three levels of argument: posterior structures form a major load-management system; anterior–posterior distribution is one useful lens within three-dimensional routing; and posterior loading may be a manifestation of the preferred organization investigated later. Book I establishes the first, uses the second, and discloses the third without depending on it.
 
-#### Part III — From mechanical organization to medical consequence
+#### Part III — Load management, failure, and compensation
 
-**10. Mechanics is already part of medicine**
+This Part recovers the six recurring families embedded in the old disease catalogue: global or axial geometric change; segmental instability; force concentration; discoordination; constraint or impingement; and kinetic-chain compensation. They become a mechanical pattern language rather than six boxes into which every presentation must fit.
 
-Begin from common ground. Pressure, pumping, ventilation, fixation, decompression, conduit patency, joint loading, and structural support already shape medical reasoning and intervention. The extension proposed here is to ask more consistently how demand is distributed across tissues, regions, tasks, and time.
+**10. Mechanical homeostasis, capacity, dose, and time**
 
-**11. From whole-body configuration to local exposure**
+Develop mechanical homeostasis as maintenance of viable dynamic ranges rather than one posture or set point. Capacity depends on development, load history, tissue state, biological regulation, task, environment, variability, and recovery. Use sedentary exposure, repetitive work, sport, technology-shaped tasks, and aging as different dose-and-capacity contexts. Possible responses include tolerance, useful adaptation, transient compensation, sensitization, remodeling, injury, and failure.
 
-Build the book's central explanatory bridge without jumping from posture to diagnosis. Begin with a task and whole-body configuration, identify external and internal demand, model the available paths and their load partition, and then locate the resulting pressure, stress, strain, traction, shear, bending, or repeated deformation. This adds a new question to the description of a local lesion: how did demand arrive and concentrate there over time?
+**11. Continuity, interruption, and substitution**
 
-**12. Why strain localizes**
+Ask what happens when a capable path is unavailable. Geometry, contact, task, injury, control, or limited capacity may interrupt, bypass, or overload a route. Another structure may assume the role with greater deformation, sustained activation, reduced excursion, or lower tolerance. This is load-path substitution: not proof of damage, but a change in the division of mechanical labor.
 
-Explain how geometry, stiffness contrast, contact, and boundary conditions can turn a modest whole-body displacement into a much larger local exposure. Distinguish force from stress, displacement from strain, and visible alignment from the mechanical field experienced by tissue. Restricted glide, constrained expansion, and loss of excursion become meaningful outcomes, though not every measurable difference is symptomatic or pathological.
+**12. Geometry, concentration, and strain localization**
 
-**13. When the soft body must hold the structure**
+Explain how joint shape, curvature, moment arms, stiffness contrast, contact, and boundary conditions can concentrate stress or turn modest whole-system displacement into larger local strain. Distinguish force from stress, displacement from strain, visible alignment from the tissue field, and ordinary concentration from an adverse exposure. Axial collapse, altered spinal curves, joint incongruence, and localized wear belong here as candidate contexts rather than deterministic diagnoses.
 
-Return to the hard/soft division of labor in its negative form. A soft structure can carry ordinary functional load while yielding and conforming to its surroundings. The problem changes when an interrupted or insufficient path makes it sustain the contact, tethering, compression, bending, or chronic bracing needed to preserve the surrounding configuration. This is load-path substitution: a shape-conforming structure has been made to preserve or enforce geometry, often at the expense of deformation range, excursion, or tolerance.
+**13. Constraint-maintained deformation and loss of excursion**
 
-**14. Deformable tubes, nerves, and constrained corridors**
+Develop the negative hard/soft narrative directly. A compliant structure may carry ordinary functional load while continuing to yield, glide, expand, and recoil. A different condition arises when surrounding geometry and demand maintain compression, bending, traction, tethering, or collapse against its restoring tendencies. Reduced space, altered course, restricted glide, and constrained expansion are descriptions of this imposed equilibrium. Distinguish it from independently persistent narrowing caused by the structure's own material, wall, scar, contents, or congenital geometry.
 
-Use the deformable tube to make the preceding chapter concrete. Surrounding geometry and load impose contact pressure, traction, bending, or tethering; the wall develops stress and strain; wall elasticity and transmural pressure oppose the deformation; and the resulting equilibrium may include a changed lumen or course. In the project's shorthand, load has “gone into” the soft structure. Reduced space is therefore a geometric description of an imposed mechanical state, not an independent actor.
+**14. Instability, discoordination, and repeated demand**
 
-Distinguish configuration-maintained deformation from narrowing that persists independently because of wall change, scar, material within the structure, or local anatomy. Then extend the model to nerves and sliding interfaces, where the relevant outcome may be strain, interface pressure, or restricted excursion rather than a smaller lumen. Changes in flow, conduction, tissue behavior, or symptoms remain later steps to establish case by case.
+Separate failure of material capacity from failure of control, timing, contact, or sequencing. Segmental instability, recurrent joint injury, rib or scapular discoordination, and inefficient transfer between regions provide candidate contexts. Show how micro-motion, repeated correction, and poorly timed force can change local demand without assuming that variability or asymmetry is itself pathological.
 
-**15. From mechanical exposure to tissue response**
+**15. Compensation, rerouting, and delayed failure**
 
-Connect local exposure to time-dependent tissue behavior without reducing biology to mechanics. Tolerance, fluid movement, mechanotransduction, remodeling, sensitization, inflammation, injury, and degeneration depend on tissue state, dose, rate, duration, repetition, variability, and recovery. The same broad class of exposure may therefore be beneficial, neutral, symptomatic, or damaging in different conditions.
+Treat compensation as a central capability, not automatically a defect. Rerouting, bracing, altered tone, changed gait, contralateral loading, and distal substitution may preserve function for long periods. They may be useful, neutral, costly, reversible, self-reinforcing, or eventually insufficient. This chapter carries forward the old insight that breakdown can occur without one discrete injury while avoiding the claim that a visible compensation necessarily identifies the origin of symptoms.
 
-**16. Mechanics within a whole-person account**
+**16. From local exposure to regional and body-wide reorganization**
 
-Rejoin the mechanical narrative to the whole person. Mechanics may organize an explanation in one context, contribute to another, modify or follow a different process, and add little in a fourth. Its relationships with inflammatory, infectious, genetic, metabolic, neurological, psychological, social, developmental, and environmental factors matter more than a fixed label for its causal role. The practical questions are what the model clarifies, what it leaves unresolved, and what evidence would change the interpretation.
+Make scale explicit. Follow how a local change can remain local, recruit a neighboring region, alter a kinetic sequence, or participate in a more global configuration. Conversely, show how whole-body configuration can concentrate exposure locally. Circulation, neural excursion, pressure systems, energy cost, and physiological regulation enter here as questions with additional intermediate links—not automatic consequences of postural change.
 
-#### Part IV — Four worked mechanical narratives
+#### Part IV — From mechanical organization to medical meaning
 
-Four worked examples give the framework enough range without becoming an encyclopedic disease list. Each should trace only the supported links from demand and configuration through available paths, local exposure, tissue response, function, and possible symptoms. Each should separate observation, model, inference, and alternative explanation. At least one example should center posterior-chain participation; the others should show that the framework is broader than a posterior-chain account. The final selections remain subject to evidence review.
+This Part inherits the strongest sequence from the February Part III specification: common ground, missing framework, upstream medical relevance, exposure-to-biology reasoning, causal boundaries, and clinical integration.
 
-**17. Geometry and localized strain**
+**17. Where mechanics already lives in medicine**
 
-Use a joint or cartilage context to show how contact geometry, material state, and boundary conditions relocate stress and localize strain. A brief spinal comparison can show how geometry changes moment arms and redistributes demand. Keep the local mechanical account distinct from stronger conclusions about pain, degeneration, or individual outcome.
+Begin from common ground. Pressure, pumping, ventilation, fixation, decompression, conduit patency, joint loading, prosthetic interfaces, and structural support already shape medical reasoning and intervention. The proposed extension is to ask more consistently how demand reached a tissue, how it was partitioned, and how that history interacts with present findings.
 
-**18. A soft structure held under constraint**
+**18. Why load routing is a medical question**
 
-Choose one primary nerve or vascular context and one brief comparison—for example, a local nerve entrapment and a positional neurovascular corridor. Begin with imposed contact, compression, traction, bending, or tethering; trace tissue stress and strain, maintained deformation or restricted excursion; and only then consider changes in flow, conduction, or symptoms. Distinguish configuration-maintained deformation from independently persistent narrowing, and include asymptomatic findings and diagnostic uncertainty where relevant.
+Explain why this framework is not limited to exercise technique or downstream rehabilitation. Load history and routing may inform prevention, risk, functional reserve, interpretation of ambiguous or chronic presentations, surgical or device context, and the conditions under which recovery occurs. Its value lies in adding upstream questions, not in claiming authority over every disease or replacing rehabilitation's existing knowledge.
 
-**19. Instability, repeated demand, and compensation**
+**19. From mechanical exposure to tissue response**
 
-Use recurrent ankle injury, segmental instability, or another pattern in which control, tissue capacity, and repeated loading interact. Show how short-term compensation can preserve function while changing future demand, without forcing the presentation into a single failure signature.
+Connect stress, strain, pressure, traction, shear, bending, contact, and repeated deformation to time-dependent tissue behavior without reducing biology to mechanics. Mechanotransduction, fluid movement, remodeling, sensitization, inflammation, injury, and degeneration depend on tissue state, dose, rate, repetition, variability, and recovery. The same class of exposure may be useful, neutral, symptomatic, or damaging in different conditions.
 
-**20. A mixed chronic presentation**
+**20. Conduits, nerves, sliding interfaces, and pressure systems**
 
-Use nonspecific low-back pain or age-related change in structural capacity to demonstrate a genuinely multicausal presentation. Posterior-chain function, mechanical history, tissue state, recovery, expectation, behavior, and social context may all matter without any one being sufficient.
+Extend the mechanics carefully beyond musculoskeletal tissue. For a deformable tube, trace surrounding constraint, wall stress and strain, restoring elasticity, transmural pressure, course and lumen, then any possible change in flow. For nerves and sliding interfaces, trace contact pressure, strain, tethering, and excursion before conduction or symptoms. For thoracic, abdominal, cranial, or pelvic pressure systems, distinguish pressure generation, gradients, structural boundaries, and biological regulation. Each downstream step remains a separate question.
 
-#### Part V — Clinical reasoning and research
+**21. Scope, causality, and the whole person**
 
-**21. Mechanical questions in clinical reasoning**
+Set out the book's causal discipline in reader-facing language. Mechanics can organize an explanation, participate in it, modulate it, follow from it, or add little, depending on the case; those relationships need not be forced into one fixed label. Relate the model to inflammatory, infectious, genetic, metabolic, neurological, psychological, social, developmental, and environmental accounts. Use contrasting examples to show where a mechanical primary is plausible, where mechanics is contextual, and where another process clearly leads.
 
-Gather the framework into a non-protocol set of questions about load history, task, geometry, hard and soft roles, available paths, substitution, local exposure, variability, symptom modulation, capacity, and recovery. Show which observations and measurements would strengthen, weaken, or leave unresolved a mechanical interpretation. These are reasoning aids, not a diagnostic checklist.
+**22. A clinical lens, not a diagnostic system**
 
-**22. Prevention, education, and a research program**
+Show what changes in real reasoning: the history taken, task and time questions asked, interpretation of imaging and asymptomatic findings, attention to symptom modulation, measurements selected, and uncertainty recorded. Explain how the lens interfaces with diagnosis, pharmacology, surgery, rehabilitation, and referral without becoming a new disease label, screening doctrine, or treatment protocol.
 
-Develop the implications for professional education, longitudinal observation, prevention, measurement, imaging interpretation, and interdisciplinary study. The research agenda should measure load partitioning, strain localization, maintained deformation, excursion, and the transition from exposure to tissue response. It should also distinguish the Book I hard/soft model and ordinary posterior-chain function from the preferred-configuration hypothesis.
+#### Part V — Four worked mechanical narratives
 
-**23. The wider series hypothesis**
+The old archive contains too many candidate conditions for Book I, but its breadth should survive in an internal mechanism-by-region matrix. Four primary narratives can then test the framework across different tissues and failure families. Each follows the same chain: system boundary and observation; task and configuration; external and internal demand; available paths and load partition; local exposure; possible tissue response; function or symptoms; alternative explanations; and evidence that would strengthen or weaken the interpretation.
 
-Return to the three levels introduced in Chapter 5. Posterior structures form a major load-management system. Anterior–posterior distribution is one useful lens within three-dimensional routing and may participate in the hard/soft division of labor. The wider series then asks whether posterior loading is also a manifestation of a preferred body-wide organization defined more fundamentally through downward axial, external/opening rotational, and outward lateral directions. Posterior names a region, hard names a role, and Yang names a signed organizational tendency. Book I does not depend on the third proposition being correct.
+**23. Geometry and localized strain**
+
+Use a joint, cartilage, disc, or bone context to show how geometry, material state, and boundary conditions relocate stress and localize strain. A brief spinal or limb comparison can show how moment arms redistribute demand. Keep the mechanical account distinct from conclusions about pain, degeneration, and individual outcome.
+
+**24. A soft structure held under constraint**
+
+Choose one primary nerve or vascular context and one shorter comparison. Begin with imposed contact, compression, traction, bending, or tethering; trace tissue stress and strain, maintained deformation, and restricted excursion; only then consider flow, conduction, or symptoms. Include intrinsic versus extrinsic constraint, asymptomatic findings, and diagnostic uncertainty.
+
+**25. Instability, repeated demand, and changing capacity**
+
+Use recurrent ankle injury, segmental instability, or another pattern in which control, tissue state, and repeated loading interact. Show how short-term compensation preserves function while changing future demand and how the presentation may cross several failure families rather than occupy one box.
+
+**26. Compensation in a mixed chronic presentation**
+
+Use nonspecific low-back pain, progressive postural change, or age-related loss of reserve to demonstrate a genuinely multicausal presentation. Posterior-chain function, mechanical history, tissue state, recovery, expectation, behavior, development, environment, and social context may all matter without any one being sufficient.
+
+#### Part VI — Clinical reasoning, prevention, and research
+
+**27. Mechanical questions in clinical reasoning**
+
+Gather the framework into a non-protocol set of questions about load history, task, three-dimensional geometry, hard and soft roles, posterior participation, available paths, substitution, local exposure, scale, variability, symptom modulation, capacity, and recovery. Show which observations and measurements would strengthen, weaken, or leave unresolved a mechanical interpretation. These are reasoning aids, not a checklist that produces a diagnosis.
+
+**28. Education, prevention, and a research program**
+
+Develop the implications for professional education, movement literacy, longitudinal observation, prevention, measurement, imaging interpretation, and interdisciplinary study. The research agenda should measure load partitioning, strain localization, maintained deformation, excursion, instability, compensation, and the transition from exposure to tissue response. It should also distinguish ordinary posterior-chain function and the Book I hard/soft model from the preferred-configuration hypothesis.
+
+**29. The wider series hypothesis**
+
+Return to the three levels established in Part II. Posterior structures form a major load-management system. Anterior–posterior distribution is one useful lens within three-dimensional routing and may participate in the hard/soft division of labor. The wider series asks whether posterior loading is also a manifestation of a preferred body-wide organization defined more fundamentally through downward axial, external/opening rotational, and outward lateral directions. Posterior names a region, hard names a role, and Yang names a signed organizational tendency. Book I does not depend on the third proposition being correct.
 
 ### What Book I does not need to settle
 
@@ -205,32 +238,35 @@ Book II makes the project's distinctive anatomical hypothesis central. It inheri
 #### Part I — Defining the hypothesis
 
 1. From general load routing to preferred routing
-2. Bilateral symmetry, skeletal-primary support, functional hard/soft roles, and local orthotropy as first-order assumptions
-3. Configuration, movement within a configuration, and load-routing regime transitions
-4. Preferred organization versus one correct static posture
+2. Three-dimensional decomposition: local frames, anatomical planes, movement axes, and body-wide organizational modes
+3. Bilateral symmetry, skeletal-primary support, functional hard/soft roles, and local orthotropy as first-order assumptions
+4. Configuration, movement within a configuration, and load-routing regime transitions
+5. Preferred organization versus one correct static posture
 
 #### Part II — The anatomy of posterior support
 
-5. The pelvis as a coupled opening and closing structure
-6. Spine, rib cage, and the local longitudinal frame
-7. Scapulae, shoulders, arms, and posterior suspension
-8. Hips, legs, feet, and transmission to the ground
-9. The hard/soft division of labor across anterior, posterior, deep, and peripheral regions
+6. The pelvis as a coupled opening and closing structure
+7. Spine, rib cage, and the local longitudinal frame
+8. Scapulae, shoulders, arms, and posterior suspension
+9. Hips, legs, feet, and transmission to the ground
+10. Upright locomotion, comparative anatomy, and the evolutionary hypothesis
+11. The hard/soft division of labor across anterior, posterior, deep, and peripheral regions
 
 #### Part III — The three signed modes
 
-10. Axial organization: downward and upward
-11. Rotational organization: external/opening and internal/closing
-12. Lateral organization: outward and inward
-13. Coupling among force, torque, pressure, gravity, and geometry
-14. The all-Yang configuration as an instantaneous state, bias, or attractor
+12. Axial organization: downward and upward
+13. Rotational organization: external/opening and internal/closing
+14. Lateral organization: outward and inward
+15. Coupling among force, torque, pressure, gravity, and geometry
+16. The all-Yang configuration as an instantaneous state, bias, or attractor
 
 #### Part IV — Testing “the back goes backwards”
 
-15. Posterior loading as an observable consequence rather than a primitive coordinate
-16. Candidate measures of alignment, load partitioning, stress, strain, force transmission, excursion, effort, and capacity
-17. Competing explanations and cases in which the hypothesis should not predict an advantage
-18. Falsifiable predictions and the research needed to distinguish the model from conventional load-capacity and movement-variability accounts
+17. Posterior loading as an observable consequence rather than a primitive coordinate
+18. The hypothesis across stance, gait, lifting, locomotion, sport, development, and aging
+19. Candidate measures of alignment, load partitioning, stress, strain, force transmission, excursion, effort, and capacity
+20. Competing explanations and cases in which the hypothesis should not predict an advantage
+21. Falsifiable predictions and the research needed to distinguish the model from conventional load-capacity and movement-variability accounts
 
 ### Series handoff
 
@@ -269,21 +305,24 @@ Book III develops the proposed correspondence between the mechanical coordinates
 6. Rotational Taiyin–Yangming organization
 7. Lateral Jueyin–Shaoyang organization
 8. Hand and foot channels, bilateral pairing, and local versus global direction
-9. Comparing the proposed map with classical sources and competing internal notes
+9. The axis-pair map versus the archive's competing gross hand/foot map
+10. Comparing both maps with classical sources, direct observation, and authorial intent
 
 #### Part III — Embodied coordinate systems
 
-10. Meridians as candidate routes, regions, relationships, or attention maps
-11. Bandhas as dimensional locks or coordination strategies
-12. Yoga, martial arts, and other traditions as comparative observations
-13. Where energetic language can and cannot be translated mechanically
+11. Meridians as candidate routes, regions, relationships, or attention maps
+12. Bandhas as dimensional locks, control points, or coordination strategies
+13. Proposed bandha-to-axis assignments, sequencing claims, and competing interpretations
+14. The strung-bow analogy and posterior support without a literal continuous cable
+15. Yoga, martial arts, and other traditions as comparative observations
+16. Where energetic language can and cannot be translated mechanically
 
 #### Part IV — A testable correspondence
 
-14. Anatomical candidates for each division and direction
-15. Measurements that could support, refine, or reject the mapping
-16. Alternative mappings and failure conditions
-17. A research program for textual scholarship, anatomy, biomechanics, and embodied practice
+17. Anatomical candidates for each division and direction
+18. Measurements that could support, refine, or reject the mapping
+19. Alternative mappings and failure conditions
+20. A research program for textual scholarship, anatomy, biomechanics, and embodied practice
 
 ### Series handoff
 
@@ -311,32 +350,36 @@ Book IV turns the preceding static and directional models into a dynamic one. It
 #### Part II — Coupling breath to configuration
 
 5. Axial, rotational, and lateral changes across a breath cycle
-6. Reciprocal and synergistic coupling across paired sides
-7. Breath as modulator, organizer, or necessary driver: competing hypotheses
-8. The hyoid as an anatomical node, not a fourth spatial dimension
-9. Bandhas, pressure management, and phase coordination
+6. Cyclic continuity: how one phase prepares the next, with no assumed mechanical reset
+7. Reciprocal and synergistic coupling across paired sides
+8. Breath as modulator, organizer, or necessary driver: competing hypotheses
+9. The hyoid, jaw, tongue, and airway as coupled anatomical nodes, not a fourth spatial dimension
+10. Bandhas, pressure management, and phase coordination
 
 #### Part III — Candidate whole-system geometries
 
-10. Tensegrity as an illustrative and limited model
-11. Local orthotropic frames and curved anatomical coordinates
-12. Tall-torus, shell/core, and paired-track representations
-13. Loop torque, anterior/posterior tracks, and left/right tracks
-14. Intrinsic longitudinal organization and the external gravitational axis
+11. Tensegrity as an illustrative and limited model
+12. Local orthotropic frames and curved anatomical coordinates
+13. Tall-torus, shell/core, and paired-track representations
+14. Loop torque, anterior/posterior tracks, and left/right tracks
+15. Intrinsic longitudinal organization and the external gravitational axis
+16. Candidate mechanical dead spots, axis transitions, and spiral continuity
 
 #### Part IV — Persistence and transition
 
-15. Path dependence, hysteresis, metastability, and energy barriers
-16. Load-path networks, zero crossings, separatrices, and reconnection
-17. When topology is literal, restricted, or only metaphorical
-18. Configuration transitions across breath, gait, movement, and longer-term structural change
+17. Path dependence, hysteresis, metastability, and energy barriers
+18. Load-path networks, zero crossings, separatrices, and reconnection
+19. When topology is literal, restricted, or only metaphorical
+20. Configuration transitions across breath, gait, movement, and longer-term structural change
 
 #### Part V — Formal and experimental program
 
-19. Choosing state variables and scales
-20. Candidate mathematical models and their non-equivalence
-21. Imaging, pressure, motion, force, and physiological measurements
-22. Predictions that distinguish the models
+21. Choosing state variables and scales
+22. Candidate mathematical models and their non-equivalence
+23. Conduit flow, neural excursion, organ support, and pressure regulation as separable test domains
+24. *Peng*, *fa-jing*, bandha, and other traditional phenomena as comparative cases rather than one presumed mechanism
+25. Imaging, pressure, motion, force, and physiological measurements
+26. Predictions that distinguish the models
 
 ### Series handoff
 
@@ -378,17 +421,19 @@ Book V is the conditional translation from model to use. It should be developed 
 
 #### Part IV — Teaching and professional use
 
-14. Language, metaphors, tactile feedback, and visual models
-15. Movement education, yoga, martial arts, athletics, and rehabilitation
-16. Individual variation, age, injury history, disability, and disease
-17. Case documentation without turning the model into a diagnosis
+14. Awareness → engagement → integration as a staged learning sequence
+15. Language, metaphors, tactile feedback, and visual models
+16. Movement education, yoga, Pilates, martial arts, athletics, and rehabilitation
+17. Individual variation, age, injury history, disability, disease, and life stage
+18. Case documentation without turning the model into a diagnosis
 
 #### Part V — Testing practice
 
-18. Single-subject observation and structured self-experimentation
-19. Case series and comparative interventions
-20. Outcome selection, adverse events, and null results
-21. Updating or abandoning practices when the model fails
+19. Single-subject observation and structured self-experimentation
+20. Case series and comparative interventions
+21. Outcome selection, adverse events, and null results
+22. Updating or abandoning practices when the model fails
+23. Professional collaboration, public movement literacy, and responsible cultural translation
 
 ### Possible publication forms
 
@@ -400,13 +445,13 @@ The existing sections are source pools, not manuscripts awaiting reassignment. T
 
 | Existing material | Provisional disposition |
 |---|---|
-| Section 1 — mechanics, dysfunction, and disease catalog | Rebuild across Book I, Parts I–IV. Retain the body-as-system premise, compensatory reorganization, and the intuition that accommodating tissues can become structural “last resorts.” Translate that idea into load-path substitution and local exposure; replace the disease catalog with four worked narratives. |
-| Section 2 — soft-to-hard, posterior chain, and posterior loading | Bring the hard/soft division of labor and established posterior-chain anatomy into Book I. Develop posterior preference in Book II, the TCM interpretation in Book III, and any tests or corrective applications in Book V. Leave behind the fixed posterior-hard/anterior-soft taxonomy, universal tissue sequence, and unsupported systemic conclusions. |
-| Section 3 — medical implications editorial specification | Use as scaffolding for Book I's mechanism-first sequence, adverse-exposure patterns, causal boundaries, clinical integration, and research agenda. Keep the editorial specification out of reader-facing prose. |
-| Section 4 — dimensions, meridians, bandhas, and tradition | Split primarily between Books II–IV. Preserve competing formulations in provenance notes until direct authorial intent or source study resolves them. Move protocols to Book V. |
-| Section 5 — breath and 4D tensegrity | Rebuild as Book IV source material. Retain breath, phase, continuity, hyoid, and cyclic-integration questions; recast the hyoid as an anatomical node rather than a fourth spatial dimension, and revisit the clinical extrapolations at the appropriate audit stage. |
-| Section 6 — embodiment and practice | Treat as an early source outline for Book V, not as part of Book I. |
-| Appendix of biomechanical diagnoses | Use as a candidate-example inventory and possible later professional reference. Do not publish the present empty taxonomy. |
+| Section 1 — mechanics, dysfunction, and disease catalog | Promote its integrated-structure sequence, scale changes, and six failure families into Book I, Parts I, III, and IV. Preserve its conditions as an example inventory rather than a disease catalogue. Reformulate fixed tissue classes, optimal alignment, tensegrity certainty, and systemic cascades. |
+| Section 2 — soft-to-hard, posterior chain, and posterior loading | Promote the hard/soft progression and posterior anatomy–mechanics–task sequence into Book I, Parts I–II. Develop posterior preference in Book II, the TCM interpretation in Book III, and tests or corrective applications in Book V. Reformulate the fixed posterior-hard/anterior-soft taxonomy, literal tissue sequence, and direct organ-protection claims. |
+| Section 3 — medical implications editorial specification | Use its full sequence to govern Book I, Part IV and the ending: common ground, missing framework, scope, upstream medical relevance, cumulative demand, clinical integration, and research. Keep “Job,” “Allowed examples,” and other specification keys out of reader-facing prose. |
+| Section 4 — dimensions, meridians, bandhas, and tradition | Bring generic three-dimensional reasoning into Book I and split the signed axes, tradition, and dynamic hypotheses across Books II–IV. Preserve the axis-pair map and competing gross hand/foot map as distinct provenance records. Move protocols to Book V. |
+| Section 5 — breath and 4D tensegrity | Rebuild as Book IV source material. Retain coupled anatomy, phase, cyclic continuity, hyoid, axis-transition, pressure, traditional-performance, and research questions. Recast the hyoid as a node rather than a fourth spatial dimension and treat physiological consequences as separate hypotheses. |
+| Section 6 — embodiment and practice | Promote its individualized-practice, staged-pedagogy, professional-translation, ethics, research, and public-literacy structure into Book V. Do not inherit the practices themselves without the later model, evidence, clinical, and safety reviews. |
+| Appendix of biomechanical diagnoses | Cross its region-first index with Section 1's mechanism-first taxonomy to create an internal candidate-example matrix and possible later professional reference. Do not publish the present empty scaffold. |
 | Generated prose runs | Mine selectively for language, examples, and missing questions. They have no presumptive manuscript authority. |
 | Existing references | Treat as research leads requiring source verification, completion, and claim-level mapping rather than as a finished bibliography. |
 
@@ -414,13 +459,14 @@ The existing sections are source pools, not manuscripts awaiting reassignment. T
 
 The immediate sequence is:
 
-1. Revise the Book I contract around this thesis and its independence from the later hypotheses.
-2. Audit the repository at subsection level for material to retain, rebuild, defer, or discard.
-3. Construct a Book I claim-and-evidence map, including the hard/soft roles and the sequence from whole-body configuration to local exposure and possible tissue response.
-4. Select and research four worked examples, including at least one case of strain localization and one of configuration-maintained deformation.
-5. Write detailed Book I chapter briefs, then begin new prose.
-6. Maintain Books II–V as inclusive future-work maps while Book I is developed.
-7. Return to the later books in dependency order and revise this architecture as their models mature.
+1. Approve or revise the recovered Book I architecture and the `new` source-reconciliation audit.
+2. Revise the Book I contract around this thesis, restored structure, and independence from the later hypotheses.
+3. Write detailed Book I chapter briefs with pointers to the relevant JSON subsections and explicit source dispositions.
+4. Construct a Book I claim-and-evidence map, including the hard/soft roles and the sequence from whole-body configuration to local exposure, scale change, and possible tissue response.
+5. Populate the internal mechanism-by-region matrix, then select and research four worked examples, including strain localization, configuration-maintained deformation, instability or repeated demand, and one genuinely mixed presentation.
+6. Audit generated prose against the approved briefs and salvage only material that serves the new architecture.
+7. Begin a new Book I manuscript after the contract, briefs, evidence map, and example selection agree.
+8. Maintain Books II–V as inclusive future-work maps while Book I is developed, then revise them in dependency order as their models mature.
 
 ## 10. Decisions intentionally left open
 
