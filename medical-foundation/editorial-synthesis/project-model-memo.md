@@ -1,14 +1,14 @@
 # Onboarding and Project-Model Memo
 
-**Status:** Draft 0.1
+**Status:** Draft 0.2
 
 **Date:** 2026-07-09
 
-**Purpose:** Establish a shared model of the project before deciding book, chapter, or manuscript structure.
+**Purpose:** Establish the shared project model that governs book, chapter, and manuscript decisions.
 
 ## 1. Purpose and status
 
-This document records the project's present intellectual model before any decisions are made about books, chapters, or surviving manuscript material.
+This document records the project's present intellectual model and provides the basis for evaluating the provisional series architecture, chapter plans, and surviving manuscript material.
 
 It is:
 
@@ -64,6 +64,12 @@ Mechanical viability does not require one static posture. It requires that force
 The foundational medical argument is:
 
 > Clinical reasoning improves when load history, load distribution, and body-wide load routing are considered alongside biological, psychological, and social factors.
+
+An early mechanical intuition within that foundation is:
+
+> Load wants to travel through the hard body so that the soft body can remain soft.
+
+Here, “hard” and “soft” name functional mechanical roles rather than fixed tissue classes. The sentence proposes a division of mechanical labor: gross structural demand should be resolved primarily through continuous, shape-preserving and force-transmitting pathways, while compliant structures should remain able to deform, glide, contain, buffer, and regulate within their functional ranges. It does not imply that soft tissues are unloaded, mechanically unimportant, or always anterior, or that hard roles are performed by bone alone.
 
 A stronger hypothesis motivates the project but is not required to establish that foundation:
 
@@ -136,10 +142,10 @@ That is more precise than claiming that the existence of three orthogonal direct
 At the present exploratory level, the mechanical model may begin with three deliberately simplified assumptions:
 
 - **Bilateral reference symmetry:** the left and right sides are treated as approximately mirrored in the reference model, while individual asymmetry, handedness, organ placement, injury, development, and task-specific differences are added at later orders.
-- **Skeletal-primary load routing:** gross gravitational and external structural demand is treated as being carried primarily through skeletal architecture. Muscles, tendons, fascia, pressure systems, and other tissues remain essential for actuation, stabilization, transmission, buffering, and coupling.
+- **Skeletal-primary load routing:** gross gravitational and external structural demand is treated as being resolved primarily through skeletal architecture. Muscles, tendons, ligaments, fascia, cartilage, pressure systems, and other tissues remain essential for actuating, stabilizing, guiding, coupling, transmitting into, buffering around, and adapting that principal route.
 - **Local orthotropic approximation:** direction-dependent mechanical response is organized around three mutually orthogonal material directions related provisionally to the axial, lateral/radial, and circumferential/rotational modes.
 
-The preferred-configuration hypothesis adds a directional proposition to the skeletal-primary assumption: persistent structural demand should, where anatomy and task allow, be routed through coherent skeletal support rather than requiring chronic compensatory bracing or compression in other tissues.
+The preferred-configuration hypothesis adds a directional proposition to the skeletal-primary assumption: persistent structural demand should, where anatomy and task allow, be routed through coherent skeletal support rather than requiring chronic compensatory bracing, tethering, or compression in compliant tissues.
 
 These are first-order continuum-scale choices, not atomistic descriptions or declarations that every tissue, region, or person has exact bilateral or orthotropic symmetry.
 
@@ -193,7 +199,55 @@ Torque is essential at the segment level. In classical continuum mechanics, a re
 
 Metabolic cost is not itself mechanical load, although it may be an important consequence, constraint, or measurement of how the body manages load.
 
-## 8. Configuration and configuration transitions
+## 8. Hard and soft mechanical roles
+
+“Hard” and “soft” are a project-specific, TCM-derived functional polarity. They should not be reduced to a binary anatomical inventory.
+
+A **hard role** is relatively shape-preserving and structurally resolving at the scale and time under discussion. It may transmit compression, tension, shear, bending, or torque while maintaining a usable geometry. Bone often performs this role in compression and bending; tendon and ligament can perform it in tension; joint geometry, active muscle, fascia, and pressurized compartments can also contribute to it.
+
+A **soft role** is relatively compliant and accommodating. It permits deformation, excursion, containment, buffering, pressure change, flow, sliding, or local shape adaptation. Muscle, fascia, cartilage, vessels, nerves, viscera, fluid-filled spaces, and other tissues may perform soft roles, but none is mechanically passive. A muscle can shift between yielding, transmitting, and shape-preserving roles; a tendon is anatomically soft tissue but may function as part of the hard body under tension. The polarity therefore depends on scale, direction, time, state, and task.
+
+The central principle is a division of labor, not an instruction to eliminate soft-tissue loading:
+
+> Gross structural demand should be resolved primarily through continuous, shape-preserving and force-transmitting pathways, while compliant structures should deform within their functional ranges rather than becoming substitute load-bearing boundaries.
+
+The phrase “soft-to-hard” is best understood in this functional sense. It does not require load to pass through a universal sequence of tissue types. It asks whether compliant and active tissues can guide, buffer, and transmit demand into a coherent structural route, and whether that route ultimately resolves the demand without requiring vulnerable or highly deformable structures to maintain an imposed geometry chronically.
+
+This framing introduces two important failure concepts:
+
+- **Load-path interruption:** a normally available structural route is geometrically disrupted, bypassed, insufficient for the task, or unavailable at the relevant scale.
+- **Load-path substitution:** another tissue or interface assumes a structural role that it can perform only at greater deformation, sustained activation, reduced excursion, or lower tolerance.
+
+In this vocabulary, load mismanagement does not mean that force has violated a moral or universally correct route. It means that demand is being resolved through tissues, interfaces, or modes of deformation poorly matched to its magnitude, direction, duration, repetition, or recovery conditions.
+
+### Constraint-maintained deformation
+
+The hard/soft distinction becomes especially useful when a compliant structure is deformed by surrounding geometry. Consider a deformable tube. Wall elasticity and transmural pressure contribute restoring tendencies, while flow is coupled to the deformation; external contact pressure, traction, bending, or tethering can oppose those tendencies and maintain a changed shape. In an extrinsically maintained case, the primary mechanical story is not simply that “space was lost.” It is that surrounding structure imposed load on the compliant boundary, the wall developed stress and strain, and the resulting equilibrium included a changed lumen or course. In the project's shorthand, load has “gone into” the soft structure; in continuum-mechanics language, tractions from its surroundings have produced stress and strain in its wall.
+
+This can be represented as a provisional causal sequence:
+
+```text
+whole-system demand and configuration
+    -> availability of shape-preserving load paths
+    -> partitioning of demand among hard and soft roles
+    -> compression, tension, shear, bending, pressure, or tethering at a compliant structure
+    -> localized stress and strain
+    -> maintained deformation, restricted excursion, or altered lumen
+    -> possible changes in flow, conduction, movement, tissue behavior, or symptoms
+```
+
+The sequence is not a universal medical mechanism, and each arrow requires case-specific support. It is a more precise physical narrative for asking how configuration might become a local mechanical exposure.
+
+Two cases should remain distinct:
+
+1. **Intrinsic or independently persistent narrowing:** material within the structure, a wall change, scarring, congenital local geometry, or another persistent property establishes the reduced lumen or space without depending primarily on the current surrounding load. The narrowing itself may then govern flow or contact mechanics.
+2. **Extrinsic or configuration-maintained deformation:** surrounding geometry and load maintain compression, bending, tethering, or collapse of a compliant structure. Here, altered space is an outcome of the imposed mechanical state as well as a useful geometric description of it.
+
+The project is presently most interested in the second case without denying the first. This distinction gives Book I a defensible way to examine negative consequences of load distribution—strain localization, restricted glide, constrained expansion, and altered conduit behavior—before making any stronger claim about a particular diagnosis or systemic effect.
+
+The functional hard/soft principle belongs in the first book because it clarifies ordinary load sharing and adverse mechanical exposure. Its TCM interpretation, its possible anterior/posterior and Yin/Yang correspondences, and its place within the preferred-configuration model belong primarily to the later books.
+
+## 9. Configuration and configuration transitions
 
 A configuration is not merely posture. It is the combined state of:
 
@@ -201,7 +255,7 @@ A configuration is not merely posture. It is the combined state of:
 - joint and tissue relationships;
 - active muscular forces;
 - internal pressure;
-- stress and strain fiemedical-foundation/editorial-synthesis/project-model-memo.mdlds;
+- stress and strain fields;
 - and the resulting load-path organization.
 
 Ordinary movement within a configuration can change positions and force magnitudes while preserving the qualitative organization of load routing.
@@ -222,7 +276,7 @@ The laterally shifted spine and scapular example is a candidate: anatomy nominal
 
 We should not yet require a literal discontinuity in a physical stress field. A continuous field can undergo a qualitative regime change through a zero crossing, inversion, separatrix, bifurcation, or reconnection. "Load-routing regime transition" is the safest working term until this is formalized.
 
-## 9. Additional future framing: tall torus and paired-loop torque
+## 10. Additional future framing: tall torus and paired-loop torque
 
 The tall-torus model is an additional exploratory framing for the higher-specificity research program. It does not replace the axial, lateral, and rotational coordinate model, and it is not required by the first book's foundational medical argument.
 
@@ -249,7 +303,7 @@ The model is intentionally inclusive at this stage. Its tracks need not yet be d
 
 For the first book, this framing is best preserved as a motivating future direction rather than made load-bearing. Detailed topology, breath geometry, TCM-mechanical correspondence, ground-state energetics, and practice applications can be developed in later work.
 
-## 10. Controlled vocabulary
+## 11. Controlled vocabulary
 
 - **Axial:** Along the local longitudinal organization of the body or structure.
 - **Lateral/radial:** Away from or toward the local central axis. This remains provisional pending clarification of "tangent."
@@ -257,11 +311,19 @@ For the first book, this framing is best preserved as a motivating future direct
 - **Yang:** The positive direction assigned to each model coordinate.
 - **Yin:** The negative direction assigned to each model coordinate.
 - **Preferred configuration:** The hypothesized coherent all-Yang organization, not necessarily a static pose.
-- **Load path:** A modeled route by which forces and moments are transmitted.
+- **Load path:** A modeled route by which forces and moments are transmitted and ultimately resolved through contact, support, inertia, or internal opposition.
 - **Routing:** The distribution of mechanical demand among available paths and tissues.
+- **Load-path continuity:** The availability of a mechanically connected route capable of resolving the demand under consideration. It is scale- and task-dependent, not necessarily a literal continuous anatomical cable.
+- **Load-path interruption:** Disruption, bypass, or insufficiency of an otherwise available structural route at the scale being modeled.
+- **Load-path substitution:** Recruitment of another tissue or interface to carry a structural role, often with different deformation, activation, excursion, or capacity costs.
+- **Load mismanagement:** Resolution of structural demand through tissues, interfaces, or deformation modes poorly matched to its magnitude, direction, rate, duration, repetition, variability, or recovery context.
+- **Adverse mechanical exposure:** A local pattern of stress, strain, pressure, contact, traction, shear, bending, or repeated deformation with a plausible capacity to perturb tissue function or state. Whether it produces a clinical consequence remains case-specific.
+- **Constraint-maintained deformation:** Deformation that persists because surrounding contact, geometry, pressure, traction, or tethering opposes the structure's restoring tendencies.
+- **Strain localization:** Concentration of deformation within a smaller region than the imposed whole-system displacement or demand would suggest.
+- **Mechanical bottleneck:** A region or interface at which geometry, compliance, contact, or limited excursion concentrates demand or restricts transmission, movement, or flow.
 - **Posterior loading:** Greater load carriage by posterior structures; an anatomical observation, not a primitive coordinate.
 - **Extension:** A conventional anatomical movement. It may correlate with Yang organization but is not identical to it.
-- **Hard/soft:** A TCM-derived functional polarity, not a literal tissue classification. "Hard" may describe shape-preserving or force-transmitting roles, including tendons; "soft" may describe compliant, containing, buffering, deformable, or pressure-bearing roles. A tissue may perform both.
+- **Hard/soft:** A project-specific, TCM-derived functional polarity, not a literal tissue classification. “Hard” describes a relatively shape-preserving, force-transmitting, or structurally resolving role; “soft” describes a relatively compliant, containing, buffering, deformable, sliding, or pressure-bearing role. The role depends on scale, direction, time, state, and task, and a tissue may perform both.
 - **Mechanical homeostasis:** The proposed maintenance of mechanical variables within viable dynamic ranges. It does not yet imply one fixed set point.
 - **Phase:** Position within a temporal cycle, such as breathing or gait—not a fourth spatial dimension.
 - **Load-routing regime transition:** A qualitative reorganization of the body's load-path field or network.
@@ -275,7 +337,7 @@ For the first book, this framing is best preserved as a motivating future direct
 - **Progressive rigor:** The working rule that precision, evidence, formalism, and review increase with artifact maturity—from exploratory notes, through aligned models and manuscript drafts, to scientific, clinical, and publication audits.
 - **Charitable claim normalization:** Reading informal internal language at the weakest reasonable level consistent with context, then replacing it with an explicit outcome and causal scope when preparing manuscript prose.
 
-## 11. Foundational versus later arguments
+## 12. Foundational versus later arguments
 
 The foundational medical argument should be able to stand without requiring the reader to accept:
 
@@ -287,6 +349,8 @@ The foundational medical argument should be able to stand without requiring the 
 - a whole-body orthotropic approximation;
 - or any corrective practice.
 
+The functional hard/soft distinction is part of that foundation, but only in its general mechanical form. Book I may argue that gross structural demand is usually better resolved through capable shape-preserving and force-transmitting routes than through chronic deformation of compliant structures. It need not establish that posterior always equals hard, anterior always equals soft, Yang always equals hard, or one preferred configuration governs every task.
+
 The preferred-configuration hypothesis should nevertheless be stated directly, probably as a motivating research program:
 
 > The broader project hypothesizes that human anatomy has a preferred body-wide mechanical organization corresponding to coherent downward, outward, and externally rotational routing. The foundational argument developed here does not depend on that hypothesis being correct.
@@ -297,11 +361,16 @@ The first book can introduce the existence of the higher-specificity research pr
 
 The existing [book contract](../book/book_contract/book_contract.md#L80) already provides useful epistemic categories and exclusions, but its stronger claims about "correct routing" should now be reconsidered against this separation.
 
-## 12. Settled intentions
+## 13. Settled intentions
 
 For present planning purposes, these appear settled:
 
 - The project concerns whole-system mechanical organization, not merely posture.
+- “Load wants to travel through the hard body so that the soft body can remain soft” is a native statement of the project's intended mechanical division of labor.
+- Hard and soft are functional, scale- and task-dependent roles rather than fixed tissue classes; soft tissue is not assumed to be unloaded or passive.
+- The recoverable meaning of “soft-to-hard” is successful resolution of gross structural demand through capable shape-preserving and force-transmitting pathways, not a universal tissue sequence.
+- Load-path substitution and constraint-maintained deformation provide the main vocabulary for cases in which compliant structures become unintended structural boundaries.
+- The project is especially interested in extrinsic or configuration-maintained deformation while preserving the distinction from intrinsic or independently persistent narrowing.
 - Axial, rotational, and lateral are the three intended dimensions or modes.
 - Each dimension has Yin and Yang directions.
 - The preferred global sign combination is Yang/Yang/Yang.
@@ -321,7 +390,7 @@ For present planning purposes, these appear settled:
 - Claim discipline applies throughout the project, but its strictness and required evidence increase through explicit maturity and audit gates.
 - Informal health language should not be escalated into universal, disease-specific, or monocausal claims unless the author explicitly makes that stronger claim.
 
-## 13. Unresolved formal questions
+## 14. Unresolved formal questions
 
 The primary remaining questions are:
 
@@ -339,18 +408,21 @@ The primary remaining questions are:
 12. Which aspects of configuration lock-in are adequately described by energy landscapes and metastability, and which might eventually support a stricter topological formulation?
 13. How should the intrinsic axial path be represented separately from the gravitational axis?
 14. Are breath route, force direction, pressure propagation, and directed attention mechanically distinguishable in measurement or only phenomenologically distinguishable?
+15. How should hard and soft roles be operationalized at a stated scale—for example through stiffness, compliance, load fraction, shape retention, excursion, strain energy, or another quantity?
+16. What measurements would distinguish ordinary compliant load sharing from load-path substitution or an adverse mechanical exposure?
+17. When a compliant conduit or sliding structure is deformed, how should external constraint, internal pressure, wall stress, strain, contact geometry, excursion, and downstream function be modeled together?
 
 These questions belong to the longer research program. They should be preserved, but they need not all be answered before the first book is rebuilt.
 
-## 14. Next work lines
+## 15. Next work lines
 
 The immediate work should return to the foundational medical book:
 
 1. Correct and approve this project-model memo as a sufficiently inclusive alignment document.
 2. Re-read the existing book contract against the narrower foundational argument and revise its scope where necessary.
 3. Audit the repository's major sections as source material: retain, substantially revise, replace, or remove.
-4. Identify the minimum mechanics, tissue biology, clinical reasoning, and worked examples needed for the first book to stand independently.
-5. Build a first-book claim and evidence map, including alternative explanations and explicit exclusions.
+4. Identify the minimum mechanics, tissue biology, clinical reasoning, and worked examples needed for the first book to stand independently, including hard/soft mechanical roles, load-path substitution, strain localization, and constraint-maintained deformation.
+5. Build a first-book claim and evidence map, including the physical narrative from whole-system demand to local exposure, alternative explanations, intrinsic-versus-extrinsic constraint, and explicit exclusions.
 6. Maintain a provenance ledger and future-model notebook so that speculative TCM, orthotropic, toroidal, breath, topology, and practice ideas remain available without controlling the first-book architecture.
 7. Define explicit maturity labels and audit gates for exploratory notes, aligned models, manuscript drafts, scientific and clinical review, and publication readiness.
 8. Defer detailed mathematical formalization and canonical diagrams until they are required either to clarify the first book or to begin the later theoretical work.
