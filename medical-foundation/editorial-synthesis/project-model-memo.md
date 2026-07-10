@@ -69,7 +69,7 @@ An early mechanical intuition within that foundation is:
 
 > Load wants to travel through the hard body so that the soft body can remain soft.
 
-Here, “hard” and “soft” name functional mechanical roles rather than fixed tissue classes. The sentence proposes a division of mechanical labor: gross structural demand should be resolved primarily through continuous, shape-preserving and force-transmitting pathways, while compliant structures should remain able to deform, glide, contain, buffer, and regulate within their functional ranges. It does not imply that soft tissues are unloaded, mechanically unimportant, or always anterior, or that hard roles are performed by bone alone.
+Here, “hard” and “soft” name functional mechanical roles rather than fixed tissue classes. The sentence proposes a division of mechanical labor: gross structural demand should be resolved primarily through continuous, shape-preserving and force-transmitting pathways, while soft structures remain free to yield, conform to their surroundings, change shape, glide, contain, and regulate within their functional ranges. It does not imply that soft tissues are unloaded, mechanically unimportant, or always anterior, or that hard roles are performed by bone alone.
 
 A stronger hypothesis motivates the project but is not required to establish that foundation:
 
@@ -205,11 +205,11 @@ Metabolic cost is not itself mechanical load, although it may be an important co
 
 A **hard role** is relatively shape-preserving and structurally resolving at the scale and time under discussion. It may transmit compression, tension, shear, bending, or torque while maintaining a usable geometry. Bone often performs this role in compression and bending; tendon and ligament can perform it in tension; joint geometry, active muscle, fascia, and pressurized compartments can also contribute to it.
 
-A **soft role** is relatively compliant and accommodating. It permits deformation, excursion, containment, buffering, pressure change, flow, sliding, or local shape adaptation. Muscle, fascia, cartilage, vessels, nerves, viscera, fluid-filled spaces, and other tissues may perform soft roles, but none is mechanically passive. A muscle can shift between yielding, transmitting, and shape-preserving roles; a tendon is anatomically soft tissue but may function as part of the hard body under tension. The polarity therefore depends on scale, direction, time, state, and task.
+A **soft role** is relatively form-receiving and shape-conforming. In the intended Yin sense, it yields rather than imposing geometry: it deforms in response to surrounding constraints and loads, taking the shape available to it. That yielding may enable excursion, containment, buffering, pressure change, flow, sliding, or local shape adaptation, but those are expressions of softness rather than its definition. Muscle, fascia, cartilage, vessels, nerves, viscera, fluid-filled spaces, and other tissues may perform soft roles, but none is mechanically passive. A muscle can shift between yielding, transmitting, and shape-preserving roles; a tendon is anatomically soft tissue but may function as part of the hard body under tension. The polarity therefore depends on scale, direction, time, state, and task.
 
 The central principle is a division of labor, not an instruction to eliminate soft-tissue loading:
 
-> Gross structural demand should be resolved primarily through continuous, shape-preserving and force-transmitting pathways, while compliant structures should deform within their functional ranges rather than becoming substitute load-bearing boundaries.
+> Gross structural demand should be resolved primarily through continuous, shape-preserving and force-transmitting pathways, while soft structures remain free to yield, conform, and change shape within their functional ranges rather than becoming substitute load-bearing boundaries.
 
 The phrase “soft-to-hard” is best understood in this functional sense. It does not require load to pass through a universal sequence of tissue types. It asks whether compliant and active tissues can guide, buffer, and transmit demand into a coherent structural route, and whether that route ultimately resolves the demand without requiring vulnerable or highly deformable structures to maintain an imposed geometry chronically.
 
@@ -323,7 +323,7 @@ For the first book, this framing is best preserved as a motivating future direct
 - **Mechanical bottleneck:** A region or interface at which geometry, compliance, contact, or limited excursion concentrates demand or restricts transmission, movement, or flow.
 - **Posterior loading:** Greater load carriage by posterior structures; an anatomical observation, not a primitive coordinate.
 - **Extension:** A conventional anatomical movement. It may correlate with Yang organization but is not identical to it.
-- **Hard/soft:** A project-specific, TCM-derived functional polarity, not a literal tissue classification. “Hard” describes a relatively shape-preserving, force-transmitting, or structurally resolving role; “soft” describes a relatively compliant, containing, buffering, deformable, sliding, or pressure-bearing role. The role depends on scale, direction, time, state, and task, and a tissue may perform both.
+- **Hard/soft:** A project-specific, TCM-derived functional polarity, not a literal tissue classification. “Hard” describes a relatively shape-preserving, force-transmitting, or structurally resolving role. “Soft” describes a relatively form-receiving and shape-conforming role: it yields rather than imposing geometry, deforming with surrounding constraints and loads. Containment, buffering, sliding, flow, and pressure response are possible expressions of that softness. The role depends on scale, direction, time, state, and task, and a tissue may perform both.
 - **Mechanical homeostasis:** The proposed maintenance of mechanical variables within viable dynamic ranges. It does not yet imply one fixed set point.
 - **Phase:** Position within a temporal cycle, such as breathing or gait—not a fourth spatial dimension.
 - **Load-routing regime transition:** A qualitative reorganization of the body's load-path field or network.
@@ -349,7 +349,7 @@ The foundational medical argument should be able to stand without requiring the 
 - a whole-body orthotropic approximation;
 - or any corrective practice.
 
-The functional hard/soft distinction is part of that foundation, but only in its general mechanical form. Book I may argue that gross structural demand is usually better resolved through capable shape-preserving and force-transmitting routes than through chronic deformation of compliant structures. It need not establish that posterior always equals hard, anterior always equals soft, Yang always equals hard, or one preferred configuration governs every task.
+The functional hard/soft distinction is part of that foundation, but only in its general mechanical form. Book I may argue that gross structural demand is usually better resolved through capable shape-preserving and force-transmitting routes than by forcing shape-conforming structures to preserve or enforce geometry chronically. It need not establish that posterior always equals hard, anterior always equals soft, Yang always equals hard, or one preferred configuration governs every task.
 
 The preferred-configuration hypothesis should nevertheless be stated directly, probably as a motivating research program:
 
@@ -367,9 +367,9 @@ For present planning purposes, these appear settled:
 
 - The project concerns whole-system mechanical organization, not merely posture.
 - “Load wants to travel through the hard body so that the soft body can remain soft” is a native statement of the project's intended mechanical division of labor.
-- Hard and soft are functional, scale- and task-dependent roles rather than fixed tissue classes; soft tissue is not assumed to be unloaded or passive.
+- Hard and soft are functional, scale- and task-dependent roles rather than fixed tissue classes. Hardness primarily names relative shape preservation; softness primarily names yielding and conformation to surrounding geometry. Soft tissue is not assumed to be unloaded or passive.
 - The recoverable meaning of “soft-to-hard” is successful resolution of gross structural demand through capable shape-preserving and force-transmitting pathways, not a universal tissue sequence.
-- Load-path substitution and constraint-maintained deformation provide the main vocabulary for cases in which compliant structures become unintended structural boundaries.
+- Load-path substitution and constraint-maintained deformation provide the main vocabulary for cases in which shape-conforming structures become unintended structural boundaries.
 - The project is especially interested in extrinsic or configuration-maintained deformation while preserving the distinction from intrinsic or independently persistent narrowing.
 - Axial, rotational, and lateral are the three intended dimensions or modes.
 - Each dimension has Yin and Yang directions.
@@ -408,7 +408,7 @@ The primary remaining questions are:
 12. Which aspects of configuration lock-in are adequately described by energy landscapes and metastability, and which might eventually support a stricter topological formulation?
 13. How should the intrinsic axial path be represented separately from the gravitational axis?
 14. Are breath route, force direction, pressure propagation, and directed attention mechanically distinguishable in measurement or only phenomenologically distinguishable?
-15. How should hard and soft roles be operationalized at a stated scale—for example through stiffness, compliance, load fraction, shape retention, excursion, strain energy, or another quantity?
+15. How should hard and soft roles be operationalized at a stated scale—for example through stiffness, compliance, load fraction, shape retention versus conformation, excursion, strain energy, or another quantity?
 16. What measurements would distinguish ordinary compliant load sharing from load-path substitution or an adverse mechanical exposure?
 17. When a compliant conduit or sliding structure is deformed, how should external constraint, internal pressure, wall stress, strain, contact geometry, excursion, and downstream function be modeled together?
 

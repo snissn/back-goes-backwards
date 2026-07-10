@@ -52,7 +52,7 @@ The book's compact mechanical intuition is:
 
 > Load wants to travel through the hard body so that the soft body can remain soft.
 
-In publication language, this means that gross structural demand should be resolved primarily through continuous, shape-preserving and force-transmitting pathways, while compliant structures should remain able to deform, glide, contain, buffer, and regulate within their functional ranges rather than becoming substitute load-bearing boundaries.
+In publication language, this means that gross structural demand should be resolved primarily through continuous, shape-preserving and force-transmitting pathways, while soft structures remain free to yield, conform to their surroundings, change shape, glide, contain, and regulate within their functional ranges rather than becoming substitute load-bearing boundaries.
 
 ### Reader promise
 
@@ -80,9 +80,9 @@ Give the reader the minimum vocabulary needed for the rest of the book: force, m
 
 **3. Hard and soft mechanical roles**
 
-Introduce hard and soft as a functional polarity and a division of mechanical labor. A hard role is relatively shape-preserving, force-transmitting, or structurally resolving at the scale under discussion. A soft role is relatively compliant, deformable, containing, buffering, sliding, or pressure-bearing. Bone often functions as hard in compression and bending; tendon or ligament can function as hard in tension; muscle, fascia, cartilage, vessels, nerves, viscera, and pressurized spaces can change roles with state and task. Soft tissues still carry substantial loads, and no tissue receives one permanent classification.
+Introduce hard and soft as a functional polarity and a division of mechanical labor. A hard role is relatively shape-preserving, force-transmitting, or structurally resolving at the scale under discussion. A soft role is relatively form-receiving and shape-conforming: it yields rather than imposing geometry, deforming in response to surrounding constraints and loads. This softness may enable containment, buffering, sliding, flow, pressure response, and local shape change, but those are expressions of its yielding character rather than the definition itself. Bone often functions as hard in compression and bending; tendon or ligament can function as hard in tension; muscle, fascia, cartilage, vessels, nerves, viscera, and fluid-filled spaces can change roles with state and task. Soft tissues still carry substantial loads, and no tissue receives one permanent classification.
 
-Anchor the chapter in the project's native sentence: “Load wants to travel through the hard body so that the soft body can remain soft.” Its precise meaning is that gross structural demand should ordinarily resolve through capable shape-preserving and force-transmitting routes, leaving compliant structures the excursion and deformation their functions require. “Soft-to-hard” names this division of labor, not a universal tissue sequence, a demand for rigidity, or a complete TCM claim.
+Anchor the chapter in the project's native sentence: “Load wants to travel through the hard body so that the soft body can remain soft.” Its precise meaning is that gross structural demand should ordinarily resolve through capable shape-preserving and force-transmitting routes, leaving soft structures free to yield, conform, and change shape as their functions require. “Soft-to-hard” names this division of labor, not a universal tissue sequence, a demand for rigidity, or a complete TCM claim.
 
 **4. How living structure carries demand**
 
@@ -128,7 +128,7 @@ Explain how geometry, stiffness contrast, contact, and boundary conditions can t
 
 **13. When the soft body must hold the structure**
 
-Return to the hard/soft division of labor in its negative form. A compliant structure can carry ordinary functional load while remaining mobile and deformable. The problem changes when an interrupted or insufficient path makes it sustain the contact, tethering, compression, bending, or chronic bracing needed to preserve the surrounding configuration. This is load-path substitution: the soft structure has become a structural boundary, often at the expense of deformation range, excursion, or tolerance.
+Return to the hard/soft division of labor in its negative form. A soft structure can carry ordinary functional load while yielding and conforming to its surroundings. The problem changes when an interrupted or insufficient path makes it sustain the contact, tethering, compression, bending, or chronic bracing needed to preserve the surrounding configuration. This is load-path substitution: a shape-conforming structure has been made to preserve or enforce geometry, often at the expense of deformation range, excursion, or tolerance.
 
 **14. Deformable tubes, nerves, and constrained corridors**
 
@@ -198,7 +198,7 @@ Book II makes the project's distinctive anatomical hypothesis central. It inheri
 
 ### Provisional thesis
 
-> At a useful first approximation, the body may possess a preferred global organization in which structural demand resolves through coherent skeletal, tensile, and active support; compliant structures retain their functional freedom; and axial, rotational, and lateral organization are biased toward their Yang directions. Posterior loading—and “the back goes backwards”—may describe a prominent anatomical manifestation of this state rather than a command that every movement travel backward.
+> At a useful first approximation, the body may possess a preferred global organization in which structural demand resolves through coherent skeletal, tensile, and active support; soft structures remain free to yield and conform; and axial, rotational, and lateral organization are biased toward their Yang directions. Posterior loading—and “the back goes backwards”—may describe a prominent anatomical manifestation of this state rather than a command that every movement travel backward.
 
 ### Provisional structure
 
