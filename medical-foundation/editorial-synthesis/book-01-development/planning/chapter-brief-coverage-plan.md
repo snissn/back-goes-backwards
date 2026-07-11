@@ -91,10 +91,10 @@ The batches follow conceptual dependencies rather than equal file counts. Work i
 The following work should be created once and referenced across briefs rather than duplicated:
 
 1. **Book-wide claim ladder and evidence-state legend:** extend the pilot conventions only when a new load-bearing claim family appears.
-2. **Recurring-object specification:** one bounded object-transfer task, phases, system boundaries, and permitted variants for Chapters 1–8.
+2. **[Recurring-object specification](recurring-object-transfer-specification.md):** one bounded object-transfer task, phases, system boundaries, and permitted variants for Chapters 1–8.
 3. **Hard/soft control record:** one authorially aligned definition that includes TCM motivation, relational roles, observability questions, and the no-exact-identity boundary.
 4. **Failure-family matrix:** definitions, discriminating observations, overlaps, counterexamples, and chapter ownership for all six families.
-5. **Common causal-chain figure grammar:** shared notation for observed, measured, calculated, modeled, inferred, reconstructed, and hypothesized links.
+5. **[Common causal-chain and evidence-state grammar](causal-chain-and-evidence-state-grammar.md):** shared notation for observed, measured, calculated, modeled, inferred, reconstructed, and hypothesized links.
 6. **Whole-person alternatives matrix:** recurring biological, psychological, social, developmental, and environmental alternatives without boilerplate repetition.
 7. **Worked-case selection rubric:** teaching job, evidence accessibility, case provenance, negative comparison, medical exposure, figure feasibility, and transfer value.
 8. **Later-book seam table:** exact Book I signposts and destinations in Books II–V so deferred material remains visible without carrying the foundation.
