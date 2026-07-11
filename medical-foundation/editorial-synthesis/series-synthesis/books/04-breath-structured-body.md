@@ -10,9 +10,9 @@ No single representation is required to carry the whole argument. Cube, tensegri
 
 ## Provisional thesis
 
-Breathing is a cyclic mechanical event involving pressure, volume, flow, skeletal motion, tissue tension, force, torque, attention, and phase. It may help establish, maintain, or transform whole-body configuration. Hyoid-centered integration, a fourth-dimensional tensegrity or cube, tall-torus and paired-loop geometries, and related models are preserved here as distinct hypotheses to be reconstructed at full strength and compared through defined variables, predictions, alternatives, and failure conditions.
+Breathing is a cyclic mechanical event involving pressure, volume, flow, skeletal motion, tissue tension, force, torque, attention, and phase. It may drive, organize, modulate, or accompany changes in whole-body configuration; in the last role it may covary without mechanically organizing the change. Its role may differ by variable, region, phase, and task. Hyoid-centered integration, a fourth-dimensional tensegrity or cube, tall-torus and paired-loop geometries, and related models are preserved here as distinct hypotheses to be reconstructed at full strength and compared through defined variables, predictions, alternatives, and failure conditions.
 
-The book asks how breath participates in structure. Breath may be a necessary driver, organizer, modulator, or covarying companion, and those roles may differ by variable, region, phase, and task. The book does not assume that any one geometry is literal or that a plausible physiological chain is already a demonstrated medical effect.
+The book asks how breath participates in structure. The four roles remain competing possibilities rather than stages in a preferred causal account. The book does not assume that any one geometry is literal or that a plausible physiological chain is already a demonstrated medical effect.
 
 ## Book introduction and narrative
 
@@ -24,7 +24,7 @@ Book IV therefore asks a narrower but deeper question: when breath accompanies a
 
 ### What the book inherits
 
-Book I has already established the load-routing lens, hard and soft mechanical roles, pressure-mediated support, and the need to separate deformation, tissue response, function, symptoms, and diagnosis. Book II has already distinguished the generalized configuration `q=(q_a,q_o,q_e)`, its rate `q-dot`, conjugate load `Q`, organizational sign `s`, and local spatial frames. Book III has already preserved the inhale–Yang and exhale–Yin hypotheses, the exact Mula → Jalandhara → Uddiyana source sequence, competing bandha maps, several meanings of force line, and four possible roles for breath.
+Book I has already established the load-routing lens, hard and soft mechanical roles, pressure-mediated support, and the need to separate deformation, tissue response, function, symptoms, and diagnosis. Book II has already distinguished the generalized configuration `q=(q_a,q_o,q_e)`, its rate `q-dot`, conjugate load `Q`, organizational sign `s`, and local spatial frames. Book III has already preserved the exact Mula → Jalandhara → Uddiyana source sequence, competing bandha maps, several meanings of force line, and four possible roles for breath while deliberately deferring respiratory dynamics. Book IV introduces the inhale–Yang and exhale–Yin phase hypotheses and asks how, when, and at what scale they could be made mechanically specific.
 
 Book IV inherits those distinctions rather than reconstructing them. Its new work is dynamic: phase-resolved coupling among breath, the generalized modes, pressure, suspended anatomy, configuration persistence, and possible transitions between load-routing regimes. It also compares the hyoid-centered 4D proposal, cube, tensegrity, tall torus, paired loops, shells, rods, pressure vessels, networks, fields, and local constitutive models without granting any representation final authority in advance.
 
@@ -200,7 +200,7 @@ Include forceful expiration, expiratory collapse, inward movement under excessiv
 ### 4. A continuous loop with no neutral reset
 
 Unit BGB-U-0304 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:breath-loop, process:breathing, mech:energy-storage, model:metastability · gates DEF, FORM, EVID, ALT, MEAS
+Tags domain:biomechanics, model:breath-loop, process:breathing, mech:energy-storage, model:metastability · gates DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** A respiratory cycle does not return to a mechanically blank body. Residual pressure, lung and chest-wall recoil, muscle state, skeletal configuration, tissue strain, sensory state, attention, and the preceding task can carry history across phase boundaries. The chapter defines what cyclic continuity and “no neutral reset” could mean beyond ordinary respiratory hysteresis.
 
@@ -423,7 +423,7 @@ Breath retention, pressure maneuvers, cervical positioning, and strong pelvic or
 ### 9. Sequence and torsional emergence
 
 Unit BGB-U-0309 · state proposed · posture TRD/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:tradition, domain:biomechanics, model:bandha, model:generalized-modes, mech:force-torque, process:breathing · gates INTENT, PROV, DEF, FORM, EVID, ALT, MEAS
+Tags domain:tradition, domain:biomechanics, model:bandha, model:generalized-modes, mech:force-torque, process:breathing · gates INTENT, PROV, DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** The exact project-source sequence Mula → Jalandhara → Uddiyana is preserved: axial organization first, expansive/lateral organization second, and integrated opening/rotation or torsion emerging third. The chapter compares sequence as mechanical causation, boundary-condition ordering, pedagogy, attention, respiratory phase structure, or recurring experience and keeps alternative orders available as tests.
 
@@ -514,11 +514,11 @@ Generic co-contraction, breath retention, pressure increase, attention, ritual o
 
 **Part introduction.** Parts I and II defined the phenomena before choosing a picture: a respiratory cycle changes pressure, motion, load, phase, and attention, while the hyoid and bandhas may coordinate those changes in several distinct ways. Part III now asks which representations make which hypotheses clearer. The models are treated as tools with declared objects, scales, and limits, not as rival images competing to be the one hidden shape of the body.
 
-**Part arc.** Chapter 11 reconstructs tensegrity as a prestressed structural model and separates its useful insights from claims it cannot establish. Chapter 12 develops the hyoid-anchored cube as a signed-coordinate and integration diagram. Chapter 13 adds the tall torus and paired loops as models of cyclic continuity, shell–core relation, and coupled torque. Chapter 14 compares these pictures with rods, shells, pressure vessels, multibody systems, networks, fields, and optional local orthotropy. Chapter 15 supplies the translation rules that allow models to cooperate without laundering properties from one into another.
+**Part arc.** Chapter 11 reconstructs dynamic tensegrity as a prestressed structural model and asks what phase, state, or control relation could add to it without becoming a fictitious spatial dimension. Chapter 12 develops the hyoid-anchored cube as a signed-coordinate and integration diagram. Chapter 13 adds the tall torus and paired loops as models of cyclic continuity, shell–core relation, and coupled torque. Chapter 14 compares these pictures with rods, shells, pressure vessels, multibody systems, networks, fields, and optional local orthotropy. Chapter 15 supplies the translation rules that allow models to cooperate without laundering properties from one into another.
 
 **Part outcome.** By the end of Part III, every model should identify its system boundary, represented objects, variables, scale, literal or analogical status, predictions, and failure conditions. The reader should understand why the torus adds a cyclic routing picture without replacing the cube or tensegrity, why local orthotropy can be a constitutive approximation without defining the whole body, and why geometry, topology, phase, force, pressure, motion, and embodied continuity remain different descriptions.
 
-### 11. The fourth-dimensional tensegrity proposal
+### 11. Dynamic tensegrity and the fourthness proposal
 
 Unit BGB-U-0311 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
 Tags domain:biomechanics, model:tensegrity, model:hyoid-4d, mech:stress-strain, mech:scale-transition · gates PROV, DEF, FORM, EVID, LINK, ALT, MEAS, VIS
@@ -625,9 +625,13 @@ Represent mirrored loops that may alternate, counter-rotate, or act synergistica
 
 Ask whether relative rotations, moments, shear, and pressure-dependent deformation produce a helical trajectory around the axial path. A visual spiral is not automatically a torque vector, and a torque need not imply matter or force literally circulating along a closed curve. The model should identify `q_o`, `q-dot_o`, or `Q_o` explicitly.
 
+Preserve the source derivation as a provisional mapping rather than a conclusion: anterior/posterior torque components may contribute to axial resolution and opening/rotational organization; left/right torque components may contribute to expansive/lateral curvature and opening moments; and convergence or separation may express closing or opening within the proposed cycle. Each component requires a declared local frame, sign convention, mechanism, and derivation. Progression along a depicted route may also differ in direction or phase from the force, tension, pressure, deformation, or attention used to explain it.
+
 #### 13.5 What follows the track
 
-Separate six possibilities: anatomical continuity, tissue deformation, a sequence of muscle recruitment, internal multicarrier load routing, pressure or fluid propagation, directed attention, and embodied continuity. An external line of action is yet another object. Alignment among tracks may be meaningful, but no common substance is assumed to traverse them all.
+Separate seven possibilities: anatomical continuity, tissue deformation, a sequence of muscle recruitment, internal multicarrier load routing, pressure or fluid propagation, directed attention, and embodied continuity. An external line of action is yet another object. Alignment among tracks may be meaningful, but no common substance is assumed to traverse them all.
+
+Retain the archive's named traditional route candidates—Du and Ren, sushumna, ida and pingala, meridians, and qi or prana—with their distinct provenance and source meanings. They are not presumed equivalent to one another or to the torus. Mechanical translation may investigate tension, pressure, perfusion, signaling, movement sequence, attention, or embodied continuity, but a candidate translation is neither a definition of the traditional term nor evidence that all carriers follow one path.
 
 #### 13.6 Breath phase, continuity, and return
 
@@ -702,6 +706,8 @@ List which models contain `q`, `q-dot`, `Q`, `s`, respiratory phase, pressure, a
 #### 15.3 Translate through explicit interfaces
 
 State the mapping that lets one model inform another: joint motion may set a shell boundary; shell deformation may change lumen; pressure may generate wall load; tissue response may alter a network edge; measured phase may parameterize a trajectory. Every translation should preserve units and state its approximation.
+
+Traditional and embodied route terms require a provenance interface as well as a mechanical one. Record the source context and intended meaning before comparing a documented route with anatomy, force, tension, pressure, perfusion, signaling, attention, or experience. A partial mechanical correspondence may become a testable hypothesis without exhausting or redefining the source concept.
 
 #### 15.4 Prevent property laundering
 
@@ -779,7 +785,7 @@ For any proposed interruption, measure its effect on local motion, pressure, sig
 ### 17. Path dependence and configuration transition
 
 Unit BGB-U-0317 · state proposed · posture HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:topology, model:metastability, mech:energy-storage, mech:load-path · gates INTENT, DEF, FORM, EVID, ALT, MEAS
+Tags domain:biomechanics, model:topology, model:metastability, mech:energy-storage, mech:load-path · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** A configuration transition is developed as a reproducible change in coupling, load routing, stability, cost, or return tendency—not merely a different posture. Hysteresis, metastability, energy barriers, separatrices, and reconnection remain candidate formal languages, while “topological change” is reserved for cases in which the relevant state space and invariant can actually be defined.
 
@@ -996,7 +1002,7 @@ Begin with the simplest model that can disconfirm the claim, assess whether its 
 ### 22. A measurement program for the breathing body
 
 Unit BGB-U-0322 · state proposed · posture EDT/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:research, domain:biomechanics, process:breathing, use:research-program, use:diagram · gates DEF, FORM, EVID, ALT, MEAS, CLIN, VIS
+Tags domain:research, domain:biomechanics, process:breathing, use:research-program, use:diagram · gates DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS
 
 **Chapter summary.** The measurement program synchronizes respiratory phase, kinematics, forces and moments, pressure and airflow, hyoid motion, tissue deformation, physiological variables, performance, and first-person report. It matches instrument resolution and participant burden to the scale of the claim and treats validity, frame, timing, uncertainty, and ethical constraints as part of the model.
 
@@ -1037,7 +1043,7 @@ Specify sampling rate, filtering, latency, coordinate registration, repeatabilit
 ### 23. Predictions and discriminating experiments
 
 Unit BGB-U-0323 · state proposed · posture EDT/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:research, model:hyoid-4d, model:tall-torus, model:tensegrity, use:research-program · gates DEF, FORM, EVID, ALT, MEAS
+Tags domain:research, model:hyoid-4d, model:tall-torus, model:tensegrity, use:research-program · gates DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** Competing predictions are derived for breath as necessary driver, organizer, modulator, or covarying companion; inhale–Yang and exhale–Yin phase clusters; active versus passive hyoid integration; ordered bandha sequence versus generic bracing; loop history versus ordinary hysteresis; and cube, torus, tensegrity, and conventional models. Each experiment includes null outcomes and prospective revision rules.
 
@@ -1123,7 +1129,7 @@ Keep evaluation, diagnosis, treatment, medication, surgery, rehabilitation, and 
 ### 25. Limits, integration, collaboration, and handoff
 
 Unit BGB-U-0325 · state proposed · posture EDT/SYN · confidence E1 · medical M2 · readiness R1
-Tags domain:research, domain:medicine, domain:pedagogy, use:research-program, use:public-education · gates EVID, ALT, CLIN, SAFE, ETH, AUD
+Tags domain:research, domain:medicine, domain:pedagogy, use:research-program, use:public-education · gates DEF, EVID, LINK, ALT, CLIN, SAFE, ETH, AUD
 
 **Chapter summary.** Book IV closes by locating each claim within established observation, mechanical reconstruction, authorial hypothesis, traditional correspondence, physiological research, and possible application. It defines the limits of whole-system geometry, protects conventional care, specifies collaboration and ethics, and transfers to Book V only those practices and tests whose variables and safety questions have become explicit.
 
@@ -1213,6 +1219,8 @@ The registry must keep the speculative program intact while preventing excluded 
 | `BGB-S-1518`–`1521`; `BGB-Q-0006` | Maintained stress, strain, pressure, restricted excursion, altered signaling, and broader health consequences as an intentional research program | Deterministic disease cascades or universal reversal claims before intermediate links and condition-specific review | Normalize each claim, test each arrow, map alternatives, and obtain clinical review where needed |
 | `BGB-S-1425`–`1426`; `BGB-Q-0007` | Exact Mula → Jalandhara → Uddiyana sequence and Uddiyana as candidate torsional emergence after axial and expansive controls | Rhetorical dismissal of other Uddiyana lineages or isolated-abdominal interpretations | Historical and lineage review, precise comparison, and observable consequences |
 | `BGB-S-1431`, `BGB-S-1611`; `BGB-Q-0008` | Bandhas, generalized modes, posterior participation, breath, observations, cues, corrections, and staged protocols as a future research and practice program | Current authority to diagnose “bandha failure” or prescribe universal home correction | Define variables and audiences; complete evidence, safety, contraindication, personalization, referral, and scope review in Book V |
+| `BGB-Q-0015` | Full spatial mechanics, local frames, generalized modes, conjugate loads, possible local material directions, and traditional correspondences as related but nonidentical model layers | A single “three-axis” ontology in which spatial vectors, generalized modes, moments, constitutive axes, and traditional divisions are interchangeable | Identify each source use, define its object and frame, and formalize every translation between layers |
+| `BGB-S-1415`, `BGB-S-1427`; `BGB-Q-0016` | External lines of action, inferred internal multicarrier routes, embodied continuity, and traditional route candidates as distinct senses of force line | One demonstrated anatomical cable or resultant shared by meridian, pressure, tissue tension, skeletal contact, attention, and report | State source, sense, scale, carrier, quantity, sidedness, and measurement strategy for each proposed relation |
 
 The tall-torus and paired-loop family remains an additional framing within this registry. It does not supersede or silently rewrite the earlier hyoid, cube, tensegrity, generalized-mode, or force-line models.
 
@@ -1220,8 +1228,8 @@ The tall-torus and paired-loop family remains an additional framing within this 
 
 ### State-variable and measurement matrix
 
-Unit BGB-U-0392 · state proposed · posture EDT · confidence E0 · medical M1 · readiness R1
-Tags domain:research, domain:biomechanics, process:breathing, use:research-program · gates DEF, FORM, EVID, MEAS
+Unit BGB-U-0392 · state proposed · posture EDT · confidence E0 · medical M2 · readiness R1
+Tags domain:research, domain:biomechanics, process:breathing, use:research-program · gates DEF, FORM, EVID, LINK, ALT, MEAS
 
 Cross-index pressure, volume, airflow, displacement, orientation, stress, strain, force, moment, phase, timing, prestress, tissue excursion, hyoid position, neural and vascular measures, performance, symptoms, and reported experience against candidate instruments and model levels.
 
@@ -1277,7 +1285,7 @@ The matrix should include positive and negative load-management narratives. Skel
 ### Prediction ledger
 
 Unit BGB-U-0394 · state proposed · posture EDT/HYP · confidence E0 · medical M2 · readiness R1
-Tags domain:research, model:breath-loop, model:metastability, use:research-program · gates INTENT, DEF, FORM, ALT, MEAS
+Tags domain:research, model:breath-loop, model:metastability, use:research-program · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
 
 Maintain model-specific predictions, null predictions, disconfirming observations, boundary conditions, and revision decisions. Include comparisons among necessary-driver, organizer, modulator, and covarying-companion accounts of breath.
 

@@ -145,7 +145,7 @@ Thoracic-outlet and pelvic-congestion contexts; venous stasis or chronic venous 
 | `BGB-S-1412` (`N14-12`) | Proposed Yin=soft/internal/flexion and Yang=hard/external/extension relations | `BGB-U-0003`, `0009`, `0030`, `0204`, `0211`; `BGB-Q-0009` for universal identity | included as hypothesis + quarantined formulation |
 | `BGB-S-1413` (`N14-13`) | Clinical relevance and balance-restoration program | `BGB-U-0220`; Book V Parts I-III | included as application program |
 | `BGB-S-1414` (`N14-14`) | Six-Division channel-to-generalized-mode map | `BGB-U-0206-0208`, `0211`, `0291` | included + provenance inventory |
-| `BGB-S-1415` (`N14-15`) | Meridians as force routes; qi as tension, pressure, perfusion, signaling, or other variable | `BGB-U-0210`, `0214`, `0221-0223`; `0301-0305`, `0392-0393`; `BGB-Q-0016` for literalized formulations | included as translation hypotheses |
+| `BGB-S-1415` (`N14-15`) | Meridians as force routes; qi as tension, pressure, perfusion, signaling, or other variable | `BGB-U-0210`, `0214`, `0221-0223`; `0313-0315`, `0391-0393`; `BGB-Q-0016` for literalized formulations | included as translation hypotheses |
 | `BGB-S-1416` (`N14-16`) | Diagrams overlaying generalized modes, spatial anatomy, and channel pairs | `BGB-U-0222`, `0292` | included + atlas inventory |
 | `BGB-S-1417` (`N14-17`) | Assessment, training, therapy, breath, and cases blueprint | `BGB-U-0023-0026`, `0220`; Book V | included + inventories |
 | `BGB-S-1418` (`N14-18`) | Historical definitions and anatomical candidates for Mula, Uddiyana, and Jalandhara | `BGB-U-0215`, `0292` | included + inventory |
@@ -163,7 +163,7 @@ Thoracic-outlet and pelvic-congestion contexts; venous stasis or chronic venous 
 | `BGB-S-1430` (`N14-30`) | Breath-structured body | Book IV, especially `BGB-U-0301-0310` | included |
 | `BGB-S-1431` (`N14-31`) | Protocols, diagnosis, treatment, and optimization | `BGB-U-0411-0423`, `0491`; `BGB-Q-0008` at present readiness | practice inventory + quarantined formulation |
 | `BGB-S-1432` (`N14-32`) | Teaching dimensional health | `BGB-U-0413`, `0416-0419`, `0494` | included |
-| `BGB-S-1433` (`N14-33`) | Unified tensegrity conclusion | `BGB-U-0311`, `0315`, `0321-0323`, `0391` | included as lead candidate model |
+| `BGB-S-1433` (`N14-33`) | Unified tensegrity conclusion | `BGB-U-0311`, `0315`, `0321-0323`, `0391` | source lead model preserved without advance privilege |
 
 ### Exact mapping variants preserved under `BGB-U-0291`
 
@@ -202,7 +202,7 @@ These rows are source formulations, not a forced reconciliation. Direct authoria
 | `BGB-S-1519` (`N15-19`) | Circulation, lymph, nerves, and organ suspension as distinct test domains | `BGB-U-0318-0319`, `0392-0393` | included + physiology inventory |
 | `BGB-S-1520` (`N15-20`) | Thoracic duct, venous return, and nervous regulation under cyclic pressure | `BGB-U-0318`, `0392-0393` | included as candidate chains |
 | `BGB-S-1521` (`N15-21`) | Organ mobility, suspension, and prolapse | `BGB-U-0319`, `0392-0393` | included as candidate chains |
-| `BGB-S-1522` (`N15-22`) | *Fa-jing*, *peng*, and bandha as comparative traditional phenomena | `BGB-U-0214-0218`, `0320`, `0393` | included as comparative hypotheses |
+| `BGB-S-1522` (`N15-22`) | *Fa jin*, *peng*, and bandha as comparative traditional phenomena | `BGB-U-0214-0218`, `0320`, `0393` | included as comparative hypotheses |
 | `BGB-S-1523` (`N15-23`) | Breath timing, spiral loading, pretension, and elastic-wave transmission | `BGB-U-0320`, `0393`; `0411-0414`, `0491` | included + practice inventory |
 | `BGB-S-1524` (`N15-24`) | Rehabilitation, performance, and athlete/pain/mobility cases | `BGB-U-0324`, `0420`, `0492` | included + case inventory |
 | `BGB-S-1525` (`N15-25`) | Limits, ethics, conventional care, research design, and interdisciplinary collaboration | `BGB-U-0321-0325`; Book V | included |
@@ -386,7 +386,7 @@ The 21-chapter structure is retained one-for-one. Each old chapter `n` maps to `
 | 21 | State variables and scales | `BGB-U-0321` |
 | 22 | Candidate mathematical models and non-equivalence | `BGB-U-0315`, `0321`, `0391` |
 | 23 | Flow, neural excursion, organ support, pressure regulation | `BGB-U-0318-0319`, `0392-0393` |
-| 24 | *Peng*, *fa-jing*, bandha comparisons | `BGB-U-0320`, `0393` |
+| 24 | *Peng*, *fa jin*, bandha comparisons | `BGB-U-0320`, `0393` |
 | 25 | Imaging, pressure, motion, force, physiology | `BGB-U-0322`, `0394` |
 | 26 | Discriminating predictions | `BGB-U-0323` |
 
