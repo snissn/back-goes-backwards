@@ -131,7 +131,7 @@ Show why a single peak value cannot describe most bodily exposure. The direction
 
 #### 2.6 Work, energy, transfer, and load paths
 
-Introduce work and energy only as far as needed to discuss absorption, storage, return, dissipation, and muscular cost. Define a load path as an explanatory representation of how demand is carried and transferred through a chosen system—not a literal pipe hidden in the body. Use free-body diagrams, force paths, and bounded engineering analogies to make the proposed route inspectable.
+Introduce work and energy only as far as needed to discuss absorption, storage, return, dissipation, and muscular cost. Define a load path as an explanatory representation of how demand is carried and transferred through a chosen system—not a literal pipe hidden in the body. Distinguish an external force's line of action from an inferred internal force line: the latter may name a relationship distributed through contact, compression, tension, pressure, active control, or several carriers rather than one hidden cable. Use free-body diagrams, force paths, and bounded engineering analogies to make each proposed route inspectable.
 
 **Chapter conclusion.** Mechanical reasoning becomes useful when it replaces an undifferentiated “load” with a defined system, quantities, directions, time course, and internal exposure. Chapter 3 then asks how different structures divide the work of transmitting demand and accommodating deformation.
 
@@ -168,7 +168,7 @@ Use examples to show role exchange: muscle can yield eccentrically or stiffen ac
 
 #### 3.6 The traditional origin and the mechanical translation
 
-Acknowledge that the terminology is motivated partly by Yin/Yang and TCM usage, where “hard” and “soft” participate in a wider relational map. Book I uses the terms only for the mechanical polarity developed here. The fuller traditional correspondence, and the question of whether the mechanical translation preserves it faithfully, belongs to Book III.
+Acknowledge that the terminology is motivated partly by Yin/Yang and TCM usage, where “hard” and “soft” participate in a wider relational map. The project also preserves an especially Yin sense of an internal force line: a yielding or form-receiving connection can coordinate force across regions without becoming one rigid strut. Book I keeps the mechanical kernel—internal connection may be multicarrier and need not impose geometry—while the fuller traditional correspondence belongs to Book III.
 
 **Chapter conclusion.** Hard and soft provide a language for asking whether gross demand is being resolved through structures able to organize it while yielding structures retain their freedom to conform and recover. Chapter 4 turns this division of labor into a three-dimensional problem of configuration and route.
 
@@ -177,9 +177,9 @@ Acknowledge that the terminology is motivated partly by Yin/Yang and TCM usage, 
 ### 4. Three-dimensional configuration and load paths
 
 Unit BGB-U-0004 · state proposed · posture FND/SYN · confidence E2 · medical M1 · readiness R1
-Tags domain:mechanics, model:three-axis, mech:load-path, mech:force-torque, mech:geometry, use:foundation · gates DEF, FORM, EVID, MEAS, VIS
+Tags domain:mechanics, model:spatial-frames, mech:load-path, mech:force-torque, mech:geometry, use:foundation · gates DEF, FORM, EVID, MEAS, VIS
 
-**Chapter summary.** This chapter introduces local and global frames, position and orientation, basis decomposition, center of mass, moment arms, rotational inertia, contact, boundary conditions, and three-dimensional force and moment organization. Configuration comprises geometry together with active forces, pressure, tissue state, stress and strain fields, and the resulting organization of available paths. This generic three-dimensional reasoning precedes the later signed axial, rotational, and lateral model.
+**Chapter summary.** This chapter introduces local and global frames, position and orientation, basis decomposition, center of mass, moment arms, rotational inertia, contact, boundary conditions, and three-dimensional force and moment organization. Configuration comprises geometry together with active forces, pressure, tissue state, stress and strain fields, and the resulting organization of available paths. This generic spatial reasoning precedes the later signed axial, opening/rotational, and expansive/lateral generalized-mode model.
 
 **Chapter introduction.** A body is often taught through sagittal, frontal, and transverse snapshots, yet its structures curve, rotate, translate, pressurize, and change contact simultaneously. Open with one ordinary movement whose meaning changes when viewed from different frames. The aim is not advanced mathematics; it is to prevent a planar description from being mistaken for a complete mechanical account.
 
@@ -205,7 +205,7 @@ Describe paths through skeletal contact, tensile structures, active muscle, pres
 
 #### 4.6 Preparing—but not yet choosing—the body's signed coordinates
 
-Introduce axial, rotational, and lateral or radial decomposition as a later project-specific model. Book I needs only the generic insight that a force or moment can be described as components along chosen directions—a plain-language definition of basis decomposition—and that human anatomy may have meaningful material or structural axes. The preferred signs and their Yang correspondence remain questions for Books II and III.
+Introduce axial, expansive, and opening/rotational organization as a later project-specific reduced model. Book I needs two generic insights. First, vectors and tensors can be expressed in chosen spatial frames. Second, a complex system can be described through generalized modes whose configuration variables and conjugate loads need not be three components of one vector. Book II develops that distinction; the preferred signs and their traditional correspondence remain questions for Books II and III.
 
 **Chapter conclusion.** Mechanical roles exist inside a three-dimensional configuration that determines which paths are available and what internal exposure follows from external demand. Part II now identifies the principal structures that cooperate to create those paths and makes the hard/soft intuition anatomically concrete.
 
@@ -422,7 +422,7 @@ Candidate observations include transitions between sitting and standing, balance
 
 #### 9.7 Three levels of the posterior proposition
 
-End with an explicit ladder. First, posterior structures form a major anatomical and mechanical system; Book I can defend this directly. Second, anterior–posterior distribution is a useful lens within whole-body load sharing; Book I develops it conditionally. Third, posterior loading may express a preferred organization involving downward axial, external or opening rotational, and outward lateral directions; Book II investigates that hypothesis. In the paired hypothesis, posterior, exterior, relatively hard, and Yang are provisionally related, while anterior, interior, relatively soft, and Yin form the complementary side. These are proposed correspondences, not identities: posterior and anterior name regions, exterior and interior name relative locations, hard and soft name mechanical roles, and Yang and Yin name proposed signs or organizing tendencies.
+End with an explicit ladder. First, posterior structures form a major anatomical and mechanical system; Book I can defend this directly. Second, anterior–posterior distribution is a useful lens within whole-body load sharing; Book I develops it conditionally. Third, posterior participation may be a necessary but insufficient expression of a preferred organization involving downward axial resolution, external or opening rotation, and outward expansion; Book II treats that as an authorial expectation requiring derivation. In the paired hypothesis, posterior, exterior, relatively hard, and Yang are provisionally related, while anterior, interior, relatively soft, and Yin form the complementary side. These are proposed correspondences, not identities: posterior and anterior name regions, exterior and interior name relative locations, hard and soft name mechanical roles, and Yang and Yin name proposed signs or organizing tendencies.
 
 **Chapter conclusion.** Posterior support is substantial, variable, and inseparable from the rest of the body. Its importance can be described through anatomy, task, capacity, and life context without requiring the reader to accept a universal posterior route. The book can now ask its next question: what happens when a viable division of labor is interrupted, concentrated, maintained in a yielding structure, or preserved only through compensation?
 
@@ -1276,9 +1276,9 @@ Preserve the larger ambition: mechanics may eventually become a more explicit an
 ### 30. The wider series hypothesis: *The Back Goes Backwards*
 
 Unit BGB-U-0030 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:posterior-chain, model:preferred-configuration, model:three-axis, model:yin-yang, use:hypothesis · gates INTENT, DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:biomechanics, model:posterior-chain, model:preferred-configuration, model:generalized-modes, model:yin-yang, use:hypothesis · gates INTENT, DEF, FORM, EVID, ALT, MEAS, VIS
 
-**Chapter summary.** Three nested propositions close the book: posterior structures form a major load-management system; anterior–posterior distribution is one useful lens within three-dimensional routing; and posterior loading may be a manifestation of a preferred body-wide organization defined through downward axial, external or opening rotational, and outward lateral directions. Posterior names a region, hard names a role, and Yang names a signed organizational tendency whose relationships remain central research questions.
+**Chapter summary.** Three nested propositions close the book: posterior structures form a major load-management system; anterior–posterior distribution is one useful lens within three-dimensional routing; and posterior participation may be a necessary but insufficient manifestation of a preferred body-wide organization expressed through downward axial, external or opening rotational, and outward expansive modes. Posterior names a region, hard names a role, and Yang names a signed organizational tendency whose relationships remain central research questions.
 
 **Chapter introduction.** Return to the title after the foundational argument is complete. The phrase *The Back Goes Backwards* can now be heard at several levels: an ordinary anatomical observation about posterior structures, a mechanical question about anterior–posterior distribution, and a stronger hypothesis about a preferred three-dimensional organization. The chapter tells the reader which level Book I has established and which levels the later series must earn.
 
@@ -1292,11 +1292,11 @@ Summarize the anatomical and functional ground established in Part II. Posterior
 
 #### 30.3 The stronger preferred-configuration hypothesis
 
-State the next proposition plainly: human anatomy may possess a preferred body-wide organization in which demand is coherently resolved through skeletal, tensile, active, and pressure-mediated support, allowing yielding structures to remain free to conform and recover. Posterior loading may be one visible consequence of that organization rather than an independent command to move backward.
+State the next proposition plainly: human anatomy may possess a preferred body-wide organization associated with whole-system mechanical efficiency, in which demand is coherently resolved through skeletal, tensile, active, and pressure-mediated support while yielding structures remain free to conform and recover. Stability, strain distribution, active cost, resilience, reserve, and return behavior are candidate ways to characterize departure from that ideal, not yet a completed mathematical definition. Posterior participation is expected to be necessary but not sufficient within the eventual domain of the hypothesis; it is not an independent command to move backward.
 
-#### 30.4 Three signed dimensions
+#### 30.4 Three signed generalized modes
 
-Preview the proposed first-order coordinate model: axial, rotational, and lateral or radial modes, each with two signs. The preferred combination is currently hypothesized as downward axial, external or opening rotational, and outward lateral organization. Book II must define whether this is a local state, body-wide bias, phase-dependent pattern, attractor, or something else and derive observations that distinguish those possibilities.
+Preview the proposed first-order reduced model: axial, expansive, and opening/rotational modes, each with two signs. These are generalized modes, not three Cartesian force components. A configuration, its direction of movement, and its conjugate force or moment can have different signs; Book II must therefore define what the proposed Yang sign qualifies. The preferred combination is currently hypothesized as downward axial resolution, external or opening rotation, and outward expansion, expressed as a local state, body-wide bias, phase-dependent pattern, attractor, or another testable organization.
 
 #### 30.5 Posterior, hard, and Yang are related hypotheses, not synonyms
 
@@ -1304,7 +1304,7 @@ Posterior and anterior name anatomical regions or distributions; exterior and in
 
 #### 30.6 The traditional coordinate program
 
-Preview the proposed mapping of the three mechanical modes to Yin/Yang, the Six Divisions, paired channels, bandhas, and other embodied traditions. Book III must reconstruct those systems on their own terms, preserve competing mappings, and separate historical continuity from anatomical or mechanical validation.
+Preview the proposed mapping of the three mechanical modes to Yin/Yang, the Six Divisions, paired channels, bandhas, and other embodied traditions. Name two compatible scales without developing them here: individual channels are assigned by the Six-Division mode map, while a gross limb projection weights legs and feet toward axial support, arms and hands toward expansion, and rotation toward upper–lower coordination. Book III reconstructs those systems on their own terms, preserves additional mapping layers and embodied anchors, and separates historical continuity from anatomical or mechanical validation.
 
 #### 30.7 Breath, whole-system geometry, and state transition
 
@@ -1363,7 +1363,7 @@ The populated [source coverage ledger](../source-coverage.md) is the current pro
 ### Engineering analogy and three-dimensional mechanics inventory
 
 Unit BGB-U-0092 · state proposed · posture EDT/FND/SYN · confidence E0 · medical M0 · readiness R0
-Tags domain:mechanics, model:hard-soft, model:three-axis, mech:force-torque, use:diagram · gates PROV, DEF, FORM, EVID, ALT, VIS
+Tags domain:mechanics, model:hard-soft, model:spatial-frames, mech:force-torque, use:diagram · gates PROV, DEF, FORM, EVID, ALT, VIS
 
 Preserve analogies for graded compliant-to-structural load sharing, force paths, moment arms, rotational inertia, basis decomposition, tubes under constraint, and other explanatory models considered for Book I.
 

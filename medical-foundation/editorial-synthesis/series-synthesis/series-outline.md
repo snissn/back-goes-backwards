@@ -2,13 +2,15 @@
 
 **Status:** proposed series synthesis
 
-*The Back Goes Backwards* is a layered investigation of human mechanical organization. The series begins with a conservative medical foundation, then develops the project's more distinctive hypotheses about preferred configuration, three-dimensional coordinates, traditional correspondences, breath, whole-system geometry, and embodied practice.
+*The Back Goes Backwards* is a layered investigation of human mechanical organization. The series begins with a conservative medical foundation, then develops the project's more distinctive hypotheses about preferred configuration, generalized mechanical modes, traditional correspondences, breath, whole-system geometry, and embodied practice.
 
 The books are designed to support one another without collapsing their different kinds of argument. Established anatomy and mechanics, organizing frameworks, authorial hypotheses, traditional observations, medical implications, and practical applications remain distinguishable even when they are studied together.
 
 ## Series dependency
 
 Each book may introduce questions developed later, but it should rely only on foundations established earlier.
+
+Book I is the general foundation. Books II through V form a cumulative sequence and may assume the preceding books have been read. They should provide brief seam recaps and precise cross-references where needed, but they should not reconstruct earlier foundations merely to make every volume independently consumable.
 
 1. Book I establishes a useful account of load distribution and routing without requiring a preferred configuration.
 2. Book II investigates preferred configuration without requiring the TCM correspondence to be correct.
@@ -23,7 +25,7 @@ A reader may accept an earlier book without accepting the hypotheses of a later 
 | Stable alias | Working book | Guiding question | Series contribution |
 |---|---|---|---|
 | `BGB-B-MF` | [Book I — *Medical Foundations*](books/01-medical-foundations.md) | How does the body distribute mechanical demand, and what changes when that demand is poorly resolved? | Establishes the common mechanical, anatomical, medical, and epistemic foundation. |
-| `BGB-B-BGB` | [Book II — *The Back Goes Backwards*](books/02-the-back-goes-backwards.md) | Does human anatomy have a preferred body-wide organization of axial, rotational, and lateral load? | Develops and tests the all-Yang hypothesis and the possible significance of posterior loading. |
+| `BGB-B-BGB` | [Book II — *The Back Goes Backwards*](books/02-the-back-goes-backwards.md) | Does human anatomy have a preferred body-wide organization of axial, expansive, and opening/rotational modes? | Develops and tests the all-Yang hypothesis and the possible significance of posterior loading. |
 | `BGB-B-TC` | [Book III — *The Body's Coordinates*](books/03-body-coordinates.md) | Can the three mechanical modes be mapped meaningfully to Yin/Yang, the Six Divisions, and embodied traditions? | Translates traditional observations into explicit, comparable mechanical hypotheses. |
 | `BGB-B-BR` | [Book IV — *The Breath-Structured Body*](books/04-breath-structured-body.md) | How might breath, pressure, phase, torque, and tissue continuity organize or transform whole-body configuration? | Develops the dynamic geometric and experimental program. |
 | `BGB-B-EP` | [Book V — *Embodiment and Practice*](books/05-embodiment-practice.md) | How can sufficiently developed parts of the framework guide observation, teaching, movement, and research? | Translates the program into bounded use and tests practice against outcomes. |
@@ -44,11 +46,11 @@ Here, hard and soft describe functional roles rather than fixed tissue classes. 
 
 ## `BGB-B-BGB` — Book II: *The Back Goes Backwards*
 
-**Guiding question:** Does human anatomy have a preferred body-wide organization of axial, rotational, and lateral load?
+**Guiding question:** Does human anatomy have a preferred body-wide organization of axial, expansive, and opening/rotational modes?
 
-> At a useful first approximation, the body may possess a preferred global organization in which structural demand resolves through coherent skeletal, tensile, active, and pressure-mediated support; compliant structures remain free to yield and conform; and axial, rotational, and lateral organization are biased toward their Yang directions.
+> At a useful first approximation, the body may possess a preferred global organization associated with whole-system mechanical efficiency: structural demand resolves through coherent skeletal, tensile, active, and pressure-mediated support; compliant structures remain free to yield and conform; and axial, expansive, and opening/rotational organization are biased toward their Yang directions.
 
-Book II makes the project's distinctive anatomical hypothesis central. It develops bilateral symmetry, skeletal-primary routing, local frames, orthotropic approximation, the pelvis and spine, posterior support, and the three signed modes: downward axial, external or opening rotational, and outward lateral organization. It asks whether the all-Yang combination is an instantaneous state, a bias, an attractor, or another kind of global organization and whether “the back goes backwards” describes one observable anatomical manifestation of that state.
+Book II makes the project's distinctive anatomical hypothesis central. It assumes Book I's mechanical foundation and develops bilateral reference symmetry, skeletal-primary routing, local frames, optional constitutive approximations, the pelvis and spine, posterior support, and three signed generalized modes: downward axial resolution, outward expansion, and external or opening rotation. It distinguishes the spatial frame used to describe anatomy from the generalized configurations, motions, forces, pressures, and moments expressed within it. It asks whether the all-Yang combination is an instantaneous state, a bias, an attractor, or another kind of global organization; whether a still-unformalized efficiency functional makes that organization preferred; and whether evidence supports the current authorial expectation that posterior participation is necessary but not sufficient for that state.
 
 The book must distinguish preferred organization from one static posture and ordinary movement through Yin and Yang from persistent loss of a viable route. It should produce measurements, counterexamples, null predictions, and alternatives capable of separating the hypothesis from conventional load-capacity and movement-variability accounts. It may use Yin/Yang names native to the hypothesis, but it does not depend on the Six Division mapping, breath as a necessary driver, or an individual correction system.
 
@@ -56,9 +58,9 @@ The book must distinguish preferred organization from one static posture and ord
 
 **Guiding question:** Can the three mechanical modes be mapped meaningfully to Yin/Yang, the Six Divisions, and embodied traditions?
 
-> The body's axial, rotational, and lateral or radial modes can be treated as signed dimensions. Their proposed correspondence with Yin/Yang, the Six Divisions, paired channels, bandhas, and selected movement traditions may preserve a structured observational account of whole-body organization that can be translated into mechanical and historical hypotheses.
+> The body's axial, expansive, and opening/rotational modes can be treated as signed generalized dimensions within the project. Their proposed correspondence with Yin/Yang, the Six Divisions, paired channels, gross limb roles, bandhas, embodied point relationships, and selected movement traditions may preserve a structured observational account of whole-body organization that can be translated into mechanical and historical hypotheses.
 
-Book III studies traditional systems on their own terms and in dialogue with anatomy and mechanics. It develops the proposed axial Shaoyin–Taiyang, rotational Taiyin–Yangming, and lateral Jueyin–Shaoyang map; preserves competing axis-pair, subtle, and gross hand/foot organizations; and examines meridians, bandhas, bows, locks, and cross-tradition parallels as possible routes, regions, control strategies, observations, or teaching structures.
+Book III studies traditional systems on their own terms and in dialogue with anatomy and mechanics. It develops the proposed axial Shaoyin–Taiyang, rotational Taiyin–Yangming, and expansive Jueyin–Shaoyang map. It then separates that channel-level correspondence from a gross projection in which the legs and feet organize axial support, the arms and hands organize expansion, and rotation emerges through upper–lower coordination. KI1 (Yongquan)–PC8 (Laogong) coordination is preserved as a direct embodied anchor between those gross systems. The book also preserves subtle/internal and structural bandha maps and examines meridians, force lines, bows, locks, and cross-tradition parallels as possible routes, regions, control strategies, observations, or teaching structures.
 
 Historical continuity, authorial interpretation, anatomical correspondence, mechanical analogy, and physiological mechanism remain separate claims. The book's task is not to use tradition as scientific validation or modern terminology as a replacement for traditional meaning. It should make exact mappings, alternatives, diagrams, measurements, and failure conditions available for comparison. Respiratory dynamics belong primarily to Book IV, and diagnostic or corrective applications remain with Book V.
 
@@ -70,7 +72,7 @@ Historical continuity, authorial interpretation, anatomical correspondence, mech
 
 Book IV develops the source program in which breath connects the three modes, the hyoid and other suspended structures, pressure-bearing cavities, cyclic continuity, organ support, conduit flow, neural excursion, and traditional performance phenomena. It preserves the hyoid-centered 4D tensegrity and cube models, inhale/Yang and exhale/Yin phase hypotheses, looping breath, bandha, *peng*, and *fa-jing* as named research candidates rather than dissolving them into generic breath mechanics.
 
-Those candidates are compared with tall-torus, shell/core, paired-track, orthotropic, rod, network, field, tensegrity, metastability, and possible topological representations. Route, force direction, pressure gradient, tissue motion, respiratory phase, and attention remain distinguishable. The book should end with competing models, state variables, measurements, and experiments rather than declaring one representation the body's final ontology. Practice may motivate experiments, but reader instruction belongs in Book V.
+Those candidates are compared with tall-torus, shell/core, paired-track, locally orthotropic, rod, network, field, tensegrity, metastability, and possible topological representations. External lines of action, internal force-line connections, route, force direction, pressure gradient, tissue motion, respiratory phase, and attention remain distinguishable. The book should end with competing models, state variables, measurements, and experiments rather than declaring one representation the body's final ontology. Practice may motivate experiments, but reader instruction belongs in Book V.
 
 ## `BGB-B-EP` — Book V: *Embodiment and Practice*
 
@@ -98,7 +100,7 @@ These boundaries govern claim burden and reader expectation; they are not barrie
 
 The series is supported by linked inventories that remain broader than the publishable books:
 
-- a **model inventory** preserves preferred configuration, orthotropy, tensegrity, hyoid-4D, cube, torus, breath-loop, bandha, metastability, and topology candidates;
+- a **model inventory** preserves preferred configuration, local orthotropic approximations, tensegrity, hyoid-4D, cube, torus, breath-loop, bandha, metastability, and topology candidates;
 - a **mechanism-by-region example matrix** crosses the six load-management families with the appendix's twelve anatomical and physiological categories;
 - a **practice inventory** preserves tests, cues, drills, protocols, teaching sequences, and self-experiment proposals without prematurely authorizing them;
 - a **deferred-work inventory** records each concept's protected kernel, provenance, proposed destination, incomplete gates, and reconsideration milestone;
