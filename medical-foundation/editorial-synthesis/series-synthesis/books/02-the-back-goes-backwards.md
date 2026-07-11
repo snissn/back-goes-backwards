@@ -66,7 +66,7 @@ Book III then takes up a different question: whether the mechanical signs develo
 ### 1. From general load routing to preferred routing
 
 Unit BGB-U-0101 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:preferred-configuration, mech:load-path, use:hypothesis · gates INTENT, DEF, FORM, EVID, ALT, MEAS
+Tags domain:biomechanics, model:preferred-configuration, mech:load-path, use:hypothesis · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** Book II begins from the established usefulness of tracing mechanical demand and advances a stronger possibility: human anatomy may support some body-wide routing organizations more efficiently than others. Skeletal-primary support, the hard/soft division of labor, an all-Yang organizational bias, and posterior participation are treated as related but separable propositions. “Preferred” provisionally names a real whole-system mechanical efficiency relation whose variables and domain remain to be formalized; the familiar language of stability, strain distribution, cost, reserve, resilience, and recovery supplies candidate terms and observable consequences rather than unrelated definitions.
 
@@ -230,7 +230,7 @@ Topology motivates attention to continuity and qualitative change that can survi
 ### 5. Preferred organization versus one correct static posture
 
 Unit BGB-U-0105 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:preferred-configuration, mech:geometry, process:adaptation, use:hypothesis · gates DEF, EVID, ALT, MEAS, CLIN
+Tags domain:biomechanics, model:preferred-configuration, mech:geometry, process:adaptation, use:hypothesis · gates DEF, EVID, LINK, ALT, MEAS, CLIN
 
 **Chapter summary.** A preferred routing regime need not be one frozen pose, one universal neutral alignment, or an instruction to eliminate Yin-directed movement. The organization that best satisfies the provisional whole-system efficiency relation may appear as a task-relative state, gravity-biased pattern, statistical bias, cyclic relation, or attractor-like tendency across movement. Variability, asymmetry, and alternative organizations may remain adaptive, while any proposed advantage must be defined for a particular task, person, state, and timescale.
 
@@ -330,7 +330,7 @@ Close by identifying what the analogy must eventually predict: relative rotation
 ### 7. Spine and rib cage in a local longitudinal frame
 
 Unit BGB-U-0107 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:anatomy, domain:biomechanics, model:generalized-modes, anat:thoracic, anat:lumbar, anat:rib-thoracic, mech:load-path, use:hypothesis · gates DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:anatomy, domain:biomechanics, model:generalized-modes, anat:thoracic, anat:lumbar, anat:rib-thoracic, mech:load-path, use:hypothesis · gates DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** Axial organization follows the spine's changing local longitudinal direction rather than a perfectly straight global vertical line. Vertebrae, discs, facets, ligaments, musculature, ribs, sternum, and pressure systems cooperate to carry weight, guide movement, protect neural structures, and manage shock. Downward routing and upward support, compression and suspension, extension and curve geometry, and posterior tension are treated as related mechanical questions whose exact equivalence remains to be determined.
 
@@ -420,7 +420,7 @@ End by separating four increasingly strong claims: these structures are anatomic
 ### 9. Hips, legs, feet, and transmission to the ground
 
 Unit BGB-U-0109 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:anatomy, domain:biomechanics, model:generalized-modes, model:posterior-chain, anat:lower-extremity, process:gait, mech:force-torque, use:hypothesis · gates DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:anatomy, domain:biomechanics, model:generalized-modes, model:posterior-chain, anat:lower-extremity, process:gait, mech:force-torque, use:hypothesis · gates DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** The lower limbs connect pelvic organization to the ground through changing contributions from hip, thigh, knee, calf–Achilles complex, ankle, arches, and foot contact. External and internal rotation, outward and inward organization, pronation and supination, and posterior muscle participation are normal components of stance and gait. The preferred-support hypothesis concerns how these movements combine into a dependable route, how that route adapts across phases and surfaces, and how altered relationships may concentrate or divert demand.
 
@@ -465,7 +465,7 @@ Develop valgus, arch collapse, pelvic drop, reduced ankle excursion, and other c
 ### 10. Upright locomotion, comparative anatomy, and evolution
 
 Unit BGB-U-0110 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, domain:anatomy, model:preferred-configuration, model:posterior-chain, process:locomotion, process:development, use:hypothesis · gates PROV, DEF, EVID, ALT, MEAS
+Tags domain:biomechanics, domain:anatomy, model:preferred-configuration, model:posterior-chain, process:locomotion, process:development, use:hypothesis · gates PROV, DEF, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** Upright human locomotion places the pelvis, spinal curves, posterior musculature, lower limbs, feet, shoulder girdle, and head within a distinctive set of gravitational, energetic, balance, and endurance demands. Comparative anatomy and development can explain how these systems arose and what tasks they enable, while also generating hypotheses about posterior capacity, organ protection, and preferred organization. Evolution supplies constraints and predictions, not automatic proof of one posture or load path.
 
@@ -579,7 +579,7 @@ The signs are hypotheses about organization, not moral grades attached to ordina
 ### 12. Axial organization: downward and upward
 
 Unit BGB-U-0112 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:generalized-modes, model:yin-yang, mech:load-path, mech:pressure-flow, use:hypothesis · gates INTENT, DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:biomechanics, model:generalized-modes, model:yin-yang, mech:load-path, mech:pressure-flow, use:hypothesis · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** The axial generalized mode reduces longitudinal organization or deformation to a configuration coordinate `q_a` referenced to a locally curving skeletal route. Its conjugate load `Q_a` is an axial force or resultant when the coordinate is length-like. The model assigns Yang to downward or caudal resolution and Yin to upward or cranial organization, but the organizational sign `s_a` is not automatically the sign of position, movement, force, compression, or elongation. Downward routing and upward support can therefore describe complementary aspects of one supported event.
 
@@ -624,7 +624,7 @@ Measure local orientation and motion with segmental kinematics, external demand 
 ### 13. Rotational organization: external or opening and internal or closing
 
 Unit BGB-U-0113 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:generalized-modes, model:yin-yang, mech:force-torque, process:gait, use:hypothesis · gates INTENT, DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:biomechanics, model:generalized-modes, model:yin-yang, mech:force-torque, process:gait, use:hypothesis · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** The opening/rotational generalized mode reduces a region-specific angular or relational aperture to `q_o`; its conjugate load `Q_o` is a moment or torque. The model assigns Yang to external or opening organization and Yin to internal or closing organization. Angular configuration, angular motion, torque, and organizational sign remain separate. The pelvis supplies the leading opening-and-closing image, while the spine, shoulders, forearms, hips, knees, and feet show why no one universal axis can define the entire body-wide mode.
 
@@ -669,7 +669,7 @@ Combine three-dimensional kinematics with external forces, segmental moments, jo
 ### 14. Expansive/lateral organization: outward and inward
 
 Unit BGB-U-0114 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:generalized-modes, model:yin-yang, mech:geometry, process:gait, use:hypothesis · gates INTENT, DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:biomechanics, model:generalized-modes, model:yin-yang, mech:geometry, process:gait, use:hypothesis · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** The expansive/lateral generalized mode reduces outward-normal expansion or inward contraction to `q_e`; its conjugate `Q_e` may be a generalized force, traction, membrane resultant, or pressure-related resultant depending on how the coordinate is defined. Yang is outward and Yin is inward. Expansion must be distinguished from left-right translation, width, anatomical abduction or adduction, lateral bending, and outward force. Hips, feet, pelvis, rib cage, shoulders, and scapulae show why higher-resolution work may require several shape variables or a deformation field rather than one scalar.
 
@@ -759,7 +759,7 @@ Combine synchronized motion, external force, pressure, muscle activity, contact,
 ### 16. The all-Yang configuration: state, bias, or attractor
 
 Unit BGB-U-0116 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:preferred-configuration, model:generalized-modes, model:yin-yang, model:metastability, use:hypothesis · gates INTENT, DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:biomechanics, model:preferred-configuration, model:generalized-modes, model:yin-yang, model:metastability, use:hypothesis · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** The all-Yang proposal combines downward axial, externally opening rotational, and outward expansive organization as `s=(s_a,s_o,s_e)=(+,+,+)`. This is a tuple in generalized-mode space, not a physical vector. The notation does not yet decide whether the signs describe every local region, a body-wide relation, a bias within the load-bearing frame, one phase of a cycle, a metastable regime, or an attractor toward which the system returns. These interpretations are preserved as competing models and possible forms through which a whole-system efficiency relation could appear.
 
@@ -863,7 +863,7 @@ State the strongest bounded proposition: in defined tasks and frames, the propos
 ### 18. Preferred organization across tasks and the lifespan
 
 Unit BGB-U-0118 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:preferred-configuration, process:stance, process:gait, process:locomotion, process:development, process:aging, use:hypothesis · gates DEF, EVID, ALT, MEAS, CLIN
+Tags domain:biomechanics, model:preferred-configuration, process:stance, process:gait, process:locomotion, process:development, process:aging, use:hypothesis · gates DEF, EVID, LINK, ALT, MEAS, CLIN
 
 **Chapter summary.** A preferred organization, if it exists, should vary with task phase, morphology, environment, capacity, development, pregnancy, injury, illness, disability, and aging. Its expression may be a range, bias, sequence, or return tendency rather than one pose, while preference itself continues to name the provisional whole-system efficiency relation. Predicted advantages and non-advantages must therefore be specified for each context rather than generalized from a single standing image.
 
@@ -904,7 +904,7 @@ Treat seating, footwear, workspace, tools, visual field, surface, carried object
 ### 19. Candidate observations and measurements
 
 Unit BGB-U-0119 · state proposed · posture HYP/APP/EDT · confidence E1 · medical M2 · readiness R1
-Tags domain:research, domain:biomechanics, model:preferred-configuration, context:clinical-reasoning, use:research-program · gates PROV, DEF, FORM, EVID, ALT, MEAS, CLIN, VIS
+Tags domain:research, domain:biomechanics, model:preferred-configuration, context:clinical-reasoning, use:research-program · gates PROV, DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS
 
 **Chapter summary.** Testing the preferred-configuration hypothesis requires synchronized descriptions of each mode's configuration `q_i`, motion `q-dot_i`, conjugate load `Q_i`, and inferred organizational sign `s_i`, together with pressure, stress, strain, excursion, effort, posterior participation, and task outcome. Observation and measurement occupy different levels, and neither visible alignment nor pain can stand in for internal routing. Candidate variables must be reliable, valid, frame-specific, and capable of distinguishing state, trait, cause, consequence, and compensation.
 
@@ -1047,7 +1047,7 @@ These inventories are development and conservation tools, not additional reader-
 ### Generalized-mode anatomy, action, mechanics, and example inventory
 
 Unit BGB-U-0191 · state proposed · posture EDT/HYP · confidence E0 · medical M2 · readiness R0
-Tags domain:anatomy, domain:biomechanics, model:generalized-modes, use:research-program, use:diagram · gates INTENT, PROV, DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:anatomy, domain:biomechanics, model:generalized-modes, use:research-program, use:diagram · gates INTENT, PROV, DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 Preserve every axial, opening/rotational, and expansive/lateral regional example across pelvis, spine, rib cage, shoulders, forearms, hips, knees, ankles, feet, gait, balance, upright support, suspension, compression, twist, side shift, and shock management. Include the SCM–quadriceps opening/rotational and serratus–latissimus expansive/lateral observations under their source wording as well as the normalized vocabulary.
 

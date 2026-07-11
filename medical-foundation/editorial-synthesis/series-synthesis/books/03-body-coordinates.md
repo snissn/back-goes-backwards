@@ -730,7 +730,7 @@ Build one table for source description, contemporary action, reported experience
 ### 16. Bandha-mode assignments and sequence
 
 Unit BGB-U-0216 · state proposed · posture TRD/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:tradition, domain:biomechanics, model:bandha, model:generalized-modes, model:yoga, mech:force-torque · gates INTENT, PROV, DEF, FORM, EVID, ALT, MEAS
+Tags domain:tradition, domain:biomechanics, model:bandha, model:generalized-modes, model:yoga, mech:force-torque · gates INTENT, PROV, DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** The structural hypothesis assigns Mula to axial organization, Jalandhara to expansive/lateral organization, and Uddiyana to opening/rotational integration, with the proposed sequence Mula → Jalandhara → Uddiyana. The sequence suggests that lower-system support and upper-system span establish boundary conditions within which coordinated torsion can emerge. Each assignment and ordering remains separable and testable.
 
