@@ -23,7 +23,7 @@ A reader may accept an earlier book without accepting the hypotheses of a later 
 | Stable alias | Working book | Guiding question | Series contribution |
 |---|---|---|---|
 | `BGB-B-MF` | [Book I — *Medical Foundations*](books/01-medical-foundations.md) | How does the body distribute mechanical demand, and what changes when that demand is poorly resolved? | Establishes the common mechanical, anatomical, medical, and epistemic foundation. |
-| `BGB-B-PC` | [Book II — *The Back Goes Backwards*](books/02-preferred-configuration.md) | Does human anatomy have a preferred body-wide organization of axial, rotational, and lateral load? | Develops and tests the all-Yang hypothesis and the possible significance of posterior loading. |
+| `BGB-B-BGB` | [Book II — *The Back Goes Backwards*](books/02-the-back-goes-backwards.md) | Does human anatomy have a preferred body-wide organization of axial, rotational, and lateral load? | Develops and tests the all-Yang hypothesis and the possible significance of posterior loading. |
 | `BGB-B-TC` | [Book III — *The Body's Coordinates*](books/03-body-coordinates.md) | Can the three mechanical modes be mapped meaningfully to Yin/Yang, the Six Divisions, and embodied traditions? | Translates traditional observations into explicit, comparable mechanical hypotheses. |
 | `BGB-B-BR` | [Book IV — *The Breath-Structured Body*](books/04-breath-structured-body.md) | How might breath, pressure, phase, torque, and tissue continuity organize or transform whole-body configuration? | Develops the dynamic geometric and experimental program. |
 | `BGB-B-EP` | [Book V — *Embodiment and Practice*](books/05-embodiment-practice.md) | How can sufficiently developed parts of the framework guide observation, teaching, movement, and research? | Translates the program into bounded use and tests practice against outcomes. |
@@ -42,7 +42,7 @@ Its compact intuition is:
 
 Here, hard and soft describe functional roles rather than fixed tissue classes. The book does not need to establish one correct posture, universal posterior preference, the signed coordinate map, a TCM correspondence, a breath-driven geometry, a diagnostic system, or a corrective protocol. It names the wider preferred-configuration hypothesis openly, but its foundational argument must stand if that hypothesis proves incomplete or wrong.
 
-## `BGB-B-PC` — Book II: *The Back Goes Backwards*
+## `BGB-B-BGB` — Book II: *The Back Goes Backwards*
 
 **Guiding question:** Does human anatomy have a preferred body-wide organization of axial, rotational, and lateral load?
 
