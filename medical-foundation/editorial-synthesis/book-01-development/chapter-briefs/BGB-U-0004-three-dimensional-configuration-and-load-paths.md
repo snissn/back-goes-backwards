@@ -67,6 +67,10 @@ How does three-dimensional configuration change what an external demand becomes 
 
 External demand becomes internally meaningful through a configuration comprising geometry, orientation, contact, active force, pressure, material state, stress and strain fields, and available motion. These quantities are expressed relative to declared global or local frames, and demand may be carried through several changing paths. A spatial basis describes directions in space; a generalized mode describes a family of configuration changes and a conjugate load; a material frame describes constitutive directionality; and a principal-stress frame is derived from the local stress tensor. Their possible relationships are research questions, not identities established by the number three.
 
+## Narrative arc
+
+Return to the same ordinary transfer and view it first from room-, segment-, and tissue-local frames. Expand the event beyond planar posture into changing orientation, contact, moment arms, pressure, active state, and boundary conditions, then define configuration as the fuller state those relations require. Follow demand through several possible carriers so that load path becomes an explicit, revisable representation rather than a hidden cable. Only after that foundation is clear, compare the four three-direction descriptions—spatial frame, generalized mode, material-symmetry frame, and principal-stress frame—and show why none validates another by numerical coincidence. End with one contained Book II signpost and hand Part II the concrete anatomical question of which structures perform which roles in each phase.
+
 ## Controlled terms and distinctions
 
 | Object | Working use | What determines it | What it is not |

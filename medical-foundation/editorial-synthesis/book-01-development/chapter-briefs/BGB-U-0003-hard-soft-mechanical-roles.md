@@ -61,6 +61,10 @@ How can the hard/soft distinction describe a useful division of mechanical labor
 
 Hard and soft are complementary, relational roles. Under defined conditions, some structures or assemblies preserve enough shape and connectivity to establish or resolve a path, while others receive form and remain available to yield, conform, glide, contain, expand, and recover. Every living tissue may bear load, and many can perform either role in different directions or phases. The polarity is motivated by TCM hard/soft and Yin/Yang concepts, but Book I uses a bounded mechanical translation; exact traditional correspondence and preferred signed organization remain later research programs.
 
+## Narrative arc
+
+Open with the recurring object task and the compact hard/soft intuition, naming its TCM motivation and nonidentity boundary at once. Define the two roles positively as complementary jobs, then show why neither role is a fixed tissue class or a synonym for strength, rigidity, weakness, or absence of load. Develop shape preservation, form reception, role exchange, and one bounded soft-to-hard anatomical handoff before testing them with reversals and counterexamples. Turn next to the adverse case in which a form-receiving structure substitutes as a maintained boundary or route. Close with the intended division of labor intact but still conditional, supplying Chapter 4 with roles that can be placed into explicit three-dimensional paths.
+
 ## Operational working definitions
 
 | Term | Working definition | Required qualifier |

@@ -56,6 +56,10 @@ What does it mean to say that life has a mechanical dimension without reducing t
 
 Living systems are active biological systems made of materials in space. They continuously encounter and generate forces, moments, pressures, contacts, and deformations, while biological state continually changes their mechanical behavior. This makes mechanics inseparable from embodied function but not automatically dominant in any particular explanation. Its relevance must be traced across defined scales and compared with biological, psychological, social, developmental, and environmental factors.
 
+## Narrative arc
+
+Begin with one ordinary object-transfer task in which mechanics and living regulation are visibly simultaneous. Establish material embodiment as a continuous condition of life, then show that biology changes mechanical behavior just as mechanical exposure can change biology. Move across task, segment, tissue, and cellular scales to expose the intermediate links a serious account requires. Place those links inside the person's developmental, psychological, social, environmental, and care context before contrasting an obvious discrete injury with the book's harder question about cumulative and upstream mechanical history. End by handing Chapter 2 a precise need: the reader now accepts the inquiry but still needs controlled quantities, boundaries, evidence states, and causal distinctions.
+
 ## Controlled distinctions
 
 | Distinction | Working use in this chapter | Collapse to prevent |
