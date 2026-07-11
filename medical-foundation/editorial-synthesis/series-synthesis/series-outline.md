@@ -38,7 +38,7 @@ The following distinctions govern the five books even where their terminology be
 | `BGB-B-MF` | [Book I — *Medical Foundations*](books/01-medical-foundations.md) | How does the body distribute mechanical demand, and what changes when that demand is poorly resolved? | Establishes the common mechanical, anatomical, medical, and epistemic foundation. |
 | `BGB-B-BGB` | [Book II — *The Back Goes Backwards*](books/02-the-back-goes-backwards.md) | Does human anatomy have a preferred body-wide organization of axial, opening/rotational, and expansive modes? | Develops and tests the all-Yang hypothesis, including posterior participation as a necessary-but-insufficient working expectation. |
 | `BGB-B-TC` | [Book III — *The Body's Coordinates*](books/03-body-coordinates.md) | Can the three mechanical modes be mapped meaningfully to Yin/Yang, the Six Divisions, and embodied traditions? | Translates traditional observations into explicit, comparable mechanical hypotheses. |
-| `BGB-B-BR` | [Book IV — *The Breath-Structured Body*](books/04-breath-structured-body.md) | How might breath, pressure, phase, torque, and tissue continuity organize or transform whole-body configuration? | Develops the dynamic geometric and experimental program. |
+| `BGB-B-BR` | [Book IV — *The Breath-Structured Body*](books/04-breath-structured-body.md) | How might breath, pressure, phase, torque, and tissue continuity drive, organize, modulate, or accompany changes in whole-body configuration? | Develops the dynamic geometric and experimental program. |
 | `BGB-B-EP` | [Book V — *Embodiment and Practice*](books/05-embodiment-practice.md) | How can sufficiently developed parts of the framework guide observation, teaching, movement, and research? | Translates the program into bounded use and tests practice against outcomes. |
 
 ## `BGB-B-MF` — Book I: *Medical Foundations*
@@ -77,7 +77,7 @@ Historical continuity, authorial interpretation, anatomical correspondence, mech
 
 ## `BGB-B-BR` — Book IV: *The Breath-Structured Body*
 
-**Guiding question:** How might breath, pressure, phase, torque, and tissue continuity organize or transform whole-body configuration?
+**Guiding question:** How might breath, pressure, phase, torque, and tissue continuity drive, organize, modulate, or accompany changes in whole-body configuration?
 
 > Breathing is a cyclic mechanical event involving pressure, volume, flow, tissue tension, skeletal motion, muscular activity, and phase. Within the wider hypothesis it may drive, organize, modulate, or accompany changes in whole-body load-routing configuration; those roles remain competing possibilities to distinguish.
 
@@ -101,7 +101,7 @@ The same subject may appear in more than one book when its editorial role change
 
 - hard and soft are foundational mechanical roles in Book I, part of preferred organization in Book II, a proposed Yin/Yang correspondence in Book III, dynamically modulated in Book IV, and operationalized cautiously in Book V;
 - posterior-chain anatomy is established in Book I, tested as a preferred manifestation in Book II, compared with traditional tracks in Book III, coupled to breath in Book IV, and used in observation or practice in Book V;
-- breath may appear early as ordinary physiology, but its role as organizer, geometric driver, or practice method belongs to later books;
+- breath may appear early as ordinary physiology, but its competing roles as driver, organizer, modulator, or companion, its possible whole-system geometries, and its use in practice belong to later books;
 - clinical examples test Book I's reasoning, while disease-specific applications and protocols require separate clinical and safety review;
 - traditional concepts may motivate hypotheses throughout the project, but detailed historical and correspondence claims belong in Book III;
 - the local Six-Division map, gross limb-role projection, embodied point relationships, and cross-tradition maps may inform one another without being collapsed into one correspondence; and

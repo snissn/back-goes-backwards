@@ -107,7 +107,7 @@ The investigation proceeds from definitions to assumptions, from assumptions to 
 ### 2. Spatial frames and generalized mechanical modes
 
 Unit BGB-U-0102 · state proposed · posture FND/SYN · confidence E2 · medical M1 · readiness R1
-Tags domain:mechanics, model:generalized-modes, mech:force-torque, mech:geometry, use:foundation · gates DEF, FORM, EVID, MEAS, VIS
+Tags domain:mechanics, model:spatial-frames, model:generalized-modes, model:force-line, mech:force-torque, mech:geometry, use:foundation · gates DEF, FORM, EVID, MEAS, VIS
 
 **Chapter summary.** The model requires two related but different descriptions. Spatial frames locate geometry and transform directions across a curved, bilateral body. Three generalized modes reduce recurring patterns of longitudinal organization, relative opening or closing, and outward expansion into coordinates whose associated loads can be compared. Configuration, motion, conjugate load, internal field, and organizational sign remain distinct even when they concern the same mode. Cylindrical and curvilinear frames remain useful visual analogies rather than the ontology of the model.
 
@@ -168,7 +168,7 @@ At whole-body scale, the skeleton and its articulations provide the clearest rel
 
 #### 3.4 Hard and soft as functional roles
 
-A hard role preserves or imposes enough geometry to transmit, redirect, or resolve demand at the scale being modeled. A soft role receives form, conforms, glides, expands, contains, cushions, or responds to pressure. Bone is the clearest hard-role example and a vessel a clear soft-role example, yet active muscle, tendon, fascia, a pressurized cavity, or a coordinated assembly may become relatively hard in one direction while remaining soft in another. The assumption concerns division of labor, not permanent tissue identity.
+A hard role preserves or imposes enough geometry to transmit, redirect, or resolve demand at the scale being modeled. A soft role receives form and conforms to the surrounding geometry; gliding, expansion, containment, cushioning, and pressure response are possible expressions of that yielding role rather than its definition. Bone is the clearest hard-role example and a vessel a clear soft-role example, yet active muscle, tendon, fascia, a pressurized cavity, or a coordinated assembly may become relatively hard in one direction while remaining soft in another. The assumption concerns division of labor, not permanent tissue identity.
 
 #### 3.5 Candidate regional constitutive approximations
 
@@ -330,7 +330,7 @@ Close by identifying what the analogy must eventually predict: relative rotation
 ### 7. Spine and rib cage in a local longitudinal frame
 
 Unit BGB-U-0107 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:anatomy, domain:biomechanics, model:generalized-modes, anat:thoracic, anat:lumbar, anat:rib-thoracic, mech:load-path, use:hypothesis · gates DEF, FORM, EVID, LINK, ALT, MEAS, VIS
+Tags domain:anatomy, domain:biomechanics, model:spatial-frames, model:generalized-modes, anat:thoracic, anat:lumbar, anat:rib-thoracic, mech:load-path, use:hypothesis · gates DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** Axial organization follows the spine's changing local longitudinal direction rather than a perfectly straight global vertical line. Vertebrae, discs, facets, ligaments, musculature, ribs, sternum, and pressure systems cooperate to carry weight, guide movement, protect neural structures, and manage shock. Downward routing and upward support, compression and suspension, extension and curve geometry, and posterior tension are treated as related mechanical questions whose exact equivalence remains to be determined.
 
@@ -763,7 +763,7 @@ Tags domain:biomechanics, model:preferred-configuration, model:generalized-modes
 
 **Chapter summary.** The all-Yang proposal combines downward axial, externally opening rotational, and outward expansive organization as `s=(s_a,s_o,s_e)=(+,+,+)`. This is a tuple in generalized-mode space, not a physical vector. The notation does not yet decide whether the signs describe every local region, a body-wide relation, a bias within the load-bearing frame, one phase of a cycle, a metastable regime, or an attractor toward which the system returns. These interpretations are preserved as competing models and possible forms through which a whole-system efficiency relation could appear.
 
-**Chapter introduction.** A compact sign vector can create an illusion of precision. The body is spatially extended, locally curved, actively controlled, time-dependent, and often asymmetrical. Three plus signs cannot describe it until the location, scale, averaging interval, state variables, and comparison class are known. Begin by stating the hypothesis directly, then resist resolving its ambiguity rhetorically. The chapter's purpose is to turn “all Yang” from an evocative whole-body intuition into several explicit propositions that can be compared and tested.
+**Chapter introduction.** A compact sign tuple can create an illusion of precision. The body is spatially extended, locally curved, actively controlled, time-dependent, and often asymmetrical. Three plus signs cannot describe it until the location, scale, averaging interval, state variables, and comparison class are known. Begin by stating the hypothesis directly, then resist resolving its ambiguity rhetorically. The chapter's purpose is to turn “all Yang” from an evocative whole-body intuition into several explicit propositions that can be compared and tested.
 
 #### 16.1 The sign combination and its scope
 
@@ -1080,7 +1080,7 @@ The general engineering and coordinate material remains indexed by Book I invent
 
 ### Preferred-configuration observation, measurement, and case inventory
 
-Unit BGB-U-0192 · state proposed · posture EDT/HYP/APP · confidence E0 · medical M3 · readiness R0
+Unit BGB-U-0192 · state proposed · posture EDT/HYP/APP · confidence E0 · medical M4 · readiness R0
 Tags domain:research, model:preferred-configuration, model:posterior-chain, context:clinical-reasoning, use:research-program · gates PROV, DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, SAFE, AUD
 
 Preserve proposed signs, posture and movement observations, posterior markers, load-partition measures, quick checks, functional tasks, performance contexts, clinical candidates, counterexamples, and predicted non-advantages. Home tests and corrective cues remain visible here even when their eventual publication form belongs to Book V.

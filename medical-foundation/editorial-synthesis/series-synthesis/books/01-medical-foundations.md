@@ -61,7 +61,7 @@ Parts I and II return to one ordinary task: moving an object from one support to
 
 ### The intended ending
 
-The book concludes on two levels. First, it leaves the reader with a usable medical-mechanical lens that stands on its own: trace demand, routing, local exposure, response, compensation, capacity, and alternatives. Second, it names the wider question that gives the series its title: whether the body's major support systems participate in a preferred whole-system organization expressed through three signed generalized modes, with posterior loading as one visible manifestation. Book I does not depend on the answer. Book II is nevertheless a sequential continuation: it assumes this foundation and develops the stronger model instead of rebuilding the medical-mechanical case.
+The book concludes on two levels. First, it leaves the reader with a usable medical-mechanical lens that stands on its own: trace demand, routing, local exposure, response, compensation, capacity, and alternatives. Second, it names the wider question that gives the series its title: whether the body's major support systems participate in a preferred whole-system organization expressed through three signed generalized modes, with posterior loading as one candidate anatomical manifestation. Book I does not depend on the answer. Book II is nevertheless a sequential continuation: it assumes this foundation and develops the stronger model instead of rebuilding the medical-mechanical case.
 
 ## Part I — Mechanical foundations of living structure
 
@@ -107,7 +107,7 @@ Distinguish the uncontroversial case of a discrete mechanical injury from the bo
 ### 2. A working language of load
 
 Unit BGB-U-0002 · state proposed · posture FND · confidence E2 · medical M0 · readiness R1
-Tags domain:mechanics, mech:force-torque, mech:stress-strain, mech:pressure-flow, use:foundation · gates DEF, FORM, EVID, VIS
+Tags domain:mechanics, model:force-line, mech:force-torque, mech:stress-strain, mech:pressure-flow, use:foundation · gates DEF, FORM, EVID, VIS
 
 **Chapter summary.** This chapter establishes a shared vocabulary for force, moment, torque, pressure, stress, strain, strain rate, deformation, stiffness, compliance, capacity, work, energy, and load path. Load functions as an umbrella term rather than a single scalar; external demand remains distinct from internal force and tissue exposure; and free-body diagrams and carefully selected engineering analogies make distribution and transfer intelligible.
 
@@ -1324,7 +1324,7 @@ Preview the tests, cues, drills, teaching methods, movement systems, professiona
 
 **Part summary.** Part VI has translated the framework into four levels of consequence: better questions now; education and environmental design that can develop with proportionate evidence; separate research, measurement, therapeutic, implementation, and health-system programs; and a clearly disclosed set of stronger hypotheses for later books.
 
-**Part conclusion and book conclusion.** Book I begins with the fact that a living body must carry material demand and ends with a disciplined way to follow that demand through structure, exposure, response, compensation, and context. Its claim is both modest and consequential: mechanics need not explain everything to deserve a more coherent place in how health and illness are investigated. The series now proceeds cumulatively. Book II investigates preferred organization through signed generalized modes; Book III develops the traditional coordinate map; Book IV asks how breath and pressure may drive whole-system dynamics; and Book V addresses responsible practice.
+**Part conclusion and book conclusion.** Book I begins with the fact that a living body must carry material demand and ends with a disciplined way to follow that demand through structure, exposure, response, compensation, and context. Its claim is both modest and consequential: mechanics need not explain everything to deserve a more coherent place in how health and illness are investigated. The series now proceeds cumulatively. Book II investigates preferred organization through signed generalized modes; Book III develops the traditional coordinate map; Book IV asks whether breath and pressure drive, organize, modulate, or accompany whole-system dynamics; and Book V addresses responsible practice.
 
 ## Internal inventories
 

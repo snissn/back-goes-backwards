@@ -33,6 +33,7 @@ These formulations are project-authoritative records of present intent while ret
 | `BGB-S-9004` | KI1 (Yongquan)–PC8 (Laogong) coordination is a direct embodied anchor between the gross axial and expansive systems; sidedness, carrier, and measurement remain unresolved | [project-model memo](../project-model-memo.md), `BGB-U-0211-0213`, `0222-0223`, `0291-0293` | included as author-direct embodied hypothesis |
 | `BGB-S-9005` | “Force line” may identify an external line of action, an inferred internal multicarrier relation, or embodied continuity; its scale, carrier, quantity, and provenance must be named when formalized | [project-model memo](../project-model-memo.md), `BGB-U-0002`, `0005-0006`, `0210`, `0213-0214`, `0222-0223`, `0301`, `0305`; `BGB-Q-0016` for literalized formulations | included as controlled relational vocabulary |
 | `BGB-S-9006` | Bilateral symmetry and skeletal-primary routing are first-order modeling assumptions; orthotropy is an optional local constitutive approximation rather than a foundation or derivation of the generalized modes | [project-model memo](../project-model-memo.md), `BGB-U-0103`, `0115`, `0120-0121`, `0314`, `0321-0323` | included as modeling boundary |
+| `BGB-S-9007` | The tall torus and paired loops are an additive future model: anterior/posterior torque relations may contribute to axial and opening/rotational organization; left/right torque relations may contribute to expansive/lateral curvature and opening moments; convergence or separation may express opening or closing; and route progression need not share the direction or phase of force, tension, pressure, deformation, or attention | [project-model memo](../project-model-memo.md), `BGB-U-0115`, `0313-0315`, `0391` | included as author-direct geometric and mechanical hypothesis |
 
 ## [`11-section-01.json`](../../new/inputs/outlines/11-section-01.json) — mechanics, dysfunction, and disease
 
@@ -153,7 +154,7 @@ Thoracic-outlet and pelvic-congestion contexts; venous stasis or chronic venous 
 | `BGB-S-1420` (`N14-20`) | Strung-bow posterior analogy | `BGB-U-0217`, `0292` | included + inventory |
 | `BGB-S-1421` (`N14-21`) | Sternocleidomastoid and quadriceps as rotational-lock candidates | `BGB-U-0217`, `0292` | included as anatomy candidate |
 | `BGB-S-1422` (`N14-22`) | Serratus anterior and latissimus dorsi as lateral-lock candidates | `BGB-U-0217`, `0292` | included as anatomy candidate |
-| `BGB-S-1423` (`N14-23`) | Breath as necessary driver, organizer, modulator, or companion | `BGB-U-0218`, `0305` | included as competing hypotheses |
+| `BGB-S-1423` (`N14-23`) | Breath as necessary driver or major organizer of posterior configuration, organizer of another relation, modulator, or companion | `BGB-U-0218`, `0305` | included as nested competing hypotheses |
 | `BGB-S-1424` (`N14-24`) | Local channel-mode, subtle/internal, and gross hand/foot mapping layers | `BGB-U-0211-0214`, `0291`; `BGB-Q-0011` for silent collapse | included + provenance inventory |
 | `BGB-S-1425` (`N14-25`) | Mula → Jalandhara → Uddiyana activation sequence | `BGB-U-0216`, `0309`, `0291` | included as exact source hypothesis |
 | `BGB-S-1426` (`N14-26`) | Uddiyana as torsional emergence after other locks rather than isolated hollowing | `BGB-U-0216`, `0309`; `BGB-Q-0007` for supremacy rhetoric | included as hypothesis |
@@ -370,14 +371,14 @@ The 21-chapter structure is retained one-for-one. Each old chapter `n` maps to `
 | 5 | Generalized-mode change across breath | `BGB-U-0305` |
 | 6 | Cyclic continuity | `BGB-U-0304` |
 | 7 | Reciprocal/synergistic paired-side coupling | `BGB-U-0305`, `0391` |
-| 8 | Breath as necessary driver, organizer, modulator, or companion | `BGB-U-0305`; `BGB-U-0218` |
+| 8 | Breath as necessary driver or major organizer of posterior configuration, organizer of another relation, modulator, or companion | `BGB-U-0305`; `BGB-U-0218` |
 | 9 | Hyoid, jaw, tongue, airway | `BGB-U-0306-0307` |
 | 10 | Bandhas, pressure, phase | `BGB-U-0308-0310` |
 | 11 | Tensegrity model | `BGB-U-0311` |
 | 12 | Local orthotropic and curved coordinates | `BGB-U-0314` |
 | 13 | Torus, shell/core, paired tracks | `BGB-U-0313-0314` |
 | 14 | Loop torque and paired tracks | `BGB-U-0313` |
-| 15 | Intrinsic longitudinal and gravitational axes | `BGB-U-0314` |
+| 15 | Intrinsic longitudinal and gravitational axes | `BGB-U-0314`, `0321` |
 | 16 | Dead spots, axis transitions, spiral continuity | `BGB-U-0316` |
 | 17 | Path dependence, hysteresis, metastability, barriers | `BGB-U-0317` |
 | 18 | Networks, zero crossings, separatrices, reconnection | `BGB-U-0317` |

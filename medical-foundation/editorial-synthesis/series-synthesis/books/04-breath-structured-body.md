@@ -4,7 +4,7 @@
 
 ## Editorial role
 
-Book IV assumes the reader has followed Book I's mechanical foundation, Book II's preferred-configuration hypothesis, and Book III's reconstruction of traditional coordinates and embodied maps. It develops the dynamic program in which breath, pressure, phase, torque, suspended anatomy, and tissue continuity may organize or transform whole-body configuration. It gives the hyoid, bandhas, physiological chains, and candidate whole-system geometries room to be reconstructed fully before asking which interpretations can be formalized or tested.
+Book IV assumes the reader has followed Book I's mechanical foundation, Book II's preferred-configuration hypothesis, and Book III's reconstruction of traditional coordinates and embodied maps. It develops the dynamic program in which breath, pressure, phase, torque, suspended anatomy, and tissue continuity may drive, organize, modulate, or accompany changes in whole-body configuration. It gives the hyoid, bandhas, physiological chains, and candidate whole-system geometries room to be reconstructed fully before asking which interpretations can be formalized or tested.
 
 No single representation is required to carry the whole argument. Cube, tensegrity, torus, loop, field, network, rod, shell, orthotropic, metastable, and topological languages remain available according to the question and scale they can illuminate.
 
@@ -241,7 +241,7 @@ Compare respiratory phase with gait phase, repeated reaching, lifting, balance, 
 ### 5. Generalized-mode change across the breath cycle
 
 Unit BGB-U-0305 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:generalized-modes, model:breath-loop, process:breathing, mech:force-torque · gates DEF, FORM, EVID, LINK, ALT, MEAS, VIS
+Tags domain:biomechanics, model:generalized-modes, model:breath-loop, model:posterior-chain, process:breathing, mech:force-torque · gates DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** This chapter maps axial, opening/rotational, and expansive/lateral modes across inhalation, exhalation, pauses, exertion, speech, and movement. It uses phase-resolved `q`, `q-dot`, `Q`, and `s` to compare breath as necessary driver, organizer, modulator, or covarying companion and to distinguish opening from expansion even where anatomy couples them.
 
@@ -276,6 +276,8 @@ Treat traditional energetic language as a further source and experiential layer 
 #### 5.7 Four competing roles for breath
 
 For each mode and scale, ask whether a breath variable is necessary for the change, organizes its timing or sequence, modifies its magnitude or ease, or simply covaries with a shared task or instruction. One breath may drive thoracic pressure, organize trunk timing, modulate limb rotation, and accompany attention simultaneously.
+
+Retain the source archive's strongest nested version explicitly: breath may be a necessary driver, or at least a major organizer, of posterior configuration. This proposition must name the posterior structures, routing variable, task, phase, and timescale for which necessity is claimed. Persistence or recovery of the same posterior organization under a matched nonrespiratory condition would narrow or disfavor necessity while leaving organizer, modulator, and companion accounts available.
 
 #### 5.8 Phase-resolved predictions
 
@@ -1222,7 +1224,7 @@ The registry must keep the speculative program intact while preventing excluded 
 | `BGB-Q-0015` | Full spatial mechanics, local frames, generalized modes, conjugate loads, possible local material directions, and traditional correspondences as related but nonidentical model layers | A single “three-axis” ontology in which spatial vectors, generalized modes, moments, constitutive axes, and traditional divisions are interchangeable | Identify each source use, define its object and frame, and formalize every translation between layers |
 | `BGB-S-1415`, `BGB-S-1427`; `BGB-Q-0016` | External lines of action, inferred internal multicarrier routes, embodied continuity, and traditional route candidates as distinct senses of force line | One demonstrated anatomical cable or resultant shared by meridian, pressure, tissue tension, skeletal contact, attention, and report | State source, sense, scale, carrier, quantity, sidedness, and measurement strategy for each proposed relation |
 
-The tall-torus and paired-loop family remains an additional framing within this registry. It does not supersede or silently rewrite the earlier hyoid, cube, tensegrity, generalized-mode, or force-line models.
+The tall-torus and paired-loop family recorded under `BGB-S-9007` remains an additional framing within this registry. It does not supersede or silently rewrite the earlier hyoid, cube, tensegrity, generalized-mode, or force-line models.
 
 **Survival work:** Recover exact source formulations and prevent a property derived in one model from being silently transferred to another.
 

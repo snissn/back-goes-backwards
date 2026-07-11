@@ -17,7 +17,7 @@ This is a proposed synthesis, not a final contract. It preserves authorial inten
 
 The current authority order is:
 
-1. direct author formulations and corrections recorded in the project-model memo and the direct-author section of the source-coverage ledger;
+1. direct author formulations and corrections recorded in the project-model memo and the `Direct authorial alignment refinements` table of the source-coverage ledger;
 2. jointly aligned project intentions and distinctions in that memo;
 3. this synthesis, once a placement has been reviewed together;
 4. the provisional multi-book outline as an editorial source;

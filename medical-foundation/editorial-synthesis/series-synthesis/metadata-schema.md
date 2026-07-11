@@ -28,7 +28,7 @@ Each chapter or inventory receives a compact metadata line:
 
 ```text
 Unit BGB-U-0013 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:mechanics, model:hard-soft, mech:constraint · gates DEF, EVID, ALT, CLIN
+Tags domain:mechanics, model:hard-soft, mech:constraint · gates DEF, EVID, LINK, ALT
 ```
 
 The outline then states the unit's editorial job and preserved scope in ordinary prose. Sources and more granular claim records belong in the coverage ledger or later claim/evidence maps rather than crowding every heading.

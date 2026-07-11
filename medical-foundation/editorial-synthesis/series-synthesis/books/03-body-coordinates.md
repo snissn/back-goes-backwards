@@ -16,7 +16,7 @@ Axial, opening/rotational, and expansive organization can be treated as three si
 
 The proposed correspondences are a research program. Their inclusion preserves the full model for study; it does not imply that historical provenance, anatomical mechanism, physiological consequence, or clinical relevance has already been established. Direct authorial embodied observations remain valuable sources of hypotheses, but they are labeled separately from claims recovered from traditional texts or lineages.
 
-Book III cannot be used retroactively as proof that Book II's mechanical model is correct. It may ask how ordinary breathing and pressure interact with the modes, but breath as a necessary driver and whole-system breath geometry belong to Book IV. Testing, correction, and reader-facing practice belong to Book V.
+Book III cannot be used retroactively as proof that Book II's mechanical model is correct. It may ask how ordinary breathing and pressure interact with the modes, but the hypothesis that breath is a necessary driver and the proposed whole-system breath geometries belong to Book IV. Testing, correction, and reader-facing practice belong to Book V.
 
 ## Book introduction and narrative
 
@@ -196,7 +196,7 @@ Require explicit bridge statements, appropriate evidence, alternatives, and disf
 ### 4. Yin and Yang; hard and soft
 
 Unit BGB-U-0204 · state proposed · posture TRD/SYN/HYP · confidence E1 · medical M1 · readiness R1
-Tags domain:tradition, domain:biomechanics, model:yin-yang, model:hard-soft, mech:load-path · gates INTENT, PROV, DEF, HIST, EVID, ALT
+Tags domain:tradition, domain:biomechanics, model:yin-yang, model:hard-soft, model:force-line, mech:load-path · gates INTENT, PROV, DEF, HIST, EVID, ALT
 
 **Chapter summary.** Yin and Yang are developed as relational, signed, phase-dependent terms rather than fixed substances or moral categories. Book I's hard and soft roles provide a possible mechanical translation: relatively shape-preserving structures can establish and route demand while form-receiving structures yield, conform, contain, slide, and connect. The relation is generative but not an identity; tissues and systems can exchange roles with direction, task, scale, and time.
 
@@ -251,7 +251,7 @@ Chapters 6–8 use the same comparative sequence: establish the canonical divisi
 ### 5. From mechanical modes to traditional signs
 
 Unit BGB-U-0205 · state proposed · posture SYN/HYP · confidence E1 · medical M0 · readiness R1
-Tags domain:mechanics, domain:biomechanics, model:generalized-modes, mech:force-torque, use:hypothesis · gates INTENT, DEF, FORM, MEAS, VIS
+Tags domain:mechanics, domain:biomechanics, model:spatial-frames, model:generalized-modes, mech:force-torque, use:hypothesis · gates INTENT, DEF, FORM, MEAS, VIS
 
 **Chapter summary.** Book III inherits rather than re-derives the reduced generalized-coordinate model: axial `q_a`, opening/rotational `q_o`, and expansive `q_e`, with conjugate loads and separately assigned organizational signs. The chapter re-establishes only the distinctions needed to translate traditional maps. It then defines how a canonical channel grouping and a project-specific mechanical overlay can occupy one comparison without becoming one historical claim.
 
@@ -415,7 +415,7 @@ Anatomical width, joint range, breathing volume, muscular activation, balance, o
 ### 9. Bilateral, hand–foot, local–global, and phase-dependent signs
 
 Unit BGB-U-0209 · state proposed · posture SYN/HYP · confidence E1 · medical M0 · readiness R1
-Tags domain:biomechanics, model:generalized-modes, model:six-divisions, mech:scale-transition, mech:geometry · gates DEF, FORM, MEAS, VIS
+Tags domain:biomechanics, model:spatial-frames, model:generalized-modes, model:six-divisions, mech:scale-transition, mech:geometry · gates DEF, FORM, MEAS, VIS
 
 **Chapter summary.** Signed generalized modes must transform across left and right sides, upper and lower limbs, local joints, global organization, and movement phases. A coherent Yang relation can include mirrored global vectors, local Yin excursions, and alternating phases. This chapter prevents the correspondence from becoming an instruction that every segment display one direction at all times.
 
@@ -550,7 +550,7 @@ Attach sources for canonical assignments and a separate direct-authorial provena
 ### 12. The subtle or internal bandha map
 
 Unit BGB-U-0212 · state proposed · posture TRD/HYP · confidence E1 · medical M1 · readiness R1
-Tags domain:tradition, model:bandha, model:yoga, model:generalized-modes, model:meridian · gates INTENT, PROV, HIST, DEF, EVID, ALT, VIS
+Tags domain:tradition, model:bandha, model:yoga, model:generalized-modes, model:meridian, model:force-line · gates INTENT, PROV, HIST, DEF, EVID, ALT, VIS
 
 **Chapter summary.** The subtle or internal bandha map is preserved in its own form: Mula Bandha as axial with Kidney–Bladder, Uddiyana as opening/rotational with Liver–Spleen, and Jalandhara as expansive/lateral with Heart–Lung–Pericardium. The map may describe internal organization, attention, phase, or felt coordination rather than the same unit system as the local channel map.
 
@@ -591,7 +591,7 @@ Ask whether trained practitioners can distinguish the three organizations; wheth
 ### 13. Gross limb roles, opening/rotational coupling, and the structural bandha map
 
 Unit BGB-U-0213 · state proposed · posture TRD/HYP · confidence E1 · medical M1 · readiness R1
-Tags domain:tradition, model:bandha, model:yoga, model:generalized-modes, model:meridian · gates INTENT, PROV, HIST, DEF, EVID, ALT, VIS
+Tags domain:tradition, model:bandha, model:yoga, model:generalized-modes, model:meridian, model:force-line · gates INTENT, PROV, HIST, DEF, EVID, ALT, VIS
 
 **Chapter summary.** The gross projection assigns dominant whole-system roles rather than local channel identities: legs and feet emphasize axial support and ground resolution; opening/rotation emphasizes coordination between lower and upper systems; and arms and hands emphasize reach, span, and expansion. The structural bandha map parallels this scale through Mula and all foot channels, Jalandhara and all hand channels, and Uddiyana as an emergent rotational spiral.
 
@@ -636,7 +636,7 @@ Compare kinematics, ground and hand forces, plantar and palmar pressure, joint m
 ### 14. Cross-tradition central, posterior, and lateral routes
 
 Unit BGB-U-0214 · state proposed · posture TRD/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:tradition, model:tcm, model:yoga, model:meridian, mech:pressure-flow, anat:posterior-chain · gates PROV, HIST, DEF, EVID, LINK, ALT, MEAS, VIS
+Tags domain:tradition, model:tcm, model:yoga, model:meridian, model:force-line, mech:pressure-flow, anat:posterior-chain · gates PROV, HIST, DEF, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** Du and sushumna are compared as posterior or central route candidates, while Ren, ida, and pingala are retained as anterior or lateral candidates. Qi and prana may motivate pressure, perfusion, signaling, attention, or other hypotheses, but no single equivalence is asserted. The chapter introduces a controlled force-line typology so a traditional route, external line of action, inferred internal relation, and felt continuity remain distinct.
 
@@ -771,7 +771,7 @@ Use synchronized kinematics, joint moments, contact, pressure, muscle activity, 
 ### 17. Embodied anchors and named mechanical examples
 
 Unit BGB-U-0217 · state proposed · posture HYP/APP · confidence E1 · medical M1 · readiness R1
-Tags domain:biomechanics, domain:anatomy, domain:tradition, model:generalized-modes, model:posterior-chain, model:meridian, mech:force-torque, use:worked-example · gates INTENT, PROV, DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:biomechanics, domain:anatomy, domain:tradition, model:generalized-modes, model:posterior-chain, model:meridian, model:force-line, mech:force-torque, use:worked-example · gates INTENT, PROV, DEF, FORM, EVID, ALT, MEAS, VIS
 
 **Chapter summary.** Four preserved examples test the correspondence at increasing anatomical specificity: KI1–PC8 coordination between foot and palm; a strung-bow relation for posterior organization; sternocleidomastoid with quadriceps for opening/rotational organization; and serratus anterior with latissimus dorsi for expansive/lateral organization. Each begins as an authorial or archive observation and must earn any stronger anatomical or mechanical interpretation.
 
@@ -996,7 +996,7 @@ Join streams through explicit bridge propositions. Record which result supports 
 ### 22. Measurements, diagrams, alternatives, and failure conditions
 
 Unit BGB-U-0222 · state proposed · posture EDT/HYP · confidence E1 · medical M1 · readiness R1
-Tags domain:research, domain:biomechanics, model:generalized-modes, use:diagram, use:research-program · gates DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:research, domain:biomechanics, model:generalized-modes, model:force-line, use:diagram, use:research-program · gates DEF, FORM, EVID, ALT, MEAS, VIS
 
 **Chapter summary.** The correspondence system is translated into observables while preserving category boundaries: generalized configuration `q`, rate `q-dot`, conjugate load `Q`, organizational sign `s`, orientation, force, moment, strain, pressure, timing, phase, bilateral coordination, and reported experience. Diagrams, alternatives, provenance, and failure conditions become model components rather than decorative afterthoughts.
 
@@ -1094,18 +1094,18 @@ These inventories are conservation and development tools rather than additional 
 ### Exact mapping and provenance table
 
 Unit BGB-U-0291 · state proposed · posture EDT/TRD · confidence E0 · medical M0 · readiness R1
-Tags domain:tradition, model:generalized-modes, model:six-divisions, model:bandha, model:meridian · gates INTENT, PROV, HIST, DEF, VIS
+Tags domain:tradition, model:generalized-modes, model:six-divisions, model:bandha, model:meridian, model:force-line · gates INTENT, PROV, HIST, DEF, VIS
 
 The inventory must retain these formulations as distinct scales and parallel mapping hypotheses:
 
-| Layer | Axial | Opening/rotational | Expansive | Present provenance class |
-|---|---|---|---|---|
-| Signed generalized-mode proposal | Yang down/caudal; Yin up/cranial | Yang external/opening; Yin internal/closing | Yang outward/external; Yin inward/internal | Project mechanical hypothesis |
-| Local Six-Division map | Shaoyin: Heart/Kidney; Taiyang: Small Intestine/Bladder | Taiyin: Lung/Spleen; Yangming: Large Intestine/Stomach | Jueyin: Pericardium/Liver; Shaoyang: Sanjiao (Triple Warmer)/Gallbladder | Canonical channel groupings plus project mechanical overlay; provenance must remain separate |
-| Gross limb-role projection | Legs and feet weighted toward support and resolution into the ground | Upper–lower coordination, pelvic–shoulder relation, diagonals, and phase | Arms and hands weighted toward reach, span, and outward expansion | Direct authorial whole-system model; does not reassign individual channels |
-| Embodied KI1–PC8 anchor | KI1 (Yongquan) at the foot as lower-system anchor | Opening/closing coordination between lower and upper systems; sidedness and phase unresolved | PC8 (Laogong) at the palm as upper-system anchor | Direct authorial embodied observation; not presently an inherited classical force-path claim |
-| Subtle or internal bandha map | Mula; Kidney/Bladder | Uddiyana; Liver/Spleen | Jalandhara; Heart/Lung/Pericardium | Preserved project-source formulation requiring historical and experiential provenance |
-| Gross or structural bandha map | Mula/vertical; all foot channels: Bladder, Gallbladder, Stomach, Liver, Spleen, Kidney | Uddiyana; emergent spiral | Jalandhara/expansive; all hand channels: Small Intestine, Large Intestine, Sanjiao, Heart, Pericardium, Lung | Preserved project-source formulation requiring historical and experiential provenance |
+| Layer | Axial | Opening/rotational | Expansive | `provenance_type` | `provenance_note` |
+|---|---|---|---|---|---|
+| Signed generalized-mode proposal | Yang down/caudal; Yin up/cranial | Yang external/opening; Yin internal/closing | Yang outward/external; Yin inward/internal | `project-model` | Aligned project mechanical hypothesis |
+| Local Six-Division map | Shaoyin: Heart/Kidney; Taiyang: Small Intestine/Bladder | Taiyin: Lung/Spleen; Yangming: Large Intestine/Stomach | Jueyin: Pericardium/Liver; Shaoyang: Sanjiao (Triple Warmer)/Gallbladder | `traditional-source` + `project-model` | Canonical channel groupings and project mechanical overlay retain separate source records |
+| Gross limb-role projection | Legs and feet weighted toward support and resolution into the ground | Upper–lower coordination, pelvic–shoulder relation, diagonals, and phase | Arms and hands weighted toward reach, span, and outward expansion | `author-direct` | Whole-system model; does not reassign individual channels |
+| Embodied KI1–PC8 anchor | KI1 (Yongquan) at the foot as lower-system anchor | Opening/closing coordination between lower and upper systems; sidedness and phase unresolved | PC8 (Laogong) at the palm as upper-system anchor | `author-direct` | Embodied observation; not presently an inherited classical force-path claim |
+| Subtle or internal bandha map | Mula; Kidney/Bladder | Uddiyana; Liver/Spleen | Jalandhara; Heart/Lung/Pericardium | `generated-outline` | Preserved project-source formulation; authorial, historical, and experiential provenance still requires recovery |
+| Gross or structural bandha map | Mula/vertical; all foot channels: Bladder, Gallbladder, Stomach, Liver, Spleen, Kidney | Uddiyana; emergent spiral | Jalandhara/expansive; all hand channels: Small Intestine, Large Intestine, Sanjiao, Heart, Pericardium, Lung | `generated-outline` | Preserved project-source formulation; authorial, historical, and experiential provenance still requires recovery |
 
 The cross-tradition register must also preserve Du and sushumna as posterior/central candidates; Ren, ida, and pingala as anterior/lateral candidates; and qi/prana as candidate correspondences to pressure gradients, tissue perfusion, and neuromyofascial signaling. These are source formulations awaiting reconciliation, not a table of established equivalences.
 
@@ -1152,7 +1152,7 @@ The glossary should also distinguish Yang-style Taijiquan from the project's Yan
 ### Diagram atlas
 
 Unit BGB-U-0293 · state proposed · posture EDT/HYP · confidence E0 · medical M0 · readiness R1
-Tags domain:pedagogy, domain:biomechanics, model:generalized-modes, model:six-divisions, use:diagram · gates DEF, FORM, PROV, VIS, AUD
+Tags domain:pedagogy, domain:biomechanics, model:spatial-frames, model:generalized-modes, model:six-divisions, model:force-line, use:diagram · gates DEF, FORM, PROV, VIS, AUD
 
 Collect local-frame and generalized-mode conventions; `q`, `q-dot`, `Q`, and `s` distinctions; bilateral transforms; the local Six-Division/channel overlay; the gross limb-role projection; the KI1–PC8 embodied anchor; internal and structural bandha maps; named muscle examples; force-line legends; and cross-tradition route diagrams in a single controlled atlas.
 
