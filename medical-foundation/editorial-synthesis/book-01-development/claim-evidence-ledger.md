@@ -45,7 +45,7 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 | `BGB-C-0012` | Constraint can matter through lost excursion without a lumen | `BGB-U-0013` | SYN/HYP | E1 | M2 | Generalization candidate |
 | `BGB-C-0013` | Intrinsic, extrinsic, and mixed persistence must be separated | `BGB-U-0013` | FND/SYN | E2 | M2 | Differential model |
 | `BGB-C-0014` | Every downstream physiological link requires independent support | `BGB-U-0013` | SYN | E2 | M2 | Causal-discipline rule |
-| `BGB-C-0015` | Thoracic outlet syndrome is not one mechanical presentation | `BGB-U-0024` | FND | E2 | M3 | Case-selection boundary |
+| `BGB-C-0015` | Thoracic-outlet evidence requires structure-specific boundaries | `BGB-U-0024` | FND | E2 | M3 | Evidence boundary |
 | `BGB-C-0016` | Corridor mechanics vary with anatomy, state, and task | `BGB-U-0024` | FND/SYN | E2 | M3 | Anatomical-mechanical bridge |
 | `BGB-C-0017` | An extrinsic thoracic-outlet account begins with imposed load | `BGB-U-0024` | SYN/HYP | E1 | M3 | Candidate mechanism |
 | `BGB-C-0018` | A vascular account requires a tissue-specific staged chain | `BGB-U-0024` | HYP/APP | E1 | M3 | Vascular bridge |
@@ -173,7 +173,7 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 ### BGB-C-0009 — Hard and soft describe a relational division of labor
 
 - **Raw form:** “Load wants to travel through the hard body so that the soft body can remain soft.” In adverse organization, load can “go into” a soft structure and hold it as a boundary.
-- **Provenance:** `author-direct` and `project-model`; protected kernel in `BGB-Q-0009`; inherited handoff and “load leak” obligations `BGB-S-1214`, `BGB-S-1217`, and `BGB-S-1219`.
+- **Provenance:** `author-direct` and `project-model`; motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts without claiming definitional identity; protected kernel in `BGB-Q-0009`; inherited handoff and “load leak” obligations `BGB-S-1214`, `BGB-S-1217`, and `BGB-S-1219`.
 - **Normalized statement:** At a stated scale, direction, task, and timescale, relatively shape-preserving structures can establish or resolve gross demand while relatively form-receiving structures remain available to conform, glide, contain, expand, and recover. A candidate failure occurs when a form-receiving structure must maintain an imposed geometry or substitute structural role at consequential stress, strain, activation, or loss of excursion.
 - **Scope:** Functional roles, not fixed tissue identities; substantial loading and deformation of soft tissue can be normal and necessary.
 - **Bridge role:** Applies the book's central division of labor to the negative case without moralizing tissue, direction, or deformation.
@@ -256,11 +256,11 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 
 ## `BGB-U-0024` — Thoracic outlet: a soft structure held under constraint
 
-### BGB-C-0015 — Thoracic outlet syndrome is not one mechanical presentation
+### BGB-C-0015 — Thoracic-outlet evidence requires structure-specific boundaries
 
 - **Raw form:** “Present thoracic outlet syndrome as a diagnostically heterogeneous candidate context rather than a single confirmed mechanism.”
 - **Provenance:** `editorial-synthesis`; source obligations `BGB-S-1224` and `BGB-S-1314`; stronger legacy claims remain source leads rather than accepted wording.
-- **Normalized statement:** Chapter 24 provisionally selects objective arterial thoracic outlet syndrome as its leading presentation and must define the exact criterion set used. The arterial case, thrombotic-venous timeline, and neurogenic contrast remain separate, and each must distinguish the syndrome label, anatomical observations, retained pathology, and proposed mechanism.
+- **Normalized statement:** Chapter 24 uses objective arterial thoracic outlet syndrome as its evidence anchor and must define the exact criterion set used. Arterial, thrombotic-venous, and neurogenic quantities and sources remain separate where they appear, but differentiating subtypes is an evidence-control rule rather than the chapter's reader-facing thesis.
 - **Scope:** Named clinical context; final subtype taxonomy and diagnostic criteria require current clinical review.
 - **Bridge role:** Establishes the case boundary before any corridor mechanics are generalized.
 - **Posture / prior / exposure:** FND · E2 · M3.
@@ -268,7 +268,7 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 - **Required evidence:** The [focused thoracic-outlet phenotype comparison](evidence/thoracic-outlet-phenotype-comparison.md); current clinical guidelines or consensus documents; systematic diagnostic reviews; anatomy and epidemiology sources; medical-coauthor review.
 - **Alternatives and disfavoring observations:** Terminology and criteria may vary across specialties. A vignette that cannot be assigned a defensible presentation or relies only on posture and symptoms should not carry the worked causal chain.
 - **Gates:** PROV, DEF, EVID, ALT, CLIN.
-- **Publication role:** Clinical boundary and provisional case-selection record.
+- **Publication role:** Clinical evidence boundary supporting one regional worked narrative; not a taxonomy lesson.
 
 ### BGB-C-0016 — Corridor mechanics vary with anatomy, state, and task
 
@@ -302,12 +302,12 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 
 - **Raw form:** For vessels, distinguish “wall deformation, cross-sectional area, resistance, flow, regulation, and symptoms.”
 - **Provenance:** `editorial-synthesis` preserving vascular source obligations `BGB-S-1111`, `BGB-S-1223`, and `BGB-S-1224`.
-- **Normalized statement:** A vascular thoracic-outlet account must separately establish the presentation-specific sequence rather than requiring one universal wall-to-flow chain. For the provisional arterial case, the candidate sequence is focal anatomy and task → reconstructed repeated arterial deformation → objective wall lesion → thrombus, embolus, or occlusion where present → distal arterial or ischemic consequence → clinical presentation. A venous account requires its own wall, thrombotic, outflow, collateral, and temporal variables.
+- **Normalized statement:** A vascular thoracic-outlet account must separately establish the presentation-specific sequence rather than requiring one universal wall-to-flow chain. For the arterial evidence anchor, the candidate sequence is focal anatomy and task → reconstructed repeated arterial deformation → objective wall lesion → thrombus, embolus, or occlusion where present → distal arterial or ischemic consequence → clinical presentation. A venous comparison requires its own wall, thrombotic, outflow, collateral, and temporal variables.
 - **Scope:** The selected arterial or venous presentation; arterial and venous mechanics and outcomes are not interchangeable.
 - **Bridge role:** Tissue-specific branch of the generic causal chain.
 - **Posture / prior / exposure:** HYP/APP · E1 · M3.
 - **Evidence question:** Which links are demonstrated for the selected vascular presentation, under what tasks and measurements, and which remain inferred?
-- **Required evidence:** Vascular anatomy and pathophysiology; objective artery-wall and distal findings for the arterial lead; dynamic imaging, pressure, flow, or fluid-structure evidence where the claimed link requires them; diagnostic and outcome studies; clinical review.
+- **Required evidence:** Vascular anatomy and pathophysiology; objective artery-wall and distal findings for the arterial evidence anchor; dynamic imaging, pressure, flow, or fluid-structure evidence where the claimed link requires them; diagnostic and outcome studies; clinical review.
 - **Alternatives and disfavoring observations:** Intrinsic vascular disease, another embolic source, trauma, thrombosis, hypercoagulability, collateral circulation, autonomic regulation, systemic hemodynamics, incidental bony variation, and measurement artifact. The arterial chain remains incomplete where repeated deformation is rhetorically treated as observed rather than reconstructed.
 - **Gates:** DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS.
 - **Publication role:** Conditional vascular branch; no treatment recommendation.
@@ -399,11 +399,11 @@ The final arrow is not a victory condition for the mechanical hypothesis. The wo
 
 ## Pilot completion criteria
 
-Exploratory evidence mapping and source comparison may proceed before joint acceptance. The pilot moves to formally accepted evidence status or draft-ready `R3` only after joint acceptance of:
+The hard/soft relational meaning, tendon–SSCT selection, and objective-aTOS evidence anchor have authorial acceptance. The pilot moves to formally accepted evidence status or draft-ready `R3` only after technical and clinical acceptance of:
 
 1. the raw-to-normalized transformations;
 2. the distinction between generic mechanics and condition-specific claims;
-3. the selected thoracic-outlet presentation or presentations;
+3. the objective-aTOS composite, with retained comparisons kept structure-specific and subordinate;
 4. the evidence questions and disfavoring observations;
 5. the associated model, example, and figure registries; and
 6. the rule that no evidence source is entered without mapping it to an exact claim, scope, and link.

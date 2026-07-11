@@ -62,11 +62,13 @@ The registries and reviews may begin as compact tables and grow only when the ma
 |---|---|---|
 | Book I contract | Working contract complete | Joint authorial acceptance |
 | Six-Part, 30-chapter structure | Every unit has a unique job and provisional disposition | Joint `R2` acceptance and later worked-case selections |
-| Pilot claims, models, examples, and figures | Control registries populated for Chapters 2, 13, and 24 | Decision acceptance, specialist review, and later evidence-state advancement |
-| Pilot chapter briefs | Drafting-depth briefs complete and reconciled to the focused packs | Joint acceptance of hard/soft observability, tendon–SSCT selection, and objective-aTOS case design |
+| Pilot claims, models, examples, and figures | Control registries populated; core authorial directions recorded | Specialist review, formal observability work, and later evidence-state advancement |
+| Pilot chapter briefs | Drafting-depth briefs complete and reconciled to the focused packs | Technical review for Chapters 2 and 13; medical and provenance review for Chapter 24 |
 | Focused evidence work | Definitions/notation, non-lumen comparison, and thoracic-outlet phenotype comparison complete | Formal, anatomical, medical, provenance, figure-rights, and literature-refresh gates recorded in each pack |
 | Source salvage | Pilot archive map complete | Passage-level recovery after briefs are accepted |
 | Reader-facing prose | Not started | Begins only after the pilot milestone closes |
+
+The accepted hard/soft meaning is a relational polarity between comparatively shape-preserving and form-receiving roles. It is motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts without claiming definitional identity or an established one-to-one scientific mapping. Flexor tendon–SSCT relative glide is the selected non-lumen calibration. Chapter 24 uses objective arterial TOS as an evidence anchor, while venous and neurogenic material remain structure-specific comparisons rather than the chapter's reader-facing thesis.
 
 ## Stable identifiers
 
@@ -134,4 +136,4 @@ The first milestone is complete when:
 3. the three vertical-slice units have claim, model, example, figure, and evidence maps; and
 4. those units have accepted chapter briefs suitable for controlled salvage and drafting.
 
-Only then should Book I manuscript prose become the main development artifact.
+The recorded authorial directions permit the rest of Book I's briefs, source maps, and research plans to advance now. Only after the remaining pilot gates close should Book I manuscript prose become the main development artifact.

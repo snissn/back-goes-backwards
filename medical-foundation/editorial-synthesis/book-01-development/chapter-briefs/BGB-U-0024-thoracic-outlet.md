@@ -14,13 +14,13 @@ The chapter is not a general explanation of thoracic outlet syndrome and does no
 
 Within the vertical slice, this chapter is the stress test. It must use Chapter 2's boundary and evidence-state rules, apply Chapter 13's generic mechanism without merely repeating it, and allow a clinically credible null or alternative result. A negative or mixed result would refine the framework rather than make the chapter fail.
 
-## Case-selection gate
+## Case anchor and evidence boundary
 
-The provisional lead is **objective arterial thoracic outlet syndrome** (`BGB-X-0005`): a defined focal bony relation, objective adjacent subclavian-artery pathology, and a documented distal embolic or ischemic consequence. This direction is evidence-informed but not jointly accepted. It is chosen because the observed anatomy, lesion, and distal consequence can be kept visible while the weakest arrow—repeated imposed deformation → wall injury—remains explicitly reconstructed.
+The selected evidence anchor is **objective arterial thoracic outlet syndrome** (`BGB-X-0005`): a defined focal bony relation, objective adjacent subclavian-artery pathology, and a documented distal embolic or ischemic consequence. It is chosen because the observed anatomy, lesion, and distal consequence can be kept visible while the weakest arrow—repeated imposed deformation → wall injury—remains explicitly reconstructed.
 
-The provisional vignette is a source-grounded composite, not one invented or purportedly complete patient history. Each fact must retain its provenance as a case observation, cohort context, clinical interpretation, mechanical reconstruction, or project-framework application. Final selection still requires author and medical-coauthor approval.
+The vignette form is a source-grounded composite, not one invented or purportedly complete patient history. Each fact must retain its provenance as a case observation, cohort context, clinical interpretation, mechanical reconstruction, or project-framework application. Medical-coauthor review remains required before the composite becomes draft-ready.
 
-The chapter retains two deliberately smaller comparisons:
+The chapter is not organized to teach a taxonomy of thoracic-outlet subtypes. It retains two deliberately smaller, structure-specific comparisons only where they clarify the evidence architecture:
 
 1. thrombotic venous TOS (`BGB-X-0009`) as an event-to-retained-state timeline showing how a proposed extrinsic exposure may become an intrinsic or mixed obstruction; and
 2. neurogenic TOS (`BGB-X-0006`) as a within-region contrast showing that arterial evidence cannot establish neural exposure, physiology, symptoms, or diagnosis.
@@ -42,7 +42,7 @@ If the source-grounded composite cannot meet that standard after clinical review
 
 **The reader enters** with a generic model of surrounding demand maintaining deformation or lost excursion in a compliant structure.
 
-**The reader exits** able to apply that model critically to one thoracic-outlet phenotype: specifying corridor, task or position, structures, boundary conditions, maintaining demand, tissue exposure, functional measure, time course, and alternatives. The reader should also understand why positional narrowing, symptom reproduction, imaging, or response to movement cannot individually establish mechanism, diagnosis, or causal priority.
+**The reader exits** able to apply that model critically to one bounded thoracic-outlet case: specifying corridor, task or position, structures, boundary conditions, maintaining demand, tissue exposure, functional measure, time course, and alternatives. The reader should also understand why positional narrowing, symptom reproduction, imaging, or response to movement cannot individually establish mechanism, diagnosis, or causal priority.
 
 ## Central question
 
@@ -50,7 +50,7 @@ Can a defined thoracic-outlet presentation demonstrate that surrounding mechanic
 
 ## Working answer
 
-In the provisional arterial case, a focal cervical-rib, first-rib, or post-traumatic bony relation lies beside objective subclavian-artery pathology and a distal embolic or ischemic consequence. That co-location makes repeated imposed arterial deformation mechanically plausible but does not directly observe the cumulative exposure that produced the lesion. The chapter can therefore demonstrate a strong endpoint pattern and a transparent mechanical reconstruction, not an uninterrupted measured history. Positional narrowing, pulse change, or a provocative waveform alone remains insufficient.
+In the arterial anchor, a focal cervical-rib, first-rib, or post-traumatic bony relation lies beside objective subclavian-artery pathology and a distal embolic or ischemic consequence. That co-location makes repeated imposed arterial deformation mechanically plausible but does not directly observe the cumulative exposure that produced the lesion. The chapter can therefore demonstrate a strong endpoint pattern and a transparent mechanical reconstruction, not an uninterrupted measured history. Positional narrowing, pulse change, or a provocative waveform alone remains insufficient.
 
 ## Argument sequence
 
@@ -98,9 +98,9 @@ Ask why the structure remains deformed or functionally restricted in the relevan
 
 ### 24.5 Lumen, flow, excursion, conduction, and symptoms are separate links
 
-Display two parallel chains so the variables cannot be pooled, but develop only the selected primary chain to full clinical depth.
+Develop the selected arterial chain to full clinical depth. Keep the neural chain in a compact evidence-boundary comparison only where it prevents variables or evidence from being pooled; subtype differentiation is not the chapter's central lesson.
 
-**Provisional arterial chain:** focal anatomy and task → proposed repeated arterial deformation → objective wall lesion → thrombus, embolus, or occlusion where present → distal ischemic or arterial consequence → clinical presentation.
+**Selected arterial chain:** focal anatomy and task → proposed repeated arterial deformation → objective wall lesion → thrombus, embolus, or occlusion where present → distal ischemic or arterial consequence → clinical presentation.
 
 **Neural chain:** boundary conditions → contact pressure/strain/tethering → excursion or intraneural state → physiological or conduction change → finding or symptom.
 
@@ -120,7 +120,7 @@ The comparison should occupy no more than roughly one fifth of the chapter. Its 
 
 ### Conclusion and handoff
 
-Reconstruct the arterial case in one explicit chain, label repeated deformation → wall injury as the weakest and reconstructed arrow, and place `BGB-X-0007`—healthy provocative waveform change and bony variation without aTOS—beside it. Use the thrombotic-vTOS mini-timeline to show why present geometry does not recover initiating history. State what the load-routing lens contributes: attention to imposed demand, division of mechanical roles, retained material state, chronology, and tissue-specific intermediate variables. State what it does not supply: diagnosis, causal certainty, treatment selection, or evidence that every thoracic-outlet presentation shares the model.
+Reconstruct the arterial case in one explicit chain, label repeated deformation → wall injury as the weakest and reconstructed arrow, and place `BGB-X-0007`—healthy provocative waveform change and bony variation without aTOS—beside it. A compact thrombotic-vTOS timeline may show why present geometry does not recover initiating history, without becoming a second organizing narrative. State what the load-routing lens contributes: attention to imposed demand, division of mechanical roles, retained material state, chronology, and tissue-specific intermediate variables. State what it does not supply: diagnosis, causal certainty, treatment selection, or evidence that every thoracic-outlet presentation shares the model.
 
 Hand off to Chapter 25 by contrasting maintained constraint with instability and repeated correction under changing capacity.
 
@@ -138,7 +138,7 @@ No higher level may be inferred merely because a lower level is plausible.
 
 ## Model obligations
 
-The controlling model is `BGB-M-0008`, provisionally specialized to an arterial lead with venous and neural contrasts that must not be pooled. It must provide five coordinated views:
+The controlling model is `BGB-M-0008`, specialized to an arterial evidence anchor with compact venous and neural comparisons whose quantities and sources must not be pooled. It must provide five coordinated views:
 
 1. **Dynamic corridor:** selected anatomy, position, respiration, and task without a single static “space” variable.
 2. **Tissue-specific mechanics:** focal arterial relation, proposed repeated deformation, wall lesion, thrombus or embolus where present, and distal arterial consequence; separate venous and neural variables in their comparison views.
@@ -148,7 +148,7 @@ The controlling model is `BGB-M-0008`, provisionally specialized to an arterial 
 
 ## Figure program
 
-1. **`BGB-FIG-01-009` — Thoracic-outlet system boundary:** only the focal bony relation and arterial anatomy required by the provisional composite; observation and reconstruction must use different notation.
+1. **`BGB-FIG-01-009` — Thoracic-outlet system boundary:** only the focal bony relation and arterial anatomy required by the source-grounded composite; observation and reconstruction must use different notation.
 2. **`BGB-FIG-01-010` — Thoracic-outlet causal chain:** focal anatomy and task → reconstructed repeated deformation → objective wall lesion → thrombus, embolus, or occlusion → distal consequence → presentation, with alternatives and evidence state at every arrow.
 3. **`BGB-FIG-01-011` — Exposure, injury, and retained state through time:** distinguish current imposed demand, reconstructed cumulative exposure, objective arterial lesion, and the venous transition to retained intrinsic or mixed obstruction.
 4. **`BGB-FIG-01-012` — Transfer to a second compliant system:** shared causal order, system-specific variables, unresolved cells, and explicit failures of analogy.
@@ -160,7 +160,7 @@ The controlling model is `BGB-M-0008`, provisionally specialized to an arterial 
 ### Anatomy and kinematics
 
 - Regional boundaries, anatomical variants, and task- or position-dependent changes.
-- Differences among vascular and neural phenotypes.
+- Structure-specific differences among vascular and neural presentations where they affect the selected evidence.
 - Prevalence of positional findings in asymptomatic populations where available.
 - Reliability and validity of the method used to observe dynamic geometry; an image is not self-interpreting evidence of imposed load.
 
@@ -190,7 +190,7 @@ That is a required comparator (`BGB-X-0007`), not a nuisance. The chapter must i
 
 ### “Thoracic outlet syndrome is too heterogeneous for one narrative.”
 
-The chapter uses one defined phenotype and treats other forms as contrasts. It should not use the umbrella label—or the intermediate label *vascular*—to imply a shared causal chain.
+The chapter uses one defined evidence anchor and treats other forms as compact contrasts. It should not use the umbrella label—or the intermediate label *vascular*—to imply a shared causal chain.
 
 ### “The hose analogy oversimplifies living vessels.”
 
@@ -207,8 +207,8 @@ The proposed exposure depends on task, external load, anatomy, active control, t
 ## Drafting constraints
 
 - Target approximately 4,500–5,500 words before notes and figure captions.
-- Use the provisional objective-aTOS lead, one compact vTOS timeline, and one shorter non-lumen transfer comparison.
-- Do not begin reader-facing vignette prose or commission condition-specific figures until author and medical-coauthor approval of the objective-aTOS teaching job and composite form.
+- Use the objective-aTOS evidence anchor, one compact vTOS timeline where it clarifies retained state, and one shorter non-lumen transfer comparison.
+- Do not begin reader-facing vignette prose or commission condition-specific figures until the medical coauthor has approved the objective-aTOS teaching job, composite form, alternatives, and exclusions.
 - Do not mix vascular and neural evidence.
 - Do not mix venous and arterial pressure–flow relationships under a generic vascular label.
 - Do not present provocative maneuvers, self-palpation, posture correction, or exercises as reader instructions.
@@ -220,7 +220,7 @@ The proposed exposure depends on task, external load, anatomy, active control, t
 
 - **Claims:** `BGB-C-0015` through `BGB-C-0022`.
 - **Model:** `BGB-M-0008`, inheriting `BGB-M-0005` through `BGB-M-0007` without treating them as clinical evidence.
-- **Examples:** provisional arterial lead `BGB-X-0005`; neural variable contrast `BGB-X-0006`; specified negative comparison `BGB-X-0007`; Chapter 13 transfer case `BGB-X-0008`; thrombotic-vTOS timeline `BGB-X-0009`.
+- **Examples:** arterial evidence anchor `BGB-X-0005`; neural evidence-boundary contrast `BGB-X-0006`; specified negative comparison `BGB-X-0007`; Chapter 13 transfer case `BGB-X-0008`; thrombotic-vTOS timeline `BGB-X-0009`.
 - **Figures:** `BGB-FIG-01-009` through `BGB-FIG-01-012`, with reuse of `BGB-FIG-01-008` where helpful.
 
 The `new` Section 1 material preserves the important project questions about corridor deformation, neurovascular structures, posterior or surrounding support, tethering, glide, and cross-system consequences. It should be mined generously for hypotheses, candidate anatomy, and provenance. Its inherited claims that posture or alignment makes a mechanical origin self-evident, that one corridor mechanism represents all thoracic-outlet presentations, or that restoration follows from a generic correction remain salvage problems rather than premises of this case.
@@ -229,7 +229,7 @@ The `new` Section 1 material preserves the important project questions about cor
 
 The brief is ready for drafting when:
 
-- the objective-aTOS teaching job and source-grounded composite form are approved;
+- the source-grounded composite has passed medical, provenance, and alternatives review;
 - the case definition requires objective arterial pathology or ischemic consequence rather than generic vascular or umbrella thoracic-outlet language;
 - anatomy, exposure, physiological effect, and clinical interpretation have separate claims and sources;
 - asymptomatic and alternative explanations are part of the main comparison;

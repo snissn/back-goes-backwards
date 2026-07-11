@@ -21,7 +21,7 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
 | `BGB-M-0002` | Mechanical quantity and scale stack | `BGB-U-0002` | specified | DEF, FORM, EVID, VIS |
 | `BGB-M-0003` | Time-structured exposure descriptor | `BGB-U-0002` | captured | DEF, FORM, EVID, MEAS |
 | `BGB-M-0004` | Load path and force-line family | `BGB-U-0002` | captured | INTENT, DEF, FORM, EVID, MEAS, VIS |
-| `BGB-M-0005` | Hard/soft division of mechanical labor | `BGB-U-0013` | specified | INTENT, DEF, FORM, EVID, ALT, MEAS |
+| `BGB-M-0005` | Hard/soft division of mechanical labor | `BGB-U-0013` | specified | DEF, FORM, EVID, ALT, MEAS |
 | `BGB-M-0006` | Constraint-maintained deformation | `BGB-U-0013` | specified | DEF, FORM, EVID, LINK, ALT, MEAS |
 | `BGB-M-0007` | Deformable-tube and garden-hose analogy | `BGB-U-0013` | specified | DEF, FORM, EVID, ALT, VIS |
 | `BGB-M-0008` | Thoracic-outlet corridor model | `BGB-U-0024` | captured | PROV, DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS |
@@ -131,7 +131,7 @@ The [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-an
 ## BGB-M-0005 — Hard/soft division of mechanical labor
 
 - **Purpose:** Formalize the project's compact intuition as a relational model that can describe both successful support and adverse substitution.
-- **Provenance:** `author-direct` and `project-model`; source obligations `BGB-S-1201`, `BGB-S-1214`, `BGB-S-1217`, and `BGB-S-1219`; protected by `BGB-Q-0009`.
+- **Provenance:** `author-direct` and `project-model`; motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts without claiming definitional identity; source obligations `BGB-S-1201`, `BGB-S-1214`, `BGB-S-1217`, and `BGB-S-1219`; protected by `BGB-Q-0009`.
 - **Claim dependency:** `BGB-C-0009`.
 - **Core formulation:**
 
@@ -145,7 +145,7 @@ The [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-an
 - **Competing or complementary representations:** Tissue-specific stiffness and capacity; load-sharing ratios; impedance; joint stability; tensegrity or prestress; conventional anatomy and material models without Yin/Yang-derived role language.
 - **Validation work:** Determine whether the role distinction makes nontrivial predictions; compare with conventional quantities; identify counterexamples and switching behavior.
 - **Failure conditions:** Hard becomes a synonym for bone or posterior, soft for weak or anterior, or successful organization for zero soft-tissue strain. The model also fails as a scientific explanation if it adds no observable distinction beyond existing terms.
-- **Publication limit:** Book I presents an organizing hypothesis and mechanical intuition. Traditional correspondence and preferred all-Yang organization remain later-book work.
+- **Publication limit:** Book I presents an organizing hypothesis and mechanical intuition, with its traditional motivation signposted but not used as scientific validation. Exact traditional correspondence and preferred all-Yang organization remain later-book work.
 - **Figure links:** `BGB-FIG-01-006`, `BGB-FIG-01-008`.
 
 ## BGB-M-0006 — Constraint-maintained deformation
@@ -176,7 +176,7 @@ The [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-an
 - **Assumptions to declare:** Reference configuration; linear or nonlinear response; viscoelasticity and hysteresis; active regulation; contact; timescale; whether deformation is harmful, neutral, protective, or unknown.
 - **Competing or complementary representations:** Stenosis as geometry; entrapment model; contact mechanics; tethering and excursion model; active-control model; pathological remodeling; symptom-first clinical model.
 - **Validation work:** Manipulate or observe maintaining terms and restoration; measure deformation and excursion over time; compare intrinsic, extrinsic, and mixed models; test the downstream link separately.
-- **Pilot non-lumen instantiation:** `BGB-X-0004`, flexor tendon–SSCT relative glide during controlled healthy finger motion, tests task-dependent excursion and the null branch. It does not yet validate adverse maintained loss or recovery after release.
+- **Pilot non-lumen instantiation:** Authorially selected `BGB-X-0004`, flexor tendon–SSCT relative glide during controlled healthy finger motion, tests task-dependent excursion and the null branch. It does not yet validate adverse maintained loss or recovery after release.
 - **Failure conditions:** The model treats narrowing as its own cause, skips from geometry to symptoms, or ignores a persistent intrinsic state after the proposed external constraint changes.
 - **Publication limit:** A generic failure family, not a diagnosis and not proof that relieving a proposed constraint will improve health.
 - **Figure links:** `BGB-FIG-01-006`, `BGB-FIG-01-008`.
@@ -198,14 +198,14 @@ The [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-an
 
 ## BGB-M-0008 — Thoracic-outlet corridor model
 
-- **Purpose:** Apply the generic constraint model to a provisional objective-aTOS lead while keeping arterial, venous, neural, anatomical, functional, symptomatic, and diagnostic levels separate.
+- **Purpose:** Apply the generic constraint model to an objective-aTOS evidence anchor while keeping structure-specific arterial, venous, neural, anatomical, functional, symptomatic, and diagnostic quantities separate. The subtype distinctions control evidence transfer; they are not the reader-facing thesis.
 - **Provenance:** Source obligations `BGB-S-1111`, `BGB-S-1112`, `BGB-S-1119`, `BGB-S-1223`, `BGB-S-1224`, and `BGB-S-1314`; normalized by `editorial-synthesis` and direct authorial clarification about imposed load.
 - **Claim dependencies:** `BGB-C-0015` through `BGB-C-0022`.
 - **Model variants:**
 
   | Variant | Constrained object | Mechanical outputs | Downstream outputs kept separate |
   |---|---|---|---|
-  | Arterial lead | Subclavian artery adjacent to a defined focal bony relation | Reconstructed repeated deformation; objective wall lesion; thrombus, embolus, or occlusion where present | Distal arterial or ischemic consequence, presentation, diagnosis |
+  | Arterial evidence anchor | Subclavian artery adjacent to a defined focal bony relation | Reconstructed repeated deformation; objective wall lesion; thrombus, embolus, or occlusion where present | Distal arterial or ischemic consequence, presentation, diagnosis |
   | Thrombotic-venous timeline | Axillary-subclavian vein and retained thrombotic/outflow state | Proposed repeated exposure; wall and flow change; thrombus; residual obstruction, recanalization, or collaterals | Swelling, discoloration, function, symptoms, diagnosis kept separate |
   | Neural | Selected neural structure | Contact pressure, strain, bending, excursion | Intraneural physiology, conduction, function, symptoms, diagnosis |
   | Mixed | Explicitly named structures | Variant-specific outputs | Interactions rather than pooled outcome |
@@ -216,15 +216,15 @@ The [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-an
 - **Outputs:** Observed anatomy and pathology; reconstructed exposure; retained or changing tissue state; tissue-specific physiological measurement; function; symptoms; clinical classification—each reported separately.
 - **Assumptions to declare:** Selected presentation and criteria; side and task; corridor definition; temporal relationship; measurement limits; whether the case is illustrative, representative, or exceptional.
 - **Competing or interacting models:** Congenital or fixed anatomy; intrinsic neural or vascular disease; scar or mass effect; cervical or distal neural source; systemic vascular or neurological disease; sensitization and other symptom mechanisms; behavioral and environmental exposure.
-- **Validation work:** Current clinical taxonomy; source table for every composite fact and causal arrow; definition- and referral-enrichment audit; anatomy and dynamic measurement review; comparison observations; claim-by-claim evidence mapping; author and medical-coauthor review.
+- **Validation work:** Current clinical taxonomy; source table for every composite fact and causal arrow; definition- and referral-enrichment audit; anatomy and dynamic measurement review; comparison observations; claim-by-claim evidence mapping; medical-coauthor and relevant specialist review.
 - **Failure conditions:** Static posture is treated as diagnosis; neural and vascular findings are pooled; geometry substitutes for imposed load; symptom improvement is assumed to validate the proposed path; or the case is generalized to every compliant structure.
 - **Publication limit:** One transparent worked hypothesis. It provides no home test, corrective drill, or substitution for clinical evaluation.
 - **Figure links:** `BGB-FIG-01-009`, `BGB-FIG-01-010`, `BGB-FIG-01-011`.
 
-## Registry-wide decisions still required
+## Registry-wide gates still required
 
 1. Select a notation and mathematical depth suitable for Book I without weakening dimensional precision.
 2. Decide whether *load path* and *force line* share one reader-facing figure or require separate introductions.
-3. Define a minimum observable test for the hard/soft role distinction beyond ordinary stiffness and load sharing.
-4. Approve or reject the provisional objective-aTOS lead and source-grounded composite before commissioning anatomy or drafting condition-specific prose; focused selection evidence is complete.
-5. Approve or reject flexor tendon–SSCT relative glide as the second compliant-system comparison; median-nerve excursion remains the reserve.
+3. Formally review a minimum observable test for the accepted hard/soft role distinction beyond ordinary stiffness and load sharing.
+4. Complete medical and provenance review of the selected objective-aTOS evidence anchor and source-grounded composite before commissioning anatomy or drafting condition-specific prose.
+5. Complete anatomical and measurement review of the selected flexor tendon–SSCT comparison; median-nerve excursion remains the reserve.

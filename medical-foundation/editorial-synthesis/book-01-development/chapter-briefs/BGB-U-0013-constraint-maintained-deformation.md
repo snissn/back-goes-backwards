@@ -10,6 +10,8 @@
 
 Define the book's constraint-maintained-deformation family in a mechanically exact but system-independent way. The chapter should preserve the author's central negative hard/soft intuition: when surrounding structure continuously imposes demand on a form-receiving structure, the important event is the maintained stress, strain, changed course, or restricted excursion—not “loss of space” treated as an independent cause.
 
+Signpost the vocabulary when it first becomes load-bearing: the relational polarity is motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts. Book I develops shape-preserving and form-receiving as flexible mechanical roles; it does not present them as a definitionally exact translation or established scientific identity with the traditional framework.
+
 The chapter must also prevent that intuition from becoming universal. A compliant structure may be transiently deformed without harm; narrowing may be intrinsic, extrinsic, mixed, functional, regulated, or incidental; and any downstream biological or clinical consequence requires its own bridge.
 
 Within the vertical slice, Chapter 13 is the hinge between Chapter 2's neutral grammar and Chapter 24's named clinical test. It must therefore state a complete generic mechanism without borrowing thoracic-outlet anatomy, physiology, symptoms, or diagnostic authority to make the mechanism seem established.
@@ -83,7 +85,7 @@ Generalize the relation beyond tubes. Candidate functions include:
 
 The shared variable is not always cross-sectional area. It may be contact pressure, curvature, tensile strain, shear, friction, displacement, phase lag, or available excursion. Each system needs its own dependent variable and evidence.
 
-Use `BGB-X-0004`, the middle-finger flexor tendon–subsynovial connective tissue relation at the wrist during controlled finger flexion and extension. Keep absolute tendon excursion, SSCT excursion, and relative motion as separate variables. The healthy movement evidence makes this a neutral calibration and null branch: it shows task-dependent excursion without a lumen, but it does not yet demonstrate an adverse maintained constraint, a pathological threshold, or recovery after release. Median-nerve excursion at the wrist during controlled elbow motion remains the reserve if anatomical or measurement review exposes a fatal weakness in the selected interface.
+Use the authorially selected `BGB-X-0004`, the middle-finger flexor tendon–subsynovial connective tissue relation at the wrist during controlled finger flexion and extension. Keep absolute tendon excursion, SSCT excursion, and relative motion as separate variables. The healthy movement evidence makes this a neutral calibration and null branch: it shows task-dependent excursion without a lumen, but it does not yet demonstrate an adverse maintained constraint, a pathological threshold, or recovery after release. Median-nerve excursion at the wrist during controlled elbow motion remains the reserve if anatomical or measurement review exposes a fatal weakness in the selected interface.
 
 ### 13.5 Intrinsic, extrinsic, and mixed constraint
 
@@ -193,7 +195,7 @@ Those later models can be tested once the ordinary mechanics are explicit. Book 
 
 - **Claims:** `BGB-C-0008` through `BGB-C-0014`.
 - **Models:** `BGB-M-0005` through `BGB-M-0007`.
-- **Examples:** selected `BGB-X-0003`; provisionally selected `BGB-X-0004`.
+- **Examples:** selected `BGB-X-0003` and authorially selected `BGB-X-0004`.
 - **Figures:** `BGB-FIG-01-006` through `BGB-FIG-01-008`.
 
 The detailed Book I outline controls the chapter's generic scope. The `new` Section 1 material on soft-to-hard handoff, soft-tissue substitution, lost glide, corridor narrowing, and systemic consequences is a generous conceptual and provenance source. Its protected questions should be retained, but its fixed tissue classes, universal posterior claims, disease cascades, protocols, and conclusion-first clinical language cannot enter this chapter without reconstruction through the claims and models above.

@@ -2,33 +2,33 @@
 
 **Scope:** `BGB-U-0002`, `BGB-U-0013`, and `BGB-U-0024`
 
-**Status:** Open for joint review
+**Status:** Core authorial directions recorded; technical, anatomical, and clinical gates remain open
 
 ## Purpose
 
-The vertical slice is structurally complete enough to expose a small number of real choices. This docket keeps those choices outside the clean contract, registries, and chapter briefs. It records the present recommendation without converting that recommendation into an accepted decision.
+The vertical slice is structurally complete enough to expose a small number of real choices. This docket records the authorial directions now in force and keeps the remaining technical, anatomical, evidentiary, and clinical gates outside the clean contract, registries, and chapter briefs. An accepted editorial direction does not by itself validate a model, measurement, or medical claim.
 
 The relevant control documents are the [claim-evidence ledger](../claim-evidence-ledger.md), [model registry](../model-registry.md), [example registry](../example-registry.md), [figure registry](../figure-registry.md), three [pilot chapter briefs](../chapter-briefs/), [pilot evidence map](../evidence/pilot-evidence-map.md), [Chapter 2 definitions and notation pack](../evidence/chapter-02-definitions-and-notation.md), [Chapter 13 non-lumen comparison](../evidence/chapter-13-non-lumen-comparison.md), and [thoracic-outlet phenotype comparison](../evidence/thoracic-outlet-phenotype-comparison.md).
 
 ## Decision summary
 
-| Decision | Question | Present recommendation | Blocks |
+| Decision | Question | Recorded direction | Remaining gate |
 |---|---|---|---|
-| `BGB-DEC-0001` | What makes hard/soft analytically additive? | Use a comparative role-and-availability test rather than one scalar | Final Chapter 13 model and Figure 006 |
-| `BGB-DEC-0002` | Which non-lumen system tests Chapter 13? | Flexor tendon–SSCT relative glide; median-nerve excursion retained as reserve | Chapter 13 example and transfer figure |
-| `BGB-DEC-0003` | Which thoracic-outlet phenotype leads Chapter 24? | Objective aTOS using a source-grounded composite and an explicitly reconstructed repeated-injury arrow | Chapter 24 vignette, anatomy, source table, and figures |
-| `BGB-DEC-0004` | What role should thrombotic venous TOS retain? | Preserve it as a compact event-to-retained-state timeline and later full-case candidate | Final Chapter 24 scope and later example inventory |
-| `BGB-DEC-0005` | How should the shorter comparison work? | Reuse tendon–SSCT variables under a distinct transfer record; retain neurogenic TOS as a within-region variable contrast | Chapter 24 comparison section and Figure 012 |
+| `BGB-DEC-0001` | What makes hard/soft analytically additive? | Authorially accepted as a relational polarity motivated by TCM hard/soft and Yin/Yang concepts: shape-preserving and form-receiving roles | Formal observability and bounded counterexample review |
+| `BGB-DEC-0002` | Which non-lumen system tests Chapter 13? | Authorially accepted: flexor tendon–SSCT relative glide; median-nerve excursion retained as reserve | Anatomical, measurement, and figure review |
+| `BGB-DEC-0003` | How should thoracic outlet anchor Chapter 24? | Use objective aTOS as the best-evidenced anchor, not subtype taxonomy as the chapter's thesis | Medical review, source table, and figure rights |
+| `BGB-DEC-0004` | What role should thrombotic venous TOS retain? | Preserve it as a compact event-to-retained-state evidence comparison and later full-case candidate | Medical review of the timeline and boundary |
+| `BGB-DEC-0005` | How should the shorter comparison work? | Reuse tendon–SSCT variables under a distinct transfer record; retain neurogenic TOS only where it prevents evidence transfer across tissues | Evidence-specific comparison design and Figure 012 |
 | `BGB-DEC-0006` | How much tube-law mathematics belongs in reader-facing prose? | Keep causal relations and assumptions in the chapter; place detailed equations in a figure note or technical appendix | Chapter 13 density and figure design |
 | `BGB-DEC-0007` | How should line of action, load path, and force line be introduced? | Introduce them adjacently but as separate objects, using one controlled comparison figure | Chapter 2 terminology and Figure 005 |
 
 ## BGB-DEC-0001 — Minimum observable for hard and soft roles
 
-### Decision required
+### Recorded authorial direction
 
-Define what the hard/soft model adds beyond ordinary descriptions of stiffness, compliance, contact, activation, and load sharing.
+The intended meaning is relational: a hard role is comparatively shape-preserving or structurally resolving, while a soft role is comparatively form-receiving or shape-conforming. This distinction is motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts. Book I does not claim that its working mechanical terms are a definitionally exact translation, a complete historical account, or an established one-to-one scientific mapping of the traditional concepts.
 
-### Present recommendation
+### Technical development rule
 
 Treat the model as a comparative relation, not as a new tissue property or universal score. For a matched task and external demand:
 
@@ -50,17 +50,17 @@ This is a research definition, not yet an empirical conclusion. It preserves the
 - Keep hard/soft purely metaphorical. This preserves intuition but cannot carry the central Book I mechanism.
 - Replace the vocabulary entirely with conventional tissue categories. This would erase the project-native division of labor without first testing whether it is informative.
 
-### Closure requirement
+### Remaining gate
 
-Authorial approval of the relational meaning, followed by formal review of at least one bounded example and one counterexample.
+Formal review must determine whether at least one bounded example and one counterexample make the relational polarity observable beyond relabeling ordinary stiffness and load sharing. This technical gate can refine the operational test without reopening the accepted authorial meaning.
 
 ## BGB-DEC-0002 — Chapter 13 non-lumen comparison
 
-### Decision required
+### Recorded authorial direction
 
-Select one structure whose relevant freedom is excursion, course change, or sliding rather than lumen area and flow.
+Use one structure whose relevant freedom is excursion, course change, or sliding rather than lumen area and flow.
 
-### Present recommendation
+### Selected example
 
 Use the middle-finger flexor tendon–subsynovial connective tissue relation at the wrist during controlled healthy finger flexion and extension. Track absolute tendon excursion, SSCT excursion, and relative motion separately. This provides the clearer non-lumen transfer, mechanically proximal finger-motion endpoint, and hard/soft relational test while avoiding duplication with Chapter 24's neurogenic contrast.
 
@@ -70,17 +70,17 @@ The example is a neutral calibration and null branch. It establishes task-depend
 
 Median-nerve excursion at the wrist during controlled elbow movement remains the reserve. Its recent measurement-validation evidence is strong, but the immediate functional endpoint is less direct and the example duplicates Chapter 24's neural variable contrast.
 
-### Closure requirement
+### Remaining gate
 
-Authorial approval of the hard/soft teaching job; anatomical confirmation of the tendon, SSCT, and imaging level; selection of one acquisition protocol; and acceptance that adverse constraint and recovery remain unresolved. The [focused comparison](../evidence/chapter-13-non-lumen-comparison.md) has completed the candidate comparison but does not close these gates.
+Confirm the tendon, SSCT, imaging level, and selected acquisition protocol through anatomical and measurement review. Adverse constraint and recovery remain unresolved. The [focused comparison](../evidence/chapter-13-non-lumen-comparison.md) completes the candidate comparison but does not close those technical gates.
 
-## BGB-DEC-0003 — Leading thoracic-outlet phenotype
+## BGB-DEC-0003 — Thoracic-outlet evidence anchor
 
-### Decision required
+### Recorded authorial direction
 
-Choose one phenotype-specific case that can carry the complete Chapter 24 evidence ladder.
+Chapter 24 is a worked test of maintained constraint and causal reasoning in the thoracic-outlet region, not a lesson whose main point is differentiating TOS subtypes. Objective arterial TOS supplies the most inspectable evidence anchor for the complete ladder. Thrombotic venous and neurogenic material remain available only where their different quantities clarify chronology, nontransfer of evidence, or a limit of the generic model.
 
-### Present recommendation
+### Evidence implementation
 
 Lead with arterial TOS defined by an objective subclavian-artery abnormality or ischemic consequence attributed to extrinsic compression, not by a provocative pulse or waveform change alone. Use a source-grounded composite involving a defined focal bony relation, objective adjacent wall pathology, and a documented distal arterial consequence. The chain is:
 
@@ -92,9 +92,9 @@ This choice favors clarity and defensibility, but the focal anatomy → repeated
 
 Thrombotic venous TOS provides a richer account of repetition, history, intrinsic change, collateralization, and a new response to future demand. Its initiating exposure is more often reconstructed rather than observed directly. It should lead only if the chapter's primary purpose changes from demonstrating the cleanest full chain to demonstrating a mixed state evolving through time.
 
-### Closure requirement
+### Remaining gate
 
-Obtain author and medical-coauthor approval of the narrower teaching job and composite form; build a source table for every fact and arrow; confirm image rights; and retain the reconstructed status of repeated injury. The [focused phenotype comparison](../evidence/thoracic-outlet-phenotype-comparison.md) has completed the selection comparison but not these approval and production gates.
+Obtain medical-coauthor and relevant specialist review of the narrower teaching job and composite form; build a source table for every fact and arrow; confirm image rights; and retain the reconstructed status of repeated injury. The [focused phenotype comparison](../evidence/thoracic-outlet-phenotype-comparison.md) completes the selection comparison but not these clinical and production gates.
 
 ## BGB-DEC-0004 — Role of thrombotic venous TOS
 
@@ -110,9 +110,9 @@ Retain thrombotic venous TOS as a compact event-to-retained-state mini-timeline 
 
 In Chapter 24, use only enough of this comparison to show why present geometry cannot identify original cause and why an extrinsic relation can become intrinsic or mixed. Do not attempt a second full case unless the arterial case proves too narrow to carry the chapter's intended temporal argument.
 
-### Closure requirement
+### Remaining gate
 
-Author and medical-coauthor approval of the compact timeline and its boundary. If it cannot remain subordinate to the arterial case, move the full narrative rather than pooling the two vascular phenotypes. The named M3 condition should not migrate wholesale into Chapter 15's generic account of compensation and delayed consequence.
+Medical-coauthor approval of the compact timeline and its boundary. If it cannot remain subordinate to the primary case, move the full narrative rather than pooling arterial and venous evidence. The named M3 condition should not migrate wholesale into Chapter 15's generic account of compensation and delayed consequence.
 
 ## BGB-DEC-0005 — Shorter comparison and neurogenic material
 
@@ -126,9 +126,9 @@ Use Chapter 13's tendon–SSCT system and baseline variables as the basis for `B
 
 Retain neurogenic TOS as a short within-region contrast showing that contact pressure, strain, stiffness, excursion, intraneural circulation, conduction, symptoms, and diagnosis cannot borrow evidence from the arterial chain. Do not ask the neurogenic material to carry a full clinical mechanism in this volume unless the focused evidence materially changes.
 
-### Closure requirement
+### Remaining gate
 
-Resolve `BGB-DEC-0002` and `BGB-DEC-0003`, then confirm that the reused comparison exposes at least one genuine failure of analogy.
+Confirm that the reused comparison exposes at least one genuine failure of analogy and that the neural material remains evidence bookkeeping rather than a second clinical thesis.
 
 ## BGB-DEC-0006 — Mathematical depth of the tube model
 
@@ -168,6 +168,6 @@ Authorial intent review of the embodied panel and technical review of the extern
 
 ## Decisions not blocking the pilot
 
-The [structural review](../structure-review.md) separately preserves later Book I choices concerning the term *mechanical homeostasis*, leading examples in Chapters 23, 25, and 26, Chapter 28's institutional stance, and the amount of later-series detail in Chapter 30. Those questions should not delay the three-unit vertical slice.
+The [structural review](../structure-review.md) separately preserves later Book I choices concerning the term *mechanical homeostasis*, leading examples in Chapters 23, 25, and 26, Chapter 28's institutional stance, and the amount of later-series detail in Chapter 30. Those questions should not delay further Book I development.
 
-No open item in this docket prevents source recovery, focused research, or exploratory notation and figure sketches that do not commit the unresolved anatomy or claim. It does prevent medical prose from being treated as draft-ready, condition-specific figures from being commissioned as settled assets, and the pilot units from advancing to accepted `R2` or evidence-mapped `R3` by editorial declaration alone.
+The authorial decisions recorded here no longer block chapter-brief expansion, source recovery, focused research, or exploratory notation and figure sketches. Remaining technical and clinical gates still prevent unreviewed medical prose from being treated as publication-ready, condition-specific figures from being commissioned as settled assets, or the pilot units from advancing to evidence-mapped `R3` by editorial declaration alone.

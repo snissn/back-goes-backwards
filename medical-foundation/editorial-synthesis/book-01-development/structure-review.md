@@ -67,7 +67,7 @@ Three devices should maintain continuity throughout:
 - **Unique job:** Introduce the project's distinctive division of mechanical labor: relatively shape-preserving and structurally resolving roles alongside relatively form-receiving and shape-conforming roles.
 - **Reader movement:** **Entry:** hard and soft sound like fixed tissue categories. **Exit:** they are understood as complementary, scale-, direction-, state-, and task-dependent roles that a tissue or assembly can exchange.
 - **Dependencies and handoff:** Requires Chapter 2's distinctions among load, deformation, stiffness, and capacity; Chapter 4 organizes the roles into routes, and Chapters 5–6 make them anatomical.
-- **Refinement or open point:** The brief must preserve the TCM origin without making later Yin/Yang correspondence load-bearing. It should also distinguish the functional principle from the more specific candidate soft-to-hard tissue handoff.
+- **Refinement or open point:** Signpost that the relational polarity is motivated by TCM hard/soft and Yin/Yang concepts without claiming definitional identity or making later correspondence load-bearing. The brief should also distinguish the functional principle from the more specific candidate soft-to-hard tissue handoff.
 
 ### 4. Three-dimensional configuration and load paths
 
@@ -299,7 +299,7 @@ Part IV is accepted when it answers the skeptical reader in sequence: medicine a
 - **Unique job:** Test the negative hard/soft model in one complete corridor narrative, beginning with maintaining demand and separating deformation, excursion or lumen, function, symptoms, and diagnosis.
 - **Reader movement:** **Entry:** the reader understands the generic model and cross-system comparison. **Exit:** the reader can see exactly where a thoracic-outlet account is mechanically strong, medically conditional, or unresolved.
 - **Dependencies and handoff:** Tests Chapters 13, 19–21; contrasts with Chapter 25's non-obstructive repeated-demand problem.
-- **Refinement or open point:** Focused evidence provisionally selects objective aTOS using a source-grounded composite, with repeated deformation → wall injury explicitly reconstructed. Thrombotic vTOS supplies a compact retained-state timeline; tendon–SSCT relative glide supplies the non-lumen transfer; neurogenic TOS remains a variable contrast. Author and medical-coauthor approval, source-table completion, and figure rights remain open.
+- **Refinement or open point:** Objective aTOS is selected as a bounded evidence anchor using a source-grounded composite, with repeated deformation → wall injury explicitly reconstructed. Thrombotic vTOS supplies a compact retained-state timeline; tendon–SSCT relative glide supplies the non-lumen transfer; neurogenic TOS remains an evidence-boundary contrast. These distinctions prevent evidence pooling rather than making subtype taxonomy the chapter's thesis. Medical-coauthor approval, source-table completion, and figure rights remain open.
 
 ### 25. Instability, repeated demand, and changing capacity
 
@@ -396,11 +396,10 @@ The structure can advance without settling the later formal model, but the follo
 
 1. Whether “mechanical homeostasis” is the preferred reader-facing name for the dynamic viability model in Chapter 10.
 2. Whether Chapter 23 leads with the lumbar motion segment or with a limb joint, and which region serves as the transfer comparison.
-3. Whether to approve or revise objective aTOS as Chapter 24's lead and tendon–SSCT relative glide as its second compliant system.
-4. Whether recurrent lateral ankle instability remains Chapter 25's leading example.
-5. Whether Chapter 26 retains the office-worker/nonspecific-low-back-pain vignette or uses another longitudinal mixed case.
-6. Whether Chapter 28 merely opens the institutional and environmental-design program or makes a stronger bounded recommendation.
-7. How much of the later-book program Chapter 30 names before the ending loses focus.
+3. Whether recurrent lateral ankle instability remains Chapter 25's leading example.
+4. Whether Chapter 26 retains the office-worker/nonspecific-low-back-pain vignette or uses another longitudinal mixed case.
+5. Whether Chapter 28 merely opens the institutional and environmental-design program or makes a stronger bounded recommendation.
+6. How much of the later-book program Chapter 30 names before the ending loses focus.
 
 These choices should be made during chapter-brief and evidence work, not by reopening the six-Part architecture.
 
@@ -432,4 +431,4 @@ Treat the structure as provisionally retained. The three vertical-slice briefs a
 - `BGB-U-0013` to test the project's distinctive mechanical synthesis;
 - `BGB-U-0024` to test medical exposure, alternatives, and case structure.
 
-The next structural action is joint review of the pilot decisions, especially hard/soft observability, tendon–SSCT selection, and objective-aTOS case design. If those boundaries survive, the remaining chapters can be briefed Part by Part without another global re-outline. If they do not, revisions should target the demonstrated seam rather than reopening the entire architecture by default.
+The hard/soft relational meaning, tendon–SSCT selection, and objective-aTOS evidence anchor now have authorial direction. The remaining chapters can be briefed Part by Part without another global re-outline while the pilot's formal, anatomical, measurement, provenance, and medical gates proceed in parallel. Revisions should target a demonstrated seam rather than reopening the entire architecture by default.

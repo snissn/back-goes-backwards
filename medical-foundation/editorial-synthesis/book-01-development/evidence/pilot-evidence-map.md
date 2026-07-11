@@ -22,13 +22,13 @@ Inclusion records relevance, not blanket endorsement. A source supports only the
 ## Executive synthesis
 
 1. **The mechanical grammar is stable; its biological application is conditional.** System boundary, force, moment, pressure, stress, strain, deformation, stiffness, and equilibrium are standard concepts. Living tissues nevertheless require explicit material, geometric, temporal, and active-control assumptions.
-2. **Hard and soft remain a viable organizing polarity, not an established tissue taxonomy.** The evidence supports heterogeneous, nonlinear, anisotropic, active, and state-dependent mechanical roles. The stronger proposal—that gross demand is generally best resolved through capable shape-preserving routes so form-receiving structures remain available for their functions—must be operationalized and tested at a stated scale, task, and direction.
+2. **Hard and soft remain a viable organizing polarity, not an established tissue taxonomy.** The authorially accepted relational meaning is motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts without claiming definitional identity. The evidence supports heterogeneous, nonlinear, anisotropic, active, and state-dependent mechanical roles. The stronger proposal—that gross demand is generally best resolved through capable shape-preserving routes so form-receiving structures remain available for their functions—must be operationalized and tested at a stated scale, task, and direction.
 3. **The generic maintained-constraint model is mechanically defensible.** External contact, internal pressure, wall properties, longitudinal conditions, tethering, and geometry can jointly maintain the state of a deformable structure. Which factor dominates cannot be inferred from shape alone.
 4. **The downstream response is not monotonic or portable across systems.** A smaller lumen, altered course, or reduced excursion does not by itself establish impaired flow, conduction, symptoms, or disease. Regulation, collateral routes, internal state, dose, and time can change or reverse the response.
 5. **Tube and nerve evidence must remain separate.** Both can illustrate a general boundary-condition schema, but vessel-wall deformation and fluid flow are not evidence for neural strain, excursion, intraneural circulation, or conduction, and vice versa.
-6. **Thoracic-outlet phenotypes are distinct causal problems.** Neurogenic, nonthrombotic venous, thrombotic venous, and arterial presentations require different definitions, measurements, alternatives, and evidence chains even when they share a region.
+6. **Thoracic-outlet evidence remains structure-specific.** Neural, venous, and arterial quantities require different definitions, measurements, alternatives, and evidence chains even when they share a region. This is a control against evidence pooling, not the reader-facing thesis of Chapter 24.
 7. **Positional compression is exposure evidence, not diagnosis.** Venous compression is frequent in asymptomatic volunteers in one controlled MR study, and arterial Doppler changes occurred in nearly three tenths of a small healthy sample. A dynamic image or waveform therefore cannot complete the clinical chain alone.
-8. **Objective aTOS is the provisional lead; thrombotic vTOS retains a different job.** A focal bony relation, objective arterial pathology, and distal consequence provide the clearest endpoint chain, while repeated deformation → wall injury remains reconstructed and the definition/referral process enriches the correspondence. Thrombotic vTOS remains the stronger time-dependent transition from proposed exposure to retained intrinsic or mixed pathology.
+8. **Objective aTOS is the selected evidence anchor; thrombotic vTOS retains a smaller temporal job.** A focal bony relation, objective arterial pathology, and distal consequence provide the clearest endpoint chain, while repeated deformation → wall injury remains reconstructed and the definition/referral process enriches the correspondence. Thrombotic vTOS remains useful as a compact transition from proposed exposure to retained intrinsic or mixed pathology, not as a second organizing narrative.
 
 ## BGB-U-0002 — Working language of load
 
@@ -63,6 +63,8 @@ The compact formulation—
 - a **hard role** is relatively shape-preserving, constraining, force-transmitting, or structurally resolving for the defined demand;
 - a **soft role** is relatively form-receiving and shape-conforming, remaining available to yield, glide, contain, expand, buffer, regulate, or change local shape; and
 - the same tissue or assembly can exchange or combine roles across directions, scales, states, and tasks.
+
+This polarity is motivated by TCM hard/soft and Yin/Yang concepts. The signpost preserves the model's provenance; it does not claim that the Book I mechanical vocabulary is a definitionally exact translation or that traditional correspondence validates the mechanical hypothesis.
 
 The source literature supports the ingredients—diverse material behavior, changing active state, multiaxial loading, and coupled solid-fluid function—but no cited paper establishes hard/soft as a universal biological law. That is acceptable at this stage. A reader-facing application passes the evidence gate only when it specifies:
 
@@ -158,7 +160,7 @@ The statement is stronger than “space might matter” because it names the mai
 
 ### Selected non-lumen calibration
 
-The [focused comparison](chapter-13-non-lumen-comparison.md) provisionally selects flexor tendon–SSCT relative glide during controlled healthy finger motion. Separate tendon excursion, SSCT excursion, and relative motion make the interface inspectable without using lumen or flow. Median-nerve excursion during controlled elbow motion remains the reserve.
+The authorially selected non-lumen calibration is flexor tendon–SSCT relative glide during controlled healthy finger motion, following the [focused comparison](chapter-13-non-lumen-comparison.md). Separate tendon excursion, SSCT excursion, and relative motion make the interface inspectable without using lumen or flow. Median-nerve excursion during controlled elbow motion remains the reserve.
 
 This selection calibrates the variables and preserves a null branch. The reviewed evidence establishes ordinary task-dependent motion and protocol-specific measurement, not an adverse maintained loss, pathological threshold, recovery after release, symptom mechanism, or intervention. Kinematic reversal must not be called recovery, and relative displacement must not be called shear stress or friction.
 
@@ -175,9 +177,9 @@ This selection calibrates the variables and preserves a null branch. The reviewe
 
 ## BGB-U-0024 — Thoracic outlet worked narrative
 
-### Phenotype boundary
+### Evidence boundary within the regional example
 
-Thoracic outlet syndrome is a regional umbrella, not one mechanism. The [Society for Vascular Surgery reporting standards](https://www.sciencedirect.com/science/article/pii/S0741521416301914) treat neurogenic, venous, and arterial forms as separate entities that may coexist or overlap. The Book I narrative must go one level more specific:
+Thoracic outlet syndrome is a regional umbrella, not one mechanism. The [Society for Vascular Surgery reporting standards](https://www.sciencedirect.com/science/article/pii/S0741521416301914) treat neurogenic, venous, and arterial forms as separate entities that may coexist or overlap. Chapter 24 is not principally about this taxonomy, but its evidence bookkeeping must go one level more specific so quantities and sources are not pooled:
 
 | Candidate phenotype | Required defining feature | What remains uncertain |
 |---|---|---|
@@ -224,7 +226,7 @@ Evidence at one level does not license the next. In particular:
 - symptom reproduction does not identify the affected structure; and
 - response to movement or treatment does not retroactively prove the proposed cause.
 
-### Candidate leading cases
+### Evidence anchors assessed
 
 #### Objective arterial injury
 
@@ -250,7 +252,7 @@ McCleery syndrome offers the most direct reversible sequence from position to ou
 
 Neurogenic TOS is best retained as a contrast rather than the first hose-inspired demonstration. It can show why contact pressure, stiffness, strain, excursion, intraneural circulation, conduction, symptoms, and diagnostic criteria cannot be substituted for one another. Its uncertainty is informative, but a generic neurogenic narrative would blur rather than clarify the pilot method.
 
-### Provisional editorial recommendation
+### Selected evidence arrangement
 
 The [focused phenotype comparison](thoracic-outlet-phenotype-comparison.md) supports this working arrangement:
 
@@ -261,7 +263,7 @@ The [focused phenotype comparison](thoracic-outlet-phenotype-comparison.md) supp
 - **Reserve:** nonthrombotic venous obstruction.
 - **Within-region contrast:** neurogenic TOS, used to show that neural variables require a different chain.
 
-The direction remains provisional pending author and medical-coauthor approval. Its purpose is not to make aTOS representative of thoracic-outlet presentations; it gives Chapter 24 one bounded case whose strong and weak arrows can both remain visible.
+The author has accepted this arrangement as a development direction. Medical-coauthor and specialist review remain open. Its purpose is not to make aTOS representative of thoracic-outlet presentations or to make subtype distinction the chapter's point; it gives Chapter 24 one bounded evidence anchor whose strong and weak arrows can both remain visible.
 
 ### Phenotype-specific alternatives
 
@@ -294,7 +296,7 @@ The direction remains provisional pending author and medical-coauthor approval. 
 - Focused comparison complete at [thoracic-outlet-phenotype-comparison.md](thoracic-outlet-phenotype-comparison.md).
 - Build the final claim-by-claim source table for the source-grounded composite.
 - Preserve source-observed fact, cohort context, clinical interpretation, mechanical reconstruction, and project-framework application as distinct provenance states.
-- Obtain author, medical-coauthor, relevant vascular, figure-rights, and pre-drafting literature-refresh approval.
+- Obtain medical-coauthor, relevant vascular, figure-rights, and pre-drafting literature-refresh approval.
 
 ### Chapter 24 thrombotic-vTOS comparison
 
@@ -314,7 +316,7 @@ The direction remains provisional pending author and medical-coauthor approval. 
 | Gate | Pass condition |
 |---|---|
 | FORM | The Chapter 2 notation sheet and Chapter 13 tube and non-lumen interface models have technical review; every equation states assumptions, variables, units, and boundary conditions |
-| DEF / CLIN | Chapter 24 names one leading phenotype, the distinct job of every retained comparison, and the exact criterion set used for each clinically classified presentation |
+| DEF / CLIN | Chapter 24 names one evidence anchor, the subordinate job of every retained comparison, and the exact criterion set used for each clinically classified presentation |
 | EVID | Focused source packs record search date, databases, inclusion logic, study design, population, endpoint, limitations, and conflicts or funding where material |
 | LINK | Every arrow in the selected causal chain has direct support, a labeled formal inference, or an explicit unresolved status; evidence is not borrowed from another phenotype |
 | ALT | At least one live competing explanation is attached to every medically exposed transition, with a proposed discriminating observation |
@@ -324,14 +326,14 @@ The direction remains provisional pending author and medical-coauthor approval. 
 | VIS | Figures visually distinguish observed anatomy, measured quantity, model output, authorial synthesis, and unresolved causal inference |
 | AUD / EVID | The claim ledger records the strongest permissible reader-facing wording for each medically exposed proposition |
 
-If a gate fails, the default response is to narrow the claim, change the leading phenotype, expose the missing arrow, or retain the mechanism as a research program. Failure of one clinical instantiation does not by itself invalidate or delete the generic hard/soft or maintained-constraint model.
+If a gate fails, the default response is to narrow the claim, change the evidence anchor, expose the missing arrow, or retain the mechanism as a research program. Failure of one clinical instantiation does not by itself invalidate or delete the generic hard/soft or maintained-constraint model.
 
-## Joint approval choices
+## Recorded authorial direction and remaining gates
 
-1. Approve or revise objective aTOS as Chapter 24's lead and the source-grounded composite as its vignette form.
-2. Approve or revise thrombotic vTOS as a compact event-to-retained-state comparison rather than a second full case.
-3. Approve or revise tendon–SSCT relative glide as Chapter 13's non-lumen calibration and Chapter 24's transfer system.
+1. Hard/soft is accepted as a shape-preserving/form-receiving relational polarity motivated by TCM hard/soft and Yin/Yang concepts; its minimum observable still requires formal review.
+2. Tendon–SSCT relative glide is selected for Chapter 13 and the Chapter 24 transfer; anatomy, protocol, measurement, and figure review remain open.
+3. Objective aTOS is selected as Chapter 24's evidence anchor. Thrombotic-vTOS and neurogenic material remain compact, structure-specific comparisons rather than a subtype thesis; medical and provenance review remain open.
 4. Decide how much tube-law and pressure-flow formalism belongs in Chapter 13 versus a figure or technical note, given that no simple equation can stand in for a living vessel.
 5. Decide which direct authorial formulation of hard/soft opens the evidence ladder and how much technical translation immediately follows it.
 
-Until those choices and the remaining review gates are approved, the pilot remains a well-specified editorial and research program rather than draft-ready medical prose.
+The authorial selection gates are closed. Until the remaining formal, anatomical, measurement, provenance, and clinical gates are approved, the pilot remains a well-specified editorial and research program rather than draft-ready medical prose.
