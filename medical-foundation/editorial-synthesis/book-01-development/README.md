@@ -49,8 +49,8 @@ This is an authority order for project intent, not an evidence hierarchy. Resear
 | `model-registry.md` | Mechanical models, analogies, assumptions, variables, scopes, and failure conditions |
 | `example-registry.md` | Candidate examples and worked narratives, including alternatives and medical exposure |
 | `figure-registry.md` | Free-body diagrams, anatomy figures, explanatory models, and their technical review state |
-| `chapter-briefs/` | Pilot chapter briefs used to govern salvage and drafting once accepted |
-| `planning/` | Chapter-brief template and coverage plan plus shared continuity controls such as the recurring object-transfer specification |
+| `chapter-briefs/` | Drafting-depth briefs for all 30 chapters, governing controlled salvage, research, and eventual prose |
+| `planning/` | Briefing standards, book-wide continuity controls, later-book seams, coverage audits, and the research/salvage execution sequence |
 | `evidence/` | Pilot evidence map, controlled definitions, focused comparisons, source registers, and remaining review gates |
 | `source-salvage-map.md` | Exact recovery paths and dispositions for usable concepts, provenance, incompatible wording, and pipeline contamination |
 | `decisions/` | Durable decision records kept outside clean contracts, outlines, and briefs |
@@ -63,11 +63,11 @@ The registries and reviews may begin as compact tables and grow only when the ma
 |---|---|---|
 | Book I contract | Working contract complete | Joint authorial acceptance |
 | Six-Part, 30-chapter structure | Every unit has a unique job and provisional disposition | Joint `R2` acceptance and later worked-case selections |
-| Pilot claims, models, examples, and figures | Control registries populated; core authorial directions recorded | Specialist review, formal observability work, and later evidence-state advancement |
-| Pilot chapter briefs | Drafting-depth briefs complete and reconciled to the focused packs | Technical review for Chapters 2 and 13; medical and provenance review for Chapter 24 |
+| Claims, models, examples, and figures | Core repeated controls and accepted authorial directions are recorded; every brief identifies additional promotion obligations | Promote only the load-bearing records needed for research, salvage, and drafting; complete specialist and observability review |
+| Book-wide chapter briefs | Drafting-depth briefs complete for all 30 chapters and connected by shared continuity controls | Evidence work, source salvage, case selection, and review gates remain chapter-specific |
 | Focused evidence work | Definitions/notation, non-lumen comparison, and thoracic-outlet phenotype comparison complete | Formal, anatomical, medical, provenance, figure-rights, and literature-refresh gates recorded in each pack |
-| Source salvage | Pilot archive map complete | Passage-level recovery after briefs are accepted |
-| Reader-facing prose | Not started | Begins only after the pilot milestone closes |
+| Source salvage | Archive-level map and chapter-specific salvage instructions complete | Passage-level recovery, source verification, and disposition records |
+| Reader-facing prose | Not started | Begins in controlled chapter waves after the relevant research, salvage, and review gates close |
 
 The accepted hard/soft meaning is a relational polarity between comparatively shape-preserving and form-receiving roles. It is motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts without claiming definitional identity or an established one-to-one scientific mapping. Flexor tendon–SSCT relative glide is the selected non-lumen calibration. Chapter 24 uses objective arterial TOS as an evidence anchor, while venous and neurogenic material remain structure-specific comparisons rather than the chapter's reader-facing thesis.
 
@@ -128,13 +128,17 @@ Draft the three vertical-slice chapters first, establish the manuscript voice an
 - Keep accepted clean documents free of revision narration. Use `decisions/`, version control, and provenance records for history.
 - Commit and push coherent development passes so the workspace remains recoverable and reviewable.
 
-## Immediate milestone
+## Current milestone
 
-The first milestone is complete when:
+The Book I briefing milestone is complete at editorial-development depth: every chapter has a unique structural job and drafting-depth brief; the recurring task, causal grammar, adverse-organization families, whole-person boundary, worked-narrative discipline, and later-book seams have shared controls; and each chapter names its claims, models, examples, figures, evidence needs, objections, source-salvage instructions, and acceptance criteria.
 
-1. this contract is jointly accepted;
-2. every Book I chapter has a recorded structural disposition and unique job;
-3. the three vertical-slice units have claim, model, example, figure, and evidence maps; and
-4. those units have accepted chapter briefs suitable for controlled salvage and drafting.
+The next milestone is **evidence-backed salvage and staged drafting readiness**:
 
-The recorded authorial directions permit the rest of Book I's briefs, source maps, and research plans to advance now. Only after the remaining pilot gates close should Book I manuscript prose become the main development artifact.
+1. use the [control-and-source coverage audit](planning/book-i-control-and-source-coverage-audit.md) to close omissions and prioritize load-bearing records;
+2. follow the [research and salvage execution sequence](planning/research-and-salvage-execution-sequence.md), beginning with definitions, reusable mechanical foundations, and source retrieval;
+3. resolve the evidence-dependent worked-narrative selections in Chapters 23, 25, and 26;
+4. promote only repeated or publication-sensitive claims, models, examples, and figures into stable registries;
+5. recover candidate passages against accepted briefs rather than promoting legacy documents wholesale; and
+6. close the relevant formal, anatomical, medical, provenance, figure, accessibility, and coauthor gates before each chapter enters reader-facing prose.
+
+Drafting can therefore begin in controlled waves when a chapter's own dependencies are ready; it does not require every later-book hypothesis or every Book I research track to be settled first.
