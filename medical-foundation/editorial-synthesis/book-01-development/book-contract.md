@@ -51,7 +51,7 @@ The project's compact intuition is:
 
 > Load wants to travel through the hard body so that the soft body can remain soft.
 
-The polarity and its vocabulary are inspired by TCM hard/soft and Yin/Yang concepts. Book I translates that inspiration into a flexible mechanical distinction; it does not claim that the terms are definitionally identical to any one traditional formulation or require the reader to accept the later TCM-coordinate model.
+The polarity and its vocabulary are motivated by TCM hard/soft and Yin/Yang concepts. Book I translates that motivation into a flexible mechanical distinction; it does not claim that the terms are definitionally identical to any one traditional formulation or require the reader to accept the later TCM-coordinate model.
 
 The sentence is an organizing proposal about a division of mechanical labor. It does not classify bone as always hard or other tissues as always soft. It does not mean that compliant structures should bear no load. It proposes that gross structural demand is generally best resolved through capable, mechanically continuous, relatively shape-preserving and force-transmitting routes, leaving form-receiving structures sufficiently free to yield, conform, glide, contain, expand, regulate, and recover within their functional ranges.
 
