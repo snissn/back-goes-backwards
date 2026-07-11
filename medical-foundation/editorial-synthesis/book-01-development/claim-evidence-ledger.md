@@ -39,7 +39,7 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 | `BGB-C-0006` | A load path is an explanatory representation | `BGB-U-0002` | SYN | E2 | M0 | Model boundary |
 | `BGB-C-0007` | Force line has several controlled senses | `BGB-U-0002` | SYN/HYP | E1 | M0 | Project vocabulary |
 | `BGB-C-0008` | Maintained deformation requires a sustaining relation | `BGB-U-0013` | FND/SYN | E2 | M1 | Generic mechanical premise |
-| `BGB-C-0009` | Hard and soft describe a relational division of labor | `BGB-U-0013` | SYN/HYP | E1 | M2 | Organizing model |
+| `BGB-C-0009` | Hard and soft describe a relational division of labor | `BGB-U-0003` | SYN/HYP | E1 | M2 | Organizing model; adverse application in Chapter 13 |
 | `BGB-C-0010` | Narrowing is not a complete extrinsic mechanism | `BGB-U-0013` | SYN | E2 | M2 | Mechanism-order rule |
 | `BGB-C-0011` | Tube deformation can alter a pressure-flow relation | `BGB-U-0013` | FND/SYN | E2 | M2 | Bounded analogy bridge |
 | `BGB-C-0012` | Constraint can matter through lost excursion without a lumen | `BGB-U-0013` | SYN/HYP | E1 | M2 | Generalization candidate |
@@ -154,6 +154,22 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 - **Gates:** INTENT, PROV, DEF, FORM, EVID, ALT, MEAS, VIS.
 - **Publication role:** Controlled project term; its embodied sense is labeled as hypothesis-generating.
 
+## `BGB-U-0003` — Hard and soft mechanical roles
+
+### BGB-C-0009 — Hard and soft describe a relational division of labor
+
+- **Raw form:** “Load wants to travel through the hard body so that the soft body can remain soft.” In adverse organization, load can “go into” a soft structure and hold it as a boundary.
+- **Provenance:** `author-direct` and `project-model`; motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts without claiming definitional identity; protected kernel in `BGB-Q-0009`; inherited handoff and “load leak” obligations `BGB-S-1214`, `BGB-S-1217`, and `BGB-S-1219`.
+- **Normalized statement:** At a stated scale, direction, task, and timescale, relatively shape-preserving structures can establish or resolve gross demand while relatively form-receiving structures remain available to conform, glide, contain, expand, and recover. A candidate failure occurs when a form-receiving structure must maintain an imposed geometry or substitute structural role at consequential stress, strain, activation, or loss of excursion.
+- **Scope:** Functional roles, not fixed tissue identities; substantial loading and deformation of soft tissue can be normal and necessary.
+- **Bridge role:** Defines the book's central division of mechanical labor; Chapter 13 later specializes it to the adverse substitution case without moralizing tissue, direction, or deformation.
+- **Posture / prior / exposure:** SYN/HYP · E1 · M2.
+- **Evidence question:** In which bounded systems does distinguishing path-establishing from form-receiving roles improve prediction of deformation, excursion, cost, or function beyond conventional tissue and load descriptions?
+- **Required evidence:** Formal role definitions; comparative mechanical models; task-specific tissue-force, deformation, excursion, and outcome measurements; counterexamples where soft structures appropriately resolve gross demand.
+- **Alternatives and disfavoring observations:** Soft structures routinely transmit large forces; pressure can make a compliant compartment shape-preserving; active muscle changes roles. If the polarity adds no discriminating prediction or merely renames stiffness, its publication role should narrow while its traditional and heuristic roles remain preserved.
+- **Gates:** INTENT, DEF, FORM, EVID, LINK, ALT, MEAS.
+- **Publication role:** Explicit organizing hypothesis, not an established universal law.
+
 ## `BGB-U-0013` — Constraint-maintained deformation and loss of excursion
 
 ### BGB-C-0008 — Maintained deformation requires a sustaining relation
@@ -169,20 +185,6 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 - **Alternatives and disfavoring observations:** Intrinsic remodeling, adhesion, wall disease, congenital geometry, active contraction, or measurement artifact may dominate. Rapid recovery after the proposed extrinsic constraint is removed supports a different account than persistence after removal.
 - **Gates:** DEF, FORM, EVID, ALT, MEAS.
 - **Publication role:** Generic modeling premise; not a clinical conclusion.
-
-### BGB-C-0009 — Hard and soft describe a relational division of labor
-
-- **Raw form:** “Load wants to travel through the hard body so that the soft body can remain soft.” In adverse organization, load can “go into” a soft structure and hold it as a boundary.
-- **Provenance:** `author-direct` and `project-model`; motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts without claiming definitional identity; protected kernel in `BGB-Q-0009`; inherited handoff and “load leak” obligations `BGB-S-1214`, `BGB-S-1217`, and `BGB-S-1219`.
-- **Normalized statement:** At a stated scale, direction, task, and timescale, relatively shape-preserving structures can establish or resolve gross demand while relatively form-receiving structures remain available to conform, glide, contain, expand, and recover. A candidate failure occurs when a form-receiving structure must maintain an imposed geometry or substitute structural role at consequential stress, strain, activation, or loss of excursion.
-- **Scope:** Functional roles, not fixed tissue identities; substantial loading and deformation of soft tissue can be normal and necessary.
-- **Bridge role:** Applies the book's central division of labor to the negative case without moralizing tissue, direction, or deformation.
-- **Posture / prior / exposure:** SYN/HYP · E1 · M2.
-- **Evidence question:** In which bounded systems does distinguishing path-establishing from form-receiving roles improve prediction of deformation, excursion, cost, or function beyond conventional tissue and load descriptions?
-- **Required evidence:** Formal role definitions; comparative mechanical models; task-specific tissue-force, deformation, excursion, and outcome measurements; counterexamples where soft structures appropriately resolve gross demand.
-- **Alternatives and disfavoring observations:** Soft structures routinely transmit large forces; pressure can make a compliant compartment shape-preserving; active muscle changes roles. If the polarity adds no discriminating prediction or merely renames stiffness, its publication role should narrow while its traditional and heuristic roles remain preserved.
-- **Gates:** INTENT, DEF, FORM, EVID, LINK, ALT, MEAS.
-- **Publication role:** Explicit organizing hypothesis, not an established universal law.
 
 ### BGB-C-0010 — Narrowing is not a complete extrinsic mechanism
 

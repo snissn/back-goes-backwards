@@ -21,7 +21,7 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
 | `BGB-M-0002` | Mechanical quantity and scale stack | `BGB-U-0002` | specified | DEF, FORM, EVID, VIS |
 | `BGB-M-0003` | Time-structured exposure descriptor | `BGB-U-0002` | captured | DEF, FORM, EVID, MEAS |
 | `BGB-M-0004` | Load path and force-line family | `BGB-U-0002` | captured | INTENT, DEF, FORM, EVID, MEAS, VIS |
-| `BGB-M-0005` | Hard/soft division of mechanical labor | `BGB-U-0013` | specified | DEF, FORM, EVID, ALT, MEAS |
+| `BGB-M-0005` | Hard/soft division of mechanical labor | `BGB-U-0003`; applied in `BGB-U-0013` | specified | DEF, FORM, EVID, ALT, MEAS |
 | `BGB-M-0006` | Constraint-maintained deformation | `BGB-U-0013` | specified | DEF, FORM, EVID, LINK, ALT, MEAS |
 | `BGB-M-0007` | Deformable-tube and garden-hose analogy | `BGB-U-0013` | specified | DEF, FORM, EVID, ALT, VIS |
 | `BGB-M-0008` | Thoracic-outlet corridor model | `BGB-U-0024` | captured | PROV, DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS |
@@ -131,6 +131,7 @@ The [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-an
 ## BGB-M-0005 — Hard/soft division of mechanical labor
 
 - **Purpose:** Formalize the project's compact intuition as a relational model that can describe both successful support and adverse substitution.
+- **Primary ownership:** Chapter 3 defines the general polarity and its provenance; Chapter 13 owns the maintained-constraint and adverse-substitution application.
 - **Provenance:** `author-direct` and `project-model`; motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts without claiming definitional identity; source obligations `BGB-S-1201`, `BGB-S-1214`, `BGB-S-1217`, and `BGB-S-1219`; protected by `BGB-Q-0009`.
 - **Claim dependency:** `BGB-C-0009`.
 - **Core formulation:**

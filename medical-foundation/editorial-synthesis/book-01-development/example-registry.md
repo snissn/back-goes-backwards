@@ -21,7 +21,7 @@ Examples move through `candidate → selected → specified → evidence-reviewe
 
 | Example | Name | Type | Primary unit | State | Main job |
 |---|---|---|---|---|---|
-| `BGB-X-0001` | Moving and carrying an object | Neutral recurring task | `BGB-U-0002` | selected | Change system boundary and scale without changing the event |
+| `BGB-X-0001` | Moving and carrying an object | Neutral recurring task | `BGB-U-0001`–`0008` | selected | Carry one event from embodiment through quantities, roles, paths, anatomy, and task function |
 | `BGB-X-0002` | Joint moment and contact distribution | Bounded mechanical example | `BGB-U-0002` | candidate | Separate force, moment, pressure, and tissue exposure |
 | `BGB-X-0003` | Garden hose under changing constraint | Engineering analogy | `BGB-U-0013` | selected | Show the maintaining relation before lumen and flow |
 | `BGB-X-0004` | Flexor tendon–SSCT relative glide | Comparative mechanical example | `BGB-U-0013` | selected | Test excursion without a lumen while preserving a null branch |
@@ -35,6 +35,7 @@ Examples move through `candidate → selected → specified → evidence-reviewe
 
 - **Type:** Neutral recurring task; pedagogical, not prescriptive.
 - **State:** Selected. The exact object, height, assistance, and participant remain adaptable.
+- **Primary units:** Chapters 1–8, with bounded callbacks in Chapters 10–12 and 27. The [recurring-task specification](planning/recurring-object-transfer-specification.md) controls phases, variants, repetition limits, and the task's endpoint.
 - **Primary job:** Let the reader redraw the same event around several system boundaries: person plus object, person alone, limb or trunk segment, joint, and tissue region.
 - **Secondary jobs:** Introduce external contact, gravity, acceleration, moment arms, support reactions, dose history, active control, and alternative movement solutions.
 - **Claim links:** `BGB-C-0001` through `BGB-C-0006`.

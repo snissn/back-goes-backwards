@@ -31,7 +31,7 @@ Figures move through `specified → sketched → technical review → evidence r
 | `BGB-FIG-01-003` | Force, moment, pressure, stress, and strain | `BGB-U-0002` | Comparative mechanics plate | specified |
 | `BGB-FIG-01-004` | Mechanical exposure through time | `BGB-U-0002` | Time-series and descriptor | specified |
 | `BGB-FIG-01-005` | Three meanings of force line | `BGB-U-0002` | Controlled comparison | specified |
-| `BGB-FIG-01-006` | Shape-preserving and form-receiving roles | `BGB-U-0013` | Relational role diagram | specified |
+| `BGB-FIG-01-006` | Shape-preserving and form-receiving roles | `BGB-U-0003`; extended in `BGB-U-0013` | Relational role diagram | specified |
 | `BGB-FIG-01-007` | What holds a hose kinked? | `BGB-U-0013` | Five-state analogy sequence | specified |
 | `BGB-FIG-01-008` | Intrinsic, extrinsic, and mixed constraint | `BGB-U-0013` | Differential model matrix | specified |
 | `BGB-FIG-01-009` | Objective-aTOS system boundary | `BGB-U-0024` | Reviewed anatomy schematic | specified |
@@ -106,9 +106,10 @@ Figures move through `specified → sketched → technical review → evidence r
 
 ## BGB-FIG-01-006 — Shape-preserving and form-receiving roles
 
-- **Editorial job:** Present the hard/soft model as a changing division of labor, including the adverse substitution case.
+- **Editorial job:** Present the Chapter 3 hard/soft model as a changing division of labor, then permit Chapter 13 to add the adverse-substitution and lost-excursion application without redefining the polarity.
 - **Model / example:** `BGB-M-0005`; selected comparison `BGB-X-0004`.
-- **Required panels:** Successful task-specific role relation; same tissue changing role with direction or phase; form-receiving structure held as a substitute boundary; counterexample in which substantial soft-tissue loading is normal; controlled tendon–SSCT inset showing separate motion traces and an unresolved recovery-after-release cell.
+- **Base panels for Chapter 3:** Successful task-specific role relation; same tissue changing role with direction or phase; counterexample in which substantial soft-tissue loading is normal; multi-structure or pressure-mediated support that prevents hard from becoming a synonym for bone.
+- **Extension panels for Chapter 13:** Form-receiving structure held as a substitute boundary; controlled tendon–SSCT inset showing separate motion traces and an unresolved recovery-after-release cell.
 - **Required labels:** Scale, direction, task, state, timescale, carrier, deformation or excursion, and whether the panel is hypothesis or ordinary mechanics.
 - **Visual encoding:** Do not color anatomy permanently hard or soft. Encode roles on interactions or states, with a legend that permits tissue roles to switch.
 - **Caption obligation:** Hard and soft are relative mechanical roles, not tissue classes, moral categories, or a demand for zero deformation. State that the roles are motivated by TCM hard/soft and Yin/Yang concepts without claiming definitional identity or scientific validation by correspondence.
