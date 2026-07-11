@@ -101,6 +101,21 @@ Exposure controls the review burden and publication form. It does not decide whe
 
 Prose polish does not raise readiness. A beautiful generated paragraph can remain `R0`.
 
+## Intended-use classes for practice artifacts
+
+Practice artifacts receive one or more nonordinal `intended_use` values when they enter the `BGB-P` registry or another practice-facing control record. These classes describe the setting, responsibility, and review burden of a particular artifact version; they are not a maturity ladder, and one class does not automatically authorize another.
+
+| Value | Intended use |
+|---|---|
+| `observation` | Notice or record without correction, diagnosis, or causal inference |
+| `personal-exploration` | Deliberately vary a bounded, low-exposure action for private inquiry |
+| `bounded-research` | Apply a specified manipulation under a measurement or study protocol |
+| `coached-professional` | Use within a qualified discipline, stated scope, and supervised relationship |
+| `clinical-application` | Use in assessment, treatment, or rehabilitation for a defined population under clinical responsibility |
+| `public-recommendation` | Offer to an unscreened or broadly defined audience |
+
+An artifact record may also carry `excluded_use` values when a class has been considered and is not presently supported. The outline-level `use:*` tags describe an editorial job—such as protocol, diagram, or public education—and do not replace these release classes. Intended use remains independent of epistemic confidence, medical exposure, editorial readiness, provenance, and disposition. Current Book V units identify candidate classes in prose; artifact-by-artifact assignment is a development obligation of `BGB-U-0491`, not a claim that every artifact has already been cleared.
+
 ## Deferred-work gates
 
 Gates are compact pointers to the work a unit must survive. A unit can remain in the outline before its gates are complete.
@@ -167,7 +182,7 @@ Cross-cutting tags include `anat:posterior-chain`, `anat:skeleton`, `anat:fascia
 
 `use:foundation`, `use:organizing-model`, `use:hypothesis`, `use:worked-example`, `use:diagram`, `use:clinical-reference`, `use:practice`, `use:protocol`, `use:research-program`, `use:public-education`
 
-Confidence, exposure, readiness, provenance, and disposition are fields, not tags.
+Confidence, exposure, readiness, provenance, intended use, excluded use, and disposition are fields, not tags.
 
 ## Provenance types
 

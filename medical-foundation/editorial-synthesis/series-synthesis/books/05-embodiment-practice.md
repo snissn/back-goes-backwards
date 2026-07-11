@@ -28,26 +28,28 @@ Book V is cumulative and assumes Books I–IV have been read. From Book I it inh
 
 This final book does not restate those arguments or use practice to settle them by acclimation. It translates them into artifacts whose purpose, provenance, dose, observable, alternative explanation, and stopping rule can be recorded. A felt change remains valuable as an experience and hypothesis even when its carrier is unresolved. A mechanical measure remains valuable without proving a health effect. A clinical outcome remains important without retroactively validating every explanatory layer used to select the intervention.
 
-### Six intended-use tiers
+### Six intended-use classes
 
-Every prompt, test, cue, drill, sequence, protocol, diagram, and case is assigned one or more intended uses. The tiers describe responsibility and review burden, not a ladder that every artifact must climb.
+Every prompt, test, cue, drill, sequence, protocol, diagram, and case must receive one or more intended-use classes during artifact development. The classes describe setting, responsibility, and review burden; they are branches rather than a ladder that every artifact must climb.
 
-| Tier | Intended use | What it permits | What it does not yet permit |
+| Class | Intended use | What it permits | What it does not yet permit |
 |---|---|---|---|
-| 1. Observation | Notice or record an experience, action, task, or visible relation. | Curiosity, description, provenance, and question generation. | Diagnosis, causal inference, or corrective instruction. |
-| 2. Personal exploration | Deliberately vary a low-exposure action and observe the response. | Private embodied inquiry with clear limits and stopping. | Generalization to other people or treatment of a condition. |
-| 3. Bounded research manipulation | Apply a specified variation under a study or measurement protocol. | Reproducible comparison, predefined outcomes, and model discrimination. | Routine professional or public use before evidence and review support it. |
-| 4. Coached or professional practice | Use an artifact within a qualified discipline and stated scope. | Individual adaptation, supervision, documentation, and feedback. | Diagnosis or treatment outside competence, licensure, or evidence. |
-| 5. Clinical application | Use within assessment, treatment, or rehabilitation for a defined population. | Condition-specific reasoning with clinical oversight and adverse-event systems. | Universal medical claims or replacement of appropriate care. |
-| 6. Public recommendation | Offer a practice to an unscreened or broadly defined audience. | Accessible education or action when benefit, feasibility, wording, and safeguards support release. | Assuming that a safe private experiment is safe or useful for everyone. |
+| Observation | Notice or record an experience, action, task, or visible relation. | Curiosity, description, provenance, and question generation. | Diagnosis, causal inference, or corrective instruction. |
+| Personal exploration | Deliberately vary a low-exposure action and observe the response. | Private embodied inquiry with clear limits and stopping. | Generalization to other people or treatment of a condition. |
+| Bounded research manipulation | Apply a specified variation under a study or measurement protocol. | Reproducible comparison, predefined outcomes, and model discrimination. | Routine professional or public use before evidence and review support it. |
+| Coached or professional practice | Use an artifact within a qualified discipline and stated scope. | Individual adaptation, supervision, documentation, and feedback. | Diagnosis or treatment outside competence, licensure, or evidence. |
+| Clinical application | Use within assessment, treatment, or rehabilitation for a defined population. | Condition-specific reasoning with clinical oversight and adverse-event systems. | Universal medical claims or replacement of appropriate care. |
+| Public recommendation | Offer a practice to an unscreened or broadly defined audience. | Accessible education or action when benefit, feasibility, wording, and safeguards support release. | Assuming that a safe private experiment is safe or useful for everyone. |
 
-An artifact can remain permanently useful at Tier 1 or Tier 2. Research may use a maneuver at Tier 3 that would be inappropriate as a public recommendation. A familiar exercise may already exist at Tier 4 or Tier 5 within another discipline while this project's explanation of it remains hypothetical. The artifact, mechanism, outcome claim, and publication audience therefore receive separate statuses.
+An artifact can remain permanently useful for observation or personal exploration. Research may use a maneuver that would be inappropriate as coached practice or a public recommendation. A familiar exercise may already have a professional or clinical role within another discipline while this project's explanation of it remains hypothetical. The artifact, mechanism, outcome claim, and publication audience therefore receive separate statuses.
+
+These six classes organize development; they do not commit the personal, professional, clinical, research, and institutional material to one final published volume. Later packaging may split the architecture into general-reader, professional, clinical, or research products while retaining the dependency and control system established here.
 
 ### The recurring practice-and-revision loop
 
 The same loop organizes all five Parts:
 
-> source and provenance → intended-use tier → person, task, and setting → baseline and comparison → artifact and dose → direct observations → inferred mechanism → functional, experiential, or adverse outcome → alternative explanation → retain, revise, narrow, escalate, refer, or stop
+> source and provenance → intended-use class → person, task, and setting → baseline and comparison → artifact and dose → direct observations → inferred mechanism → functional, experiential, or adverse outcome → alternative explanation → retain, revise, narrow, escalate, refer, or stop
 
 This loop protects the role of direct embodiment without making experience epistemically invisible or omnipotent. It also gives negative findings somewhere to go. A cue can fail because the instruction was misunderstood, the dose was poor, the task was wrong, the target mechanism was wrong, the person needed another strategy, or the entire proposition was mistaken. Recording those possibilities is part of practice rather than an after-the-fact defense.
 
@@ -98,7 +100,7 @@ Separate immediate ease, short-term skill acquisition, durable movement option, 
 
 #### 1.4 Preferred organization is not a permanent pose
 
-Carry forward Book II's provisional whole-system efficiency relation. A preferred organization may appear as a state, bias, phase relation, or return tendency rather than one visible alignment. Practice may explore whether downward axial resolution, external or opening organization, outward expansion, and posterior participation become available under a task; it must not demand maximal expression of those relations at every moment.
+Carry forward Book II's provisional whole-system efficiency relation. A preferred organization may appear as a state, bias, phase relation, or return tendency rather than one visible alignment. Practice may explore whether downward axial resolution, external or opening rotational organization, outward expansion, and posterior participation become available under a task; it must not demand maximal expression of those relations at every moment.
 
 #### 1.5 Variability, reversal, and rest belong to practice
 
@@ -110,7 +112,7 @@ Treat a plateau as information about dose, task specificity, measurement, motiva
 
 #### 1.7 A practice can remain exploratory
 
-Not every artifact needs to become a protocol, professional service, or public recommendation. A private observation may remain valuable at Tier 1; a bounded personal exploration may remain at Tier 2. Advancement requires a clearer artifact, feasible delivery, appropriate evidence, contraindication and stopping logic, and review proportional to audience and consequence.
+Not every artifact needs to become a protocol, professional service, or public recommendation. A private observation or bounded personal exploration may remain valuable in its own class. Any change in intended use requires a clearer artifact, feasible delivery, appropriate evidence, contraindication and stopping logic, and review proportional to audience and consequence.
 
 **Chapter conclusion.** Practice has no final endpoint because embodiment is a changing relation among person, task, environment, and history. That does not make improvement vague: it makes comparison and timescale essential. Chapter 2 now establishes which parts of a practice response are directly observed and which are explanatory inferences.
 
@@ -168,7 +170,7 @@ Tags domain:practice, context:self-experimentation, process:stance, process:gait
 
 #### 3.1 Choose a small recurring task set
 
-Use standing up, sitting down, a short walk, reaching overhead or forward, carrying an ordinary object, and several unforced breaths as candidate anchors. The same task should be safe and familiar enough to repeat under comparable conditions. More demanding tasks belong to later tiers or professional settings.
+Use standing up, sitting down, a short walk, reaching overhead or forward, carrying an ordinary object, and several unforced breaths as candidate anchors. The same task should be safe and familiar enough to repeat under comparable conditions. More demanding tasks belong to supervised, professional, clinical, or bounded-research contexts.
 
 #### 3.2 Establish a neutral baseline before cueing
 
@@ -242,7 +244,7 @@ Repeat an observation after rest, altered load, different support, warm-up, or a
 ### 5. Named observations, uncertainty, and referral
 
 Unit BGB-U-0405 · state proposed · posture HYP/APP · confidence E1 · medical M4 · readiness R1
-Tags domain:practice, domain:medicine, context:clinical-reasoning, use:clinical-reference · gates DEF, EVID, ALT, MEAS, CLIN, SAFE, AUD
+Tags domain:practice, domain:medicine, context:clinical-reasoning, use:clinical-reference · gates DEF, EVID, LINK, ALT, MEAS, CLIN, SAFE, AUD
 
 **Chapter summary.** Forward-head organization, knee valgus, pelvic tuck, spinal side shift, reduced posterior participation, fatigue, balance change, pain, breath difficulty, and difficult transitions remain candidate observations rather than diagnoses. The same sign can reflect anatomy, task, capacity, protection, habit, skill, environment, disease, or incidental variation. The chapter preserves these patterns for study while defining when a person should stop experimenting and seek qualified assessment.
 
@@ -280,7 +282,7 @@ When referral is appropriate, record the task, onset, changes, relevant history,
 
 **Survival work:** Review every named sign, red-flag boundary, and referral statement with the medical coauthor and relevant clinicians.
 
-**Part summary.** Part I has made observation an active discipline. Practice is iterative and outcome-specific; direct experience is separated from mechanical and medical inference; daily feedback is sampled rather than surveilled; load history, capacity, compensation, and environment supply context; and named observations remain questions rather than verdicts. The six intended-use tiers now give each artifact a place without requiring it to become public advice.
+**Part summary.** Part I has made observation an active discipline. Practice is iterative and outcome-specific; direct experience is separated from mechanical and medical inference; daily feedback is sampled rather than surveilled; load history, capacity, compensation, and environment supply context; and named observations remain questions rather than verdicts. The six intended-use classes now give each artifact a place without requiring it to become public advice.
 
 **Part conclusion and transition.** The reader is ready to explore daily movement because the observational ground is explicit. Part II begins with tasks rather than idealized poses, then introduces hard/soft roles, posterior participation, generalized modes, internal force lines, and the KI1–PC8 anchor as increasingly specific ways to organize what is noticed.
 
@@ -288,7 +290,7 @@ When referral is appropriate, record the task, onset, changes, relevant history,
 
 **Part introduction.** The first practice field is ordinary life. Standing, sitting, walking, lifting, reaching, and carrying expose the inherited mechanical ideas under recognizable boundary conditions and modest doses. Part II does not reduce those tasks to posture lessons. It asks whether a person can notice and vary how demand is received, whether soft-role structures retain useful freedom, how posterior support participates, and how the three generalized modes coordinate across changing phases.
 
-**Part arc.** Chapter 6 establishes a common task-comparison method across standing, sitting, walking, and lifting. Chapter 7 translates hard/soft roles and posterior participation into observables without prescribing rigidity. Chapter 8 develops axial organization as downward resolution with reciprocal upward support. Chapter 9 separates opening/rotational organization from expansive/lateral organization before exploring their coupling. Chapter 10 integrates all modes across Yin/Yang phases, upper and lower limb systems, internal force-line experience, and the direct-author KI1–PC8 candidate.
+**Part arc.** Chapter 6 establishes a common task-comparison method across standing, sitting, walking, and lifting. Chapter 7 translates hard/soft roles and posterior participation into observables without prescribing rigidity. Chapter 8 develops axial organization as downward resolution with reciprocal upward support. Chapter 9 separates opening/rotational organization from expansive/lateral organization before exploring their coupling. Chapter 10 integrates all modes across Yin/Yang phases, upper and lower limb systems, internal force-line experience, and the author-direct KI1–PC8 candidate.
 
 **Part outcome.** By the end of Part II, the reader should be able to design a low-exposure comparison in an ordinary task; state whether a cue concerns configuration, movement, load, or organizational sign; distinguish opening from expansion; observe posterior and pressure-mediated contribution without equating either with bracing; and record internal continuity or KI1–PC8 coordination as an embodied hypothesis rather than a universal instruction.
 
@@ -323,7 +325,7 @@ Define object geometry, load, distance, grip, direction, repetition, and destina
 
 #### 6.6 Reaching and the upper-limb return path
 
-Add reaching, hanging, pushing through the hand, and carrying to reveal the arms as both receivers and transmitters of demand. Observe scapular and rib freedom, hand contact, posterior suspension, and upper–lower coordination. The arm's gross expansive role from Book III does not erase axial or rotational behavior in individual upper-limb channels or joints.
+Add reaching, hanging, pushing through the hand, and carrying to reveal the arms as both receivers and transmitters of demand. Observe scapular and rib freedom, hand contact, posterior suspension, and upper–lower coordination. The arm's gross expansive role from Book III does not erase axial or opening/rotational assignments in individual upper-limb channels, or ordinary rotational behavior in its joints.
 
 #### 6.7 Dose, transfer, and non-advantage
 
@@ -397,7 +399,7 @@ A person can rise while resolving demand downward, lower while producing upward 
 
 #### 8.4 Ordinary-task candidates
 
-Use quiet stance, sit-to-stand, walking contact, a light carry, reaching, and a supported hinge as candidate contexts. Compare foot pressure, knee and hip strategy, spinal organization, posterior timing, breath, and task outcome. Avoid loaded or high-balance variants outside the appropriate tier.
+Use quiet stance, sit-to-stand, walking contact, a light carry, reaching, and a supported hinge as candidate contexts. Compare foot pressure, knee and hip strategy, spinal organization, posterior timing, breath, and task outcome. Avoid loaded or high-balance variants outside an appropriate supervised or bounded-research class.
 
 #### 8.5 Axial cues and alternatives
 
@@ -405,7 +407,7 @@ Preserve cues such as “let weight arrive at the ground,” “grow upward with
 
 #### 8.6 Measurement candidates
 
-At Tier 3, combine segment kinematics, force-plate or contact measures, balance, task performance, muscle activity interpreted cautiously, breath variables, and first-person reports. The aim is to distinguish vertical appearance from load resolution and to identify whether any benefit exceeds generic attention or practice effects.
+Under bounded research manipulation, combine segment kinematics, force-plate or contact measures, balance, task performance, muscle activity interpreted cautiously, breath variables, and first-person reports. The aim is to distinguish vertical appearance from load resolution and to identify whether any benefit exceeds generic attention or practice effects.
 
 #### 8.7 Boundaries and non-advantages
 
@@ -420,7 +422,7 @@ Axial exploration may be irrelevant during supported rest, constrained by anatom
 Unit BGB-U-0409 · state proposed · posture HYP/APP · confidence E1 · medical M1 · readiness R1
 Tags domain:practice, model:generalized-modes, model:preferred-configuration, mech:force-torque, mech:geometry, use:practice · gates DEF, FORM, EVID, ALT, MEAS, SAFE
 
-**Chapter summary.** Opening/rotational Yang names external or opening organization; expansive/lateral Yang names outward organization relative to a stated local surface or bilateral relation. The modes may couple at pelvis, ribs, limbs, and girdles but are not the same variable. Practice explores coordinated, dose-dependent relations distributed across the body rather than maximal joint positions, universal radial arrows, or commands to widen everything.
+**Chapter summary.** Opening/rotational Yang names the external/opening sign of that generalized mode; expansive/lateral Yang names outward organization relative to a stated local surface or bilateral relation. The modes may couple at pelvis, ribs, limbs, and girdles but are not the same variable. Practice explores coordinated, dose-dependent relations distributed across the body rather than maximal joint positions, universal radial arrows, or commands to widen everything.
 
 **Chapter introduction.** The archive's “external rotation and lateral extension” language preserved an important embodied pattern but allowed several mechanics to blur together. A pelvis can change relative angle and width; ribs can rotate and expand; a limb can abduct without expressing the whole-body expansive sign. This chapter separates the two modes sufficiently to explore their coupling honestly.
 
@@ -475,13 +477,13 @@ Use stepping, reaching, rocking, turning, and unforced breath to explore how ope
 
 #### 10.3 Lower–upper coupling and rotational coordination
 
-Apply Book III's gross projection: feet and legs are weighted toward axial support, arms and hands toward expansion and reach, and opening/rotational organization helps coordinate them across pelvis, trunk, and shoulders. This does not reassign every channel or joint. It supplies a whole-limb practice question for gait, push, pull, carry, ward-off, and change of direction.
+Apply Book III's gross projection: feet and legs are weighted toward axial support; opening/rotational organization helps coordinate lower and upper systems across pelvis, trunk, and shoulders; and arms and hands are weighted toward expansion and reach. This does not reassign every channel or joint. It supplies a whole-limb practice question for gait, push, pull, carry, ward-off, and change of direction. The local Six-Division channel map remains a distinct research layer; Book V does not yet convert every local channel correspondence into a practice instruction.
 
 #### 10.4 Internal force-line exploration
 
 Invite the practitioner, where appropriate, to notice whether contact and intention produce a continuous relation across foot, pelvis, trunk, shoulder, and hand. Label the report as embodied continuity unless a carrier or mechanical quantity is measured. Compare skeletal, tensile, pressure-mediated, active-control, attentional, and generic coordination explanations rather than assuming one hidden cable.
 
-#### 10.5 KI1–PC8 as a direct-author candidate
+#### 10.5 KI1–PC8 as an author-direct candidate
 
 Preserve coordination between KI1 (Yongquan) at the sole and PC8 (Laogong) at the palm as a direct authorial embodied observation. Yang-style Taijiquan opening, closing, ward-off, beginning, and ending positions provide candidate contexts. A reproducible artifact must specify whether the points are exact landmarks or broader foot and palm regions; whether the relation is ipsilateral, contralateral, bilateral, or phase-dependent; what contacts and instructions are used; and what outcome is recorded. It is not presented as a classical universal force path or unscreened public instruction.
 
@@ -499,20 +501,20 @@ Candidate outcomes include task success, adaptable contact, preserved soft-role 
 
 **Part summary.** Part II has translated the inherited mechanics into daily tasks. Standing, sitting, walking, and lifting remain distinct; hard and soft remain changing roles; posterior support is timed rather than maximized; and the generalized modes retain their configuration, motion, load, and sign distinctions. Opening and expansion are separable but coupled. Internal force lines and KI1–PC8 provide high-specificity embodied candidates with explicit provenance and unresolved carriers.
 
-**Part conclusion and transition.** The reader now has a mechanical exploration language capable of surviving movement and uncertainty. Part III uses that base to specify breath and bandha practices, then turns every test, cue, drill, and combined sequence into a development artifact with a use tier, dose, observable, progression, contraindication, and stopping rule.
+**Part conclusion and transition.** The reader now has a mechanical exploration language capable of surviving movement and uncertainty. Part III uses that base to specify breath and bandha practices, then turns every test, cue, drill, and combined sequence into a development artifact with an intended-use class, dose, observable, progression, contraindication, and stopping rule.
 
 ## Part III — Breath, bandhas, and candidate protocols
 
-**Part introduction.** Part III moves from ordinary movement into the series' higher-specificity practices. Breath, bandhas, internal coordination, tests, cues, and drills can now be described as artifacts rather than implied recommendations. The purpose is inclusive conservation with increasing specification: every inherited practice remains available, while its historical source, intended mechanism, use tier, dose, alternatives, adverse responses, and audience boundary become explicit.
+**Part introduction.** Part III moves from ordinary movement into the series' higher-specificity practices. Breath, bandhas, internal coordination, tests, cues, and drills can now be described as artifacts rather than implied recommendations. The purpose is inclusive conservation with increasing specification: every inherited practice remains available, while its historical source, intended mechanism, intended-use class, dose, alternatives, adverse responses, and audience boundary become explicit.
 
-**Part arc.** Chapter 11 begins with breath awareness before deliberate control and separates respiratory phase from the mechanism attributed to it. Chapter 12 reconstructs bandhas across traditional, contemporary, anatomical, and project-specific layers. Chapter 13 assembles a combined hard/soft–mode–breath sequence while preserving alternate orders and named embodied examples. Chapter 14 develops tests, cues, drills, and error correction as artifacts that can serve different use tiers. Chapter 15 supplies progressions, regressions, contraindications, stopping, referral, and release criteria.
+**Part arc.** Chapter 11 begins with breath awareness before deliberate control and separates respiratory phase from the mechanism attributed to it. Chapter 12 reconstructs bandhas across traditional, contemporary, anatomical, and project-specific layers. Chapter 13 assembles a combined hard/soft–mode–breath sequence while preserving alternate orders and named embodied examples. Chapter 14 develops tests, cues, drills, and error correction as artifacts that can serve different intended-use classes. Chapter 15 supplies progressions, regressions, contraindications, stopping, referral, and release criteria.
 
 **Part outcome.** By the end of Part III, every practice candidate should be describable well enough for another person to know what was done without mistaking the description for endorsement. The reader should be able to distinguish observation from control, traditional instruction from project synthesis, felt continuity from mechanical carrier, protocol step from causal explanation, and private feasibility from public readiness.
 
 ### 11. Breath awareness, pressure, and phase
 
 Unit BGB-U-0411 · state proposed · posture HYP/APP · confidence E1 · medical M2 · readiness R1
-Tags domain:practice, process:breathing, model:breath-loop, mech:pressure-flow, use:practice · gates DEF, EVID, LINK, ALT, MEAS, SAFE, AUD
+Tags domain:practice, process:breathing, model:breath-loop, mech:pressure-flow, use:practice · gates PROV, DEF, EVID, LINK, ALT, MEAS, SAFE, AUD
 
 **Chapter summary.** Breath practice begins with observation of airflow, rib and abdominal motion, pelvic response, pressure sensation, effort, pause, and transitions between inhalation and exhalation. These observations can investigate phase organization before prescribing control. Breath may drive, organize, modulate, or merely accompany a mechanical change, and those roles may differ across tasks and people.
 
@@ -524,7 +526,7 @@ Record position, task, airway route, rhythm, relative duration, pauses, sound, p
 
 #### 11.2 Separate pressure sensation from pressure measurement
 
-A practitioner may report fullness, containment, expansion, lift, downward response, or internal pressure. Those are experiences, not direct readings of intra-abdominal, intrathoracic, airway, vascular, or other pressures. At research tiers, define the compartment, instrument, calibration, timing, and mechanical question.
+A practitioner may report fullness, containment, expansion, lift, downward response, or internal pressure. Those are experiences, not direct readings of intra-abdominal, intrathoracic, airway, vascular, or other pressures. In bounded research, define the compartment, instrument, calibration, timing, and mechanical question.
 
 #### 11.3 Phase and transition
 
@@ -540,7 +542,7 @@ Assign the intended breath role before interpreting a response. If breath is a d
 
 #### 11.6 Bounded variations
 
-Candidate Tier 2 or Tier 3 variations include changing attention to rib regions, gently altering phase timing, coordinating one movement with one phase, comparing nasal and ordinary unconstrained breathing where appropriate, or observing recovery after a task. Every variant needs purpose, duration, intensity, comparison, and a return to unforced breath.
+Candidate personal-exploration or bounded-research variations include changing attention to rib regions, gently altering phase timing, coordinating one movement with one phase, comparing nasal and ordinary unconstrained breathing where appropriate, or observing recovery after a task. Every variant needs purpose, duration, intensity, comparison, and a return to unforced breath.
 
 #### 11.7 Adverse response and stopping
 
@@ -553,7 +555,7 @@ Dizziness, faintness, marked air hunger, chest symptoms, panic, unusual neurolog
 ### 12. Bandhas and traditional methods
 
 Unit BGB-U-0412 · state proposed · posture TRD/HYP/APP · confidence E1 · medical M2 · readiness R1
-Tags domain:tradition, domain:practice, model:bandha, model:yoga, process:breathing, use:practice · gates PROV, HIST, DEF, EVID, ALT, MEAS, SAFE, ETH, AUD
+Tags domain:tradition, domain:practice, model:bandha, model:yoga, process:breathing, use:practice · gates PROV, HIST, DEF, EVID, LINK, ALT, MEAS, SAFE, ETH, AUD
 
 **Chapter summary.** Mula, Jalandhara, Uddiyana, and Maha Bandha are presented through classical descriptions, contemporary variants, candidate anatomy and physiology, direct experience, and the project's internal and structural maps. The proposed Mula → Jalandhara → Uddiyana sequence remains a project hypothesis rather than a claim of universal historical order. Traditional depth is preserved while modern experimentation receives its own provenance and safety burden.
 
@@ -579,7 +581,7 @@ Preserve the subtle/internal map and gross/structural bandha map from Book III a
 
 Develop Mula → Jalandhara → Uddiyana as possible causal order, pedagogical sequence, attentional progression, phase relation, or recurring embodied pattern. Compare isolated components, the proposed order, alternate orders, and combined practice. State which output would distinguish sequence-specific emergence from generic bracing, attention, or repetition.
 
-#### 12.6 Intended-use tiers
+#### 12.6 Intended-use classes
 
 A historical description can be published as history without becoming an instruction. A low-exposure component may be suitable for coached exploration; retention, forceful pressure, advanced integration, or condition-specific use may require trained supervision, clinical input, or research context. Assign each variant independently rather than granting the traditional name one global readiness status.
 
@@ -594,7 +596,7 @@ Specify consent, the right to decline or stop, teacher competence, population ex
 ### 13. A combined exploratory sequence
 
 Unit BGB-U-0413 · state proposed · posture HYP/APP · confidence E1 · medical M2 · readiness R1
-Tags domain:practice, model:hard-soft, model:generalized-modes, model:bandha, process:breathing, use:protocol · gates INTENT, PROV, DEF, FORM, EVID, LINK, ALT, MEAS, SAFE, AUD
+Tags domain:practice, model:hard-soft, model:generalized-modes, model:bandha, process:breathing, use:protocol · gates INTENT, PROV, HIST, DEF, FORM, EVID, LINK, ALT, MEAS, SAFE, ETH, AUD
 
 **Chapter summary.** The combined exploratory sequence proceeds provisionally from hard/soft organization, through axial, opening/rotational, and expansive/lateral integration, into respiratory phase and bandha coordination. The sequence is a development artifact, not a finished universal routine. Every step has a purpose, observable, alternative, progression, regression, and stopping condition, and the order remains revisable by evidence, population, task, and feedback.
 
@@ -618,7 +620,7 @@ Add unforced phase awareness before deliberate respiratory or bandha control. Wh
 
 #### 13.5 Named embodied examples
 
-Preserve the posterior bow, sternocleidomastoid–quadriceps opening/rotational candidate, serratus anterior–latissimus expansive/lateral candidate, and KI1–PC8 foot–palm coordination. Each can be used as an observation or bounded manipulation only with direct provenance, task, phase, sidedness, anatomy, intended force-line class, and alternatives stated. None is required for every learner.
+Preserve the posterior bow, sternocleidomastoid–quadriceps opening/rotational candidate, serratus anterior–latissimus expansive/lateral candidate, and KI1–PC8 foot–palm coordination. Also preserve the source-derived possibility that skilled actions such as *fa jin* recruit whole-body pretension and wave-like elastic transmission. Each can be used as an observation or bounded manipulation only with direct provenance, task, phase, sidedness, anatomy, intended force-line class, and alternatives stated. For pretension and wave-like transmission, the candidate carrier, timing, measurable mechanical signature, and contribution to performance remain open research questions. None of these examples is required for every learner, and none inherits proof merely from a traditional name or a convincing felt experience.
 
 #### 13.6 Integration into a real task
 
@@ -635,7 +637,7 @@ Compare the full sequence with shorter variants, reversed components, ordinary w
 ### 14. Tests, cues, drills, and error correction
 
 Unit BGB-U-0414 · state proposed · posture HYP/APP · confidence E1 · medical M4 · readiness R1
-Tags domain:practice, domain:pedagogy, context:self-experimentation, use:protocol, use:practice · gates DEF, FORM, EVID, ALT, MEAS, CLIN, SAFE, AUD
+Tags domain:practice, domain:pedagogy, context:self-experimentation, use:protocol, use:practice · gates PROV, DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, SAFE, AUD
 
 **Chapter summary.** Proprioceptive, visual, tactile, task-based, and instrumented tests sit beside verbal cues, images, metaphors, demonstrations, drills, and error-correction algorithms. The same movement can serve as an observation, personal exploration, research manipulation, coached practice, clinical application, or public recommendation, but those roles require separate claims and review. Home-test and corrective-drill candidates remain preserved rather than prematurely published or deleted.
 
@@ -643,11 +645,11 @@ Tags domain:practice, domain:pedagogy, context:self-experimentation, use:protoco
 
 #### 14.1 Test, cue, drill, and protocol are different objects
 
-A test classifies or measures; a cue directs attention or action; a drill repeats a constrained skill; a protocol specifies sequence, dose, and decision rules. One maneuver may have several versions, but its status cannot migrate silently. Name the input, output, comparator, and intended-use tier for each version.
+A test classifies or measures; a cue directs attention or action; a drill repeats a constrained skill; a protocol specifies sequence, dose, and decision rules. One maneuver may have several versions, but its status cannot migrate silently. Name the input, output, comparator, and intended-use class for each version.
 
 #### 14.2 Sensory and visual tools
 
-Preserve mirrors, video, wall relation, floor or chair contact, reach targets, pressure awareness, self-touch, diagrams, and body landmarks as candidate feedback. Visual alignment is not internal routing, and sensation is not a force measurement. Tools should improve discrimination rather than enforce one silhouette.
+Preserve mirrors, video, wall relation, floor or chair contact, reach targets, pressure awareness, self-touch, diagrams, and body landmarks as candidate feedback. Hyoid attention may be developed as an attentional or anatomical-reference artifact, while cube, torus, loop, and related whole-system geometries may be tested as pedagogical or bounded-research representations inherited from Book IV. Those geometries remain models under `BGB-Q-0005`; they are not literal body shapes, validated “fourth-dimensional” instructions, or public practices merely because an image is vivid. Visual alignment is not internal routing, and sensation is not a force measurement. Tools should improve discrimination rather than enforce one silhouette.
 
 #### 14.3 Named at-home candidates
 
@@ -667,7 +669,7 @@ When a learner produces bracing, pain, breath holding, loss of balance, confusio
 
 #### 14.7 Validation and audience assignment
 
-Assess comprehension, inter-rater reliability where relevant, within-person repeatability, construct validity, task transfer, feasibility, adverse response, and meaningful outcome. Assign the artifact to its highest supported use tier, which may remain observation or research manipulation. Professional familiarity does not validate this project's proposed mechanism.
+Assess comprehension, inter-rater reliability where relevant, within-person repeatability, construct validity, task transfer, feasibility, adverse response, and meaningful outcome. Record the supported and excluded intended-use classes; an artifact may remain observation-only or bounded-research-only. Professional familiarity does not validate this project's proposed mechanism.
 
 **Chapter conclusion.** The concrete practical program is preserved as a set of named artifacts rather than a loose collection of advice. Each item can be developed, compared, narrowed, or retired without taking the rest of the theory with it. Chapter 15 defines the progression and safety system every artifact must enter.
 
@@ -676,7 +678,7 @@ Assess comprehension, inter-rater reliability where relevant, within-person repe
 ### 15. Progressions, regressions, contraindications, and stopping
 
 Unit BGB-U-0415 · state proposed · posture APP · confidence E1 · medical M4 · readiness R1
-Tags domain:practice, domain:rehabilitation, use:protocol, use:clinical-reference · gates DEF, EVID, ALT, MEAS, CLIN, SAFE, AUD
+Tags domain:practice, domain:rehabilitation, use:protocol, use:clinical-reference · gates DEF, EVID, LINK, ALT, MEAS, CLIN, SAFE, AUD
 
 **Chapter summary.** Every practice family needs adaptable versions for load, range, speed, complexity, breath demand, sensory input, support, duration, and supervision. Progression is earned through response and task relevance rather than adherence to a universal sequence. Pain, dizziness, breath distress, neurological change, loss of function, and other adverse responses enter explicit stopping, escalation, and referral paths.
 
@@ -714,7 +716,7 @@ Private notes require clear self-limits; research protocols require ethics, feas
 
 **Survival work:** Develop clinician-reviewed contraindication, adverse-event, escalation, and referral standards for each protocol family.
 
-**Part summary.** Part III has preserved breath awareness, bandhas, the combined exploratory sequence, home-test candidates, cues, drills, and protocols as explicit development artifacts. Historical practice, project synthesis, experienced action, proposed mechanism, and outcome claim remain separate. Every artifact now requires a use tier, dose, comparator, progression, regression, adverse-event response, and release boundary.
+**Part summary.** Part III has preserved breath awareness, bandhas, the combined exploratory sequence, home-test candidates, cues, drills, and protocols as explicit development artifacts. Historical practice, project synthesis, experienced action, proposed mechanism, and outcome claim remain separate. Every artifact now requires an intended-use class, dose, comparator, progression, regression, adverse-event response, and release boundary.
 
 **Part conclusion and transition.** A practice can now be described without being recommended. Part IV adds the interpersonal and professional layer: how another person learns, how language and touch affect autonomy, how disciplines differ, how practices vary across bodies and life stages, and how cases can inform development without becoming efficacy claims.
 
@@ -724,7 +726,7 @@ Private notes require clear self-limits; research protocols require ethics, feas
 
 **Part arc.** Chapter 16 develops awareness → engagement → integration as a recursive learning sequence. Chapter 17 compares words, images, metaphor, demonstration, touch, feedback, and learner autonomy. Chapter 18 translates the program across movement, sport, rehabilitation, clinical, and traditional disciplines while preserving scope and referral boundaries. Chapter 19 adapts practices across bodies, capacities, disability, health states, and life stages. Chapter 20 then builds a case and protocol library with provenance, alternatives, nulls, adverse outcomes, and no diagnostic shortcut.
 
-**Part outcome.** By the end of Part IV, a teacher or professional should be able to state what is being taught, at which use tier, through which instructional channel, within whose competence, for which person and task, and with what documentation and exit path. Cases should generate and refine hypotheses without standing in for controlled evidence or pressuring a learner to fit the model.
+**Part outcome.** By the end of Part IV, a teacher or professional should be able to state what is being taught, under which intended-use class, through which instructional channel, within whose competence, for which person and task, and with what documentation and exit path. Cases should generate and refine hypotheses without standing in for controlled evidence or pressuring a learner to fit the model.
 
 ### 16. Awareness, engagement, and integration
 
@@ -811,7 +813,7 @@ Test whether learners can perform the task later, under variation, and with fewe
 ### 18. Professional disciplines and referral boundaries
 
 Unit BGB-U-0418 · state proposed · posture APP · confidence E1 · medical M4 · readiness R1
-Tags domain:rehabilitation, domain:practice, domain:medicine, context:clinical-reasoning, context:sport, use:clinical-reference · gates PROV, DEF, EVID, ALT, CLIN, SAFE, ETH, AUD
+Tags domain:rehabilitation, domain:practice, domain:medicine, context:clinical-reasoning, context:sport, use:clinical-reference · gates PROV, DEF, EVID, LINK, ALT, CLIN, SAFE, ETH, AUD
 
 **Chapter summary.** Physical therapy, occupational and rehabilitation practice, yoga, Pilates, martial arts, athletics, strength and conditioning, movement education, manual practice, and medicine may use related artifacts for different purposes. Education, skill training, performance, symptom management, assessment, diagnosis, treatment, and referral remain distinct. The model enters each discipline as a candidate lens, not a replacement curriculum or license to exceed scope.
 
@@ -839,7 +841,7 @@ Separate observation, palpation, touch cueing, passive movement, manual treatmen
 
 #### 18.6 Competence, documentation, and referral
 
-Define prerequisites for teaching breath variants, bandhas, loaded tasks, balance challenges, clinical populations, and tactile methods. Record intended tier, consent, response, adverse events, and modifications. Maintain referral relationships and communicate observations without imposing the project's diagnosis on another professional.
+Define prerequisites for teaching breath variants, bandhas, loaded tasks, balance challenges, clinical populations, and tactile methods. Record intended-use class, consent, response, adverse events, and modifications. Maintain referral relationships and communicate observations without imposing the project's diagnosis on another professional.
 
 #### 18.7 Where the framework does not fit
 
@@ -852,7 +854,7 @@ Identify tasks already explained and managed well by existing methods, settings 
 ### 19. Variation across bodies and life stages
 
 Unit BGB-U-0419 · state proposed · posture SYN/APP · confidence E1 · medical M4 · readiness R1
-Tags domain:practice, domain:medicine, process:development, process:aging, context:clinical-reasoning, use:clinical-reference · gates DEF, EVID, ALT, MEAS, CLIN, SAFE, ETH, AUD
+Tags domain:practice, domain:medicine, process:development, process:aging, context:clinical-reasoning, use:clinical-reference · gates DEF, EVID, LINK, ALT, MEAS, CLIN, SAFE, ETH, AUD
 
 **Chapter summary.** Practice varies with age, development, health, injury, disability, disease, pregnancy and other life stages, training history, anatomy, culture, resources, and access. The preferred-configuration hypothesis should expand available options rather than grade bodies against one silhouette. Adaptation begins with the person's goals and existing strategies, not with an assumed deficit.
 
@@ -895,7 +897,7 @@ Document what was changed, why, by whom, and with what result. Preserve cases in
 Unit BGB-U-0420 · state proposed · posture HYP/APP · confidence E1 · medical M4 · readiness R1
 Tags domain:rehabilitation, domain:medicine, context:clinical-reasoning, use:worked-example, use:protocol · gates PROV, DEF, EVID, LINK, ALT, MEAS, CLIN, SAFE, AUD
 
-**Chapter summary.** The case library preserves spinal-axis collapse, rotationally framed low-back pain, recurrent ankle instability, lumbar rehabilitation, thoracic rigidity with breathing limitation, shoulder instability, athletic performance, chronic pain, and mobility contexts. Each uses a common chain: observation → context → hypothesis → intended-use tier → artifact and dose → outcome → adverse or null response → alternative explanation → disposition. Cases illustrate reasoning and generate research; they do not establish efficacy by accumulation.
+**Chapter summary.** The case library preserves spinal-axis collapse, rotationally framed low-back pain, recurrent ankle instability, lumbar rehabilitation, thoracic rigidity with breathing limitation, shoulder instability, athletic performance, chronic pain, and mobility contexts. Each uses a common chain: observation → context → hypothesis → intended-use class → artifact and dose → outcome → adverse or null response → alternative explanation → disposition. Cases illustrate reasoning and generate research; they do not establish efficacy by accumulation.
 
 **Chapter introduction.** Cases are where a rich framework feels most persuasive because many details can be organized into one story. They are also where hindsight, selection, placebo, natural history, co-intervention, and diagnostic overreach can hide. This chapter builds a library that retains clinical and embodied detail while making uncertainty visible.
 
@@ -925,7 +927,7 @@ Include people who feel the intended pattern without functional change, improve 
 
 #### 20.7 Cross-case comparison and protocol disposition
 
-Compare which artifact, tier, mechanism, population, dose, and outcome recur across cases. If similar outcomes arise through different mechanisms, narrow the explanatory claim. If one artifact repeatedly creates adverse or null results, revise, suspend, or retire it. Case patterns can justify a study or professional review, not automatic public release.
+Compare which artifact, intended-use class, mechanism, population, dose, and outcome recur across cases. If similar outcomes arise through different mechanisms, narrow the explanatory claim. If one artifact repeatedly creates adverse or null results, revise, suspend, or retire it. Case patterns can justify a study or professional review, not automatic public release.
 
 **Chapter conclusion.** Cases now preserve the project's practical richness without becoming proof by narrative. Their value lies in explicit alternatives, time course, and disposition. Part V converts the case and artifact systems into research, outcome reporting, institutional translation, and collaborative governance.
 
@@ -946,7 +948,7 @@ Compare which artifact, tier, mechanism, population, dose, and outcome recur acr
 ### 21. Single-subject inquiry and self-experimentation
 
 Unit BGB-U-0421 · state proposed · posture EDT/APP · confidence E1 · medical M4 · readiness R1
-Tags domain:research, domain:practice, context:self-experimentation, use:protocol, use:research-program · gates DEF, EVID, ALT, MEAS, CLIN, SAFE, ETH, AUD
+Tags domain:research, domain:practice, context:self-experimentation, use:protocol, use:research-program · gates DEF, EVID, LINK, ALT, MEAS, CLIN, SAFE, ETH, AUD
 
 **Chapter summary.** Structured single-subject inquiry uses baselines, repeated measures, phase changes, predefined outcomes, dose records, and stopping rules to preserve experiential discovery while reducing selective memory. Personal exploration, formal single-case research, and clinical N-of-1 work remain distinct uses. The method can refine an artifact or generate a hypothesis without turning one person's response into general advice.
 
@@ -954,7 +956,7 @@ Tags domain:research, domain:practice, context:self-experimentation, use:protoco
 
 #### 21.1 Personal note versus formal inquiry
 
-A private log can record observations and decisions. A formal single-case design adds predefined phases, measures, analysis, consent, oversight, and a question intended to produce transferable knowledge. Clinical N-of-1 work adds professional assessment and duty of care. Name the use tier before selecting the method.
+A private log can record observations and decisions. A formal single-case design adds predefined phases, measures, analysis, consent, oversight, and a question intended to produce transferable knowledge. Clinical N-of-1 work adds professional assessment and duty of care. Name the intended-use class before selecting the method.
 
 #### 21.2 Baseline and repeated measurement
 
@@ -987,7 +989,7 @@ A repeated within-person effect may justify continued personal use, artifact ref
 ### 22. Case series, laboratory studies, and comparative trials
 
 Unit BGB-U-0422 · state proposed · posture EDT/HYP/APP · confidence E1 · medical M3 · readiness R1
-Tags domain:research, domain:medicine, domain:rehabilitation, use:research-program · gates DEF, FORM, EVID, ALT, MEAS, CLIN, SAFE, ETH
+Tags domain:research, domain:medicine, domain:rehabilitation, use:research-program · gates DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, SAFE, ETH
 
 **Chapter summary.** The research ladder runs from instrumented observation and case description through case series, reliability and feasibility studies, laboratory mechanism experiments, comparative interventions, and pragmatic trials. Each design answers a different question. Early studies can refine definitions and measures without being forced to prove the entire five-book program at once.
 
@@ -1028,9 +1030,9 @@ Include biomechanists, engineers, clinicians, physiologists, statisticians, qual
 ### 23. Positive, null, and adverse results
 
 Unit BGB-U-0423 · state proposed · posture EDT/APP · confidence E1 · medical M3 · readiness R1
-Tags domain:research, domain:medicine, process:adaptation, use:research-program · gates DEF, EVID, ALT, MEAS, CLIN, SAFE, ETH, AUD
+Tags domain:research, domain:medicine, process:adaptation, use:research-program · gates DEF, EVID, LINK, ALT, MEAS, CLIN, SAFE, ETH, AUD
 
-**Chapter summary.** Improvement, no change, worsening, adherence difficulty, and unexpected effects are equally necessary inputs to model revision. Results can change the artifact, dose, population, teaching method, mechanism, outcome claim, use tier, or decision to continue. Explicit thresholds prevent a favored practice from surviving every result through new wording.
+**Chapter summary.** Improvement, no change, worsening, adherence difficulty, and unexpected effects are equally necessary inputs to model revision. Results can change the artifact, dose, population, teaching method, mechanism, outcome claim, intended-use class, or decision to continue. Explicit thresholds prevent a favored practice from surviving every result through new wording.
 
 **Chapter introduction.** Practice cultures often celebrate transformation and quietly lose nonresponse. Research cultures can privilege statistical significance while missing burden, individual worsening, or absence of practical value. This chapter creates one result system across personal notes, professional records, studies, and public updates.
 
@@ -1056,7 +1058,7 @@ Difficulty understanding, remembering, performing, accessing, or sustaining a pr
 
 #### 23.6 Revision, suspension, and retirement rules
 
-Predefine conditions for changing cue or dose, narrowing population, lowering use tier, requiring supervision, pausing recruitment or publication, or retiring the artifact. Mechanism failure can coexist with practical benefit under a different explanation; practical failure can occur even if a measured mechanism changes.
+Predefine conditions for changing cue or dose, narrowing population, restricting intended-use classes, requiring supervision, pausing recruitment or publication, or retiring the artifact. Mechanism failure can coexist with practical benefit under a different explanation; practical failure can occur even if a measured mechanism changes.
 
 #### 23.7 Transparent correction and version history
 
@@ -1069,7 +1071,7 @@ Update registries, teaching materials, protocols, public pages, and collaborator
 ### 24. Healthcare, schools, communities, and movement literacy
 
 Unit BGB-U-0424 · state proposed · posture SYN/APP · confidence E1 · medical M2 · readiness R1
-Tags domain:public-health, domain:pedagogy, domain:practice, use:public-education · gates DEF, EVID, ALT, MEAS, SAFE, ETH, AUD
+Tags domain:public-health, domain:pedagogy, domain:practice, use:public-education · gates DEF, EVID, LINK, ALT, MEAS, SAFE, ETH, AUD
 
 **Chapter summary.** Mechanical literacy, body awareness, varied movement, task adaptation, and referral knowledge may serve healthcare, schools, workplaces, sports, and communities. Institutional use changes the artifact through scale, authority, policy, unequal access, and the possibility of coercion. The ambition for public benefit is preserved without making one body model or practice compulsory.
 
@@ -1109,7 +1111,7 @@ Measure reach, participation, comprehension, benefit, burden, adverse events, un
 
 ### 25. Collaboration, contribution, and evolution
 
-Unit BGB-U-0425 · state proposed · posture EDT/SYN/APP · confidence E1 · medical M2 · readiness R1
+Unit BGB-U-0425 · state proposed · posture EDT/SYN/APP · confidence E1 · medical M1 · readiness R1
 Tags domain:research, domain:practice, domain:tradition, use:research-program, use:public-education · gates INTENT, PROV, EVID, ALT, CLIN, SAFE, ETH, AUD
 
 **Chapter summary.** The series ends with a collaborative program that reunites structure, breath, traditional observation, embodied practice, and conventional knowledge while keeping their evidentiary roles clear. Contributions can be experiential, historical, anatomical, mechanical, clinical, pedagogical, methodological, or communal. Positive, null, contradictory, and adverse findings all enter a versioned process of attribution, review, revision, and public communication.
@@ -1150,31 +1152,31 @@ Invite practitioners to document precisely, teachers to test comprehension and a
 
 **Part summary.** Part V has supplied a path from personal observation to single-subject inquiry, case series, measurement and mechanism work, comparative trials, and implementation studies. Positive, null, mixed, adverse, and burdensome results now have explicit consequences. Institutional use requires public goals, equity, non-coercion, governance, and evaluation. Collaboration is organized through layered claims, contribution formats, qualified review, consent, attribution, and versioning.
 
-**Part conclusion and series conclusion.** Book V began by asking how a complex research program can touch practice without turning every observation into proof or every artifact into advice. It ends with six use tiers and one recurring revision loop. The complete practical inheritance remains: daily observation, hard/soft and posterior exploration, generalized modes, breath and bandhas, internal force lines, KI1–PC8, tests, cues, drills, professional cases, research, and public ambition. Their publication roles remain conditional on audience, evidence, feasibility, contraindication, safety, and clinical review. The series can therefore continue growing without confusing openness with certainty or rigor with premature deletion.
+**Part conclusion and series conclusion.** Book V began by asking how a complex research program can touch practice without turning every observation into proof or every artifact into advice. It ends with six intended-use classes and one recurring revision loop. The complete practical inheritance remains: daily observation, hard/soft and posterior exploration, generalized modes, breath and bandhas, internal force lines, KI1–PC8, tests, cues, drills, professional cases, research, and public ambition. Their publication roles remain conditional on audience, evidence, feasibility, contraindication, safety, and clinical review. The series can therefore continue growing without confusing openness with certainty or rigor with premature deletion.
 
 ## Internal and back-matter inventories
 
-These inventories are development infrastructure rather than reader-facing chapters. They keep an observation, cue, test, protocol, case, or institutional proposal from acquiring a wider audience or stronger purpose merely because it has appeared in prose. Every record retains its provenance, intended use tier, present evidence, safety conditions, revision history, and publication disposition.
+These inventories are development infrastructure rather than reader-facing chapters. They keep an observation, cue, test, protocol, case, or institutional proposal from acquiring a wider audience or stronger purpose merely because it has appeared in prose. Every record retains its provenance, intended-use class, present evidence, safety conditions, revision history, and publication disposition.
 
 ### Practice artifact registry
 
 Unit BGB-U-0491 · state proposed · posture EDT/APP · confidence E0 · medical M4 · readiness R1
-Tags domain:practice, domain:research, use:practice, use:protocol · gates PROV, DEF, EVID, ALT, MEAS, CLIN, SAFE, ETH, AUD
+Tags domain:practice, domain:research, use:practice, use:protocol · gates PROV, DEF, EVID, LINK, ALT, MEAS, CLIN, SAFE, ETH, AUD
 
-Register every observation prompt, test, cue, drill, sequence, progression, regression, teaching method, and protocol. Each artifact receives one or more explicit use tiers: observation; personal exploration; bounded research manipulation; coached or professional practice; clinical application; public recommendation. Movement between tiers is an editorial and safety decision, not a stylistic rewrite.
+Register every observation prompt, test, cue, drill, sequence, progression, regression, teaching method, and protocol. The registry must assign each artifact version one or more explicit intended-use classes: observation; personal exploration; bounded research manipulation; coached or professional practice; clinical application; public recommendation. A change among classes is an editorial and safety decision, not a stylistic rewrite.
 
 The registry should include at least these fields:
 
 - stable identifier, title, artifact class, version, status, and revision history;
-- direct-author, inherited-source, generated, traditional, external-evidence, or editorial provenance;
-- intended use tier, audience, setting, supervision, prerequisites, and scope boundary;
+- one or more controlled provenance values: `author-direct`, `project-model`, `editorial-synthesis`, `exploratory-note`, `generated-outline`, `generated-prose`, `traditional-source`, `external-evidence`, `visual-analogy`, or `pipeline-artifact`;
+- intended-use and excluded-use classes, audience, setting, supervision, prerequisites, and scope boundary;
 - instructions, dose, progression, regression, release, and stopping conditions;
-- proposed target and observable, keeping position `q`, movement `q-dot`, loading state `Q`, and lived state `s` distinct where useful;
+- proposed target and observable, keeping configuration `q`, motion or rate `q-dot`, conjugate generalized load `Q`, and proposed organizational sign `s` distinct, with first-person or lived state recorded separately;
 - expected, null, mixed, and adverse responses, along with plausible alternatives;
 - feasibility, contraindication, referral, evidence, clinical-review, safety-review, and publication-readiness fields; and
 - current disposition: retain, revise, research, restrict, quarantine, or retire.
 
-The initial inventory should include the book's named families: quiet observation; wall alignment and hip-hinge checks; breath-coordinated squatting; forward weight shift, shallow breathing, segmental-instability, and balance observations; ordinary daily tasks; hard/soft role and posterior-support explorations; axial, opening/rotational, and expansive/lateral mode explorations; breath and bandha sequences; the posterior bow, sternocleidomastoid–quadriceps, and serratus–latissimus examples; and professional or institutional adaptations. KI1–PC8 coordination and other internal force-line explorations remain explicitly marked as direct-author practice and research candidates. They are not silently converted into universal instructions.
+The initial inventory should include the book's named families: quiet observation; wall alignment and hip-hinge checks; breath-coordinated squatting; forward weight shift, shallow breathing, segmental-instability, and balance observations; ordinary daily tasks; hard/soft role and posterior-support explorations; axial, opening/rotational, and expansive/lateral mode explorations; the local Six-Division channel map as a research-only application candidate; breath and bandha sequences; hyoid attentional or reference candidates and cube, torus, loop, or other whole-geometry representations inherited from Book IV; candidate whole-body pretension and wave-like elastic transmission in *fa jin* or related performance contexts; the posterior bow, sternocleidomastoid–quadriceps, and serratus–latissimus examples; and professional or institutional adaptations. KI1–PC8 coordination and other internal force-line explorations remain explicitly marked as author-direct practice and research candidates. Hyoid and whole-geometry artifacts retain Book IV model status and `BGB-Q-0005` limits; pretension and wave-like transmission remain source-derived hypotheses whose carrier, mechanism, and measurable performance consequences are unresolved. None is silently converted into literal anatomy or universal instruction.
 
 Publication role is decided artifact by artifact. It depends on the proposed audience, available evidence, feasibility, contraindications, safety review, and—where health or clinical exposure is material—clinical review.
 
@@ -1187,7 +1189,7 @@ Tags domain:medicine, domain:rehabilitation, context:clinical-reasoning, use:wor
 
 Maintain structured records for spinal-axis collapse or lateral shift, rotationally framed low-back presentations, ankle instability, lumbar rehabilitation, thoracic rigidity with breathing limitation, shoulder instability, athletes, chronic pain, mobility work, and neural or vascular corridor constraints. Include forward-head organization, knee valgus, pelvic tuck, and other named observations when they clarify a reasoning pattern without being treated as diagnoses.
 
-Each record should identify whether it is a real case, consented teaching case, source-derived example, composite, hypothetical vignette, or adverse/null counterexample. Its template should include context; provenance; the person's goal; observation; local and body-wide mechanical description; hard/soft role interpretation; proposed force line or load-routing hypothesis; alternatives; intended use tier; intervention or non-intervention; dose and supervision; outcome measures and time scale; expected, null, mixed, or adverse result; stopping and referral events; and the lesson the case may legitimately support.
+Each record should identify whether it is a real case, consented teaching case, source-derived example, composite, hypothetical vignette, or adverse/null counterexample. Its template should include context; provenance; the person's goal; observation; local and body-wide mechanical description; hard/soft role interpretation; proposed force line or load-routing hypothesis; alternatives; intended-use class; intervention or non-intervention; dose and supervision; outcome measures and time scale; expected, null, mixed, or adverse result; stopping and referral events; and the lesson the case may legitimately support.
 
 Cases should not all end in confirmation. The bank needs examples in which a mechanically intelligible interpretation is useful, examples in which another explanation is stronger, and examples in which the proposed practice produces no benefit or an unwanted response. Clinical cases remain distinct from personal exploration and bounded research manipulations even when they use the same observation language.
 
@@ -1196,11 +1198,11 @@ Cases should not all end in confirmation. The bank needs examples in which a mec
 ### Referral and stopping-rule matrix
 
 Unit BGB-U-0493 · state proposed · posture EDT/APP · confidence E0 · medical M4 · readiness R1
-Tags domain:medicine, domain:practice, context:clinical-reasoning, use:clinical-reference, use:protocol · gates DEF, EVID, CLIN, SAFE, ETH, AUD
+Tags domain:medicine, domain:practice, context:clinical-reasoning, use:clinical-reference, use:protocol · gates DEF, EVID, LINK, ALT, CLIN, SAFE, ETH, AUD
 
-Cross-index practices, use tiers, settings, and relevant populations against expected benign responses, caution signs, stopping criteria, urgent concerns, referral destinations, supervision needs, and professional scope. The matrix should distinguish a cue that is merely unhelpful, a manipulation that should stop, a presentation that needs professional assessment, and an urgent concern; it should not collapse these into one undifferentiated warning category.
+Cross-index practices, intended-use classes, settings, and relevant populations against expected benign responses, caution signs, stopping criteria, urgent concerns, referral destinations, supervision needs, and professional scope. The matrix should distinguish a cue that is merely unhelpful, a manipulation that should stop, a presentation that needs professional assessment, and an urgent concern; it should not collapse these into one undifferentiated warning category.
 
-Rows should link back to stable practice-artifact and case identifiers. Columns should include intended tier and audience; prerequisites; anticipated response range; known or plausible contraindications; stop-now criteria; urgent escalation criteria; suitable referral type; who may supervise or adapt the artifact; what may be resumed after review; and the evidence and reviewer supporting each entry. Clinical terminology and referral language require medical-coauthor or relevant discipline review before release.
+Rows should link back to stable practice-artifact and case identifiers. Columns should include intended-use and excluded-use classes and audience; prerequisites; anticipated response range; known or plausible contraindications; stop-now criteria; urgent escalation criteria; suitable referral type; who may supervise or adapt the artifact; what may be resumed after review; and the evidence and reviewer supporting each entry. Clinical terminology and referral language require medical-coauthor or relevant discipline review before release.
 
 The matrix is not itself permission to diagnose, prescribe, or practice outside scope. For observation and personal exploration, it supplies conservative boundaries. For bounded research, professional practice, and clinical application, it becomes part of protocol governance. Public recommendations require the narrowest instructions and the clearest release and referral language.
 
@@ -1209,13 +1211,13 @@ The matrix is not itself permission to diagnose, prescribe, or practice outside 
 ### Outcome and audience matrix
 
 Unit BGB-U-0494 · state proposed · posture EDT/APP · confidence E0 · medical M3 · readiness R1
-Tags domain:research, domain:pedagogy, domain:public-health, use:research-program, use:public-education · gates DEF, EVID, ALT, MEAS, CLIN, SAFE, ETH, AUD
+Tags domain:research, domain:pedagogy, domain:public-health, use:research-program, use:public-education · gates DEF, EVID, LINK, ALT, MEAS, CLIN, SAFE, ETH, AUD
 
 Map mechanical, functional, experiential, performance, symptom, health, adherence, and adverse outcomes to appropriate measures and time scales. Keep the immediate artifact, proposed mechanism, lived response, and larger outcome separate: a person may perform a cue, show a changed movement, report a different sensation, and still have no meaningful functional or health change.
 
-Pair every claim and practice with its permitted use tier and audience:
+Pair every claim and practice with its permitted intended-use class and audience:
 
-| Use tier | Typical audience and purpose | Minimum release question |
+| Intended-use class | Typical audience and purpose | Minimum release question |
 |---|---|---|
 | Observation | readers, students, practitioners, or researchers noticing without correction | Is the observation intelligible, non-diagnostic, and unlikely to invite unsafe inference? |
 | Personal exploration | an informed individual trying a reversible, low-exposure variation | Are boundaries, optionality, stopping conditions, and alternatives clear? |
@@ -1224,6 +1226,6 @@ Pair every claim and practice with its permitted use tier and audience:
 | Clinical application | a clinician and patient within condition-specific care | Does condition-specific evidence and clinical review support the proposed role? |
 | Public recommendation | an unsupervised general audience | Are evidence, feasibility, contraindications, safety, and wording strong enough for broad release? |
 
-The matrix should record meaningful-change thresholds where defensible, distinguish short-lived task effects from durable adaptation, include negative and adverse outcomes, and state when measurement is exploratory. No practice reaches a broader audience simply because a narrower-tier result was interesting.
+The matrix should record meaningful-change thresholds where defensible, distinguish short-lived task effects from durable adaptation, include negative and adverse outcomes, and state when measurement is exploratory. A result in one intended-use class does not automatically authorize another.
 
 **Survival work:** Define meaningful change and audience-release criteria and require stronger review as medical exposure and dissemination increase.

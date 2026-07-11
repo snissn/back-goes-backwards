@@ -215,10 +215,10 @@ These rows are source formulations, not a forced reconciliation. Direct authoria
 |---|---|---|---|
 | `BGB-S-1601` (`N16-01`) | Move from conceptual model to embodied observation and use | Book V | included |
 | `BGB-S-1602` (`N16-02`) | Daily practice, self-assessment, and feedback loops | `BGB-U-0402-0404`, `0421`, `0491` | included + inventory |
-| `BGB-S-1603` (`N16-03`) | Broadly accessible, stepwise principles adaptable across bodies | `BGB-U-0406-0415`, `0491` | included as practice program |
+| `BGB-S-1603` (`N16-03`) | Broadly accessible, stepwise principles adaptable across bodies | `BGB-U-0406-0415`, `0419`, `0491` | included as practice program |
 | `BGB-S-1604` (`N16-04`) | Reunite posterior participation, axis awareness, and breathing as a core sequence | `BGB-U-0407-0413` | included |
 | `BGB-S-1605` (`N16-05`) | Standing, sitting, walking, and lifting as ordinary task set | `BGB-U-0406` | included |
-| `BGB-S-1606` (`N16-06`) | Axis awareness and breathing with structure | `BGB-U-0408-0413` | included |
+| `BGB-S-1606` (`N16-06`) | Axis awareness, breathing with structure, and the inherited “4D model in everyday life” application kernel | `BGB-U-0408-0414`, `0491`; Book IV model status and `BGB-Q-0005` limits retained | included + deferred/research inventory |
 | `BGB-S-1607` (`N16-07`) | Age, health, injury history, disability, disease, and life stage | `BGB-U-0415`, `0419`, `0493` | included |
 | `BGB-S-1608` (`N16-08`) | Progression from sensory awareness to advanced athletic skill | `BGB-U-0410`, `0415`, `0418-0419` | included |
 | `BGB-S-1609` (`N16-09`) | Recognize compensation before proposing correction | `BGB-U-0404-0405`, `0414` | included |
