@@ -143,7 +143,15 @@ Tags are namespaced so that `breathing`, `breath`, and `respiration` do not beco
 
 ### Project model
 
-`model:hard-soft`, `model:posterior-chain`, `model:preferred-configuration`, `model:three-axis`, `model:orthotropy`, `model:yin-yang`, `model:six-divisions`, `model:tcm`, `model:meridian`, `model:yoga`, `model:bandha`, `model:breath-loop`, `model:tensegrity`, `model:hyoid-4d`, `model:cube-4d`, `model:tall-torus`, `model:topology`, `model:metastability`
+`model:hard-soft`, `model:posterior-chain`, `model:preferred-configuration`, `model:spatial-frames`, `model:generalized-modes`, `model:force-line`, `model:orthotropy`, `model:yin-yang`, `model:six-divisions`, `model:tcm`, `model:meridian`, `model:yoga`, `model:bandha`, `model:breath-loop`, `model:tensegrity`, `model:hyoid-4d`, `model:cube-4d`, `model:tall-torus`, `model:topology`, `model:metastability`
+
+Three tags replace the inherited `model:three-axis` umbrella in current editorial units:
+
+- `model:spatial-frames` identifies global, anatomy-fixed, or task-fixed bases used to express position, vectors, and tensors;
+- `model:generalized-modes` identifies the reduced axial, opening/rotational, and expansive configuration families together with their conjugate loads; and
+- `model:force-line` identifies external lines of action, inferred internal multicarrier relations, or embodied continuity whose carrier and quantity must be stated at the required level of rigor.
+
+`model:three-axis` remains a source alias only. Raw source text and provenance records may retain it, but a current unit must normalize the intended object to one or more of the three tags above. Neither a spatial basis nor an optional material-symmetry frame should be treated as identical to the generalized-mode model merely because each has three components.
 
 ### Anatomy
 

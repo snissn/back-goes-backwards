@@ -1,10 +1,10 @@
 # Reversible Quarantine
 
-**Status:** initial editorial quarantine
+**Status:** active reversible quarantine
 
-Quarantine applies to a particular formulation, equation, protocol, citation, or pipeline artifact. It does not automatically apply to the conceptual kernel underneath it.
+Quarantine applies to a particular formulation, equation, protocol, citation, or pipeline artifact. It never silently applies to the conceptual kernel underneath it.
 
-The first synthesis assigns every substantive source obligation to an active outline unit or internal inventory. No substantive concept is held only in quarantine. The records below prevent reader-facing contamination while preserving the originating idea, its provenance, and a route back into the project.
+The synthesis assigns every substantive source obligation to an active outline unit or internal inventory. No substantive concept is held only in quarantine. A quarantine record is valid only when it names the excluded payload, the protected kernel, an active home for that kernel, and re-entry conditions. The records below control unsuitable forms while preserving the originating idea, its provenance, and a route back into the project.
 
 ## Reason codes
 
@@ -53,7 +53,7 @@ The first synthesis assigns every substantive source obligation to an active out
 - **Sources:** equations that combine lateral and rotational angular velocities into spinal extension or use rotation matrices as direct proof of decompression.
 - **Reason:** `Q:unsupported-equation`
 - **Excluded payload:** the equations as demonstrations of bodily effect.
-- **Protected kernel:** the body requires genuinely three-dimensional modeling; rotation, translation, torque, mass distribution, pressure, and coupled motion may interact.
+- **Protected kernel:** the body requires genuinely three-dimensional modeling; spatial frames, generalized modes, force and moment resultants, pressure, material behavior, mass distribution, and coupled motion may interact without being identical descriptions.
 - **Active home:** `BGB-U-0002`, `BGB-U-0004`, `BGB-U-0102`, `BGB-U-0115`, and the engineering/model inventories.
 - **Re-entry condition:** define variables and frames, restore units, derive the relationship from an explicit model, and state what the mathematics does and does not establish.
 
@@ -89,7 +89,7 @@ The first synthesis assigns every substantive source obligation to an active out
 - **Sources:** diagnosis, treatment, optimization, home tests, corrective drills, and breath-bandha protocols in Sections 2, 4, and 6.
 - **Reason:** `Q:protocol-before-review`
 - **Excluded payload:** current public or clinical authority to diagnose a bandha failure or prescribe a universal correction.
-- **Protected kernel:** bandhas, axes, posterior participation, breath, home observations, cues, corrections, and staged protocols are an intended practice and research program.
+- **Protected kernel:** bandhas, generalized modes, posterior participation, breath, home observations, cues, corrections, and staged protocols are an intended practice and research program.
 - **Active home:** Book V, especially `BGB-U-0411` through `BGB-U-0423`, and the practice registry.
 - **Re-entry condition:** define the observed variable and intended audience; complete evidence, alternative, safety, contraindication, personalization, referral, and professional-scope review.
 
@@ -107,18 +107,18 @@ The first synthesis assigns every substantive source obligation to an active out
 - **Sources:** generated formulations of one correct load path, posture, or all-Yang state.
 - **Reason:** `Q:claim-overreach`
 - **Excluded payload:** publication-ready certainty that every person, task, instant, or tissue should occupy one fixed configuration.
-- **Protected kernel:** the authorial hypothesis that human structure may have an evolutionarily preferred global organization with Yang-biased axial, rotational, and lateral routing; posterior loading may be one manifestation; the preferred state may be instantaneous, statistical, task-relative, a load-bearing-frame bias, or an attractor.
+- **Protected kernel:** the authorial hypothesis that human structure may have an evolutionarily grounded preferred all-Yang organization of axial, opening/rotational, and expansive modes associated with whole-system mechanical efficiency; posterior participation is currently expected to be necessary but not sufficient within the eventual domain; the preferred organization may be an instantaneous state, statistical bias, task-relative regime, phase, or attractor rather than a fixed pose.
 - **Active home:** all of Book II and the Book I series handoff.
 - **Re-entry condition:** formalize the state and comparison class, specify predicted advantages and non-advantages, identify measurements and falsifiers, and complete the relevant evidence program.
 
-### BGB-Q-0011 — Source variants silently collapsed into one map
+### BGB-Q-0011 — Mapping levels silently collapsed into one map
 
-- **Sources:** competing Six-Division signs, axis-pair, subtle/internal, gross hand/foot, bandha, Du/Ren, and yoga-channel formulations.
-- **Reason:** `Q:internal-conflict`
-- **Excluded payload:** a synthesized table that hides which mapping came from where or makes non-equivalent layers look like one settled correspondence.
-- **Protected kernel:** every exact mapping variant and the possibility that several describe different scales, functions, or observation layers.
+- **Sources:** formulations that silently combine the local Six-Division channel-mode map, gross limb-role projection, KI1–PC8 embodied anchor, subtle/internal and structural bandha maps, Du/Ren, and yoga-channel correspondences.
+- **Reason:** `Q:model-conflation`
+- **Excluded payload:** a synthesized table that hides provenance, reassigns local channels from gross limb roles, or makes non-equivalent scales and correspondence types look like one settled map.
+- **Protected kernel:** the direct authorial hierarchy separating the local channel map, gross limb-role projection, and KI1–PC8 embodied anchor; every exact inherited mapping variant; and the possibility that remaining variants describe different functions or observational layers.
 - **Active home:** Book III Parts II-IV and `BGB-U-0291`.
-- **Re-entry condition:** preserve provenance, define the correspondence type, compare variants, and record whether they reconcile, coexist, change scope, or genuinely conflict.
+- **Re-entry condition:** preserve provenance and scale, distinguish direct authorial clarifications from inherited variants, define each correspondence type, and record whether the remaining formulations reconcile, coexist, change scope, or genuinely conflict.
 
 ### BGB-Q-0012 — Generated prose as presumptive manuscript authority
 
@@ -147,6 +147,24 @@ The first synthesis assigns every substantive source obligation to an active out
 - **Active home:** `BGB-U-0091`, the coverage ledger, and the relevant book units.
 - **Re-entry condition:** populate and review the matrix; place each concept by reader-facing logic while retaining source provenance.
 
+### BGB-Q-0015 — “Three-axis” treated as one settled ontology
+
+- **Sources:** inherited formulations that use “three-axis” or “three-dimensional” interchangeably for spatial coordinates, generalized modes, force directions, moments, material axes, and traditional correspondences.
+- **Reason:** `Q:model-conflation`
+- **Excluded payload:** the implication that these objects are identical because they can each be described with three components.
+- **Protected kernel:** full three-dimensional anatomy and mechanics; local and global spatial frames; the axial, opening/rotational, and expansive generalized-mode model; conjugate forces and moments; possible local orthotropic material frames; stress and strain fields; and the traditional mapping program.
+- **Active home:** `BGB-U-0004`, `0102-0103`, `0112-0115`, `0205-0209`, `0305`, `0314`, the model inventory, and the controlled vocabulary.
+- **Re-entry condition:** identify which object a source use intends, retain the raw wording in provenance, and normalize current prose and tags to the appropriate spatial-frame, generalized-mode, force-line, constitutive, or traditional-map description.
+
+### BGB-Q-0016 — Force line literalized as one cable or resultant
+
+- **Sources:** meridian-as-force-route language, internal connection notes, external engineering analogies, and embodied KI1–PC8 observations.
+- **Reason:** `Q:model-conflation`
+- **Excluded payload:** treating an external line of action, inferred internal transfer relation, multicarrier coordination, and felt continuity as one already-demonstrated anatomical cable or resultant vector.
+- **Protected kernel:** “force line” as a useful project-native relational term; its external, inferred-internal, and embodied senses; its relevance to yielding or Yin organization; and the possibility that tension, compression, pressure, contact, active control, and perception contribute differently at different scales.
+- **Active home:** `BGB-U-0002`, `0005-0006`, `0210`, `0213-0214`, `0222-0223`, `0301`, `0305`, and the model and measurement inventories.
+- **Re-entry condition:** state the intended sense, scale, carrier, quantity, sidedness where relevant, provenance, and measurement strategy; preserve multiple senses when the project has not yet selected one.
+
 ## Review rule
 
-Quarantine records remain open until joint review accepts their protected kernel and re-entry condition. A later decision may normalize and reintegrate the wording, defer it to a more suitable product, or retire the formulation. Retirement is explicit and reversible; source material is never silently deleted.
+Quarantine records remain open until joint review accepts their protected kernel and re-entry condition. A later decision may normalize and reintegrate the wording, defer it to a more suitable product, or retire the formulation or artifact. Retirement of a kernel requires a separate explicit editorial decision and a corresponding coverage-ledger update; it cannot occur merely by closing a quarantine record. All retirement is reversible, and source material is never silently deleted.

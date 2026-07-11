@@ -2,7 +2,7 @@
 
 **Status:** proposed series synthesis
 
-*The Back Goes Backwards* is a layered investigation of human mechanical organization. The series begins with a conservative medical foundation, then develops the project's more distinctive hypotheses about preferred configuration, generalized mechanical modes, traditional correspondences, breath, whole-system geometry, and embodied practice.
+*The Back Goes Backwards* is a layered investigation of human mechanical organization. The series begins with a bounded medical foundation, then develops the project's more distinctive hypotheses about preferred configuration, generalized mechanical modes, traditional correspondences, breath, whole-system geometry, and embodied practice.
 
 The books are designed to support one another without collapsing their different kinds of argument. Established anatomy and mechanics, organizing frameworks, authorial hypotheses, traditional observations, medical implications, and practical applications remain distinguishable even when they are studied together.
 
@@ -20,12 +20,23 @@ Book I is the general foundation. Books II through V form a cumulative sequence 
 
 A reader may accept an earlier book without accepting the hypotheses of a later one. Later books may refine earlier frameworks, but they should not retroactively turn a disclosed hypothesis into a premise that the earlier argument secretly required.
 
+## Series-wide model controls
+
+The following distinctions govern the five books even where their terminology becomes more specialized:
+
+- **Spatial frames and generalized modes are different descriptions.** Global, anatomy-fixed, and task-fixed frames provide bases for positions, vectors, and tensors. Axial, opening/rotational, and expansive are reduced signed configuration families with corresponding generalized loads. Neither description is automatically a material-symmetry frame or a principal-stress frame.
+- **Preferred names a whole-system efficiency hypothesis.** It does not name one frozen posture or visual ideal. Strain distribution, continuity of skeletal and tensile support, active or metabolic cost, stability, resilience, reserve, recovery, and retained soft-structure excursion are candidate terms, constraints, or consequences of an efficiency relation that remains to be formalized.
+- **Posterior participation has a precise working status.** Book I establishes posterior anatomy and capacity without depending on a universal preference. Book II carries the current authorial expectation that posterior participation is necessary but not sufficient for preferred organization within the task classes and scales for which the hypothesis ultimately applies. That expectation remains to be derived and tested.
+- **Mapping levels remain separate.** Book III distinguishes the local Six-Division channel-to-mode map, the gross limb-role projection, subtle or structural bandha maps, cross-tradition correspondences, and direct embodied anchors. The gross projection does not reassign every hand or foot channel. KI1 (Yongquan)–PC8 (Laogong) coordination is a direct authorial embodied observation whose sidedness, carrier, and measurement remain open.
+- **Force line is a controlled relational term.** It may name an external line of action, an inferred internal multicarrier connection, or an embodied experience of continuity. The intended scale, carrier, quantity, and provenance must be stated when the term becomes formal or reader-facing; it does not by itself establish one cable or one resultant vector.
+- **Orthotropy is optional and local.** An orthotropic constitutive approximation may be useful for a selected tissue or region. The series does not require the whole body to be a homogeneous orthotropic material, and orthotropy neither defines nor proves the three generalized modes.
+
 ## Books at a glance
 
 | Stable alias | Working book | Guiding question | Series contribution |
 |---|---|---|---|
 | `BGB-B-MF` | [Book I — *Medical Foundations*](books/01-medical-foundations.md) | How does the body distribute mechanical demand, and what changes when that demand is poorly resolved? | Establishes the common mechanical, anatomical, medical, and epistemic foundation. |
-| `BGB-B-BGB` | [Book II — *The Back Goes Backwards*](books/02-the-back-goes-backwards.md) | Does human anatomy have a preferred body-wide organization of axial, expansive, and opening/rotational modes? | Develops and tests the all-Yang hypothesis and the possible significance of posterior loading. |
+| `BGB-B-BGB` | [Book II — *The Back Goes Backwards*](books/02-the-back-goes-backwards.md) | Does human anatomy have a preferred body-wide organization of axial, opening/rotational, and expansive modes? | Develops and tests the all-Yang hypothesis, including posterior participation as a necessary-but-insufficient working expectation. |
 | `BGB-B-TC` | [Book III — *The Body's Coordinates*](books/03-body-coordinates.md) | Can the three mechanical modes be mapped meaningfully to Yin/Yang, the Six Divisions, and embodied traditions? | Translates traditional observations into explicit, comparable mechanical hypotheses. |
 | `BGB-B-BR` | [Book IV — *The Breath-Structured Body*](books/04-breath-structured-body.md) | How might breath, pressure, phase, torque, and tissue continuity organize or transform whole-body configuration? | Develops the dynamic geometric and experimental program. |
 | `BGB-B-EP` | [Book V — *Embodiment and Practice*](books/05-embodiment-practice.md) | How can sufficiently developed parts of the framework guide observation, teaching, movement, and research? | Translates the program into bounded use and tests practice against outcomes. |
@@ -46,11 +57,11 @@ Here, hard and soft describe functional roles rather than fixed tissue classes. 
 
 ## `BGB-B-BGB` — Book II: *The Back Goes Backwards*
 
-**Guiding question:** Does human anatomy have a preferred body-wide organization of axial, expansive, and opening/rotational modes?
+**Guiding question:** Does human anatomy have a preferred body-wide organization of axial, opening/rotational, and expansive modes?
 
-> At a useful first approximation, the body may possess a preferred global organization associated with whole-system mechanical efficiency: structural demand resolves through coherent skeletal, tensile, active, and pressure-mediated support; compliant structures remain free to yield and conform; and axial, expansive, and opening/rotational organization are biased toward their Yang directions.
+> At a useful first approximation, the body may possess a preferred global organization associated with whole-system mechanical efficiency: structural demand resolves through coherent skeletal, tensile, active, and pressure-mediated support; compliant structures remain free to yield and conform; and axial, opening/rotational, and expansive organization are biased toward their Yang directions.
 
-Book II makes the project's distinctive anatomical hypothesis central. It assumes Book I's mechanical foundation and develops bilateral reference symmetry, skeletal-primary routing, local frames, optional constitutive approximations, the pelvis and spine, posterior support, and three signed generalized modes: downward axial resolution, outward expansion, and external or opening rotation. It distinguishes the spatial frame used to describe anatomy from the generalized configurations, motions, forces, pressures, and moments expressed within it. It asks whether the all-Yang combination is an instantaneous state, a bias, an attractor, or another kind of global organization; whether a still-unformalized efficiency functional makes that organization preferred; and whether evidence supports the current authorial expectation that posterior participation is necessary but not sufficient for that state.
+Book II makes the project's distinctive anatomical hypothesis central. It assumes Book I's mechanical foundation and develops bilateral reference symmetry, skeletal-primary routing, local frames, optional constitutive approximations, the pelvis and spine, posterior support, and three signed generalized modes: downward axial resolution, external or opening rotation, and outward expansion. It distinguishes the spatial frame used to describe anatomy from the generalized configurations, motions, forces, pressures, and moments expressed within it. It asks whether the all-Yang combination is an instantaneous state, a bias, an attractor, or another kind of global organization; whether a still-unformalized efficiency functional makes that organization preferred; and whether evidence supports the current authorial expectation that posterior participation is necessary but not sufficient for that state.
 
 The book must distinguish preferred organization from one static posture and ordinary movement through Yin and Yang from persistent loss of a viable route. It should produce measurements, counterexamples, null predictions, and alternatives capable of separating the hypothesis from conventional load-capacity and movement-variability accounts. It may use Yin/Yang names native to the hypothesis, but it does not depend on the Six Division mapping, breath as a necessary driver, or an individual correction system.
 
@@ -58,9 +69,9 @@ The book must distinguish preferred organization from one static posture and ord
 
 **Guiding question:** Can the three mechanical modes be mapped meaningfully to Yin/Yang, the Six Divisions, and embodied traditions?
 
-> The body's axial, expansive, and opening/rotational modes can be treated as signed generalized dimensions within the project. Their proposed correspondence with Yin/Yang, the Six Divisions, paired channels, gross limb roles, bandhas, embodied point relationships, and selected movement traditions may preserve a structured observational account of whole-body organization that can be translated into mechanical and historical hypotheses.
+> The body's axial, opening/rotational, and expansive organization can be described through three signed generalized mechanical modes. Their proposed correspondence with Yin/Yang, the Six Divisions, paired channels, gross limb roles, bandhas, embodied point relationships, and selected movement traditions may preserve a structured observational account of whole-body organization that can be translated into mechanical and historical hypotheses.
 
-Book III studies traditional systems on their own terms and in dialogue with anatomy and mechanics. It develops the proposed axial Shaoyin–Taiyang, rotational Taiyin–Yangming, and expansive Jueyin–Shaoyang map. It then separates that channel-level correspondence from a gross projection in which the legs and feet organize axial support, the arms and hands organize expansion, and rotation emerges through upper–lower coordination. KI1 (Yongquan)–PC8 (Laogong) coordination is preserved as a direct embodied anchor between those gross systems. The book also preserves subtle/internal and structural bandha maps and examines meridians, force lines, bows, locks, and cross-tradition parallels as possible routes, regions, control strategies, observations, or teaching structures.
+Book III studies traditional systems on their own terms and in dialogue with anatomy and mechanics. It develops the proposed axial Shaoyin–Taiyang, opening/rotational Taiyin–Yangming, and expansive Jueyin–Shaoyang map. It then separates that channel-level correspondence from a gross projection in which the legs and feet are weighted toward axial support, rotation describes upper–lower coordination, and the arms and hands are weighted toward expansion. That gross projection does not reassign the local channels. KI1 (Yongquan)–PC8 (Laogong) coordination is preserved as a direct authorial embodied anchor between the gross axial and expansive systems, with its sidedness and mechanical carrier unresolved. The book also preserves subtle/internal and structural bandha maps and examines meridians, force lines, bows, locks, and cross-tradition parallels as possible routes, regions, control strategies, observations, or teaching structures.
 
 Historical continuity, authorial interpretation, anatomical correspondence, mechanical analogy, and physiological mechanism remain separate claims. The book's task is not to use tradition as scientific validation or modern terminology as a replacement for traditional meaning. It should make exact mappings, alternatives, diagrams, measurements, and failure conditions available for comparison. Respiratory dynamics belong primarily to Book IV, and diagnostic or corrective applications remain with Book V.
 
@@ -68,7 +79,7 @@ Historical continuity, authorial interpretation, anatomical correspondence, mech
 
 **Guiding question:** How might breath, pressure, phase, torque, and tissue continuity organize or transform whole-body configuration?
 
-> Breathing is a cyclic mechanical event involving pressure, volume, flow, tissue tension, skeletal motion, muscular activity, and phase. It may modulate, organize, or help transform whole-body load-routing configurations.
+> Breathing is a cyclic mechanical event involving pressure, volume, flow, tissue tension, skeletal motion, muscular activity, and phase. Within the wider hypothesis it may drive, organize, modulate, or accompany changes in whole-body load-routing configuration; those roles remain competing possibilities to distinguish.
 
 Book IV develops the source program in which breath connects the three modes, the hyoid and other suspended structures, pressure-bearing cavities, cyclic continuity, organ support, conduit flow, neural excursion, and traditional performance phenomena. It preserves the hyoid-centered 4D tensegrity and cube models, inhale/Yang and exhale/Yin phase hypotheses, looping breath, bandha, *peng*, and *fa-jing* as named research candidates rather than dissolving them into generic breath mechanics.
 
@@ -92,7 +103,9 @@ The same subject may appear in more than one book when its editorial role change
 - posterior-chain anatomy is established in Book I, tested as a preferred manifestation in Book II, compared with traditional tracks in Book III, coupled to breath in Book IV, and used in observation or practice in Book V;
 - breath may appear early as ordinary physiology, but its role as organizer, geometric driver, or practice method belongs to later books;
 - clinical examples test Book I's reasoning, while disease-specific applications and protocols require separate clinical and safety review;
-- traditional concepts may motivate hypotheses throughout the project, but detailed historical and correspondence claims belong in Book III.
+- traditional concepts may motivate hypotheses throughout the project, but detailed historical and correspondence claims belong in Book III;
+- the local Six-Division map, gross limb-role projection, embodied point relationships, and cross-tradition maps may inform one another without being collapsed into one correspondence; and
+- reader instruction, individualized interpretation, and corrective progression belong in Book V even when observations from practice motivate hypotheses in Books II-IV.
 
 These boundaries govern claim burden and reader expectation; they are not barriers to preserving cross-book questions.
 
@@ -100,7 +113,7 @@ These boundaries govern claim burden and reader expectation; they are not barrie
 
 The series is supported by linked inventories that remain broader than the publishable books:
 
-- a **model inventory** preserves preferred configuration, local orthotropic approximations, tensegrity, hyoid-4D, cube, torus, breath-loop, bandha, metastability, and topology candidates;
+- a **model inventory** preserves the distinctions among spatial frames, generalized modes, force lines, preferred configuration, local orthotropic approximations, tensegrity, hyoid-4D, cube, torus, breath-loop, bandha, metastability, and topology candidates;
 - a **mechanism-by-region example matrix** crosses the six load-management families with the appendix's twelve anatomical and physiological categories;
 - a **practice inventory** preserves tests, cues, drills, protocols, teaching sequences, and self-experiment proposals without prematurely authorizing them;
 - a **deferred-work inventory** records each concept's protected kernel, provenance, proposed destination, incomplete gates, and reconsideration milestone;
@@ -111,18 +124,17 @@ These inventories are active parts of the research program. Absence from a curre
 
 ## Publication-container flexibility
 
-The five books are working editorial containers, not a commitment to exactly five published volumes. The dependency structure matters more than the eventual packaging.
+The five-book architecture is the authoritative working structure for development. Its cumulative order and intellectual boundaries remain stable unless a later explicit editorial decision changes them. Public packaging can still vary without collapsing those working programs.
 
-- Books II and III may become one volume with mechanical and traditional halves or remain independent.
-- Book IV may become a general synthesis, a technical monograph, a set of research papers, or more than one of these.
-- Book V may separate into a general-reader practice book, a professional manual, and research protocols.
+- Multiple working books may later appear in a collected physical volume while retaining their distinct arguments and dependencies.
+- Book IV may also support a technical monograph, research papers, or model-specific supplements.
+- Book V may support separate general-reader, professional, and research-protocol products.
 - The clinician-facing mechanism-by-region reference may become an appendix, companion, database, or separate professional work.
-- Material may move, merge, split, or remain an internal research program while retaining its stable IDs and provenance.
+- Material may move within a working book, split into a companion asset, or remain an internal research program while retaining its stable IDs and provenance.
 
 ## Decisions left open
 
-- the final number, order, titles, and subtitles of public volumes;
-- whether Books II and III are independent books;
+- final subtitles, edition design, and whether multiple working books share a public publication container;
 - the mathematical depth and publication form of Book IV;
 - whether Book V divides by public, professional, and research audience;
 - how much historical and textual scholarship belongs in Book III or a companion work;
@@ -133,4 +145,4 @@ The five books are working editorial containers, not a commitment to exactly fiv
 - which diagrams, measurements, and experiments are necessary for each book's argument;
 - which provisional hypotheses are strengthened, revised, combined, or retired after formalization and testing.
 
-These decisions do not block the Book I architecture. They remain open so that evidence, formal work, audience, and the actual size of each program can determine the eventual series rather than forcing all source material into a predetermined publication shape.
+These decisions do not reopen the five working boundaries or block the joint seam and evidence phase. They remain open so that formal work, evidence, audience, and the actual size of each program can determine eventual publication form without forcing every preserved source idea into reader-facing prose.

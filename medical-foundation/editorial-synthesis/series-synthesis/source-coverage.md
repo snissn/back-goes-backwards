@@ -2,7 +2,7 @@
 
 **Status:** complete first-pass placement; proposed for joint review
 
-This ledger makes conservation auditable. It maps the 156 grouped source obligations in the [`new` reconciliation](../new-json-source-reconciliation.md) and the complete structure of the [initial provisional series outline](../provisional-multi-book-outline.md) into the synthesized series.
+This ledger makes conservation auditable. It maps the 156 grouped source obligations in the [`new` reconciliation](../new-json-source-reconciliation.md), the complete structure of the [initial provisional series outline](../provisional-multi-book-outline.md), and direct authorial refinements recorded during alignment into the synthesized series.
 
 Coverage means that the intended concept remains discoverable in a named outline unit or internal inventory. It does not mean that the inherited wording, claim strength, evidence, or publication form has been accepted.
 
@@ -19,7 +19,20 @@ No substantive obligation in this pass is retired. An inventory home counts as a
 
 ## ID convention
 
-`BGB-S-1101` means the first grouped obligation recovered from `11-section-01.json`; the shorter alias is `N11-01`. The same pattern applies to Sections 12-16 and 19. These IDs identify the recovered obligation even if its editorial destination later changes.
+`BGB-S-1101` means the first grouped obligation recovered from `11-section-01.json`; the shorter alias is `N11-01`. The same pattern applies to Sections 12-16 and 19. `BGB-S-90##` identifies a direct authorial refinement recorded during editorial alignment rather than a JSON obligation. These IDs identify the source obligation or formulation even if its editorial destination later changes.
+
+## Direct authorial alignment refinements
+
+These formulations are project-authoritative records of present intent while retaining the epistemic and readiness levels assigned in the outlines. They refine how inherited source concepts are related; they do not erase the inherited wording or substitute authorial authority for mechanical, historical, or medical evidence.
+
+| Source | Preserved formulation | Proposed home | Disposition |
+|---|---|---|---|
+| `BGB-S-9001` | Local or global spatial frames, generalized mechanical modes, conjugate loads, material-symmetry frames, and principal-stress descriptions are distinct; the old “three-axis” umbrella must be unpacked by use | [project-model memo](../project-model-memo.md), `BGB-U-0004`, `0102`, `0112-0115`, `0205`, `0305`; [metadata schema](metadata-schema.md); `BGB-Q-0015` for conflated formulations | included as governing model distinction |
+| `BGB-S-9002` | Preferred organization names a possibly evolutionarily grounded, still-unformalized whole-system mechanical efficiency relation; posterior participation is expected to be necessary but not sufficient within the eventual domain of the hypothesis | [project-model memo](../project-model-memo.md), `BGB-U-0105`, `0116-0121`; Book II framing | included as direct hypothesis and formalization program |
+| `BGB-S-9003` | The local Six-Division channel-to-mode map and the gross limb-role projection describe different scales: legs/feet are weighted toward axial support, rotation toward upper–lower coordination, and arms/hands toward expansion without reassigning every local channel | [project-model memo](../project-model-memo.md), `BGB-U-0206-0214`, `0221-0223`, `0291` | included as direct mapping hierarchy |
+| `BGB-S-9004` | KI1 (Yongquan)–PC8 (Laogong) coordination is a direct embodied anchor between the gross axial and expansive systems; sidedness, carrier, and measurement remain unresolved | [project-model memo](../project-model-memo.md), `BGB-U-0211-0213`, `0222-0223`, `0291-0293` | included as author-direct embodied hypothesis |
+| `BGB-S-9005` | “Force line” may identify an external line of action, an inferred internal multicarrier relation, or embodied continuity; its scale, carrier, quantity, and provenance must be named when formalized | [project-model memo](../project-model-memo.md), `BGB-U-0002`, `0005-0006`, `0210`, `0213-0214`, `0222-0223`, `0301`, `0305`; `BGB-Q-0016` for literalized formulations | included as controlled relational vocabulary |
+| `BGB-S-9006` | Bilateral symmetry and skeletal-primary routing are first-order modeling assumptions; orthotropy is an optional local constitutive approximation rather than a foundation or derivation of the generalized modes | [project-model memo](../project-model-memo.md), `BGB-U-0103`, `0115`, `0120-0121`, `0314`, `0321-0323` | included as modeling boundary |
 
 ## [`11-section-01.json`](../../new/inputs/outlines/11-section-01.json) — mechanics, dysfunction, and disease
 
@@ -124,24 +137,24 @@ Thoracic-outlet and pelvic-congestion contexts; venous stasis or chronic venous 
 | `BGB-S-1404` (`N14-04`) | Body as a coupled 3D system beyond isolated planar levers | `BGB-U-0004`, `0102` | included |
 | `BGB-S-1405` (`N14-05`) | Accessible basis-function and decomposition pedagogy | `BGB-U-0004`, `0102`, `0092` | included + inventory |
 | `BGB-S-1406` (`N14-06`) | Moment of inertia and resistance to angular acceleration | `BGB-U-0004`, `0102`, `0092` | included + inventory |
-| `BGB-S-1407` (`N14-07`) | Parallel anatomy/action/mechanical-role/example template for each mode | `BGB-U-0112-0114`, `0205-0209`, `0191` | included + inventory |
-| `BGB-S-1408` (`N14-08`) | Rotational inventory: spine, pelvis, shoulders, forearms, torque, pronation, twisting | `BGB-U-0106-0109`, `0113`, `0115`, `0191` | included + inventory |
-| `BGB-S-1409` (`N14-09`) | Lateral inventory: hips, knees, ankles, rib cage, balance, gait, side shifting | `BGB-U-0106-0109`, `0114-0115`, `0191` | included + inventory |
+| `BGB-S-1407` (`N14-07`) | Parallel anatomy/action/mechanical-role/example template for each generalized mode | `BGB-U-0112-0114`, `0205-0209`, `0191` | included + inventory |
+| `BGB-S-1408` (`N14-08`) | Opening/rotational inventory: spine, pelvis, shoulders, forearms, torque, pronation, twisting | `BGB-U-0106-0109`, `0113`, `0115`, `0191` | included + inventory |
+| `BGB-S-1409` (`N14-09`) | Expansive/lateral inventory: hips, knees, ankles, rib cage, balance, gait, side shifting | `BGB-U-0106-0109`, `0114-0115`, `0191` | included + inventory |
 | `BGB-S-1410` (`N14-10`) | Longitudinal inventory: upright support, suspension, compression, shock management | `BGB-U-0107`, `0112`, `0115`, `0191` | included + inventory |
 | `BGB-S-1411` (`N14-11`) | Yin/Yang as signed directional and functional pairs | `BGB-U-0204-0209` | included |
 | `BGB-S-1412` (`N14-12`) | Proposed Yin=soft/internal/flexion and Yang=hard/external/extension relations | `BGB-U-0003`, `0009`, `0030`, `0204`, `0211`; `BGB-Q-0009` for universal identity | included as hypothesis + quarantined formulation |
 | `BGB-S-1413` (`N14-13`) | Clinical relevance and balance-restoration program | `BGB-U-0220`; Book V Parts I-III | included as application program |
-| `BGB-S-1414` (`N14-14`) | Six-Division axis-pair map | `BGB-U-0206-0208`, `0211`, `0291` | included + provenance inventory |
-| `BGB-S-1415` (`N14-15`) | Meridians as force routes; qi as tension, pressure, perfusion, signaling, or other variable | `BGB-U-0210`, `0214`, `0221-0223`; `0301-0305`, `0392-0393` | included as translation hypotheses |
-| `BGB-S-1416` (`N14-16`) | Diagrams overlaying axes, anatomy, and channel pairs | `BGB-U-0222`, `0292` | included + atlas inventory |
+| `BGB-S-1414` (`N14-14`) | Six-Division channel-to-generalized-mode map | `BGB-U-0206-0208`, `0211`, `0291` | included + provenance inventory |
+| `BGB-S-1415` (`N14-15`) | Meridians as force routes; qi as tension, pressure, perfusion, signaling, or other variable | `BGB-U-0210`, `0214`, `0221-0223`; `0301-0305`, `0392-0393`; `BGB-Q-0016` for literalized formulations | included as translation hypotheses |
+| `BGB-S-1416` (`N14-16`) | Diagrams overlaying generalized modes, spatial anatomy, and channel pairs | `BGB-U-0222`, `0292` | included + atlas inventory |
 | `BGB-S-1417` (`N14-17`) | Assessment, training, therapy, breath, and cases blueprint | `BGB-U-0023-0026`, `0220`; Book V | included + inventories |
 | `BGB-S-1418` (`N14-18`) | Historical definitions and anatomical candidates for Mula, Uddiyana, and Jalandhara | `BGB-U-0215`, `0292` | included + inventory |
-| `BGB-S-1419` (`N14-19`) | Exact bandha-axis assignments: Mula axial, Jalandhara lateral, Uddiyana rotational | `BGB-U-0216`, `0291` | included as hypothesis + provenance inventory |
+| `BGB-S-1419` (`N14-19`) | Exact source bandha-mode assignments: Mula axial, Jalandhara lateral/expansive, Uddiyana rotational/opening | `BGB-U-0216`, `0291` | included as hypothesis + provenance inventory |
 | `BGB-S-1420` (`N14-20`) | Strung-bow posterior analogy | `BGB-U-0217`, `0292` | included + inventory |
 | `BGB-S-1421` (`N14-21`) | Sternocleidomastoid and quadriceps as rotational-lock candidates | `BGB-U-0217`, `0292` | included as anatomy candidate |
 | `BGB-S-1422` (`N14-22`) | Serratus anterior and latissimus dorsi as lateral-lock candidates | `BGB-U-0217`, `0292` | included as anatomy candidate |
 | `BGB-S-1423` (`N14-23`) | Breath as necessary driver, organizer, modulator, or companion | `BGB-U-0218`, `0305` | included as competing hypotheses |
-| `BGB-S-1424` (`N14-24`) | Axis-pair, subtle/internal, and gross hand/foot mapping layers | `BGB-U-0211-0214`, `0291`; `BGB-Q-0011` for silent collapse | included + provenance inventory |
+| `BGB-S-1424` (`N14-24`) | Local channel-mode, subtle/internal, and gross hand/foot mapping layers | `BGB-U-0211-0214`, `0291`; `BGB-Q-0011` for silent collapse | included + provenance inventory |
 | `BGB-S-1425` (`N14-25`) | Mula → Jalandhara → Uddiyana activation sequence | `BGB-U-0216`, `0309`, `0291` | included as exact source hypothesis |
 | `BGB-S-1426` (`N14-26`) | Uddiyana as torsional emergence after other locks rather than isolated hollowing | `BGB-U-0216`, `0309`; `BGB-Q-0007` for supremacy rhetoric | included as hypothesis |
 | `BGB-S-1427` (`N14-27`) | Du/Ren, sushumna, ida/pingala, and qi/prana correspondences | `BGB-U-0214`, `0291`; `0313-0315` | included + provenance inventory |
@@ -154,15 +167,15 @@ Thoracic-outlet and pelvic-congestion contexts; venous stasis or chronic venous 
 
 ### Exact mapping variants preserved under `BGB-U-0291`
 
-| Source formulation | Axial/vertical | Rotational | Lateral | Additional proposal |
+| Source formulation | Axial/vertical | Opening/rotational | Expansive/lateral | Additional proposal |
 |---|---|---|---|---|
-| Current authorial Six-Division coordinate map | Shaoyin: Heart, Kidney; Taiyang: Small Intestine, Bladder | Taiyin: Lung, Spleen; Yangming: Large Intestine, Stomach | Jueyin: Pericardium, Liver; Shaoyang: Sanjiao, Gallbladder | Yang directions: downward/caudal, external/opening, outward; Yin directions are the opposites |
+| Current authorial Six-Division generalized-mode map (`BGB-S-9003`) | Shaoyin: Heart, Kidney; Taiyang: Small Intestine, Bladder | Taiyin: Lung, Spleen; Yangming: Large Intestine, Stomach | Jueyin: Pericardium, Liver; Shaoyang: Sanjiao, Gallbladder | Yang directions: downward/caudal, external/opening, outward; Yin directions are the opposites |
 | Archive Six-Division axis grouping | Kidney/Bladder and Heart/Small Intestine | Spleen/Stomach and Large Intestine/Lung | Triple Warmer/Pericardium and Gallbladder/Liver | Channel pairs organized by mechanical axis; signs remain a separate provenance question |
 | Archive subtle/internal bandha map | Mula → Kidney/Bladder | Uddiyana → Liver/Spleen | Jalandhara → Heart/Lung/Pericardium | Organ-focused energetic or regulatory map |
 | Archive gross/structural bandha map | Mula → foot meridians: Bladder, Gallbladder, Stomach, Liver, Spleen, Kidney | Uddiyana → emergent whole-body spiral | Jalandhara → hand meridians: Small Intestine, Large Intestine, Triple Warmer, Heart, Pericardium, Lung | Limb-focused biomechanical map |
 | Cross-tradition translation | Du and sushumna → posterior/central organization | not specified | Ren and ida/pingala → anterior/lateral organization | Qi/prana → pressure gradients, tissue perfusion, neuromyofascial signaling, or other variables to define |
 
-These rows are source formulations, not a forced reconciliation. Book III must determine whether they describe different scales or functions, can coexist, require revision, or genuinely conflict.
+These rows are source formulations, not a forced reconciliation. Direct authorial clarification establishes that the local Six-Division map, gross limb-role projection, and KI1–PC8 embodied anchor operate at different scales; it does not force the subtle bandha, structural bandha, or cross-tradition rows into the same claim. Book III must determine which remaining variants describe different functions, can coexist, require revision, or genuinely conflict.
 
 ## [`15-section-05.json`](../../new/inputs/outlines/15-section-05.json) — breath and dynamic integration
 
@@ -245,17 +258,17 @@ The provisional outline contains 119 numbered chapters: 29 in Book I, 21 in Book
 | *The Back Goes Backwards* as series title with individual book titles | [series outline](series-outline.md) and all five book files | included |
 | Layered sequence: medical foundation → preferred configuration → traditional coordinates → breath geometry → practice | [series outline](series-outline.md) | included |
 | Dependency rule: a reader can accept each earlier layer without accepting later hypotheses | [series outline](series-outline.md) and book boundaries | included |
-| Five books as editorial containers rather than fixed publication count | [series outline](series-outline.md) | included |
+| Five cumulative books as the stable working architecture, with flexibility in later public packaging | [series outline](series-outline.md) | included |
 | Conservation of structural value separately from claim maturity | [README](README.md), [schema](metadata-schema.md), and this ledger | included as governing rule |
 | Book I thesis, hard/soft intuition, reader promise, and independence from preferred configuration | Book I framing and Parts I-VI | included |
 | Book I exclusions and questions it does not need to settle | Book I boundary section | included |
 | Book II preferred-configuration thesis and Book III/IV/V handoffs | Book II framing and boundary section | included |
-| Book III signed-coordinate/Six-Division thesis and exact core mapping | Book III framing, Parts II-III, `BGB-U-0291` | included + inventory |
+| Book III signed-generalized-mode/Six-Division thesis, exact core mapping, mapping-scale hierarchy, and embodied-anchor distinction | Book III framing, Parts II-III, `BGB-U-0291`; `BGB-S-9003-9004` | included + inventory |
 | Book IV competing-model principle and dynamic breath thesis | Book IV framing, Parts I-V, `BGB-U-0391` | included + inventory |
 | Book V conditional translation and possible public/professional/research publication split | Book V framing, [series outline](series-outline.md) | included; format open |
 | Existing repository treated as source pools rather than manuscripts awaiting reassignment | [README](README.md), this ledger, and [quarantine](quarantine.md) | included as editorial rule |
-| Book I-first development sequence with briefs, claim/evidence map, example matrix, then prose salvage | [README](README.md) and Book I internal assets | included as workflow |
-| Open questions about book count, merges, audience, historical depth, mathematics, and surviving examples | [series outline](series-outline.md) | retained open |
+| Architecture-first development sequence with joint seam review, book-specific claim/evidence and model maps, briefs, then prose salvage | [README](README.md) and book-specific internal assets | included as workflow |
+| Open questions about public packaging, audience, historical depth, mathematics, and surviving examples within the stable five-book working structure | [series outline](series-outline.md) | retained open |
 
 ### Provisional Book I chapters
 
@@ -300,8 +313,8 @@ The 21-chapter structure is retained one-for-one. Each old chapter `n` maps to `
 | Old chapter | Preserved topic | New unit |
 |---:|---|---|
 | 1 | General to preferred routing | `BGB-U-0101` |
-| 2 | Three-dimensional decomposition | `BGB-U-0102` |
-| 3 | Bilateral, skeletal-primary, hard/soft, orthotropic assumptions | `BGB-U-0103` |
+| 2 | Spatial frames and generalized-mode decomposition | `BGB-U-0102` |
+| 3 | Bilateral and skeletal-primary assumptions, hard/soft roles, and optional local orthotropy | `BGB-U-0103` |
 | 4 | Configuration and routing-regime transitions | `BGB-U-0104` |
 | 5 | Preferred organization versus one correct posture | `BGB-U-0105` |
 | 6 | Pelvis opening/closing | `BGB-U-0106` |
@@ -311,11 +324,11 @@ The 21-chapter structure is retained one-for-one. Each old chapter `n` maps to `
 | 10 | Locomotion, comparative anatomy, evolution | `BGB-U-0110` |
 | 11 | Hard/soft division across regions | `BGB-U-0111` |
 | 12 | Axial organization | `BGB-U-0112` |
-| 13 | Rotational organization | `BGB-U-0113` |
-| 14 | Lateral organization | `BGB-U-0114` |
+| 13 | Opening/rotational organization | `BGB-U-0113` |
+| 14 | Expansive/lateral organization | `BGB-U-0114` |
 | 15 | Force, torque, pressure, gravity, geometry coupling | `BGB-U-0115` |
 | 16 | All-Yang state, bias, or attractor | `BGB-U-0116` |
-| 17 | Posterior loading as consequence | `BGB-U-0117` |
+| 17 | Posterior participation as a necessary-but-insufficient working expectation | `BGB-U-0117` |
 | 18 | Hypothesis across tasks and lifespan | `BGB-U-0118` |
 | 19 | Candidate measures | `BGB-U-0119` |
 | 20 | Competing explanations and non-advantages | `BGB-U-0120` |
@@ -326,14 +339,14 @@ The 21-chapter structure is retained one-for-one. Each old chapter `n` maps to `
 | Old chapter | Preserved topic | New home |
 |---:|---|---|
 | 1 | What traditional maps claim, record, and leave ambiguous | `BGB-U-0201-0202` |
-| 2 | Yin/Yang as signed directions | `BGB-U-0204-0205` |
+| 2 | Yin/Yang as signs of generalized modes | `BGB-U-0204-0205` |
 | 3 | Hard/soft roles and TCM polarity | `BGB-U-0204` |
 | 4 | Observation, analogy, and biological mechanism | `BGB-U-0203` |
 | 5 | Axial Shaoyin-Taiyang | `BGB-U-0206` |
-| 6 | Rotational Taiyin-Yangming | `BGB-U-0207` |
-| 7 | Lateral Jueyin-Shaoyang | `BGB-U-0208` |
+| 6 | Opening/rotational Taiyin-Yangming | `BGB-U-0207` |
+| 7 | Expansive/lateral Jueyin-Shaoyang | `BGB-U-0208` |
 | 8 | Hand/foot, bilateral, local/global direction | `BGB-U-0209` |
-| 9 | Axis-pair versus gross hand/foot maps | `BGB-U-0211-0213`, `0291` |
+| 9 | Mapping-scale hierarchy: local channel-mode and gross limb-role maps | `BGB-U-0211-0213`, `0291` |
 | 10 | Compare maps with sources, observation, intent | `BGB-U-0211-0214`, `0221-0222` |
 | 11 | Meridians as routes, regions, relations, attention maps | `BGB-U-0210` |
 | 12 | Bandhas as locks, control points, coordination | `BGB-U-0215` |
@@ -354,10 +367,10 @@ The 21-chapter structure is retained one-for-one. Each old chapter `n` maps to `
 | 2 | Rib cage, diaphragm, abdomen, pelvis, spine, airway, suspension | `BGB-U-0301`, `0306` |
 | 3 | Inhalation/exhalation as phases | `BGB-U-0302-0304` |
 | 4 | Breath route versus force, pressure, motion, attention | `BGB-U-0301`, `0305` |
-| 5 | Three-axis change across breath | `BGB-U-0305` |
+| 5 | Generalized-mode change across breath | `BGB-U-0305` |
 | 6 | Cyclic continuity | `BGB-U-0304` |
 | 7 | Reciprocal/synergistic paired-side coupling | `BGB-U-0305`, `0391` |
-| 8 | Breath as modulator, organizer, or necessary driver | `BGB-U-0305`; `BGB-U-0218` |
+| 8 | Breath as necessary driver, organizer, modulator, or companion | `BGB-U-0305`; `BGB-U-0218` |
 | 9 | Hyoid, jaw, tongue, airway | `BGB-U-0306-0307` |
 | 10 | Bandhas, pressure, phase | `BGB-U-0308-0310` |
 | 11 | Tensegrity model | `BGB-U-0311` |
@@ -409,6 +422,7 @@ The 21-chapter structure is retained one-for-one. Each old chapter `n` maps to `
 
 - `new` reconciliation: **156 of 156** grouped substantive/editorial obligations have active destinations or a protected editorial/quarantine disposition.
 - Provisional outline: **119 of 119** numbered chapters have active destinations; all book-level theses, boundaries, handoffs, development rules, and open decisions are retained.
+- Direct authorial alignment refinements: **6 of 6** have active destinations and explicit provenance.
 - Solely quarantined substantive concepts: **0**.
 - Explicitly retired concepts: **0**.
 
