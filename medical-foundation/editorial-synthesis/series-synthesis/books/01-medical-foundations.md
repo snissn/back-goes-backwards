@@ -32,7 +32,7 @@ Book I makes seven connected claims:
 2. External demands become internal forces, moments, pressures, stresses, and strains through the body's configuration and available load paths.
 3. The body uses a changing division of mechanical labor. Relatively shape-preserving structures can transmit and resolve gross demand while relatively form-receiving structures remain able to yield, glide, contain, expand, and recover.
 4. The posterior chain is a large, anatomically real support and transfer system. Its ordinary importance can be established without first proving that posterior loading is the body's universally preferred organization.
-5. When demand exceeds capacity or loses a viable route, recognizable mechanical patterns can emerge: concentration, interruption, substitution, maintained deformation, instability, discoordination, and compensation.
+5. When demand exceeds capacity or loses a viable route, recognizable families of adverse organization can emerge: global geometric redistribution, local concentration, segmental instability, coordination or handoff failure, constraint-maintained deformation or lost excursion, and compensatory rerouting.
 6. Mechanical exposure becomes medically meaningful through tissue- and person-specific biological responses over time. Mechanics is therefore neither the whole explanation nor merely an afterthought.
 7. Clinical reasoning becomes more complete when it asks how demand reached a tissue, how long it persisted, what carried it, what compensated for it, and how those mechanical conditions interact with the whole person.
 
@@ -44,26 +44,30 @@ The same chain organizes the entire book:
 
 Capacity, recovery, biology, development, behavior, and social context affect every link. Compensation also feeds backward: a response that preserves function today can change tomorrow's configuration and exposure. The worked narratives later in the book use this chain explicitly so that proposed mechanical contributions cannot jump from visible posture directly to disease.
 
+### A recurring neutral task
+
+Parts I and II return to one ordinary task: moving an object from one support to another and carrying it several steps. The object, height, assistance, and strategy can change with the person; the example prescribes no preferred technique. Its purpose is continuity. Part I uses the task to move from external demand to quantities, roles, and three-dimensional configuration. Part II follows the same demand through skeletal contact, active and tensile structures, pressure, posterior participation, and the wider context that determines which solution is viable.
+
 ### The six-part movement
 
 | Part | Starting question | Main answer | Why the next Part follows |
 |---|---|---|---|
 | I. Mechanical foundations | What does it mean to call the body mechanical without reducing it to a machine? | Living structure continuously manages forces, moments, pressure, deformation, capacity, and time in three dimensions. | Once the language is established, the reader can ask which structures carry which parts of the demand. |
 | II. Architecture of support | How does the body carry and transfer demand? | Skeletal, active, tensile, compliant, sliding, and pressure-bearing structures cooperate through a changing division of labor; posterior anatomy provides the first major whole-body example. | A model of successful support makes failures of support and transfer intelligible. |
-| III. Load management and failure | What changes when demand is poorly distributed or a viable route is lost? | Dose can exceed capacity, load can concentrate or be maintained in yielding structures, and compensation can preserve function while reorganizing future demand. | These mechanical patterns matter medically only if they can be connected carefully to tissue biology and clinical reasoning. |
+| III. Load management and failure | What changes when demand is poorly distributed or a viable route is lost? | Six recurring families distinguish geometric redistribution, concentration, instability, coordination failure, maintained constraint, and compensatory rerouting. | These mechanical patterns matter medically only if they can be connected carefully to tissue biology and clinical reasoning. |
 | IV. Medical meaning | When does a mechanical narrative become medically relevant? | Mechanics already operates throughout medicine; a load-routing lens extends that common ground by tracing exposure, response, alternatives, and uncertainty. | Complete examples are needed to show that the framework can clarify real problems without becoming a universal diagnosis. |
 | V. Worked narratives | What does the reasoning look like from beginning to end? | Four contrasting cases test geometry, constraint, instability, and compensation through the same explicit chain and competing explanations. | The tested framework can then be gathered into bounded questions, research programs, and educational implications. |
 | VI. Reasoning and development | What should change if this framework is useful? | It changes questions, measurements, research priorities, education, and possibly future tools before it licenses any universal protocol. | The final chapter can distinguish what Book I establishes from the stronger hypothesis investigated in Book II. |
 
 ### The intended ending
 
-The book concludes on two levels. First, it leaves the reader with a usable medical-mechanical lens that stands on its own: trace demand, routing, local exposure, response, compensation, capacity, and alternatives. Second, it names the wider question that gives the series its title: whether the body's major support systems participate in a preferred three-dimensional organization of which posterior loading is one visible expression. Book I prepares that question but does not depend on its answer.
+The book concludes on two levels. First, it leaves the reader with a usable medical-mechanical lens that stands on its own: trace demand, routing, local exposure, response, compensation, capacity, and alternatives. Second, it names the wider question that gives the series its title: whether the body's major support systems participate in a preferred whole-system organization expressed through three signed generalized modes, with posterior loading as one visible manifestation. Book I does not depend on the answer. Book II is nevertheless a sequential continuation: it assumes this foundation and develops the stronger model instead of rebuilding the medical-mechanical case.
 
 ## Part I — Mechanical foundations of living structure
 
 **Part introduction.** The book begins with a claim that is broad but not exotic: living bodies have a mechanical life. Every breath, step, heartbeat, held posture, contact, and act of support takes place through material structures that must carry force and accommodate deformation. The purpose of Part I is to give this fact enough precision to support the rest of the book without pretending that an active biological body behaves like a passive engineered object.
 
-**Part arc.** Chapter 1 establishes mechanics as one inseparable dimension of embodied life. Chapter 2 gives the reader a disciplined language for describing demand and exposure. Chapter 3 introduces the project's hard/soft division of mechanical labor. Chapter 4 places those roles inside a changing three-dimensional configuration and introduces the idea of load paths. The movement is deliberate: from the fact of embodiment, to the quantities involved, to differentiated roles, to their organization as a whole.
+**Part arc.** Chapter 1 establishes mechanics as one inseparable dimension of embodied life. Chapter 2 gives the reader a disciplined language for describing demand and exposure. Chapter 3 introduces the project's hard/soft division of mechanical labor. Chapter 4 places those roles inside a changing three-dimensional configuration and introduces the idea of load paths. The recurring object-transfer task keeps the movement cumulative: from the fact of embodiment, to the quantities involved, to differentiated roles, to their organization as a whole.
 
 **Part outcome.** By the end of Part I, the reader should be able to describe a mechanical problem without jumping from posture to pathology, treating “load” as one undifferentiated quantity, or assigning a permanent hard or soft identity to a tissue.
 
@@ -86,7 +90,7 @@ Introduce the two-way relationship. Tissue composition, inflammation, hydration,
 
 #### 1.3 The same event looks different at different scales
 
-Move from whole-body task to region, tissue, cell, and back again. A lift may be described externally by the object and ground reaction, regionally by joint moments, locally by stress and strain, and biologically by tissue response. These descriptions are related but not interchangeable, and a plausible narrative must show how it crosses scales.
+Move from whole-body task to region, tissue, cell, and back again. In the recurring object transfer, the same event may be described externally by the object and ground reaction, regionally by joint moments, locally by stress and strain, and biologically by tissue response. These descriptions are related but not interchangeable, and a plausible narrative must show how it crosses scales.
 
 #### 1.4 Mechanics belongs inside a whole-person model
 
@@ -111,7 +115,7 @@ Tags domain:mechanics, mech:force-torque, mech:stress-strain, mech:pressure-flow
 
 #### 2.1 Choose the system before describing the force
 
-Introduce system boundaries and free-body reasoning. The answer changes depending on whether the system is a person, limb, vertebral segment, vessel wall, or patch of tissue. Identify external forces, contacts, supports, gravity, acceleration, and the boundary across which demand enters before discussing what a structure “carries.”
+Introduce system boundaries and free-body reasoning. The answer changes depending on whether the system is the person and object together, the person alone, a limb, a vertebral segment, a vessel wall, or a patch of tissue. Use the recurring task to identify external forces, contacts, supports, gravity, acceleration, and the boundary across which demand enters before discussing what a structure “carries.”
 
 #### 2.2 Force, moment, torque, and pressure
 
@@ -164,7 +168,7 @@ Develop the first-order candidate sequence in which fascia or muscle gathers and
 
 #### 3.5 Roles can change with direction, scale, state, and task
 
-Use examples to show role exchange: muscle can yield eccentrically or stiffen actively; a ligament can guide motion or become a highly loaded restraint; cartilage can distribute contact while deforming; a pressurized cavity can be compliant in one phase and structurally supportive in another. This protects the model from turning hard and soft into fixed material identities.
+Use the recurring object transfer to show role exchange across phases: muscle can yield while the object is lowered and stiffen while direction changes; a ligament can guide motion or become a highly loaded restraint; cartilage can distribute contact while deforming; a pressurized cavity can be compliant in one phase and structurally supportive in another. The task makes clear why hard and soft cannot become fixed material identities.
 
 #### 3.6 The traditional origin and the mechanical translation
 
@@ -181,7 +185,7 @@ Tags domain:mechanics, model:spatial-frames, mech:load-path, mech:force-torque, 
 
 **Chapter summary.** This chapter introduces local and global frames, position and orientation, basis decomposition, center of mass, moment arms, rotational inertia, contact, boundary conditions, and three-dimensional force and moment organization. Configuration comprises geometry together with active forces, pressure, tissue state, stress and strain fields, and the resulting organization of available paths. This generic spatial reasoning precedes the later signed axial, opening/rotational, and expansive/lateral generalized-mode model.
 
-**Chapter introduction.** A body is often taught through sagittal, frontal, and transverse snapshots, yet its structures curve, rotate, translate, pressurize, and change contact simultaneously. Open with one ordinary movement whose meaning changes when viewed from different frames. The aim is not advanced mathematics; it is to prevent a planar description from being mistaken for a complete mechanical account.
+**Chapter introduction.** A body is often taught through sagittal, frontal, and transverse snapshots, yet its structures curve, rotate, translate, pressurize, and change contact simultaneously. Return to the object transfer and show how its meaning changes in the room frame, a joint frame, and a tissue frame, and as the object changes support. The aim is not advanced mathematics; it is to prevent a planar description from being mistaken for a complete mechanical account.
 
 #### 4.1 From anatomical planes to a three-dimensional event
 
@@ -217,7 +221,7 @@ Introduce axial, expansive, and opening/rotational organization as a later proje
 
 ## Part II — The architecture of support
 
-**Part introduction.** Part I described mechanical roles and load paths in general terms. Part II gives those abstractions an anatomy. The body does not stand, move, absorb impact, or preserve internal space through bone, muscle, fascia, pressure, or neural control acting alone. Support emerges from their cooperation: some structures establish geometry, some generate or redirect force, some restrain or guide motion, and some remain free to yield, glide, contain, and change shape.
+**Part introduction.** Part I described mechanical roles and load paths in general terms. Part II gives those abstractions an anatomy. The body does not stand, move, absorb impact, or preserve internal space through bone, muscle, fascia, pressure, or neural control acting alone. Support emerges from their cooperation: some structures establish geometry, some generate or redirect force, some restrain or guide motion, and some remain free to yield, glide, contain, and change shape. The recurring object transfer now becomes an anatomical trace rather than a new example.
 
 **Part arc.** Chapter 5 begins with the skeleton and joints because their geometry establishes relatively shape-preserving routes and the conditions under which other tissues work. Chapter 6 adds the active, tensile, compliant, sliding, pressure-bearing, and tension-network systems that actuate and adapt those routes. Chapter 7 then identifies the posterior chain as a substantial anatomical system rather than a slogan. Chapter 8 asks what posterior structures actually do in ordinary tasks and demanding movement. Chapter 9 returns the posterior system to the whole body and follows its changing participation across development, training, pregnancy, injury, illness, disability, and aging. The movement is from structural path, to cooperating tissues, to regional anatomy, to function, to context and limits.
 
@@ -254,7 +258,7 @@ Use a simple joint or spinal example to show the chain from configuration to lin
 
 #### 5.6 From local articulation to a continuous skeletal route
 
-Follow demand across several linked segments rather than stopping at one joint. Continuity depends on coordinated contact, congruence, timing, and transfer among regions; it can change as a foot meets the ground, a pelvis shifts, a spine curves, or an arm contacts an object. This introduces the possibility of a skeletal path without pretending the skeleton carries demand independently of muscle, fascia, pressure, or control.
+Follow demand across several linked segments rather than stopping at one joint. During the recurring transfer, continuity can change as the feet meet the ground, the pelvis shifts, the spine changes shape, and the hand exchanges force with the object. Coordinated contact, congruence, timing, and transfer create the possibility of a skeletal path without implying that the skeleton carries demand independently of muscle, fascia, pressure, or control.
 
 #### 5.7 Stability is task-, scale-, and capacity-specific
 
@@ -299,7 +303,7 @@ Develop the idea that support begins before an obvious action. Resting muscle ac
 
 #### 6.7 From tissue handoff to a candidate tension-network model
 
-Return to the first-order sequence in which muscle or fascia gathers demand, tendon or ligament transfers or constrains it, and bone or joint geometry resolves it. Show why real tasks use branching, reciprocal, and simultaneous handoffs rather than one conveyor belt. Tensegrity and other tension-network models can illustrate how distributed tension and compression cooperate, but they remain models to compare by scale, mechanism, and explanatory value rather than proof of whole-body medical effects.
+Return to the first-order sequence in which muscle or fascia gathers demand, tendon or ligament transfers or constrains it, and bone or joint geometry resolves it. Use successive phases of the recurring object transfer to show why a real task instead uses branching, reciprocal, and simultaneous handoffs. Tensegrity and other tension-network models can illustrate how distributed tension and compression cooperate, but they remain models to compare by scale, mechanism, and explanatory value rather than proof of whole-body medical effects.
 
 **Chapter conclusion.** Support is an organized exchange among skeletal contact, active force, tensile transfer, compliant deformation, sliding interfaces, and pressure. This integrated account makes the hard/soft division of labor concrete. Chapter 7 now examines one large anatomical system in which many of these roles converge: the posterior chain.
 
@@ -373,7 +377,7 @@ Trace posterior participation through gait from ground contact and controlled pr
 
 #### 8.5 Lifting, carrying, and transitions between support strategies
 
-Use lifting and carrying to show how object position, speed, depth, grip, foot contact, trunk geometry, and fatigue change the distribution among hips, knees, spine, arms, pressure, and external support. Posterior structures often make substantial contributions, but different viable strategies can solve the same task. The question is how demand is partitioned, not whether every person reproduces one form.
+Complete the recurring object-transfer trace by varying object position, speed, height, grip, assistance, foot contact, trunk geometry, and fatigue. These changes redistribute demand among hips, knees, spine, arms, pressure, and external support. Posterior structures often make substantial contributions, while different viable strategies solve the same task; the explanatory target is the changing partition, not one prescribed form.
 
 #### 8.6 Performance, fatigue, stability, and injury exposure are distinct outcomes
 
@@ -436,20 +440,20 @@ End with an explicit ladder. First, posterior structures form a major anatomical
 
 **Part introduction.** Parts I and II established how a living body can carry demand through changing skeletal, active, tensile, compliant, sliding, and pressure-bearing arrangements. Part III asks the corresponding negative question: what changes when the demand, dose, timing, or available route no longer fits the system's present capacity? “Failure” here does not mean that a body is defective or that every deviation is harmful. It names a family of situations in which a useful mechanical function becomes harder to sustain, a local exposure increases, or compensation begins to reorganize future demand.
 
-**Part arc.** Chapter 10 establishes the baseline: viable mechanical ranges depend on dose, capacity, recovery, and environment rather than one ideal posture. Chapter 11 describes continuity and handoff among mechanical roles, then asks what interruption, leakage, bypass, and substitution would mean. Chapters 12 through 14 separate three immediate patterns—concentration, constraint-maintained deformation, and instability or discoordination. Chapter 15 follows the compensations that can preserve function while accumulating or moving demand. Chapter 16 then asks how local exposure and compensation may cross regions, scales, and physiological systems without assuming one universal cascade.
+**Part arc.** Chapter 10 establishes the baseline: viable mechanical ranges depend on dose, capacity, recovery, and environment rather than one ideal posture. Chapter 11 describes continuity and handoff among mechanical roles and supplies the vocabulary for interruption, discoordination, substitution, and rerouting. Chapters 12 through 15 then develop six recurring families of adverse organization: global geometric redistribution, local stress or strain concentration, segmental instability, coordination or handoff failure, constraint-maintained deformation or lost excursion, and compensatory rerouting. Chapter 16 asks how any of these patterns may cross regions, scales, and physiological systems without merging their possible consequences into one cascade.
 
-**Six views of adverse mechanical organization.** The Part's process hierarchy and its six mechanical views answer different questions. The hierarchy follows a possible sequence through time; the views identify patterns that may arise alone or coexist in one presentation.
+**Canonical adverse-organization taxonomy.** The Part's process hierarchy and its six mechanical families answer different questions. The hierarchy follows a possible sequence through time; the taxonomy identifies patterns that may arise alone, in either direction, or in combination. These six names remain stable through the medical comparison and worked narratives so that a new label does not appear whenever the scale or example changes.
 
-| Mechanical view | Principal development | Guiding question |
+| Mechanical family | Principal development | Guiding question |
 | --- | --- | --- |
-| Global or axial geometry | Chapters 10 and 12 | Has the whole configuration changed the distribution that reaches a region? |
-| Force or stress concentration | Chapter 12 | Has ordinary or elevated demand become focused at a smaller or less tolerant interface? |
+| Global or axial geometric redistribution | Chapters 10 and 12 | Has the whole configuration changed the distribution that reaches a region? |
+| Local stress or strain concentration | Chapter 12 | Has ordinary or elevated demand become focused at a smaller or less tolerant interface? |
 | Segmental instability | Chapter 14 | Does a segment fail to maintain or recover a usable relationship under the task? |
-| Discoordination or sequencing failure | Chapters 11 and 14 | Has timing or handoff among structures repeatedly regenerated an adverse exposure? |
-| Impingement, tethering, or constrained excursion | Chapter 13 | Is surrounding load maintaining deformation or restricting the required freedom of a compliant structure? |
-| Kinetic-chain rerouting and compensation | Chapters 11, 15, and 16 | Has successful substitution changed the demands carried elsewhere or later? |
+| Coordination or handoff failure | Chapters 11 and 14 | Has timing or transfer among structures repeatedly regenerated an adverse exposure? |
+| Constraint-maintained deformation or lost excursion | Chapter 13 | Is surrounding load maintaining deformation or restricting the required freedom of a compliant structure? |
+| Compensatory rerouting | Chapters 11 and 15 | Has successful substitution changed the demands carried elsewhere or later? |
 
-**Part outcome.** By the end of Part III, the reader should be able to distinguish an external demand from its dose, a visible configuration from local exposure, narrowing from the load that maintains deformation, instability from tissue damage, and compensation from simple failure. The result is a hierarchy: baseline and capacity → routing and handoff → local adverse pattern → compensation over time → possible regional, biological, or regulatory consequence.
+**Part outcome.** By the end of Part III, the reader should be able to distinguish an external demand from its dose, global redistribution from local concentration, narrowing from the load that maintains deformation, instability from tissue damage, discoordination from fixed obstruction, and compensation from simple failure. The result is both a stable six-family taxonomy and a temporal hierarchy: baseline and capacity → routing and handoff → adverse organization → compensation over time → possible regional, biological, or regulatory consequence.
 
 ### 10. Mechanical homeostasis, capacity, dose, time, and environment
 
@@ -493,7 +497,7 @@ Replace a single universal failure threshold with changing margins and trajector
 Unit BGB-U-0011 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
 Tags domain:biomechanics, model:hard-soft, mech:load-path, mech:interruption, mech:substitution, use:organizing-model · gates INTENT, DEF, FORM, EVID, ALT, MEAS
 
-**Chapter summary.** This chapter follows how demand moves among coordinated skeletal, active, tensile, compliant, sliding, and pressure-bearing roles. Load leakage or misrouting into yielding or ventral structures remains a project-native hypothesis. Interruption, bypass, overload, and substitution provide candidate mechanisms through which another structure may assume a role with greater deformation, sustained activation, restricted excursion, or lower tolerance.
+**Chapter summary.** This chapter follows how demand moves among coordinated skeletal, active, tensile, compliant, sliding, and pressure-bearing roles. It defines the transfer vocabulary used by the taxonomy: continuity and handoff describe available organization; interruption, bypass, overload, leakage, substitution, and rerouting describe distinct changes in it. Load leakage or misrouting into yielding or ventral structures remains a project-native hypothesis whose proposed exposures must be stated mechanically.
 
 **Chapter introduction.** A structure rarely manages a whole task alone. Force gathered by muscle may pass through tendon, be redirected at a joint, travel through bone, and be balanced by pressure, contact, and other active structures. This chapter treats continuity as coordinated transfer across roles and asks how that transfer can become interrupted, overloaded, or reassigned.
 
@@ -521,18 +525,18 @@ Show how another muscle, joint, fascial region, pressure strategy, contralateral
 
 Require every leakage or interruption narrative to state the task, candidate normal routes, observed transfer, proposed substitute, local exposure, and plausible alternatives. Measurements may include force distribution, motion, timing, contact, strain, pressure, activation, excursion, or change under controlled task variation. The model should be able to fail if no meaningful redistribution is found.
 
-**Chapter conclusion.** Routing failure is not one event but a family of altered transfers: a path may narrow, disappear, be bypassed, receive too much demand, or push another structure into a substitute role. Chapters 12 through 14 now separate three ways the resulting exposure can appear locally—concentration, maintained constraint, and repeated instability or discoordination.
+**Chapter conclusion.** Altered transfer is not one event: a path may become unavailable, be bypassed, receive too much demand, lose timing, or move another structure into a substitute role. With those relations defined, Chapters 12 through 15 can develop the taxonomy without using leakage, concentration, constraint, instability, discoordination, and compensation as interchangeable descriptions.
 
 **Survival work:** Formalize continuity, leakage, interruption, and substitution as distinguishable mechanical states and identify observations that could support or disfavor each interpretation.
 
-### 12. Geometry, concentration, and strain localization
+### 12. Global geometry, local concentration, and strain localization
 
 Unit BGB-U-0012 · state proposed · posture FND/SYN · confidence E2 · medical M2 · readiness R1
 Tags domain:biomechanics, mech:geometry, mech:concentration, mech:stress-strain, use:organizing-model · gates DEF, FORM, EVID, ALT, MEAS, VIS
 
-**Chapter summary.** Joint shape, curvature, moment arms, stiffness contrast, contact, and boundary conditions can concentrate stress or convert modest whole-system displacement into larger local strain. Axial or global geometric change, altered spinal curves, incongruence, wear, and collapse remain candidate contexts, with ordinary variation, compensation, and failure kept distinct.
+**Chapter summary.** This chapter owns two related families in the taxonomy while keeping their scales separate. Global or axial geometric redistribution can change what reaches a region; local shape, curvature, moment arms, stiffness contrast, contact, and boundary conditions can then concentrate stress or convert modest whole-system displacement into larger local strain. Altered spinal curves, incongruence, wear, and collapse remain candidate contexts, with ordinary variation, compensation, and failure kept distinct.
 
-**Chapter introduction.** Distribution matters because a body-wide demand does not arrive uniformly at every tissue. Geometry can spread force over a broad area or focus it at an edge, change a lever arm, redirect a contact, or make a small global displacement produce substantial local deformation. Concentration is the first local failure family because it can arise even when the total external demand is ordinary.
+**Chapter introduction.** Distribution matters because a body-wide demand does not arrive uniformly at every tissue. Geometry can spread force over a broad area or focus it at an edge, change a lever arm, redirect a contact, or make a small global displacement produce substantial local deformation. Local concentration deserves its own family because it can arise even when the total external demand is ordinary and because it must be distinguished from the global redistribution that precedes it.
 
 #### 12.1 Geometry converts external demand into local exposure
 
@@ -558,7 +562,7 @@ Develop the scale relationship carefully. Axial shortening, altered curve, trans
 
 Distinguish a modeled concentration from tissue intolerance, symptoms, wear, collapse, or diagnosis. Duration, repetition, material state, adaptation, recovery, and competing routes determine whether the localized exposure matters. Asymptomatic geometry and successful compensation are necessary comparison cases.
 
-**Chapter conclusion.** Geometry can focus demand, but a visible shape becomes medically interesting only through a defensible account of local stress, strain, pressure, dose, and tissue response. Chapter 13 considers a related but distinct pattern: a compliant structure whose deformation is actively maintained by its surroundings.
+**Chapter conclusion.** Global redistribution and local concentration are connected but nonidentical: one changes the demand arriving at a region, while the other describes how that demand becomes distributed within it. A visible shape becomes medically interesting only through a defensible account of exposure, dose, and response. Chapter 13 considers a separate family in which surrounding demand maintains a compliant structure in deformation or limits its excursion.
 
 **Survival work:** Construct defensible free-body and tissue-field models and define criteria separating visible geometry from harmful local exposure.
 
@@ -567,9 +571,9 @@ Distinguish a modeled concentration from tissue intolerance, symptoms, wear, col
 Unit BGB-U-0013 · state proposed · posture SYN/HYP · confidence E2 · medical M2 · readiness R1
 Tags domain:biomechanics, model:hard-soft, mech:constraint, mech:stress-strain, mech:pressure-flow, use:organizing-model · gates DEF, FORM, EVID, LINK, ALT, MEAS
 
-**Chapter summary.** The negative hard/soft narrative concerns surrounding geometry and demand that may maintain compression, bending, traction, tethering, or collapse of a compliant structure against its restoring tendencies. Reduced space, altered course, changed lumen, restricted glide, and constrained expansion describe the imposed equilibrium. Intrinsic narrowing and configuration-maintained deformation remain distinct cases.
+**Chapter summary.** This chapter defines constraint-maintained deformation or lost excursion as a generic mechanical family. Surrounding geometry and demand may maintain compression, bending, traction, tethering, or collapse of a compliant structure against its restoring tendencies. Reduced space, altered course, changed lumen, restricted glide, and constrained expansion describe aspects of the imposed equilibrium; they are not substitutes for identifying what maintains it. Cross-system medical comparison belongs to Chapter 20 and the complete thoracic-outlet narrative to Chapter 24.
 
-**Chapter introduction.** A compliant structure often tends to reopen, recoil, slide, or recover when a brief force is removed. If it remains narrowed, bent, tethered, or collapsed, the important mechanical question is what continues to hold it there. This chapter develops the hard/soft failure narrative in which surrounding geometry or sustained demand imposes a new equilibrium on a structure whose normal role depends on remaining able to yield and recover.
+**Chapter introduction.** A compliant structure often tends to reopen, recoil, slide, or recover when a brief force is removed. If it remains narrowed, bent, tethered, or collapsed, the important mechanical question is what continues to hold it there. The goal here is a system-independent model of the maintaining relation. Named anatomy and clinical effects appear only as short tests of the abstraction; Chapters 20 and 24 own the medical comparison and worked case.
 
 #### 13.1 Maintained deformation requires an ongoing relation
 
@@ -595,7 +599,7 @@ Compare a structure narrowed by its own wall, contents, growth, inflammation, or
 
 Lay out the candidate sequence: surrounding demand → wall or tissue stress → maintained deformation or lost excursion → changed pressure, flow, conduction, motion, or signaling → possible functional effect or symptom. At every arrow, include autoregulation, adaptation, asymptomatic variation, intrinsic pathology, and measurement error as alternatives.
 
-**Chapter conclusion.** Constraint-maintained deformation makes the negative hard/soft intuition concrete: when a shape-preserving relation continuously imposes load on a structure that needs to remain form-receiving, the consequential event may be the sustained stress and loss of excursion rather than narrowing considered in isolation. Chapter 14 turns from a maintained shape to a problem of repeated control and timing.
+**Chapter conclusion.** Constraint-maintained deformation makes the negative hard/soft intuition concrete: when a shape-preserving relation continuously imposes load on a structure that needs to remain form-receiving, the mechanically consequential event is the maintaining stress and changed excursion, course, or shape—not space considered alone. This generic relation can now be compared across tissues without assuming identical biology. Chapter 14 turns from a maintained shape to the distinct problems of segmental instability and coordination failure.
 
 **Survival work:** Trace external constraint through wall or tissue stress, maintained deformation, lost excursion, and any proposed downstream change without skipping intermediate links.
 
@@ -604,7 +608,7 @@ Lay out the candidate sequence: surrounding demand → wall or tissue stress →
 Unit BGB-U-0014 · state proposed · posture SYN/HYP · confidence E2 · medical M2 · readiness R1
 Tags domain:biomechanics, mech:instability, mech:discoordination, mech:compensation, use:organizing-model · gates DEF, EVID, LINK, ALT, MEAS
 
-**Chapter summary.** Material failure is distinct from failures of control, timing, contact, or sequencing. Segmental instability, recurrent joint injury, rib or scapular discoordination, micro-motion, repeated correction, and inefficient regional transfer provide candidate contexts. The proposed proprioception–bracing feedback loop and altered internal signaling remain research questions.
+**Chapter summary.** This chapter owns two families that often coexist but require different observations: segmental instability concerns the maintenance or recovery of a usable relationship, while coordination or handoff failure concerns timing and transfer among otherwise capable participants. Recurrent joint injury, rib or scapular discoordination, micro-motion, repeated correction, and inefficient regional transfer provide candidate contexts. The proposed proprioception–bracing feedback loop and altered internal signaling remain research questions.
 
 **Chapter introduction.** A structure can remain intact yet repeatedly arrive late, move too far for the task, lose contact, require correction, or fail to coordinate with its neighbors. This chapter distinguishes breakdown of material from breakdown of control and asks how repeated instability or discoordination can create demand even when no single movement produces a dramatic injury.
 
@@ -641,7 +645,7 @@ Identify candidate observations: perturbation response, joint or segment motion,
 Unit BGB-U-0015 · state proposed · posture SYN/HYP · confidence E2 · medical M2 · readiness R1
 Tags domain:biomechanics, mech:compensation, mech:substitution, mech:scale-transition, process:adaptation, use:organizing-model · gates DEF, EVID, LINK, ALT, MEAS
 
-**Chapter summary.** Compensation is a central capability. Rerouting, bracing, altered tone, changed gait, contralateral loading, and distal substitution may preserve function while changing future demand. Low-grade deviation to compensation to cumulative demand to delayed or distal consequence forms a coherent conditional pathway whose effects may be useful, neutral, costly, reversible, or eventually insufficient.
+**Chapter summary.** This chapter develops compensatory rerouting as the sixth family and as a central capability rather than an automatic defect. Bracing, altered tone, changed gait, contralateral loading, and distal substitution may preserve function while changing future demand. Low-grade deviation to compensation to cumulative demand to delayed or distal consequence forms a coherent conditional pathway whose effects may be useful, neutral, costly, reversible, or eventually insufficient.
 
 **Chapter introduction.** Compensation is one reason a mechanical problem need not produce an immediate symptom or obvious loss of function. A living system redistributes work, changes timing, stiffens, avoids, recruits neighbors, and develops new habits. These solutions are often intelligent and necessary; their significance lies in how they alter reserve and future exposure if the original demand persists.
 
@@ -718,24 +722,24 @@ Develop ongoing muscular effort, repeated correction, autonomic regulation, reco
 
 **Survival work:** Build separate causal diagrams for each proposed scale transition and physiological branch, including null cases and measures of energetic or regulatory cost.
 
-**Part summary.** Part III has moved from baseline to consequence without treating every load as harmful. Mechanical homeostasis depends on dose, capacity, boundary conditions, variability, and recovery. When a route loses continuity, demand may be interrupted, concentrated, maintained in a compliant structure, or repeatedly regenerated through instability and discoordination. Compensation can preserve function while changing subsequent exposure, and repeated changes can sometimes cross regions and physiological scales.
+**Part summary.** Part III has moved from baseline to consequence without treating every load as harmful. Mechanical homeostasis depends on dose, capacity, boundary conditions, variability, and recovery. Its canonical taxonomy now distinguishes global geometric redistribution, local concentration, segmental instability, coordination or handoff failure, constraint-maintained deformation or lost excursion, and compensatory rerouting. These families can coexist and interact, while scale transition describes where their effects travel rather than adding a seventh failure label.
 
 **Part conclusion and transition.** The Part's central negative narrative is conditional but coherent: a low-grade deviation may be silently compensated; the compensation may change later dose; cumulative demand may reduce reserve or move exposure; and a consequence may appear later or elsewhere. That sequence is a mechanical hypothesis, not yet a medical conclusion. Part IV must now show how stress, strain, pressure, constraint, and repeated demand meet actual tissue biology, established medical knowledge, alternative explanations, and the whole person.
 
 ## Part IV — From mechanical organization to medical meaning
 
-**Part introduction.** Parts I–III have shown how living structures carry demand and how concentration, constraint, instability, discoordination, substitution, and compensation can change local exposure. Part IV asks what must happen before that mechanical account becomes medically meaningful. Its answer begins with common ground: medicine already reasons mechanically whenever it measures pressure, restores a fracture, supports ventilation, protects conduit patency—the condition of remaining open enough for the required flow—decompresses a structure, or manages a prosthetic interface. The proposed load-routing lens belongs inside that tradition, not outside medicine as a competing system.
+**Part introduction.** Parts I–III have shown how living structures carry demand and how global redistribution, local concentration, instability, coordination failure, maintained constraint, and compensatory rerouting can change exposure. Part IV asks what must happen before those mechanical accounts become medically meaningful. Its answer begins with common ground: medicine already reasons mechanically whenever it measures pressure, restores a fracture, supports ventilation, protects conduit patency—the condition of remaining open enough for the required flow—decompresses a structure, or manages a prosthetic interface. The proposed load-routing lens belongs inside that tradition as an extension of existing practice.
 
-**Part arc.** Chapter 17 establishes the mechanical reasoning already embedded in ordinary care. Chapter 18 identifies what a more unified routing history could add and why that addition matters before rehabilitation begins. Chapter 19 supplies the indispensable bridge from physical exposure to tissue-specific biological response. Chapter 20 tests the reasoning against difficult deformable systems—vessels, lymphatic pathways, nerves, sliding interfaces, airways, and pressure-bearing cavities. Chapter 21 establishes causal scope, exclusions, and whole-person boundaries. Chapter 22 then places the lens inside actual clinical workflow and answers the objections that it is either physical therapy under another name or an ungrounded alternative diagnostic system.
+**Part arc.** The six chapters perform different jobs. Chapter 17 documents the mechanical reasoning already embedded in medicine. Chapter 18 defines the incremental proposal: a longitudinal, body-wide routing history that connects otherwise local observations. Chapter 19 supplies the biological bridge from physical exposure to tissue response. Chapter 20 compares that bridge across deformable systems without yet telling a complete clinical story. Chapter 21 establishes the causal contract and whole-person limits. Chapter 22 alone translates the lens into clinical workflow and professional relationships. The sequence moves from accepted ground, to proposed addition, to biological plausibility, comparative stress test, scope, and use.
 
 **Part outcome.** By the end of Part IV, the reader should be able to explain what load routing adds to existing medical reasoning, trace a proposed mechanical contribution without skipping biological links, identify where the account has little or no explanatory priority, and use mechanical context without turning it into a diagnosis, protocol, or replacement for established care.
 
-### 17. Where mechanics already lives in medicine
+### 17. Established mechanical reasoning in medicine
 
 Unit BGB-U-0017 · state proposed · posture FND/SYN · confidence E2 · medical M2 · readiness R1
 Tags domain:medicine, domain:biomechanics, context:clinical-reasoning, use:foundation · gates EVID, ALT, CLIN
 
-**Chapter summary.** Established medicine already uses pressure, pumping, ventilation, fixation, decompression, conduit patency, joint loading, prosthetic interfaces, and structural support. The proposed extension asks more consistently how demand reached a tissue, how it was partitioned, and how that history interacts with present findings.
+**Chapter summary.** Established medicine already uses pressure, pumping, ventilation, fixation, decompression, conduit patency, joint loading, prosthetic interfaces, and structural support. This chapter documents that common ground and stops before claiming a new framework. Its endpoint is the narrower observation that recognized mechanical endpoints do not always reconstruct the route or history that produced them.
 
 **Chapter introduction.** Open with a skeptical but fair question: if biomechanics is already a mature field and mechanical interventions are routine, what could this book possibly be adding? The first answer is that it is not importing mechanics into medicine. It is gathering familiar mechanical reasoning into a broader question about the history, distribution, and redirection of demand across an integrated body.
 
@@ -763,16 +767,16 @@ Medicine can identify a compressed nerve, overloaded interface, unstable segment
 
 State the chapter's stance plainly. Existing specialties already contain sophisticated mechanical knowledge. Book I proposes that clinicians and researchers ask the routing question more consistently across regions and over time: what carried the demand, what changed, what compensated, and what exposure reached the tissue now under consideration?
 
-**Chapter conclusion.** Mechanics is already inside medicine wherever pressure, support, stability, patency, movement, or force distribution matters. The possible gap is not the absence of mechanical knowledge but the lack of a shared framework for following demand across structures and through time. Chapter 18 defines that proposed addition and explains why it is medically relevant before a treatment plan is chosen.
+**Chapter conclusion.** Pressure, support, stability, patency, movement, and force distribution are established medical concerns. The possible gap is therefore specific: local mechanical knowledge does not always provide a shared account of how demand crossed structures and changed through time. Chapter 18 must show what explanatory object such an account would add rather than claiming novelty from the common ground itself.
 
 **Survival work:** Document the medical common ground accurately and define the incremental contribution of body-wide routing beyond existing specialties and rehabilitation.
 
-### 18. The proposed extension: following load routing through time
+### 18. The proposed addition: longitudinal load routing
 
 Unit BGB-U-0018 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
 Tags domain:medicine, domain:biomechanics, mech:load-path, context:clinical-reasoning, use:organizing-model · gates DEF, EVID, LINK, ALT, CLIN
 
-**Chapter summary.** Load history and routing may matter upstream of exercise technique and downstream rehabilitation. Intended applications include prevention, risk, functional reserve, ambiguous chronic presentations, surgical and device context, and the conditions of recovery. The proposal's relationship to physical therapy, biomechanics, and existing medical reasoning is defined in terms of difference, extension, and collaboration.
+**Chapter summary.** The proposed addition is a longitudinal object of study: how demand entered a whole-body system, was partitioned among paths, changed through compensation, reached a local tissue, and affected the conditions of later function or recovery. This history may matter before exercise technique and beyond rehabilitation. Prevention, risk, functional reserve, ambiguous chronic presentations, surgery, devices, and recovery remain intended applications rather than conclusions of this chapter.
 
 **Chapter introduction.** Begin with the familiar local question—what structure is painful, damaged, narrowed, unstable, or inflamed—then add the routing question: how did mechanical demand arrive there, what shared or redirected it, and how long did that organization persist? The proposed framework does not make the local finding less real. It asks whether the finding belongs to a longer history that can change interpretation, risk, recovery, or research design.
 
@@ -780,9 +784,9 @@ Tags domain:medicine, domain:biomechanics, mech:load-path, context:clinical-reas
 
 Contrast the present anatomical endpoint with the sequence that preceded it. The same tissue finding can arise within different tasks, configurations, compensations, exposure histories, and recovery conditions. Reconstructing that history may reveal why one site became the limiting interface without claiming that a global pattern caused every local lesion.
 
-#### 18.2 Routing gives the failure patterns a common language
+#### 18.2 The adverse-organization taxonomy supplies a common language
 
-Reintroduce concentration, constraint, and instability as the minimal medical pattern language, then show how interruption, substitution, discoordination, and compensation connect them. These terms describe possible mechanical relationships rather than diagnoses, and they can be applied across regions without assuming that all regions fail identically.
+Carry forward the six families from Part III: global geometric redistribution, local concentration, segmental instability, coordination or handoff failure, constraint-maintained deformation or lost excursion, and compensatory rerouting. They describe possible mechanical relationships rather than diagnoses. A shared taxonomy permits comparison across regions while leaving the anatomy, tissue response, clinical importance, and causal priority specific to each case.
 
 #### 18.3 Cumulative demand can matter before symptoms or a discrete injury
 
@@ -792,9 +796,9 @@ Develop the sequence in which a body preserves function through altered distribu
 
 Explain how routing can inform questions about exposure, prevention, functional reserve, surgical or device context, recurrence, and conditions of recovery in injured and non-injured populations. In ambiguous chronic presentations—fatigue, low resilience, diffuse discomfort, fluctuating symptoms—the lens may help organize context without claiming that mechanics is the primary cause.
 
-#### 18.5 What this adds to biomechanics and physical therapy
+#### 18.5 A shared object of study across disciplines
 
-Biomechanics supplies the measurement and modeling disciplines; physical therapy already evaluates movement, load, capacity, and adaptation in depth. The proposed contribution is a shared body-wide and medically integrated routing framework that can connect those insights with diagnostic interpretation, longitudinal risk, devices, surgery, pharmacology, and research questions. It should collaborate with those fields rather than rename or displace them.
+Biomechanics can model and measure portions of the route; physical therapy can evaluate movement, load, capacity, and adaptation; medical specialties can identify tissue states and manage local endpoints; occupational, developmental, and social histories can explain boundary conditions. The proposed object is the relationship among those observations across time. Chapter 22 owns the practical question of how this collaboration enters workflow.
 
 #### 18.6 A framework for questions, not a treatment system
 
@@ -841,14 +845,14 @@ Keep the epistemic steps separate. Evidence that a tissue experienced strain doe
 
 **Survival work:** Map tissue-specific evidence and preserve the distinctions among mechanical exposure, biological response, symptoms, diagnosis, and individual outcome.
 
-### 20. Conduits, nerves, sliding interfaces, and pressure systems
+### 20. Comparing conduits, nerves, sliding interfaces, and pressure systems
 
 Unit BGB-U-0020 · state proposed · posture SYN/HYP · confidence E1 · medical M3 · readiness R1
 Tags domain:medicine, domain:biomechanics, mech:constraint, mech:pressure-flow, anat:vascular, anat:lymphatic, anat:neural · gates DEF, FORM, EVID, LINK, ALT, MEAS, CLIN
 
-**Chapter summary.** The model extends to deformable vessels, lymphatic pathways, nerve roots and peripheral nerves, sliding interfaces, airway, and cranial, thoracic, abdominal, and pelvic pressure systems. Thoracic outlet, pelvic basin, venous return, lymphatic flow, nerve excursion, airway, and pressure-related contexts remain named hypotheses. Each chain begins with geometry and imposed load before considering flow, conduction, regulation, or symptoms.
+**Chapter summary.** This chapter is a cross-system comparison rather than a worked case. It asks how constraint-maintained deformation differs among vessels, lymphatic pathways, nerve roots and peripheral nerves, sliding interfaces, airways, and cranial, thoracic, abdominal, and pelvic pressure systems. Thoracic outlet, pelvic basin, venous return, lymphatic flow, nerve excursion, airway, and pressure-related contexts remain named hypotheses. For each system, geometry and imposed load must precede claims about flow, conduction, regulation, or symptoms.
 
-**Chapter introduction.** Return to the hard/soft intuition in its most demanding setting. A vessel must remain deformable yet patent, a nerve must conduct while moving relative to its surroundings, and an organ or airway may depend on changing volume and pressure. When surrounding structures maintain compression, bending, traction, or tethering, the clinically relevant event is not merely “less space”; it is the imposed stress and strain, altered excursion, or changed geometry of a living soft structure.
+**Chapter introduction.** Chapter 13 supplied one generic relation; Chapter 19 supplied the tissue-response bridge. Place them side by side here and ask which variables survive a change of biological system. A vessel must remain deformable yet patent, a nerve must conduct while moving relative to its surroundings, and an organ or airway may depend on changing volume and pressure. Their common mechanical questions do not guarantee common biological effects, measurements, or clinical interpretations.
 
 #### 20.1 Soft structures require controlled freedom
 
@@ -870,20 +874,20 @@ Develop nerve roots and peripheral nerves as conducting tissues that also slide,
 
 Extend the same questions to pleural and fascial sliding, the upper airway, and cranial, thoracic, abdominal, and pelvic pressure systems. Distinguish a mechanical description of contact, pressure, mobility, or containment from stronger claims about organ regulation or whole-body health.
 
-#### 20.6 Compare systems by deformation, function, and measurement
+#### 20.6 Build the cross-system comparison
 
-Compare how a vessel, lymphatic pathway, nerve, airway, and sliding interface respond to external contact, traction, bending, torsion, pressure, or restricted excursion. For each system, specify the geometry that changes, the function that could be affected, and the measurement that could distinguish the proposed chain from intrinsic disease or incidental anatomy. Chapter 24 develops thoracic outlet syndrome as the complete worked corridor narrative.
+Organize a matrix across vessel, lymphatic pathway, nerve, airway, cavity, and sliding interface. For each, record the imposed demand, relevant deformation or lost excursion, restoring behavior, regulated function, candidate measurement, intrinsic alternative, and possible clinical observation. The comparison should reveal where one mechanical family requires different constitutive and biological accounts. Chapter 24 then selects thoracic outlet syndrome for the complete worked corridor narrative.
 
-**Chapter conclusion.** Conduits, nerves, sliding interfaces, and pressure systems make the routing question concrete because surrounding load can become deformation of a functional soft boundary. They also show why every arrow must be tested separately. Chapter 21 now establishes the causal and whole-person rules that govern when such a chain is central, contributory, consequential, or largely beside the point.
+**Chapter conclusion.** The comparison preserves a common starting relation—surrounding load becoming deformation of a functional soft boundary—while exposing system-specific restoring forces, functions, measurements, regulation, and alternatives. It supplies no generic clinical consequence. Chapter 21 now establishes the causal and whole-person rules governing any use of these chains.
 
 **Survival work:** Perform system- and condition-specific chain analysis, including intrinsic versus extrinsic constraints, asymptomatic findings, compensatory regulation, and diagnostic uncertainty.
 
-### 21. Scope, causality, and the whole person
+### 21. Causal scope, alternatives, and the whole person
 
 Unit BGB-U-0021 · state proposed · posture SYN/APP · confidence E2 · medical M3 · readiness R1
 Tags domain:medicine, domain:health, context:clinical-reasoning, use:clinical-reference · gates DEF, EVID, ALT, CLIN, ETH
 
-**Chapter summary.** Mechanics may organize, contribute to, modify, follow from, or add little to an explanation without forcing every case into a fixed label. Mechanical accounts remain in comparison with inflammatory, infectious, genetic, metabolic, neurological, psychological, social, developmental, and environmental accounts. Osteoarthritis versus rheumatoid arthritis and connective-tissue, autoimmune, metabolic, traumatic, and multisystem examples serve as boundary tests.
+**Chapter summary.** This chapter is the framework's causal contract. It defines how mechanics may organize, contribute to, modify, follow from, or add little to an explanation without forcing every case into a fixed label. Mechanical accounts remain in comparison with inflammatory, infectious, genetic, metabolic, neurological, psychological, social, developmental, and environmental accounts. Osteoarthritis versus rheumatoid arthritis and connective-tissue, autoimmune, metabolic, traumatic, and multisystem examples serve as boundary tests.
 
 **Chapter introduction.** A framework earns trust partly by saying where it stops. This chapter gives Book I an explicit causal contract: mechanical conditions can be real and measurable without being the primary origin of a presentation; they can also be important without standing alone. The task is to determine their role in context, not to sort every person into a rigid mechanical or nonmechanical category.
 
@@ -919,12 +923,12 @@ Distinguish direct mechanical observation, plausible linkage, supported tissue r
 
 **Survival work:** Establish case-sensitive causal language and have all named-condition boundaries reviewed for alternatives, uncertainty, and whole-person context.
 
-### 22. A clinical lens integrated with real medical work
+### 22. Integrating the lens into clinical workflow
 
 Unit BGB-U-0022 · state proposed · posture SYN/APP · confidence E1 · medical M3 · readiness R1
 Tags domain:medicine, context:clinical-reasoning, use:organizing-model, use:clinical-reference · gates EVID, ALT, MEAS, CLIN, ETH, AUD
 
-**Chapter summary.** The framework may change history taking, task and time questions, interpretation of imaging and asymptomatic findings, symptom-modulation observations, measurement, and uncertainty recording. It operates in relationship with diagnosis, pharmacology, surgery, rehabilitation, referral, and interdisciplinary care. The chapter also addresses objections that the framework is either merely rehabilitation or ungrounded alternative medicine.
+**Chapter summary.** This chapter applies the preceding causal contract to workflow: history taking, task and time questions, imaging and asymptomatic findings, symptom-modulation observations, measurement, uncertainty recording, follow-up, and referral. It shows where routing context meets diagnosis, pharmacology, surgery, rehabilitation, and interdisciplinary care, and addresses the objections that the framework is either merely rehabilitation or an ungrounded alternative diagnostic system.
 
 **Chapter introduction.** Follow one patient encounter from first history through follow-up. The routing lens does not provide a parallel diagnosis or a predetermined correction. It adds a disciplined set of mechanical-context questions to established clinical work, helps record what is observed versus inferred, and clarifies which finding should change investigation, referral, or management.
 
@@ -968,7 +972,7 @@ The framework remains testable only when terms are defined, mechanisms are decom
 
 **Part introduction.** The preceding Parts have built a vocabulary and a set of mechanical patterns. Part V now asks whether those tools can survive contact with complete examples. The cases are not illustrations placed after the argument to make it feel clinical; they are tests that force the argument to declare a system boundary, trace every intermediate step, compare alternatives, and say what evidence would change the interpretation.
 
-**Part arc.** The four narratives increase in complexity. Chapter 23 begins with geometry and localized tissue exposure. Chapter 24 follows a compliant structure whose deformation is maintained by its surroundings. Chapter 25 adds instability, sensory control, repeated demand, and changing capacity. Chapter 26 ends with a mixed chronic presentation in which mechanical history may matter but cannot reasonably stand alone.
+**Part arc.** The four narratives increase in complexity and each foregrounds a family from Part III. Chapter 23 follows global geometry into localized concentration. Chapter 24 turns the generic and comparative constraint models of Chapters 13 and 20 into one thoracic-outlet narrative. Chapter 25 combines instability, coordination, repeated demand, and changing capacity. Chapter 26 ends with compensatory rerouting in a mixed chronic presentation where mechanical history may matter but cannot reasonably stand alone.
 
 **Shared case structure.** Each chapter uses the same sequence: presenting observation → task and environment → configuration and available paths → external demand and internal distribution → local stress, strain, pressure, or excursion → tissue response over time → function, findings, or symptoms → competing explanations → observations that would strengthen, weaken, or leave unresolved the proposed account.
 
@@ -1011,18 +1015,18 @@ Use a knee, hip, ankle, or foot example to test the general pattern: geometry an
 
 Compare morphology, genetics, inflammation, activity history, acute injury, sensitization, deconditioning, expectation, and incidental imaging. Identify what measurements of task, contact, motion, stress, symptoms, and time would strengthen or weaken the proposed geometry-to-strain chain.
 
-**Chapter conclusion.** Geometry matters because it changes the route and distribution of demand, not because visible alignment is automatically pathological. The case establishes concentration as one failure signature. Chapter 24 turns to a different problem: a compliant structure whose own freedom to change shape or glide is restricted by a load maintained around it.
+**Chapter conclusion.** Geometry matters because it changes the route and distribution of demand, not because visible alignment is automatically pathological. The case tests global redistribution and local concentration as distinct families in one narrative. Chapter 24 turns to a different problem: a compliant structure whose own freedom to change shape or glide is restricted by a load maintained around it.
 
 **Survival work:** Select examples with adequate evidence and present alternative explanations, asymptomatic variation, and observations that would strengthen or weaken the mechanical interpretation.
 
-### 24. A soft structure held under constraint
+### 24. Thoracic outlet: a soft structure held under constraint
 
 Unit BGB-U-0024 · state proposed · posture SYN/HYP/APP · confidence E1 · medical M3 · readiness R1
 Tags domain:biomechanics, domain:medicine, model:hard-soft, mech:constraint, mech:pressure-flow, use:worked-example · gates PROV, DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS
 
-**Chapter summary.** Thoracic outlet syndrome serves as the leading candidate narrative, accompanied by a shorter vascular, neural, airway, craniofacial, or pelvic comparison. The chain runs from imposed contact, compression, traction, bending, or tethering through wall or tissue strain, maintained deformation, and restricted excursion, and only then to possible changes in flow, conduction, function, or symptoms.
+**Chapter summary.** Thoracic outlet syndrome supplies the complete candidate narrative that Chapters 13 and 20 deliberately deferred. The case must choose a presentation and system boundary, then trace imposed contact, compression, traction, bending, or tethering through wall or neural-tissue strain, maintained deformation, and restricted excursion before considering flow, conduction, function, or symptoms. A shorter comparison tests which steps generalize beyond this corridor.
 
-**Chapter introduction.** Begin with the hose analogy, then improve it. A flexible tube often tends to reopen; if it remains kinked, a boundary, contact, pressure difference, material change, or continuing force is maintaining the deformation. The active mechanical event is therefore not merely “less space.” It is stress and strain imposed on a compliant structure, with a changed course, lumen, excursion, or flow as possible consequences.
+**Chapter introduction.** Begin with a concrete but diagnostically heterogeneous thoracic-outlet presentation and declare which vascular, neural, or mixed account is being tested. The hose analogy from Chapter 13 can clarify one step, but it cannot supply the anatomy, active control, tissue behavior, regulation, symptoms, or alternatives. This chapter earns the case one link at a time rather than repeating the generic model in clinical language.
 
 #### 24.1 What makes this a hard/soft case
 
@@ -1052,7 +1056,7 @@ Compare deformation maintained by surrounding configuration with intrinsic wall 
 
 Use one shorter example from a nerve root, pelvic basin, upper airway, craniofacial passage, venous or lymphatic route, or sliding organ interface. The comparison should test whether the same causal order holds while preventing thoracic outlet anatomy from standing in for all soft structures.
 
-**Chapter conclusion.** Loss of space is not the end of the explanation. The useful mechanical narrative identifies what is applying and maintaining deformation, how the compliant structure responds, and which downstream effects are actually demonstrated. Chapter 25 adds a problem that may exist even without a fixed obstruction: instability and poorly coordinated control under repeated demand.
+**Chapter conclusion.** The thoracic-outlet narrative succeeds only if it identifies the maintaining demand, the tissue-specific deformation, the functional link actually measured, and the alternatives that remain. A corridor label or image of reduced space cannot complete that chain. Chapter 25 tests a different pattern that may exist without any fixed obstruction: instability and coordination failure under repeated demand.
 
 **Survival work:** Verify every link for the selected contexts and distinguish the proposed routing account from intrinsic pathology, diagnostic uncertainty, and incidental narrowing.
 
@@ -1280,7 +1284,7 @@ Tags domain:biomechanics, model:posterior-chain, model:preferred-configuration, 
 
 **Chapter summary.** Three nested propositions close the book: posterior structures form a major load-management system; anterior–posterior distribution is one useful lens within three-dimensional routing; and posterior participation may be a necessary but insufficient manifestation of a preferred body-wide organization expressed through downward axial, external or opening rotational, and outward expansive modes. Posterior names a region, hard names a role, and Yang names a signed organizational tendency whose relationships remain central research questions.
 
-**Chapter introduction.** Return to the title after the foundational argument is complete. The phrase *The Back Goes Backwards* can now be heard at several levels: an ordinary anatomical observation about posterior structures, a mechanical question about anterior–posterior distribution, and a stronger hypothesis about a preferred three-dimensional organization. The chapter tells the reader which level Book I has established and which levels the later series must earn.
+**Chapter introduction.** Return to the title after the foundational argument is complete. The phrase *The Back Goes Backwards* can now be heard at several levels: an ordinary anatomical observation about posterior structures, a mechanical question about anterior–posterior distribution, and a stronger hypothesis about a preferred organization expressed through signed generalized modes. The chapter tells the reader which level Book I has established, which levels the later series must earn, and which definitions Book II can now inherit without recapitulation.
 
 #### 30.1 What Book I establishes without qualification by later books
 
@@ -1314,13 +1318,13 @@ Preview the later questions of pressure, respiratory phase, the hyoid, diaphragm
 
 Preview the tests, cues, drills, teaching methods, movement systems, professional applications, and personal practices preserved for Book V. Their place at the end of the sequence is intentional: application should inherit the definitions, measurements, evidence, safety, and scope developed earlier rather than serving as proof of the model.
 
-**Chapter conclusion.** Book I ends with a complete lens and an open research horizon. The reader can reject, revise, or remain undecided about the preferred configuration while retaining the book's central contribution: living structure has a mechanical history, and tracing how demand is carried can add meaningful information to accounts of function, tissue state, symptoms, and recovery. Book II takes up the stronger proposition directly and asks whether the series title names more than an anatomical emphasis.
+**Chapter conclusion.** Book I ends with a complete lens and an open research horizon. The reader can reject, revise, or remain undecided about the preferred configuration while retaining the book's central contribution: living structure has a mechanical history, and tracing how demand is carried can add meaningful information to accounts of function, tissue state, symptoms, and recovery. Book II assumes this vocabulary, division of mechanical labor, posterior anatomy, adverse-organization taxonomy, and medical boundary. It takes up the stronger proposition directly and asks whether the series title names more than an anatomical emphasis.
 
-**Survival work:** Define the handoff to Book II clearly enough that Book I remains complete on its own while preserving the strongest preferred-configuration hypothesis without implying it has already been established.
+**Survival work:** Keep Book I complete on its own while making the sequential handoff explicit enough that Book II can inherit rather than repeat its mechanics, anatomy, adverse-organization taxonomy, and medical boundaries.
 
 **Part summary.** Part VI has translated the framework into four levels of consequence: better questions now; education and environmental design that can develop with proportionate evidence; separate research, measurement, therapeutic, implementation, and health-system programs; and a clearly disclosed set of stronger hypotheses for later books.
 
-**Part conclusion and book conclusion.** Book I begins with the fact that a living body must carry material demand and ends with a disciplined way to follow that demand through structure, exposure, response, compensation, and context. Its claim is both modest and consequential: mechanics need not explain everything to deserve a more coherent place in how health and illness are investigated. The remaining books ask whether the organization of that mechanics has a preferred direction, a traditional coordinate map, a breath-driven dynamics, and a responsible practice.
+**Part conclusion and book conclusion.** Book I begins with the fact that a living body must carry material demand and ends with a disciplined way to follow that demand through structure, exposure, response, compensation, and context. Its claim is both modest and consequential: mechanics need not explain everything to deserve a more coherent place in how health and illness are investigated. The series now proceeds cumulatively. Book II investigates preferred organization through signed generalized modes; Book III develops the traditional coordinate map; Book IV asks how breath and pressure may drive whole-system dynamics; and Book V addresses responsible practice.
 
 ## Internal inventories
 
@@ -1331,13 +1335,14 @@ These inventories are not additional reader-facing chapters. They are conservati
 Unit BGB-U-0091 · state proposed · posture EDT/HYP/APP · confidence E0 · medical M3 · readiness R0
 Tags domain:medicine, domain:research, use:clinical-reference, use:research-program · gates PROV, DEF, EVID, LINK, ALT, MEAS, CLIN, AUD
 
-Maintain every named spinal, craniofacial, conduit, joint, postural, systemic, lifespan, and boundary example in a provenance-bearing matrix crossed by geometry, concentration, instability, discoordination, constraint, compensation, and scale transition. Include the proposed regional and physiological consequences attached to each candidate.
+Maintain every named spinal, craniofacial, conduit, joint, postural, systemic, lifespan, and boundary example in a provenance-bearing matrix. Cross each candidate first by the six-family adverse-organization taxonomy, then by transfer state and scale transition. Include the proposed regional and physiological consequences attached to each candidate.
 
 The populated [source coverage ledger](../source-coverage.md) is the current provenance index for the recovered obligations and their destinations. This matrix adds the candidate-level mechanical pattern, proposed consequence, claim role, and editorial disposition during research; grouped lists below are conservation controls until those rows are complete.
 
 #### Matrix axes
 
-- **Mechanical pattern:** global geometry, concentration, instability, discoordination, interruption, constraint or maintained deformation, compensation, and scale transition.
+- **Adverse-organization family:** global or axial geometric redistribution; local stress or strain concentration; segmental instability; coordination or handoff failure; constraint-maintained deformation or lost excursion; and compensatory rerouting.
+- **Transfer and scale qualifiers:** continuity, interruption, bypass, overload, substitution, local-to-regional or regional-to-global transition, global-to-local concentration, and feedback across scales.
 - **Region or system:** cervical; thoracic; lumbar; craniofacial; upper extremity; lower extremity; cranial or intracranial pressure; upper airway or respiratory; rib or thoracic mechanics; diaphragmatic or abdominal pressure; pelvic-floor or urogenital; visceral suspension or organ mobility.
 - **Editorial role:** primary worked narrative, short comparison, boundary case, counterexample, later-book candidate, or research-only inventory.
 - **Claim role:** observed anatomy, established mechanics, organizing interpretation, authorial hypothesis, medical hypothesis, or application candidate.
@@ -1375,7 +1380,7 @@ Preserve analogies for graded compliant-to-structural load sharing, force paths,
 - **Graded tissue handoff:** explore fascia or muscle → tendon or ligament → bone or joint as a candidate progression from accommodation and actuation toward structural resolution.
 - **Springs, dampers, and hysteresis:** explain storage, return, dissipation, time dependence, and fatigue in bounded tissue or task examples.
 - **Flexible tubes under constraint:** distinguish maintaining stress and wall strain from secondary changes in course, lumen, flow, or patency.
-- **Coordinate frames and basis decomposition:** use one familiar three-dimensional task to separate global direction, local anatomical direction, force components, and moment components.
+- **Coordinate frames and basis decomposition:** use the recurring neutral object-transfer task to separate global direction, local anatomical direction, force components, and moment components.
 - **Rotational inertia:** compare how distribution of mass changes the effort or torque required for angular acceleration without confusing inertia with tissue stress.
 - **Tension-network and tensegrity models:** identify what prestress, distributed stability, and continuity might explain, which scale is intended, and where conventional joint, beam, shell, pressure, or active-control models are sufficient.
 

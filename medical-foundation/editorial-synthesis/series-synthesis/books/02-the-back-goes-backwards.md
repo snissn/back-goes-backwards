@@ -4,7 +4,7 @@
 
 ## Editorial role
 
-Book II makes the project's distinctive anatomical and mechanical hypothesis central. It is sequential and assumes Book I has been read. It inherits Book I's language of load, hard and soft roles, pressure-mediated support, posterior anatomy, and adverse exposure by reference, then asks whether human structure has a preferred body-wide organization and whether posterior participation is one observable manifestation of it. Brief seam recaps should orient the reader without rebuilding the foundation.
+Book II makes the project's distinctive anatomical and mechanical hypothesis central. It is sequential and assumes Book I has been read. It inherits Book I's language of load, hard and soft roles, pressure-mediated support, posterior anatomy, and adverse exposure by reference, then asks whether human structure has a preferred body-wide organization. Its present working expectation is that a fully expressed version necessarily includes mechanically meaningful posterior participation, although that participation alone cannot establish the preferred organization. Brief seam recaps should orient the reader without rebuilding the foundation.
 
 The preferred configuration remains a research hypothesis at this stage. The outline preserves its strongest coherent form, its anatomical and traditional motivations, its possible applications, and the observations that could support, refine, delimit, or disfavor it.
 
@@ -18,13 +18,13 @@ The preferred configuration remains a research hypothesis at this stage. The out
 
 Book I established that a living body must continuously carry and redistribute mechanical demand. It also established the posterior chain as a substantial anatomical support system and introduced hard and soft as changing mechanical roles. None of those claims requires one ideal posture or one globally preferred load path. Book II begins where that completed foundation leaves an open question: among the many configurations through which a person can stand, move, absorb force, and recover, does human anatomy favor a more coherent body-wide organization?
 
-The question is stronger than asking whether a particular movement is possible or whether posterior structures are active. It proposes that axial, expansive, and opening/rotational modes may be signed and coupled across regions; that one combined organization may more efficiently establish a capable skeletal, tensile, active, and pressure-mediated route; and that posterior support may be one anatomical consequence. The book develops this possibility in its own terms before asking whether observation and measurement justify it.
+The question is stronger than asking whether a particular movement is possible or whether posterior structures are active. It proposes that axial, opening/rotational, and expansive/lateral modes may be signed and coupled across regions; that one combined organization may more efficiently establish a capable skeletal, tensile, active, and pressure-mediated route; and that posterior support may be a necessary consequence within the model's eventual domain. The book develops this possibility in its own terms before asking whether anatomy, mechanics, observation, and measurement justify it.
 
 ### What is inherited and what is new
 
 The argument inherits five pieces of ground from Book I: external demand becomes local exposure through configuration-dependent paths; hard and soft name functional roles rather than tissue classes; yielding structures can carry substantial load while still needing freedom to conform, glide, contain, and recover; the posterior chain is anatomically real and mechanically important in many tasks; and mechanical meaning remains conditional on task, dose, capacity, biology, history, and context.
 
-Book II adds a separable proposition stack. First, skeletal-primary routing and bilateral reference symmetry provide useful first-order assumptions at whole-body scale, while orthotropic and other constitutive models remain optional regional approximations. Second, regional organization may be reduced to axial, expansive, and opening/rotational modes with two proposed signs each. Third, the Yang signs—downward axial resolution, external or opening rotation, and outward expansion—may participate in a coherent global organization. Fourth, posterior participation may follow as a necessary but insufficient manifestation within the eventual domain of that organization. A finding may support one proposition without establishing the others, and each must retain its own alternatives and tests.
+Book II adds a separable proposition stack. First, skeletal-primary routing and bilateral reference symmetry provide useful first-order assumptions at whole-body scale, while orthotropic and other constitutive models remain optional regional approximations. Second, regional organization may be represented through axial, opening/rotational, and expansive/lateral modes with two proposed signs each. Third, the Yang signs—downward axial resolution, external or opening rotation, and outward expansion—may participate in a coherent global organization. Fourth, posterior participation is expected to follow as a necessary but insufficient manifestation within the eventual domain of that organization. A finding may support one proposition without establishing the others, and each must retain its own alternatives and tests.
 
 ### What “preferred” is allowed to mean
 
@@ -36,7 +36,7 @@ Ordinary Yin-directed movement remains necessary. A step, reach, breath, recover
 
 The same chain organizes the book:
 
-> inherited load-routing foundation → chosen system and local frame → first-order structural assumptions → signed regional organization → coupling across modes and regions → candidate global state or bias → possible posterior manifestation → predicted mechanical consequence → measurement and comparison with alternatives
+> inherited load-routing foundation → chosen system and local frame → first-order structural assumptions → signed regional organization → coupling across modes and regions → candidate whole-system efficiency relation → candidate global state or bias → proposed posterior manifestation → predicted mechanical consequence → measurement and comparison with alternatives
 
 This chain prevents the title from proving itself. Visible posterior participation cannot by itself establish an all-Yang configuration, and an all-Yang configuration cannot be inferred simply by renaming posterior anatomy. The account must show how signed geometry changes contact, force, moment, pressure, tensile relations, and load partition; it must also identify posterior loading without the preferred state and preferred organization without an obvious backward visual signature.
 
@@ -46,12 +46,12 @@ This chain prevents the title from proving itself. Visible posterior participati
 |---|---|---|---|
 | I. Defining the hypothesis | What exactly is being proposed, and what is inherited rather than newly asserted? | Establishes frames, approximations, configuration and routing-regime language, meanings of preference, alternatives, and boundary conditions. | The abstract model must be made anatomically concrete before its three signs can be compared across the whole body. |
 | II. Regional anatomy of preferred support | How might the proposed organization appear in the pelvis, spine, thorax, upper limbs, lower limbs, and ground relation? | Makes a region-first pass through coupled anatomy, task, hard/soft roles, posterior support, and comparative context. | Repeated regional patterns can then be re-read mode by mode with consistent sign conventions. |
-| III. The three signed modes | Can axial, expansive, and opening/rotational organization be defined distinctly and then coupled coherently? | Formalizes generalized configurations and their conjugate loads, separates configuration from movement and organizational sign, and compares state, bias, phase, and attractor versions of the all-Yang hypothesis. | A defined combined model can finally be asked to derive rather than merely assume the title proposition. |
+| III. The three signed modes | Can axial, opening/rotational, and expansive/lateral organization be defined distinctly and then coupled coherently? | Formalizes generalized configurations and their conjugate loads, separates configuration from movement and organizational sign, and compares state, bias, phase, and attractor versions of the all-Yang hypothesis. | A defined combined model can finally be asked to derive rather than merely assume the title proposition. |
 | IV. Testing *The Back Goes Backwards* | Does the model predict posterior organization, task variation, observations, and cases better than its alternatives? | Derives posterior participation, defines measures and non-advantages, compares cases and nulls, and ends with falsifiers and revision rules. | The resulting mechanical model can enter Book III without requiring its traditional coordinate correspondence to serve as proof. |
 
 ### The intended ending
 
-Book II succeeds if it turns an authorial intuition into a clearer and more discriminating research object. The conclusion need not announce one immutable configuration. It may support a task-specific bias, divide the hypothesis into regional forms, preserve an attractor interpretation for further work, or identify observations that would disfavor the whole proposal. What must emerge is an explicit account of what the model claims, what posterior loading contributes to it, what conventional explanations can already explain, and what future evidence could genuinely change the answer.
+Book II succeeds if it turns an authorial intuition into a clearer and more discriminating research object. The conclusion need not announce one immutable configuration. It may support a task-specific bias, divide the hypothesis into regional forms, preserve an attractor interpretation for further work, or identify observations that would disfavor the whole proposal. What must emerge is an explicit account of what the model claims, what the proposed posterior-necessity relation would require, what conventional explanations can already explain, and what future evidence could genuinely change the answer.
 
 Book III then takes up a different question: whether the mechanical signs developed here map meaningfully to Yin/Yang, the Six Divisions, paired channels, bandhas, and other embodied traditions. Book II may use Yin and Yang as native names for its proposed signs, but neither its anatomy nor its conclusions depend on that later correspondence being historically or mechanically validated.
 
@@ -68,7 +68,7 @@ Book III then takes up a different question: whether the mechanical signs develo
 Unit BGB-U-0101 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
 Tags domain:biomechanics, model:preferred-configuration, mech:load-path, use:hypothesis · gates INTENT, DEF, FORM, EVID, ALT, MEAS
 
-**Chapter summary.** Book II begins from the established usefulness of tracing mechanical demand and advances a stronger possibility: human anatomy may support some body-wide routing organizations more efficiently than others. Skeletal-primary support, the hard/soft division of labor, an all-Yang organizational bias, and posterior loading are treated as related but separable propositions. “Preferred” provisionally names a real whole-system mechanical efficiency relation whose variables and domain remain to be formalized; the familiar language of stability, strain distribution, cost, reserve, resilience, and recovery supplies candidate terms and observable consequences rather than unrelated definitions.
+**Chapter summary.** Book II begins from the established usefulness of tracing mechanical demand and advances a stronger possibility: human anatomy may support some body-wide routing organizations more efficiently than others. Skeletal-primary support, the hard/soft division of labor, an all-Yang organizational bias, and posterior participation are treated as related but separable propositions. “Preferred” provisionally names a real whole-system mechanical efficiency relation whose variables and domain remain to be formalized; the familiar language of stability, strain distribution, cost, reserve, resilience, and recovery supplies candidate terms and observable consequences rather than unrelated definitions.
 
 **Chapter introduction.** A load path can be described without declaring it optimal. Book I used that neutral stance to follow how demand is distributed, how local exposure arises, and how compensation changes the next demand. This chapter now asks whether the neutral framework contains a further anatomical pattern: across changing tasks, might there be an organization toward which the body tends, in which structural demand is resolved coherently and yielding structures retain greater freedom to conform, glide, expand, and recover?
 
@@ -109,7 +109,7 @@ The investigation proceeds from definitions to assumptions, from assumptions to 
 Unit BGB-U-0102 · state proposed · posture FND/SYN · confidence E2 · medical M1 · readiness R1
 Tags domain:mechanics, model:generalized-modes, mech:force-torque, mech:geometry, use:foundation · gates DEF, FORM, EVID, MEAS, VIS
 
-**Chapter summary.** The model requires two related but different descriptions. Spatial frames locate geometry and transform directions across a curved, bilateral body. Three generalized modes reduce recurring patterns of longitudinal organization, outward expansion, and relative opening or closing into coordinates whose associated loads can be compared. Configuration, motion, conjugate load, internal field, and organizational sign remain distinct even when they concern the same mode. Cylindrical and curvilinear frames remain useful visual analogies rather than the ontology of the model.
+**Chapter summary.** The model requires two related but different descriptions. Spatial frames locate geometry and transform directions across a curved, bilateral body. Three generalized modes reduce recurring patterns of longitudinal organization, relative opening or closing, and outward expansion into coordinates whose associated loads can be compared. Configuration, motion, conjugate load, internal field, and organizational sign remain distinct even when they concern the same mode. Cylindrical and curvilinear frames remain useful visual analogies rather than the ontology of the model.
 
 **Chapter introduction.** Words such as up, out, axial, rotation, and lateral feel self-evident until they are applied across a curved spine, two sides of a pelvis, a rotating limb, and a body moving through space. The same arrow can describe where a point moved, where a force acts, how a tissue is oriented, or how an organizational tendency is signed. This chapter gives each use a place so that a later anatomical observation cannot silently change categories as it becomes a body-wide claim.
 
@@ -135,7 +135,7 @@ Positive expansion is locally outward on both sides even though the correspondin
 
 #### 2.6 Position, force, moment, stress, and material direction
 
-Position and orientation describe a state; translation and rotation describe change; force and moment describe interactions; stress describes an internal field; and material directions describe structural organization or constitutive symmetry. Principal-stress directions arise from a particular stress state and need not coincide with anatomical axes, material axes, or generalized modes. Center of mass, line of action, moment arm, and rotational inertia belong to this mechanical account but cannot substitute for one another. One positive hypothesis for later testing is that preferred organization may bring several of these relations into greater coherence—or reduce mechanically costly conflict or shear among them—without requiring the frames to coincide.
+Position and orientation describe a state; translation and rotation describe change; force and moment describe interactions; stress describes an internal field; and material directions describe structural organization or constitutive symmetry. Principal-stress directions arise from a particular stress state and need not coincide with anatomical axes, material axes, or generalized modes. Center of mass, line of action, moment arm, and rotational inertia belong to this mechanical account but cannot substitute for one another. “Force line” must likewise name its level: it may mean an external force's line of action, or an internal multi-carrier connection assembled through skeletal contact, active or passive tension, pressure, and changing geometry. The latter is neither one vector nor one anatomical cable. One positive hypothesis for later testing is that preferred organization may bring several of these relations into greater coherence—or reduce mechanically costly conflict or shear among them—without requiring the frames to coincide.
 
 #### 2.7 A curvilinear visual grammar
 
@@ -232,7 +232,7 @@ Topology motivates attention to continuity and qualitative change that can survi
 Unit BGB-U-0105 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
 Tags domain:biomechanics, model:preferred-configuration, mech:geometry, process:adaptation, use:hypothesis · gates DEF, EVID, ALT, MEAS, CLIN
 
-**Chapter summary.** A preferred routing regime need not be one frozen pose, one universal neutral alignment, or an instruction to eliminate Yin-directed movement. Preference may be instantaneous, task-relative, gravity-biased, statistically dominant, cyclic, or attractor-like across movement. Variability, asymmetry, and alternative organizations may remain adaptive, while any proposed advantage must be defined for a particular task, person, state, and timescale.
+**Chapter summary.** A preferred routing regime need not be one frozen pose, one universal neutral alignment, or an instruction to eliminate Yin-directed movement. The organization that best satisfies the provisional whole-system efficiency relation may appear as a task-relative state, gravity-biased pattern, statistical bias, cyclic relation, or attractor-like tendency across movement. Variability, asymmetry, and alternative organizations may remain adaptive, while any proposed advantage must be defined for a particular task, person, state, and timescale.
 
 **Chapter introduction.** The phrase preferred configuration easily collapses into a familiar but weaker claim: there is one correct way to stand, and departures from it are defects. That is not the model developed here. A living body must turn, fold, reach, absorb, yield, reverse, and adapt. If a preference exists, it must be compatible with that repertoire and visible in how the system organizes and recovers across movement rather than in one photograph.
 
@@ -264,7 +264,7 @@ Candidate advantages include lower local strain, more skeletal load partition, l
 
 Evidence would weigh against a proposed preference if clearly defined alternative organizations repeatedly produce equal or better outcomes, if the signed pattern fails to correspond to load distribution, if apparent advantages disappear after accounting for strength, skill, morphology, pain, or training, or if no stable regional mapping can be constructed. Refinement may narrow the domain rather than erase the entire program, but revision rules must be stated before a favored observation is interpreted.
 
-**Chapter conclusion.** The preferred-configuration hypothesis concerns a dynamic organization of demand, not a moralized ideal posture. It allows reversal, asymmetry, and variation while requiring explicit advantages, boundary conditions, and null cases. Part II now turns from definitions to anatomy, beginning with the pelvis as a coupled structure in which axial support, rotational opening and closing, and lateral spread can first be examined together.
+**Chapter conclusion.** The preferred-configuration hypothesis concerns a dynamic organization of demand, not a moralized ideal posture. It allows reversal, asymmetry, and variation while requiring explicit advantages, boundary conditions, and null cases. Part II now turns from definitions to anatomy, beginning with the pelvis as a coupled structure in which axial support, opening and closing, and expansive/lateral spread can first be examined together.
 
 **Survival work:** Define candidate advantages and non-advantages across tasks, individuals, and time, including cases where variability, asymmetry, or another organization is adaptive.
 
@@ -321,7 +321,7 @@ Pelvic rotation is coupled to lateral organization. Changes in the relationship 
 
 #### 6.8 From an anatomical picture to a testable regional model
 
-Close by identifying what the analogy must eventually predict: relative rotations and translations of the pelvis and femora; force and moment sharing between sides; paths of muscular and ligamentous tension; sacral and spinal coupling; pressure changes; and differences among stance, gait, lifting, and rest. No single marker can stand in for the whole pattern. Part III will ask whether these quantities can be expressed through a consistent rotational sign and how that sign relates to the axial and lateral modes.
+Close by identifying what the analogy must eventually predict: relative rotations and translations of the pelvis and femora; force and moment sharing between sides; paths of muscular and ligamentous tension; sacral and spinal coupling; pressure changes; and differences among stance, gait, lifting, and rest. No single marker can stand in for the whole pattern. Part III will ask whether these quantities can be expressed through a consistent opening/rotational sign and how that sign relates to the axial and expansive/lateral modes.
 
 **Chapter conclusion.** The pelvis makes the project's central method concrete. A memorable directional pattern can organize a real anatomical question, but the pattern lives in coupled relationships rather than in one joint angle or a large literal opening. The proposed externally organized pelvic mode now has enough anatomical content to be compared with the curving longitudinal support of the spine and rib cage.
 
@@ -330,7 +330,7 @@ Close by identifying what the analogy must eventually predict: relative rotation
 ### 7. Spine and rib cage in a local longitudinal frame
 
 Unit BGB-U-0107 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:anatomy, domain:biomechanics, model:generalized-modes, anat:thoracic, anat:lumbar, anat:rib-thoracic, mech:load-path · gates DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:anatomy, domain:biomechanics, model:generalized-modes, anat:thoracic, anat:lumbar, anat:rib-thoracic, mech:load-path, use:hypothesis · gates DEF, FORM, EVID, ALT, MEAS, VIS
 
 **Chapter summary.** Axial organization follows the spine's changing local longitudinal direction rather than a perfectly straight global vertical line. Vertebrae, discs, facets, ligaments, musculature, ribs, sternum, and pressure systems cooperate to carry weight, guide movement, protect neural structures, and manage shock. Downward routing and upward support, compression and suspension, extension and curve geometry, and posterior tension are treated as related mechanical questions whose exact equivalence remains to be determined.
 
@@ -375,9 +375,9 @@ Gather the candidate observations: vertebral and rib kinematics, curvature, loca
 ### 8. Scapulae, shoulders, arms, and posterior suspension
 
 Unit BGB-U-0108 · state proposed · posture SYN/HYP · confidence E1 · medical M1 · readiness R1
-Tags domain:anatomy, domain:biomechanics, model:posterior-chain, anat:upper-extremity, mech:force-torque, mech:load-path · gates DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:anatomy, domain:biomechanics, model:generalized-modes, model:posterior-chain, anat:upper-extremity, mech:force-torque, mech:load-path, use:hypothesis · gates DEF, FORM, EVID, ALT, MEAS, VIS
 
-**Chapter summary.** The shoulder girdle is a mobile suspension and transfer system linking each arm to the rib cage and trunk. Trapezius, latissimus dorsi, serratus anterior, rotator cuff, pectoral structures, clavicle, scapula, and humerus establish changing paths rather than one fixed “correct” scapular position. Their coordination gives regional form to posterior support, lateral spread, shoulder and forearm rotation, and the proposed coupling among the three signed modes.
+**Chapter summary.** The shoulder girdle is a mobile suspension and transfer system linking each arm to the rib cage and trunk. Trapezius, latissimus dorsi, serratus anterior, rotator cuff, pectoral structures, clavicle, scapula, and humerus establish changing paths rather than one fixed “correct” scapular position. Their coordination gives regional form to posterior support, expansive/lateral spread, shoulder and forearm rotation, and the proposed coupling among the three signed modes.
 
 **Chapter introduction.** Unlike the pelvis, the scapula has no direct bony joint with the rib cage. Its useful stability is created through muscular tension, clavicular connections, contact with the thorax, and task-dependent control. This makes the shoulder an especially revealing test of the hard/soft model: a mobile structure can become a reliable base without being rigidly fixed, and large posterior muscles can transfer demand while the glenohumeral joint remains free. The upper limb also reverses the usual direction of inquiry, because it may deliver force into the trunk as well as receive support from it.
 
@@ -420,7 +420,7 @@ End by separating four increasingly strong claims: these structures are anatomic
 ### 9. Hips, legs, feet, and transmission to the ground
 
 Unit BGB-U-0109 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:anatomy, domain:biomechanics, model:posterior-chain, anat:lower-extremity, process:gait, mech:force-torque · gates DEF, FORM, EVID, ALT, MEAS, VIS
+Tags domain:anatomy, domain:biomechanics, model:generalized-modes, model:posterior-chain, anat:lower-extremity, process:gait, mech:force-torque, use:hypothesis · gates DEF, FORM, EVID, ALT, MEAS, VIS
 
 **Chapter summary.** The lower limbs connect pelvic organization to the ground through changing contributions from hip, thigh, knee, calf–Achilles complex, ankle, arches, and foot contact. External and internal rotation, outward and inward organization, pronation and supination, and posterior muscle participation are normal components of stance and gait. The preferred-support hypothesis concerns how these movements combine into a dependable route, how that route adapts across phases and surfaces, and how altered relationships may concentrate or divert demand.
 
@@ -446,13 +446,13 @@ Follow demand through gastrocnemius, soleus, Achilles tendon, and ankle. These s
 
 Treat the foot as an articulated, deformable structure whose arches, joints, fascia, muscles, and contact surface accommodate terrain and reorganize for support and propulsion. Pronation and supination are useful coupled descriptions, not automatic labels for failure or preference. The same visible arch height can arise from different geometry, stiffness, muscular effort, and loading history. A preferred route must preserve both the foot's ability to receive the ground's shape and its ability to become sufficiently shape-preserving when demand must be transferred.
 
-#### 9.6 Rotation and lateral organization couple across the limb
+#### 9.6 Rotation and expansive organization couple across the limb
 
 Trace how femoral rotation, tibial rotation, knee direction, ankle motion, subtalar behavior, and foot contact interact with outward and inward organization. The relationships are neither perfectly fixed nor uniform across people. Even so, coherent patterns may be identifiable: a regional outward or externally organized state may establish one form of support, while inward or closing phases allow adaptation and transition. Part III will determine whether these patterns justify common signed modes or remain distinct joint-specific couplings.
 
 #### 9.7 Stance and gait require both signs over time
 
-Use quiet stance, single-leg support, walking, running, turning, and uneven ground to show that load-bearing is phase-dependent. The limb accepts and redirects demand, passes over the foot, and propels the body; rotation and lateral position change throughout. The preferred hypothesis is therefore better framed as a reliable organization, bias, or return tendency than as continuous maximal external rotation or lateral spread. Timing, sequence, and recovery may be as important as the sign observed at a single instant.
+Use quiet stance, single-leg support, walking, running, turning, and uneven ground to show that load-bearing is phase-dependent. The limb accepts and redirects demand, passes over the foot, and propels the body; rotation and expansive/lateral relations change throughout. The preferred hypothesis is therefore better framed as a reliable organization, bias, or return tendency than as continuous maximal external rotation or outward expansion. Timing, sequence, and recovery may be as important as the sign observed at a single instant.
 
 #### 9.8 Changed relationships can redirect and concentrate demand
 
@@ -465,7 +465,7 @@ Develop valgus, arch collapse, pelvic drop, reduced ankle excursion, and other c
 ### 10. Upright locomotion, comparative anatomy, and evolution
 
 Unit BGB-U-0110 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, domain:anatomy, model:posterior-chain, process:locomotion, process:development, use:hypothesis · gates PROV, DEF, EVID, ALT, MEAS
+Tags domain:biomechanics, domain:anatomy, model:preferred-configuration, model:posterior-chain, process:locomotion, process:development, use:hypothesis · gates PROV, DEF, EVID, ALT, MEAS
 
 **Chapter summary.** Upright human locomotion places the pelvis, spinal curves, posterior musculature, lower limbs, feet, shoulder girdle, and head within a distinctive set of gravitational, energetic, balance, and endurance demands. Comparative anatomy and development can explain how these systems arose and what tasks they enable, while also generating hypotheses about posterior capacity, organ protection, and preferred organization. Evolution supplies constraints and predictions, not automatic proof of one posture or load path.
 
@@ -473,7 +473,7 @@ Tags domain:biomechanics, domain:anatomy, model:posterior-chain, process:locomot
 
 #### 10.1 Evolution works with viable tradeoffs, not one engineered optimum
 
-Establish that anatomy reflects inheritance, constraint, variation, development, selection, drift, and compromises among many functions. “Preferred” need not mean perfect, universal, or optimal in every task. The useful evolutionary version of the hypothesis is narrower: recurring posterior, external, lateral, and axial arrangements may have become important solutions to the demands of upright support and locomotion. Their value must be evaluated against alternatives and costs rather than inferred from their existence.
+Establish that anatomy reflects inheritance, constraint, variation, development, selection, drift, and compromises among many functions. “Preferred” need not mean perfect, universal, or optimal in every task. The useful evolutionary version of the hypothesis is narrower: recurring posterior participation and downward axial, externally opening, and outward expansive relationships may have become important solutions to the demands of upright support and locomotion. Their value must be evaluated against alternatives and costs rather than inferred from their existence.
 
 #### 10.2 Vertebrate posterior anatomy provides a deep background
 
@@ -481,7 +481,7 @@ Compare the vertebral column, epaxial musculature, ribs, limb girdles, and locom
 
 #### 10.3 Bipedalism reorganizes support around a narrow base
 
-Examine the consequences of bringing the trunk above two alternating supports: pelvic shape, femoral angle, spinal curvature, hip abductor demand, foot arches, head balance, and the ability to stand with the upper limbs free. The body must control falling moments and redirect ground reaction through a changing base. These demands make a coordinated three-dimensional organization plausible as a research question, while leaving open whether the proposed signs describe a unique regime or one among several viable strategies.
+Examine the consequences of bringing the trunk above two alternating supports: pelvic shape, femoral angle, spinal curvature, hip abductor demand, foot arches, head balance, and the ability to stand with the upper limbs free. The body must control falling moments and redirect ground reaction through a changing base. These demands make a coordinated whole-body organization plausible as a research question, while leaving open whether the proposed signs describe a unique regime or one among several viable strategies.
 
 #### 10.4 Walking, running, and endurance expose different solutions
 
@@ -506,7 +506,7 @@ Conclude with predictions that go beyond a compelling story. The hypothesis migh
 ### 11. The hard/soft division of labor across body regions
 
 Unit BGB-U-0111 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:hard-soft, model:posterior-chain, mech:load-path, mech:substitution, use:organizing-model · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
+Tags domain:biomechanics, model:hard-soft, model:posterior-chain, model:preferred-configuration, mech:load-path, mech:substitution, use:organizing-model · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** Across the pelvis, trunk, shoulder girdle, and limbs, capable support depends on a changing division between relatively shape-preserving and relatively form-receiving roles. The proposed preferred organization places much gross structural demand through skeletal, tensile, active, external, and posterior routes so that yielding internal structures remain free to conform, glide, contain, expand, and recover. Hard and soft, posterior and anterior, exterior and interior, deep and peripheral, skeletal and visceral, and Yang and Yin form a family of correspondences without becoming automatic synonyms.
 
@@ -563,6 +563,8 @@ Part II and Part III examine the same anatomy twice on purpose. The first pass p
 | Shoulder girdle and arms | How is demand transmitted between trunk and hand? | How do scapular, humeral, and forearm rotations coordinate? | How do reach, span, and scapular organization express outward relation? | A mobile platform linked to posterior support. |
 | Lower limbs and feet | How is demand resolved toward changing contact? | How do hip, knee, ankle, and foot rotations couple? | How do base, arch, and side-to-side support distribute demand? | Alternating support and ground relation. |
 | Whole body | Is longitudinal resolution continuous across regions? | Do relative rotations form a coherent phase relation? | Is outward organization distributed without rigid widening? | A candidate all-Yang organization with posterior and hard/soft consequences. |
+
+The crosswalk also supplies Part III's reading order. Chapter 12 reads down the axial column across every region; Chapter 13 repeats the traversal through opening/rotational relations; and Chapter 14 does the same for expansive/lateral organization. Chapter 15 then reads across each regional row to ask how the modes couple in one event, while Chapter 16 asks whether the integrated payoffs form a coherent state, bias, phase relation, or attractor. The return is therefore analytical rather than repetitive: regional anatomy supplies the constraints, and mode-first analysis tests whether one vocabulary survives them.
 
 ## Part III — The three signed modes
 
@@ -664,12 +666,12 @@ Combine three-dimensional kinematics with external forces, segmental moments, jo
 
 **Survival work:** Separate angular position, rotational motion, torque, coupled regional opening, and body-wide sign, then specify measurements and counterexamples for each.
 
-### 14. Lateral/expansive organization: outward and inward
+### 14. Expansive/lateral organization: outward and inward
 
 Unit BGB-U-0114 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
 Tags domain:biomechanics, model:generalized-modes, model:yin-yang, mech:geometry, process:gait, use:hypothesis · gates INTENT, DEF, FORM, EVID, ALT, MEAS, VIS
 
-**Chapter summary.** The lateral/expansive generalized mode reduces outward-normal expansion or inward contraction to `q_e`; its conjugate `Q_e` may be a generalized force, traction, membrane resultant, or pressure-related resultant depending on how the coordinate is defined. Yang is outward and Yin is inward. Expansion must be distinguished from left-right translation, width, anatomical abduction or adduction, lateral bending, and outward force. Hips, feet, pelvis, rib cage, shoulders, and scapulae show why higher-resolution work may require several shape variables or a deformation field rather than one scalar.
+**Chapter summary.** The expansive/lateral generalized mode reduces outward-normal expansion or inward contraction to `q_e`; its conjugate `Q_e` may be a generalized force, traction, membrane resultant, or pressure-related resultant depending on how the coordinate is defined. Yang is outward and Yin is inward. Expansion must be distinguished from left-right translation, width, anatomical abduction or adduction, lateral bending, and outward force. Hips, feet, pelvis, rib cage, shoulders, and scapulae show why higher-resolution work may require several shape variables or a deformation field rather than one scalar.
 
 **Chapter introduction.** “Lateral” can mean away from the midline, toward one side, perpendicular to a local surface, or movement in the frontal plane. The project retains lateral as the TCM and historical family name while using expansive to identify the mechanical mode more clearly. Begin with single-leg stance: the center of mass shifts, ground reaction changes, the pelvis and trunk counterbalance, the stance hip produces a moment, the foot adapts, and the rib cage and shoulder girdle reorganize. The chapter asks whether an outward-expansive relation names a measurable feature of support rather than merely a wider-looking posture.
 
@@ -679,7 +681,7 @@ Define `q_e` as a reduced measure of outward-normal expansion or inward contract
 
 #### 14.2 Regional anatomy
 
-Examine radial organization at the pelvis and hips, femur and knee, tibia and ankle, foot and arch, rib cage, scapula, shoulder, and upper limb. The pelvis and rib cage show outward expansion around a curving central frame; the limbs show how joint surfaces and segment orientation transform that relation before demand reaches the ground or hand. At the knee and ankle, local anatomy makes a simple “outward is lateral” rule inadequate. Each region needs a defined center, axis, joint relation, and connection to the adjacent rotational and axial modes.
+Examine outward-normal and region-specific expansive organization at the pelvis and hips, femur and knee, tibia and ankle, foot and arch, rib cage, scapula, shoulder, and upper limb. The pelvis and rib cage may admit a useful radial construction around a curving central frame; the limbs show why not every region has one meaningful radial center and how joint surfaces and segment orientation transform the outward relation before demand reaches the ground or hand. At the knee and ankle, local anatomy makes a simple “outward is lateral” rule inadequate. Each region needs a defined surface or center, local frame, joint relation, and connection to the adjacent opening/rotational and axial modes.
 
 #### 14.3 Movement and action inventory
 
@@ -703,16 +705,16 @@ Candidate observations include stance width, side shift, pelvic control, trunk l
 
 #### 14.8 Alternatives, measurements, and counterexamples
 
-Measure three-dimensional joint and segment motion, ground-reaction location, center-of-pressure excursion, joint moments, contact, balance performance, fatigue, and task-specific capacity. Compare radial-organization predictions with foot morphology, injury history, strength, sensory control, footwear, surface, sport technique, pain, and ordinary variability. Seek counterexamples in which inward organization is efficient or protective and outward organization adds no advantage. The model must also state whether left and right sides should act synergistically, reciprocally, or differently across phases of gait and other tasks.
+Measure three-dimensional joint and segment motion, ground-reaction location, center-of-pressure excursion, joint moments, contact, balance performance, fatigue, and task-specific capacity. Compare expansive-organization predictions with foot morphology, injury history, strength, sensory control, footwear, surface, sport technique, pain, and ordinary variability. Seek counterexamples in which inward organization is efficient or protective and outward organization adds no advantage. The model must also state whether left and right sides should act synergistically, reciprocally, or differently across phases of gait and other tasks.
 
-**Chapter conclusion.** Lateral or expansive Yang is an outward organizational sign defined through local bilateral relations, not a synonym for abduction, width, side shift, or outward force. Its usefulness depends on whether a reduced expansion coordinate and its conjugate load explain support and transmission more precisely than those existing descriptions. Chapter 15 now reconnects axial, opening, and expansive organization and asks how three signed modes can arise from one coupled mechanical event.
+**Chapter conclusion.** Expansive/lateral Yang is an outward organizational sign defined through local bilateral relations, not a synonym for abduction, width, side shift, or outward force. Its usefulness depends on whether a reduced expansion coordinate and its conjugate load explain support and transmission more precisely than those existing descriptions. Chapter 15 now reconnects axial, opening, and expansive organization and asks how three signed modes can arise from one coupled mechanical event.
 
 **Survival work:** Define useful regional expansion coordinates, their conjugate loads, local-to-global transformations, higher-resolution field alternatives, and observations that distinguish them from width, abduction, force direction, and persistent organizational bias.
 
 ### 15. Coupling among force, torque, pressure, gravity, and geometry
 
 Unit BGB-U-0115 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:mechanics, domain:biomechanics, model:generalized-modes, mech:force-torque, mech:pressure-flow, mech:load-path · gates DEF, FORM, EVID, LINK, ALT, MEAS, VIS
+Tags domain:mechanics, domain:biomechanics, model:generalized-modes, mech:force-torque, mech:pressure-flow, mech:load-path, use:organizing-model · gates DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** Axial, opening/rotational, and expansive/lateral modes are reduced descriptions of coupled bodily events, not vector components or independent controls. Their relationships arise through constraints, force and moment pairs, gravity, ground reaction, contact, changing moment arms, tissue stiffness, active tension, pressure, geometry, and sequencing across regions. Virtual work supplies a common relation among generalized coordinates and their conjugate loads without claiming that the modes are uncoupled. Spiral continuity, redirection, interruption, and load leakage remain candidate whole-body phenomena, but no equation or visual analogy establishes them by itself.
 
@@ -728,7 +730,7 @@ Develop coupling from ordinary mechanics. Gravity and ground reaction act at dif
 
 #### 15.3 Pressure, stiffness, changing geometry, and modal coupling
 
-Internal pressure can alter support, shape, contact, and apparent stiffness, but it is not a fourth generalized mode and does not replace skeletal, tensile, or active mechanics. Volume change in the thorax or abdomen may modify `q_e`, rib or pelvic opening may alter `q_o`, and both may change the longitudinal route represented by `q_a`. Geometry can therefore couple opening and expansion without making them identical. Tissue tension can redirect pressure effects, while joint geometry can transform a local pressure or force into motion elsewhere. Distinguish the route along which an action is sensed or coordinated from the direction of force, tension, pressure propagation, tissue motion, or fluid flow.
+Internal pressure can alter support, shape, contact, and apparent stiffness, but it is not a fourth generalized mode and does not replace skeletal, tensile, or active mechanics. Volume change in the thorax or abdomen may modify `q_e`, rib or pelvic opening may alter `q_o`, and both may change the longitudinal route represented by `q_a`. Geometry can therefore couple opening and expansion without making them identical. Tissue tension can redirect pressure effects, while joint geometry can transform a local pressure or force into motion elsewhere. An internal force line may name a felt or modeled connection assembled across several of these carriers; it must not be mistaken for the direction of one force, tension, pressure propagation, tissue motion, or fluid flow.
 
 #### 15.4 Sequencing, spiral continuity, and gait
 
@@ -799,30 +801,30 @@ Build a measurement program that can discriminate among interpretations: local k
 
 **Survival work:** Choose or compare mathematical representations, define the relevant time and spatial scales, and derive observations that distinguish the alternatives.
 
-**Part summary.** Part III has assigned signs to three local modes while repeatedly separating sign from position, movement, force, torque, pressure, and anatomical region. Axial Yang names downward resolution rather than simple descent; rotational Yang names external or opening organization rather than permanent external rotation; lateral Yang names outward radial organization rather than width or abduction. Their coupling may arise through contact, geometry, moment arms, active and tensile support, pressure, material behavior, and sequencing, but every proposed link requires an explicit model.
+**Part summary.** Part III has assigned signs to three generalized modes while repeatedly separating sign from position, movement, force, torque, pressure, and anatomical region. Axial Yang names downward resolution rather than simple descent; opening/rotational Yang names external or opening organization rather than permanent external rotation; expansive/lateral Yang names outward organization rather than width, abduction, or one universal radial direction. Their coupling may arise through contact, geometry, moment arms, active and tensile support, pressure, material behavior, and sequencing, but every proposed link requires an explicit model.
 
 The all-Yang combination preserves the project's strongest whole-body hypothesis without pretending that its ontology has already been chosen. It may be local or global, instantaneous or averaged, phase-specific or persistent, a bias or an attractor. Ordinary movement can include every Yin direction, and capable organization may vary with task, anatomy, capacity, development, and state.
 
-**Part conclusion and transition.** A generalized-mode model earns its place only if it clarifies anatomy, distinguishes otherwise-confused mechanical events, and produces observations that could prove it incomplete or wrong. Part IV therefore turns from definition to testing. It asks whether posterior loading follows from the signed model, whether the proposed organization predicts anything beyond ordinary accounts of strength, load capacity, skill, and variability, how it changes across tasks and the lifespan, and which cases, measurements, counterexamples, and falsifiers should decide its future.
+**Part conclusion and transition.** A generalized-mode model earns its place only if it clarifies anatomy, distinguishes otherwise-confused mechanical events, and produces observations that could prove it incomplete or wrong. Part IV therefore turns from definition to testing. It asks whether mechanically meaningful posterior participation follows from the signed model, whether the proposed organization predicts anything beyond ordinary accounts of strength, load capacity, skill, and variability, how it changes across tasks and the lifespan, and which cases, measurements, counterexamples, and falsifiers should decide its future.
 
 ## Part IV — Testing *The Back Goes Backwards*
 
-**Part introduction.** Parts I–III have defined the preferred-configuration hypothesis, made it concrete in regional anatomy, and formalized its three proposed signed modes. Part IV asks whether that work earns the title. The task is no longer to show that posterior structures exist or that whole-body coordination can be described in three dimensions. It is to derive a specific relationship between all-Yang organization and posterior support, establish where the relationship should and should not appear, and turn it into observations that can compete with other explanations.
+**Part introduction.** Parts I–III have defined the preferred-configuration hypothesis, made it concrete in regional anatomy, and formalized its three proposed signed modes. Part IV asks whether that work earns the title. The task is no longer to show that posterior structures exist or that familiar motions can be sorted into three labels. It is to derive a specific relationship between all-Yang organization and posterior support, establish where the relationship should and should not appear, and turn it into observations that can compete with other explanations.
 
 **Part arc.** Chapter 17 attempts the central derivation from axial, opening/rotational, and expansive/lateral organization to posterior participation. Chapter 18 varies the proposal across task, phase, morphology, environment, and lifespan so a preference does not harden into one static pose. Chapter 19 translates the model into observable and measurable variables. Chapter 20 applies the same comparison structure to positive, mixed, null, and contradictory cases. Chapter 21 gathers the separable propositions into a research program with predictions, alternatives, thresholds, and revision rules. The movement is from title proposition, to boundary conditions, to measurement, to case comparison, to a genuinely falsifiable program.
 
 **Part outcome.** By the end of Part IV, the reader should know what “the back goes backwards” means mechanically; why posterior, hard, and Yang remain related but nonidentical; which observations would support only ordinary posterior loading and which would bear on the stronger configuration hypothesis; and how the model could be supported, divided into narrower forms, or disfavored.
 
-### 17. Posterior loading as a manifestation of preferred organization
+### 17. Posterior participation as a manifestation of preferred organization
 
 Unit BGB-U-0117 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:posterior-chain, model:preferred-configuration, model:hard-soft, use:hypothesis · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
+Tags domain:biomechanics, model:posterior-chain, model:preferred-configuration, model:generalized-modes, model:hard-soft, use:hypothesis · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
 
-**Chapter summary.** Posterior loading is proposed as a mechanically necessary but insufficient manifestation of a fully expressed all-Yang organization within the model's eventual domain. That working expectation must be derived through geometry, contact, force, moment, pressure, active tension, and hard/soft load partition rather than inferred from the title. Posterior participation can occur without all-Yang organization, and the relevant participation may be subtle even when no conspicuous backward movement or hypertrophy is visible.
+**Chapter summary.** Mechanically meaningful posterior participation is proposed as a necessary but insufficient manifestation of a fully expressed all-Yang organization within the model's eventual domain. That working expectation must be derived through geometry, contact, force, moment, pressure, active tension, and hard/soft load partition rather than inferred from the title. Ordinary posterior loading can occur without all-Yang organization, and the relevant participation may be subtle even when no conspicuous backward movement or hypertrophy is visible.
 
 **Chapter introduction.** Return to the phrase that names the series and separate its possible meanings. A back can move backward; a force can have a posterior component; posterior muscles and tensile structures can carry demand; skeletal relationships can place more support behind an anterior mass; or a body-wide signed organization can resolve load through a posteriorly supported route. Only the last meaning states Book II's distinctive hypothesis, and it must be connected to the others without collapsing them.
 
-#### 17.1 Four meanings of posterior loading
+#### 17.1 Four meanings of posterior loading and one visual trap
 
 Define posterior movement, posteriorly directed force, loading of posterior tissues, and participation of a posterior support system as different descriptions. Add a fifth, visually misleading possibility: a configuration may recruit posterior support without a large backward displacement, while a visible backward movement may be produced by momentum, balance recovery, or local joint action. The title becomes testable only when the intended quantity and system are named.
 
@@ -834,9 +836,9 @@ Ask how downward or caudal resolution along curved local longitudinal frames cou
 
 Trace how external or opening organization at the feet, hips, pelvis, shoulders, and forearms may alter joint contact, moment arms, fascial and muscular tension, and the availability of posterior structures. The scissors analogy at the pelvis and coupled shoulder–hip relations provide concrete tests. External angle, opening motion, external torque, and a wider regional opening must remain separate so the derivation does not rely on one word doing several mechanical jobs.
 
-#### 17.4 The proposed lateral or outward contribution
+#### 17.4 The proposed expansive or outward contribution
 
-Trace outward organization through foot contact, knee and hip relations, pelvic width, rib cage, scapulae, and arms. The hypothesis is that capable radial spread can establish broad bases and lateral routes that support posterior participation without forcing the anterior and internal body to provide the primary structural boundary. Radial force, lateral translation, abduction, and distributed expansion again require distinct measures.
+Trace outward organization through foot contact, knee and hip relations, pelvic width, rib cage, scapulae, and arms. The hypothesis is that capable region-specific expansion can establish broad bases and outward routes that support posterior participation without forcing the anterior and internal body to provide the primary structural boundary. Outward force, lateral translation, abduction, local radial change, and distributed expansion again require distinct measures.
 
 #### 17.5 Convergence through the posterior support system
 
@@ -854,16 +856,16 @@ The present authorial expectation is that a fully expressed all-Yang organizatio
 
 State the strongest bounded proposition: in defined tasks and frames, the proposed all-Yang organization should predict a repeatable redistribution toward coherent posterior skeletal, tensile, and active support, accompanied by specified changes in compliant-structure excursion or load partition. Identify disfavoring results: no stable relation among the signs, no additional posterior consequence once task and anatomy are controlled, equal or superior organization in other sign combinations, or a posterior measure that tracks ordinary effort but not the hypothesized state.
 
-**Chapter conclusion.** “The back goes backwards” is now a proposed derivation, not a slogan. Axial, rotational, and lateral organization may converge in posterior support and a different hard/soft division of labor, but neither side of that relation can define the other circularly. Chapter 18 asks how the proposed relationship should change as the body, task, and environment change.
+**Chapter conclusion.** “The back goes backwards” is now a proposed derivation, not a slogan. Axial, opening/rotational, and expansive/lateral organization may converge in posterior support and a different hard/soft division of labor, but neither side of that relation can define the other circularly. Chapter 18 asks how the proposed relationship should change as the body, task, and environment change.
 
 **Survival work:** Derive the posterior consequence from the coordinate and regional model, then identify posterior-loading cases that do and do not imply the preferred configuration.
 
 ### 18. Preferred organization across tasks and the lifespan
 
 Unit BGB-U-0118 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
-Tags domain:biomechanics, model:preferred-configuration, process:stance, process:gait, process:locomotion, process:development, process:aging · gates DEF, EVID, ALT, MEAS, CLIN
+Tags domain:biomechanics, model:preferred-configuration, process:stance, process:gait, process:locomotion, process:development, process:aging, use:hypothesis · gates DEF, EVID, ALT, MEAS, CLIN
 
-**Chapter summary.** A preferred organization, if it exists, should vary with task phase, morphology, environment, capacity, development, pregnancy, injury, illness, disability, and aging. Preference may describe a range, bias, sequence, or return tendency rather than one pose. Predicted advantages and non-advantages must therefore be specified for each context rather than generalized from a single standing image.
+**Chapter summary.** A preferred organization, if it exists, should vary with task phase, morphology, environment, capacity, development, pregnancy, injury, illness, disability, and aging. Its expression may be a range, bias, sequence, or return tendency rather than one pose, while preference itself continues to name the provisional whole-system efficiency relation. Predicted advantages and non-advantages must therefore be specified for each context rather than generalized from a single standing image.
 
 **Chapter introduction.** A model that calls the same static arrangement preferred for every person and demand would contradict the movement, asymmetry, and role exchange developed throughout the book. This chapter treats context as part of the hypothesis. It asks what should remain invariant, what should change, and when another organization should be equally capable or better.
 
@@ -904,13 +906,13 @@ Treat seating, footwear, workspace, tools, visual field, surface, carried object
 Unit BGB-U-0119 · state proposed · posture HYP/APP/EDT · confidence E1 · medical M2 · readiness R1
 Tags domain:research, domain:biomechanics, model:preferred-configuration, context:clinical-reasoning, use:research-program · gates PROV, DEF, FORM, EVID, ALT, MEAS, CLIN, VIS
 
-**Chapter summary.** Testing preferred configuration requires synchronized descriptions of each mode's configuration `q_i`, motion `q-dot_i`, conjugate load `Q_i`, and inferred organizational sign `s_i`, together with pressure, stress, strain, excursion, effort, posterior participation, and task outcome. Observation and measurement occupy different levels, and neither visible alignment nor pain can stand in for internal routing. Candidate variables must be reliable, valid, frame-specific, and capable of distinguishing state, trait, cause, consequence, and compensation.
+**Chapter summary.** Testing the preferred-configuration hypothesis requires synchronized descriptions of each mode's configuration `q_i`, motion `q-dot_i`, conjugate load `Q_i`, and inferred organizational sign `s_i`, together with pressure, stress, strain, excursion, effort, posterior participation, and task outcome. Observation and measurement occupy different levels, and neither visible alignment nor pain can stand in for internal routing. Candidate variables must be reliable, valid, frame-specific, and capable of distinguishing state, trait, cause, consequence, and compensation.
 
 **Chapter introduction.** The hypothesis currently draws strength from recurring embodied observations: a pelvis seems to open or close, a spinal axis appears to shift, a shoulder or hip feels locked, the foot changes the route to the ground, or posterior support becomes more available. These are legitimate sources of questions, but they are not yet a measurement system. This chapter protects the observations while specifying the work needed to turn them into evidence.
 
 #### 19.1 Observation, inference, and measurement
 
-Separate what can be seen or felt from what is inferred and what an instrument records. A knee moving medially is an observation; calling it inward lateral organization is a model-based classification; attributing a change in tissue strain or body-wide routing is a further mechanical inference. All three levels remain available, but their evidentiary jobs stay distinct.
+Separate what can be seen or felt from what is inferred and what an instrument records. A knee moving medially is an observation; calling it inward expansive/lateral organization is a model-based classification; attributing a change in tissue strain or body-wide routing is a further mechanical inference. All three levels remain available, but their evidentiary jobs stay distinct.
 
 #### 19.2 Mode configuration and kinematic variables
 
@@ -965,9 +967,9 @@ Examine the constellation of forward-head organization, rounded shoulders, lumba
 
 Develop the candidate pattern of restricted trunk or spinal rotation, pelvic rigidity, poor shoulder–hip integration, asymmetry, and localized lumbar strain. Compare the proposed internal or closing bias with protective guarding, task habit, strength, morphology, fear, sensitization, and the wide variability of chronic low-back pain. Useful evidence would link a defined rotational measure to changed load partition and prospective function rather than infer cause from pain and alignment together.
 
-#### 20.4 Lateral organization and recurrent ankle injury
+#### 20.4 Expansive/lateral organization and recurrent ankle injury
 
-Follow inversion and eversion behavior, foot contact, peroneal and calf response, hip-abductor contribution, gluteus medius, lateral trunk control, trunk lean, proprioception, and recurrent exposure. Ask whether an inward or interrupted lateral route predicts instability beyond local ligament state, reaction time, prior sprain, surface, footwear, and training. The case should include subjects whose outward organization is present but confers no protection and subjects who function well through another strategy.
+Follow inversion and eversion behavior, foot contact, peroneal and calf response, hip-abductor contribution, gluteus medius, lateral trunk control, trunk lean, proprioception, and recurrent exposure. Ask whether an inward or interrupted expansive/lateral route predicts instability beyond local ligament state, reaction time, prior sprain, surface, footwear, and training. The case should include subjects whose outward organization is present but confers no protection and subjects who function well through another strategy.
 
 #### 20.5 Posterior support in a neural or vascular corridor
 
@@ -1047,7 +1049,7 @@ These inventories are development and conservation tools, not additional reader-
 Unit BGB-U-0191 · state proposed · posture EDT/HYP · confidence E0 · medical M2 · readiness R0
 Tags domain:anatomy, domain:biomechanics, model:generalized-modes, use:research-program, use:diagram · gates INTENT, PROV, DEF, FORM, EVID, ALT, MEAS, VIS
 
-Preserve every axial, rotational, and lateral regional example across pelvis, spine, rib cage, shoulders, forearms, hips, knees, ankles, feet, gait, balance, upright support, suspension, compression, twist, side shift, and shock management. Include the SCM–quadriceps rotational and serratus–latissimus lateral observations.
+Preserve every axial, opening/rotational, and expansive/lateral regional example across pelvis, spine, rib cage, shoulders, forearms, hips, knees, ankles, feet, gait, balance, upright support, suspension, compression, twist, side shift, and shock management. Include the SCM–quadriceps opening/rotational and serratus–latissimus expansive/lateral observations under their source wording as well as the normalized vocabulary.
 
 The general engineering and coordinate material remains indexed by Book I inventory `BGB-U-0092`. This inventory adds the sign and preferred-configuration fields needed by Book II and links every retained example to its provenance in the [source coverage ledger](../source-coverage.md).
 
@@ -1056,7 +1058,7 @@ The general engineering and coordinate material remains indexed by Book I invent
 - **System and frame:** system boundary; global, gravity-relative, anatomical, or local frame; axis or basis; left/right transformation; and relevant task phase.
 - **Proposed organization:** axial, opening/rotational, or expansive/lateral mode; candidate `q_i`, `q-dot_i`, `Q_i`, and `s_i`; local versus body-wide meaning; and state, phase, bias, or return interpretation.
 - **Anatomy and action:** region, bones and joints, active and tensile structures, compliant or sliding structures, contact, action, and source observation.
-- **Mechanical chain:** external demand, geometry, force or moment, contact, pressure, load partition, proposed hard/soft roles, posterior relation, and predicted consequence.
+- **Mechanical chain:** external demand, geometry, force or moment, external line of action or internal multi-carrier force line, contact, pressure, load partition, proposed hard/soft roles, posterior relation, and predicted consequence.
 - **Development needs:** provenance, alternative interpretations, measurement, counterexample, diagram, evidence state, and publication role.
 
 #### Preserved axial candidates
@@ -1064,15 +1066,15 @@ The general engineering and coordinate material remains indexed by Book I invent
 - Curved longitudinal frames through feet, pelvis, sacrum, vertebrae, rib cage, neck, and head; downward routing and upward support; compression, elongation, flexion, extension, suspension, gravity, ground reaction, pressure, upright support, shock management, and neural-protection questions.
 - Distinctions among the body's intrinsic longitudinal path, one global vertical axis, local vertebral axes, movement along an axis, and the direction in which force or pressure is resolved.
 
-#### Preserved rotational candidates
+#### Preserved opening/rotational candidates
 
 - Opening and closing at the pelvis, hemipelves, hips, knees, feet, spine, shoulders, and forearms; pronation and supination; twist; torque; stance and gait phase; shoulder–hip integration; and pelvic torsion.
 - Sternocleidomastoid, quadriceps, and other proposed rotational-lock observations, retained as candidates whose exact anatomical and mechanical meaning must be reconstructed from source notes.
 
-#### Preserved lateral candidates
+#### Preserved expansive/lateral candidates
 
-- Outward and inward organization at arches, ankles, knees, hips, pelvis, rib cage, scapulae, shoulders, and arms; radial direction around a curved frame; side shift; stance width; balance; abduction and adduction; gait; and lateral transmission to the ground.
-- Serratus anterior as a candidate scapular anchor, latissimus dorsi as a candidate arm-to-pelvis bridge, and their proposed lateral coupling, without presuming clinically meaningful whole-chain force transmission.
+- Outward and inward organization at arches, ankles, knees, hips, pelvis, rib cage, scapulae, shoulders, and arms; outward-normal or locally radial direction where anatomically useful; side shift; stance width; balance; abduction and adduction; gait; and expansive/lateral transmission to the ground.
+- Serratus anterior as a candidate scapular anchor, latissimus dorsi as a candidate arm-to-pelvis bridge, and their proposed expansive/lateral coupling, without presuming clinically meaningful whole-chain force transmission.
 
 **Survival work:** Normalize each candidate into coordinate, sign, anatomy, action, force or moment, proposed role, provenance, alternatives, measurements, and visual requirements.
 
@@ -1087,7 +1089,7 @@ Book I inventory `BGB-U-0093` retains the general posterior, lifespan, and obser
 
 #### Observation and use classes
 
-- **Descriptive observations:** forward-head organization, rounded shoulders, pelvic tuck or torsion, spinal side shift, knee valgus, arch behavior, scapular placement, shoulder–hip coordination, balance, posterior participation, and apparent rotational or lateral locks.
+- **Descriptive observations:** forward-head organization, rounded shoulders, pelvic tuck or torsion, spinal side shift, knee valgus, arch behavior, scapular placement, shoulder–hip coordination, balance, posterior participation, and apparent opening/rotational or expansive/lateral locks.
 - **Candidate measurements:** three-mode kinematics, force and moment estimates, contact and plantar pressure, load partition, tissue strain and excursion, pressure-flow relations, posterior activation and timing, effort, fatigue, perturbation recovery, and task outcome.
 - **Research manipulations:** stance, gait phase, carried load, surface, support, speed, direction, fatigue, visual input, instruction, and task goal.
 - **Quick-check and practice candidates:** wall-alignment observation, hip hinge, breath-coordinated squat, forward weight shift, shallow breathing, segmental instability, posture cues, functional movements, compensation retraining, and environmental adaptations. These remain unvalidated and retain their later Book V destination unless research requires a bounded manipulation.
