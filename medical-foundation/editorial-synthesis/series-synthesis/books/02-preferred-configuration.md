@@ -1,4 +1,4 @@
-# *The Back Goes Backwards*, Book II: Preferred Configuration
+# *The Back Goes Backwards*, Book II: The Back Goes Backwards
 
 **Status:** Provisional synthesized outline
 
