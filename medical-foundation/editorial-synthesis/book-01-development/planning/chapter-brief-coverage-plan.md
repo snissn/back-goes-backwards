@@ -2,7 +2,7 @@
 
 **Status:** complete briefing map; active research and salvage control
 
-**Scope:** all 30 Book I units in the accepted six-Part architecture
+**Scope:** all 30 Book I units in the current six-Part architecture
 
 **Current coverage:** 30 of 30 drafting-depth chapter briefs
 
