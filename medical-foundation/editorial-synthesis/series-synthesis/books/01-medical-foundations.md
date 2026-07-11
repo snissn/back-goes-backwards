@@ -148,7 +148,7 @@ Tags domain:biomechanics, model:hard-soft, mech:load-path, mech:substitution, us
 
 **Chapter summary.** Hard and soft form a functional polarity and division of mechanical labor. A hard role is relatively shape-preserving, force-transmitting, or structurally resolving at the scale under discussion. A soft role is relatively form-receiving and shape-conforming: it yields rather than imposing geometry, enabling containment, glide, flow, pressure response, buffering, and local shape change. Fascia or muscle to tendon or ligament to bone or joint remains a first-order candidate handoff, while tissues can exchange roles with direction, state, scale, and task.
 
-**Chapter introduction.** Start from the project's compact intuition—“Load wants to travel through the hard body so that the soft body can remain soft”—and treat it as a proposal about mechanical organization rather than a tissue taxonomy. The reader should understand why a yielding structure may carry substantial load and why a strong tissue may still be performing a soft role in a particular direction or task.
+**Chapter introduction.** Start from the project's compact intuition—“Load wants to travel through the hard body so that the soft body can remain soft”—and immediately identify the vocabulary as a flexible mechanical translation inspired by TCM hard/soft and Yin/Yang concepts, not as a claim of exact definitional identity. Treat it as a proposal about mechanical organization rather than a tissue taxonomy. The reader should understand why a yielding structure may carry substantial load and why a strong tissue may still be performing a soft role in a particular direction or task.
 
 #### 3.1 Why mechanical roles are needed
 
