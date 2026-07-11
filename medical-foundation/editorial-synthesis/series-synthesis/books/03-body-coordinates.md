@@ -8,7 +8,7 @@ Book III assumes the reader has followed Book I's mechanical foundation and Book
 
 Traditional observation, authorial correspondence, anatomical analogy, formal mechanics, physiological mechanism, and medical implication remain distinguishable. That distinction permits the book to retain the complete hypothesis generously while making the work required of each layer explicit.
 
-The book develops three compatible scales of the project's core correspondence. At the local scale, individual channels and Six-Division pairs are assigned to the three modes. At the gross scale, the legs and feet are weighted toward axial support, the arms and hands toward expansion, and opening/rotation toward coordination between those limb systems. At the embodied-anchor scale, coordination between KI1 at the foot and PC8 at the palm preserves a direct felt observation that may help investigate the relation between the gross axial and expansive systems. These scales do not automatically prove one another, and none requires every channel in a limb to share that limb's gross role.
+The book develops three compatible scales of the project's core correspondence. At the local scale, individual channels and Six-Division pairs are assigned to the three modes. At the gross scale, the legs and feet are weighted toward axial support, opening/rotation toward coordination between the lower- and upper-limb systems, and the arms and hands toward expansion. At the embodied-anchor scale, coordination between KI1 at the foot and PC8 at the palm preserves a direct felt observation that may help investigate the relation between the gross axial and expansive systems. These scales do not automatically prove one another, and none requires every channel in a limb to share that limb's gross role.
 
 ## Provisional thesis
 
@@ -30,14 +30,14 @@ The question is neither whether ancient language secretly contained modern biome
 
 Book III inherits the generalized-mode grammar `q=(q_a,q_o,q_e)`, its conjugate loads `Q`, organizational signs `s`, local-frame transformations, the all-Yang hypothesis, and Book II's unresolved alternatives among state, bias, phase, regime, and attractor. It also inherits the rule that configuration, movement, load, routing, stress, material direction, and organizational sign may differ at the same moment. Those propositions are not reopened merely to make a traditional map fit.
 
-The new work begins with the Six Divisions and paired channels. The project proposes Shaoyin–Taiyang as axial, Taiyin–Yangming as opening/rotational, and Jueyin–Shaoyang as expansive. It then introduces a different-scale projection in which legs and feet are weighted toward axial support, arms and hands toward expansion, and rotation toward coordination between lower and upper systems. A KI1–PC8 felt relationship provides a named embodied anchor between those gross systems. Subtle and structural bandha maps, central and lateral routes, muscle-pair observations, and breath-related questions enlarge the comparison without being forced into one diagram.
+The new work begins with the Six Divisions and paired channels. The project proposes Shaoyin–Taiyang as axial, Taiyin–Yangming as opening/rotational, and Jueyin–Shaoyang as expansive. It then introduces a different-scale projection in which legs and feet are weighted toward axial support, opening/rotation toward coordination between lower and upper systems, and arms and hands toward expansion. A KI1–PC8 felt relationship provides a named embodied anchor between those gross systems. Subtle and structural bandha maps, central and lateral routes, muscle-pair observations, and breath-related questions enlarge the comparison without being forced into one diagram.
 
 ### The three mapping scales
 
 The book's central organizational decision is to distinguish three compatible scales:
 
 1. **Local channel-mode correspondence.** Individual channel families are mapped to axial, opening/rotational, and expansive modes through the Six Divisions. Every limb may therefore contain channels assigned to all three modes.
-2. **Gross limb-role projection.** The lower limbs and feet are weighted toward axial support and ground resolution; the upper limbs and hands toward reach, span, and expansion; and opening/rotation toward their coordination. This is a coarse whole-system model, not a reassignment of every channel in a limb.
+2. **Gross limb-role projection.** The lower limbs and feet are weighted toward axial support and ground resolution; opening/rotation toward coordination between lower and upper systems; and the upper limbs and hands toward reach, span, and expansion. This is a coarse whole-system model, not a reassignment of every channel in a limb.
 3. **Embodied-anchor hypothesis.** KI1 at the foot and PC8 at the palm preserve a direct authorial observation about felt lower–upper connection in opening and closing. The observation is a source for investigation, not yet a historical inheritance or validated force path.
 
 The bandha maps and cross-tradition routes are additional correspondence layers. They may intersect the three-scale model, but they are not required to duplicate its units, signs, or anatomical carriers.
@@ -398,7 +398,7 @@ Examine arches and feet, ankles and knees, hips and pelvis, abdominal and thorac
 
 #### 8.5 Relation to the gross limb-role projection
 
-The arms and hands receive an expansive emphasis at gross scale, yet Pericardium and Sanjiao are only the expansive channel pair of the hand. Heart, Lung, Small Intestine, and Large Intestine retain their local axial or rotational assignments. Use reaching, ward-off shapes, carrying, and bilateral span to develop the limb-level hypothesis without flattening the channel map.
+The arms and hands receive an expansive emphasis at gross scale, yet Pericardium and Sanjiao are only the expansive channel pair of the hand. Heart, Lung, Small Intestine, and Large Intestine retain their local axial or opening/rotational assignments. Use reaching, ward-off shapes, carrying, and bilateral span to develop the limb-level hypothesis without flattening the channel map.
 
 #### 8.6 Internal connection, pressure, and force lines
 
@@ -570,7 +570,7 @@ Preserve the rotational association and examine abdominal hollowing, lifting, pr
 
 #### 12.4 Jalandhara as expansive/lateral and Heart–Lung–Pericardium
 
-Preserve the lateral association while examining neck, hyoid, thoracic inlet, shoulder span, upper-limb relation, breath, and internal sensation. Heart, Lung, and Pericardium also cross the local axial, rotational, and expansive assignments. The internal map may therefore organize a region or action rather than classify channels by one generalized mode.
+Preserve the lateral association while examining neck, hyoid, thoracic inlet, shoulder span, upper-limb relation, breath, and internal sensation. Heart, Lung, and Pericardium also cross the local axial, opening/rotational, and expansive assignments. The internal map may therefore organize a region or action rather than classify channels by one generalized mode.
 
 #### 12.5 What “subtle” or “internal” may mean
 
@@ -593,7 +593,7 @@ Ask whether trained practitioners can distinguish the three organizations; wheth
 Unit BGB-U-0213 · state proposed · posture TRD/HYP · confidence E1 · medical M1 · readiness R1
 Tags domain:tradition, model:bandha, model:yoga, model:generalized-modes, model:meridian · gates INTENT, PROV, HIST, DEF, EVID, ALT, VIS
 
-**Chapter summary.** The gross projection assigns dominant whole-system roles rather than local channel identities: legs and feet emphasize axial support and ground resolution; arms and hands emphasize reach, span, and expansion; and opening/rotation emphasizes coordination between them. The structural bandha map parallels this scale through Mula and all foot channels, Jalandhara and all hand channels, and Uddiyana as an emergent rotational spiral.
+**Chapter summary.** The gross projection assigns dominant whole-system roles rather than local channel identities: legs and feet emphasize axial support and ground resolution; opening/rotation emphasizes coordination between lower and upper systems; and arms and hands emphasize reach, span, and expansion. The structural bandha map parallels this scale through Mula and all foot channels, Jalandhara and all hand channels, and Uddiyana as an emergent rotational spiral.
 
 **Chapter introduction.** The author's embodied model became clearer when the limbs were treated as systems. A person stands and resolves demand through the legs while using the arms to span, receive, reach, or project. Rotation often appears not as a third limb set but as the changing relationship between lower and upper organizations. This coarse view must coexist with the finer channel map rather than overwrite it.
 
@@ -611,7 +611,7 @@ Examine pelvic–shoulder orientation, diagonal relations, contralateral gait, s
 
 #### 13.4 The local-to-gross crosswalk
 
-Place every hand and foot channel beside its local Six-Division mode and the dominant role of its limb. Heart can remain axial locally while the arm is expansive grossly; Lung can remain rotational locally; Pericardium can supply a local expansive anchor. This crosswalk is the conceptual payoff of examining anatomy twice.
+Place every hand and foot channel beside its local Six-Division mode and the dominant role of its limb. Heart can remain axial locally while the arm is expansive grossly; Lung can remain opening/rotational locally; Pericardium can supply a local expansive anchor. This crosswalk is the conceptual payoff of examining anatomy twice.
 
 #### 13.5 The structural bandha map
 
@@ -1161,7 +1161,7 @@ Collect local-frame and generalized-mode conventions; `q`, `q-dot`, `Q`, and `s`
 - local and global frames, mirrored sides, phase, and mode-versus-vector examples;
 - complete Six-Division/channel table and regional overlays for each proposed mode;
 - local-to-gross crosswalk for every hand and foot channel;
-- lower axial system, upper expansive system, and candidate opening/rotational coupling;
+- lower axial system, candidate opening/rotational coupling, and upper expansive system;
 - KI1–PC8 tasks with unresolved ipsilateral, contralateral, bilateral, and phase variants;
 - subtle and structural bandha maps and proposed Mula → Jalandhara → Uddiyana sequence;
 - posterior bow, SCM–quadriceps, and serratus–latissimus worked alternatives;

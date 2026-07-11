@@ -86,16 +86,16 @@ That preferred organization is presently expressed as the all-Yang sign combinat
 The best current first-order formulation is a reduced generalized-coordinate model, not three interchangeable Cartesian force vectors. It uses three coupled modes:
 
 - `q_a`: longitudinal transmission or axial organization;
-- `q_e`: transverse expansion or contraction;
-- `q_o`: paired opening or closing rotation.
+- `q_o`: paired opening or closing rotation;
+- `q_e`: transverse expansion or contraction.
 
 Generalized coordinates may mix displacement- or strain-like variables with an angular variable. Their conjugate mechanical loads can be introduced through virtual work:
 
 ```text
-delta W = N_a delta q_a + H_e delta q_e + M_o delta q_o
+delta W = N_a delta q_a + M_o delta q_o + H_e delta q_e
 ```
 
-Here, `N_a` is an axial force resultant, `H_e` is a generalized expansive load, and `M_o` is an opening or closing moment. The exact meaning of `q_e` and `H_e` depends on the region: width, area, perimeter, or outward-normal displacement may be paired with pressure, hoop force, surface traction, or another integrated resultant. The standard relationship between generalized displacements and conjugate forces or torques is summarized in [MIT's dynamics notes](https://ocw.mit.edu/courses/16-61-aerospace-dynamics-spring-2003/e16936ad266f184f38159855f69fc227_lecture9.pdf).
+Here, `N_a` is an axial force resultant, `M_o` is an opening or closing moment, and `H_e` is a generalized expansive load. The exact meaning of `q_e` and `H_e` depends on the region: width, area, perimeter, or outward-normal displacement may be paired with pressure, hoop force, surface traction, or another integrated resultant. The standard relationship between generalized displacements and conjugate forces or torques is summarized in [MIT's dynamics notes](https://ocw.mit.edu/courses/16-61-aerospace-dynamics-spring-2003/e16936ad266f184f38159855f69fc227_lecture9.pdf).
 
 This formulation separates three descriptions that can have different signs at the same moment:
 
@@ -127,14 +127,14 @@ Cylindrical basis directions are locally orthogonal, although radial and circumf
 
 The repository already states this sequence in older prose: [Yang axial, rotational, and lateral engagement](../14-section-04.md#L200), followed by the [complementary Yin sequence](../14-section-04.md#L206).
 
-The standard channel assignments are Shaoyin Heart/Kidney opposite Taiyang Small Intestine/Bladder; Taiyin Lung/Spleen opposite Yangming Large Intestine/Stomach; and Jueyin Pericardium/Liver opposite Shaoyang Sanjiao/Gallbladder. [This peer-reviewed table lists all twelve assignments](https://pmc.ncbi.nlm.nih.gov/articles/PMC7356495/). Their identification with axial, rotational, and lateral modes is this project's proposed correspondence and must be presented as such.
+The standard channel assignments are Shaoyin Heart/Kidney opposite Taiyang Small Intestine/Bladder; Taiyin Lung/Spleen opposite Yangming Large Intestine/Stomach; and Jueyin Pericardium/Liver opposite Shaoyang Sanjiao/Gallbladder. [This peer-reviewed table lists all twelve assignments](https://pmc.ncbi.nlm.nih.gov/articles/PMC7356495/). Their identification with axial, opening/rotational, and expansive/lateral modes is this project's proposed correspondence and must be presented as such.
 
 ### Three mapping scales
 
 The current authorial model contains three compatible levels:
 
-1. **Local channel-mode map.** Every body region can express axial, expansive, and opening/rotational behavior. Individual channels are assigned to those modes through the Six-Division correspondence above.
-2. **Gross limb-role projection.** The legs and feet are weighted toward axial support and resolution into the ground; the arms and hands are weighted toward transverse reach, span, and expansion; and rotation describes coordination between the lower- and upper-limb systems, including pelvic–shoulder orientation, diagonal relation, and relative phase.
+1. **Local channel-mode map.** Every body region can express axial, opening/rotational, and expansive/lateral behavior. Individual channels are assigned to those modes through the Six-Division correspondence above.
+2. **Gross limb-role projection.** The legs and feet are weighted toward axial support and resolution into the ground; opening/rotation describes coordination between the lower- and upper-limb systems, including pelvic–shoulder orientation, diagonal relation, and relative phase; and the arms and hands are weighted toward transverse reach, span, and expansion.
 3. **Embodied anchor hypothesis.** Coordination between KI1 (Yongquan) at the sole and PC8 (Laogong) at the palm is a candidate felt connection between the gross axial and expansive systems. Opening and closing positions in Yang-style Taijiquan provide a direct experiential example. This is an authorial embodied observation whose mechanical carrier, sidedness, and measurements remain to be developed.
 
 The gross limb projection does not reassign every hand channel to the expansive Six-Division family or every foot channel to the axial family. It describes the dominant role of an entire limb system at another scale. Heart can therefore remain an axial hand channel while the arm as a whole participates in the gross expansive subsystem.
@@ -195,7 +195,7 @@ This is a modeling option to refine, not a claim that the whole body is a single
 
 Orthotropic approximations already have a legitimate but bounded role in biomechanics. They have been used to describe direction-dependent properties of cancellous and cortical bone, while many skeletal-muscle models use transversely isotropic or more complex active-material descriptions. Experimental examples include studies of [cancellous bone](https://pubmed.ncbi.nlm.nih.gov/2341418/) and [cortical bone](https://pubmed.ncbi.nlm.nih.gov/19627830/).
 
-The eventual question is not merely whether three orthogonal directions can be drawn. It is whether a chosen constitutive model is useful at a stated scale, how its properties are measured, how axial, expansive, and opening modes couple through geometry and off-diagonal response, and how any material frame relates to stress, strain, gravity, movement, and the proposed TCM correspondence.
+The eventual question is not merely whether three orthogonal directions can be drawn. It is whether a chosen constitutive model is useful at a stated scale, how its properties are measured, how axial, opening/rotational, and expansive/lateral modes couple through geometry and off-diagonal response, and how any material frame relates to stress, strain, gravity, movement, and the proposed TCM correspondence.
 
 ## 6. Preferred global configuration
 
@@ -241,7 +241,7 @@ A future formalization should distinguish at least four levels:
 - In pressure-bearing systems: pressure and pressure gradients.
 - Over time: accumulated magnitude, direction, rate, repetition, variability, duration, and recovery context.
 
-In a reduced generalized-mode model, each configuration variable also has a conjugate load: axial force for longitudinal deformation, an expansive resultant or pressure-like quantity for expansion, and a moment or torque for angular opening. This supplies a disciplined way to relate the project's three modes without pretending that force, pressure, and torque have identical dimensions.
+In a reduced generalized-mode model, each configuration variable also has a conjugate load: axial force for longitudinal deformation, a moment or torque for angular opening, and an expansive resultant or pressure-like quantity for expansion. This supplies a disciplined way to relate the project's three modes without pretending that force, pressure, and torque have identical dimensions.
 
 Torque is essential at the segment level. In classical continuum mechanics, a resultant moment can often be derived from the distribution of stresses across a section, but it remains indispensable for reasoning about joints, limbs, and coupled rotational behavior.
 
@@ -330,7 +330,7 @@ We should not yet require a literal discontinuity in a physical stress field. A 
 
 ## 10. Additional future framing: tall torus and paired-loop torque
 
-The tall-torus model is an additional exploratory framing for the higher-specificity research program. It does not replace the axial, lateral, and rotational coordinate model, and it is not required by the first book's foundational medical argument.
+The tall-torus model is an additional exploratory framing for the higher-specificity research program. It does not replace the axial, opening/rotational, and expansive/lateral generalized-mode model, which is itself distinct from a local spatial coordinate frame; nor is the torus required by the first book's foundational medical argument.
 
 The analogy treats the body as an elongated, curved form with:
 
@@ -340,7 +340,7 @@ The analogy treats the body as an elongated, curved form with:
 - left and right lateral tracks;
 - circumferential or opening/closing relationships across the pelvis, rib cage, shoulder girdle, jaw, and skull.
 
-Within this framing, paired torque patterns may offer a more detailed account of how the three signed modes are produced. Anterior/posterior torque relationships may contribute to axial and rotational organization; left/right torque relationships may contribute to lateral curvature and expansion; and relative convergence or separation across the two halves may contribute to opening and closing.
+Within this framing, paired torque patterns may offer a more detailed account of how the three signed modes are produced. Anterior/posterior torque relationships may contribute to axial resolution and local opening/rotational organization; left/right torque relationships may contribute to expansive/lateral curvature and local opening/rotational moments; and relative convergence or separation across the two halves may be an expression of the same opening/closing mode rather than a separate generalized coordinate. The precise coupling among these candidate mechanisms remains to be derived.
 
 Several additional ideas should remain available for later alignment:
 
@@ -382,7 +382,7 @@ For the first book, this framing is best preserved as a motivating future direct
 - **Mechanical homeostasis:** The proposed maintenance of mechanical variables within viable dynamic ranges. It does not yet imply one fixed set point.
 - **Phase:** Position within a temporal cycle, such as breathing or gait—not a fourth spatial dimension.
 - **Load-routing regime transition:** A qualitative reorganization of the body's load-path field or network.
-- **Gross limb-role projection:** The coarse model in which legs and feet are weighted toward axial support, arms and hands toward expansion, and rotation toward upper–lower coordination. It does not replace the channel-by-channel Six-Division map.
+- **Gross limb-role projection:** The coarse model in which legs and feet are weighted toward axial support, opening/rotation toward upper–lower coordination, and arms and hands toward expansion. It does not replace the channel-by-channel Six-Division map.
 - **Embodied anchor:** A named anatomical or traditional point relationship used to preserve and investigate a direct experiential observation. It is a hypothesis source, not by itself a validated force path.
 - **Orthotropic approximation:** An optional constitutive model in which properties are organized around three mutually perpendicular material-symmetry planes or axes. Its usefulness must be established by tissue, region, scale, and mechanical regime; the generalized-mode model does not depend on it.
 - **Tall-torus framing:** An exploratory shell/core and paired-track analogy for future whole-system formalization, not a literal anatomical identity.
@@ -410,9 +410,9 @@ The functional hard/soft distinction is part of that foundation, but only in its
 
 The preferred-configuration hypothesis should nevertheless be stated directly, probably as a motivating research program:
 
-> The broader project hypothesizes that human anatomy has a preferred body-wide mechanical organization corresponding to coherent downward, outward, and externally rotational routing. The foundational argument developed here does not depend on that hypothesis being correct.
+> The broader project hypothesizes that human anatomy has a preferred body-wide mechanical organization corresponding to coherent downward axial resolution, external or opening rotation, and outward expansion. The foundational argument developed here does not depend on that hypothesis being correct.
 
-In the revised mode language, this means downward axial resolution, outward expansion, and external or opening organization. The compact statement remains provisional until configuration, movement, conjugate load, routing, and efficiency are related explicitly.
+In the revised mode language, this means downward axial resolution, external or opening rotational organization, and outward expansive organization. The compact statement remains provisional until configuration, movement, conjugate load, routing, and efficiency are related explicitly.
 
 This avoids both overclaiming and concealment.
 
@@ -430,12 +430,12 @@ For present planning purposes, these appear settled:
 - The recoverable meaning of “soft-to-hard” is successful resolution of gross structural demand through capable shape-preserving and force-transmitting pathways, not a universal tissue sequence.
 - Load-path substitution and constraint-maintained deformation provide the main vocabulary for cases in which shape-conforming structures become unintended structural boundaries.
 - The project is especially interested in extrinsic or configuration-maintained deformation while preserving the distinction from intrinsic or independently persistent narrowing.
-- Axial, expansive, and opening/rotational are the three intended generalized mechanical modes. They are not three interchangeable Cartesian vector components.
+- Axial, opening/rotational, and expansive/lateral are the three intended generalized mechanical modes. They are not three interchangeable Cartesian vector components.
 - Each mode has Yin and Yang directions.
 - The preferred global sign combination is Yang/Yang/Yang.
-- Posterior, downward, outward, and external rotation are related expressions, not four or five independent primitives.
+- Posterior, downward axial resolution, external or opening rotation, and outward expansion are related expressions, not four independent primitives.
 - The Six Divisions/channel mapping is the one recorded above; Heart is correctly placed.
-- The Six-Division channel map and the gross hand/foot projection describe different scales. In the gross projection, legs and feet are weighted toward axial organization, arms and hands toward expansion, and rotation toward coordination between them.
+- The Six-Division channel map and the gross hand/foot projection describe different scales. In the gross projection, legs and feet are weighted toward axial organization, opening/rotation toward coordination between the lower- and upper-limb systems, and arms and hands toward expansion.
 - KI1 (Yongquan)–PC8 (Laogong) coordination is a direct embodied anchor hypothesis connecting the gross axial and expansive systems. Its sidedness, carrier, and measurable meaning remain unresolved.
 - “Force line” may preserve an internal and especially Yin sense of mechanical connection as well as an external line of action; it should not be reduced prematurely to one cable or resultant.
 - TCM terminology should be translated carefully without being erased.

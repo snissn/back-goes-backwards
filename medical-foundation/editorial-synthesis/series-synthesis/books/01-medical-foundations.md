@@ -209,7 +209,7 @@ Describe paths through skeletal contact, tensile structures, active muscle, pres
 
 #### 4.6 Preparing—but not yet choosing—the body's signed coordinates
 
-Introduce axial, expansive, and opening/rotational organization as a later project-specific reduced model. Book I needs two generic insights. First, vectors and tensors can be expressed in chosen spatial frames. Second, a complex system can be described through generalized modes whose configuration variables and conjugate loads need not be three components of one vector. Book II develops that distinction; the preferred signs and their traditional correspondence remain questions for Books II and III.
+Introduce axial, opening/rotational, and expansive/lateral organization as a later project-specific reduced model. Book I needs two generic insights. First, vectors and tensors can be expressed in chosen spatial frames. Second, a complex system can be described through generalized modes whose configuration variables and conjugate loads need not be three components of one vector. Book II develops that distinction; the preferred signs and their traditional correspondence remain questions for Books II and III.
 
 **Chapter conclusion.** Mechanical roles exist inside a three-dimensional configuration that determines which paths are available and what internal exposure follows from external demand. Part II now identifies the principal structures that cooperate to create those paths and makes the hard/soft intuition anatomically concrete.
 
@@ -1300,7 +1300,7 @@ State the next proposition plainly: human anatomy may possess a preferred body-w
 
 #### 30.4 Three signed generalized modes
 
-Preview the proposed first-order reduced model: axial, expansive, and opening/rotational modes, each with two signs. These are generalized modes, not three Cartesian force components. A configuration, its direction of movement, and its conjugate force or moment can have different signs; Book II must therefore define what the proposed Yang sign qualifies. The preferred combination is currently hypothesized as downward axial resolution, external or opening rotation, and outward expansion, expressed as a local state, body-wide bias, phase-dependent pattern, attractor, or another testable organization.
+Preview the proposed first-order reduced model: axial, opening/rotational, and expansive/lateral modes, each with two signs. These are generalized modes, not three Cartesian force components. A configuration, its direction of movement, and its conjugate force or moment can have different signs; Book II must therefore define what the proposed Yang sign qualifies. The preferred combination is currently hypothesized as downward axial resolution, external or opening rotation, and outward expansion, expressed as a local state, body-wide bias, phase-dependent pattern, attractor, or another testable organization.
 
 #### 30.5 Posterior, hard, and Yang are related hypotheses, not synonyms
 
@@ -1308,7 +1308,7 @@ Posterior and anterior name anatomical regions or distributions; exterior and in
 
 #### 30.6 The traditional coordinate program
 
-Preview the proposed mapping of the three mechanical modes to Yin/Yang, the Six Divisions, paired channels, bandhas, and other embodied traditions. Name two compatible scales without developing them here: individual channels are assigned by the Six-Division mode map, while a gross limb projection weights legs and feet toward axial support, arms and hands toward expansion, and rotation toward upper–lower coordination. Book III reconstructs those systems on their own terms, preserves additional mapping layers and embodied anchors, and separates historical continuity from anatomical or mechanical validation.
+Preview the proposed mapping of the three mechanical modes to Yin/Yang, the Six Divisions, paired channels, bandhas, and other embodied traditions. Name two compatible scales without developing them here: individual channels are assigned by the Six-Division mode map, while a gross limb projection weights legs and feet toward axial support, opening/rotation toward upper–lower coordination, and arms and hands toward expansion. Book III reconstructs those systems on their own terms, preserves additional mapping layers and embodied anchors, and separates historical continuity from anatomical or mechanical validation.
 
 #### 30.7 Breath, whole-system geometry, and state transition
 
