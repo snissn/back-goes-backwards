@@ -50,6 +50,7 @@ This is an authority order for project intent, not an evidence hierarchy. Resear
 | `example-registry.md` | Candidate examples and worked narratives, including alternatives and medical exposure |
 | `figure-registry.md` | Free-body diagrams, anatomy figures, explanatory models, and their technical review state |
 | `chapter-briefs/` | Pilot chapter briefs used to govern salvage and drafting once accepted |
+| `planning/` | Chapter-brief template and coverage plan plus shared continuity controls such as the recurring object-transfer specification |
 | `evidence/` | Pilot evidence map, controlled definitions, focused comparisons, source registers, and remaining review gates |
 | `source-salvage-map.md` | Exact recovery paths and dispositions for usable concepts, provenance, incompatible wording, and pipeline contamination |
 | `decisions/` | Durable decision records kept outside clean contracts, outlines, and briefs |
