@@ -1,6 +1,6 @@
 # *The Back Goes Backwards*, Book I: Medical Foundations
 
-**Status:** Provisional detailed outline for structural review
+**Status:** Accepted Book I development outline (`R2`); evidence and drafting maturity remain unit-specific
 
 ## Editorial role
 
@@ -8,7 +8,7 @@ Book I establishes the body as a living biomechanical system and develops load r
 
 The book preserves strong propositions as explicit hypotheses and research programs. Confidence, medical exposure, and readiness determine the work a proposition must survive; they do not determine whether it remains visible.
 
-## Provisional thesis
+## Working thesis
 
 > The human body is a living biomechanical system. Its tissues and structures continuously receive, distribute, transform, transmit, and dissipate forces and moments while managing pressure and deformation over time. Clinical reasoning can improve when load history, load distribution, and body-wide load routing are considered alongside biological, psychological, social, developmental, and environmental factors.
 
@@ -73,7 +73,7 @@ The book concludes on two levels. First, it leaves the reader with a usable medi
 
 ### 1. The mechanical dimension of life
 
-Unit BGB-U-0001 · state proposed · posture FND/SYN · confidence E2 · medical M2 · readiness R1
+Unit BGB-U-0001 · state accepted · posture FND/SYN · confidence E2 · medical M2 · readiness R2
 Tags domain:biomechanics, domain:medicine, use:foundation · gates DEF, EVID, LINK, ALT
 
 **Chapter summary.** Biological life is materially embodied: cells, tissues, organs, and whole-body functions operate within forces, moments, pressures, contacts, constraints, and deformations. Mechanical organization belongs alongside biological, psychological, social, developmental, and environmental determinants, with the wider possibility that mechanics may sometimes shape health upstream of symptoms and rehabilitation.
@@ -106,7 +106,7 @@ Distinguish the uncontroversial case of a discrete mechanical injury from the bo
 
 ### 2. A working language of load
 
-Unit BGB-U-0002 · state proposed · posture FND · confidence E2 · medical M0 · readiness R1
+Unit BGB-U-0002 · state accepted · posture FND · confidence E2 · medical M0 · readiness R2
 Tags domain:mechanics, model:force-line, mech:force-torque, mech:stress-strain, mech:pressure-flow, use:foundation · gates DEF, FORM, EVID, VIS
 
 **Chapter summary.** This chapter establishes a shared vocabulary for force, moment, torque, pressure, stress, strain, strain rate, deformation, stiffness, compliance, capacity, work, energy, and load path. Load functions as an umbrella term rather than a single scalar; external demand remains distinct from internal force and tissue exposure; and free-body diagrams and carefully selected engineering analogies make distribution and transfer intelligible.
@@ -143,7 +143,7 @@ Introduce work and energy only as far as needed to discuss absorption, storage, 
 
 ### 3. Hard and soft mechanical roles
 
-Unit BGB-U-0003 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
+Unit BGB-U-0003 · state accepted · posture SYN/HYP · confidence E1 · medical M2 · readiness R2
 Tags domain:biomechanics, model:hard-soft, mech:load-path, mech:substitution, use:organizing-model · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** Hard and soft form a functional polarity and division of mechanical labor. A hard role is relatively shape-preserving, force-transmitting, or structurally resolving at the scale under discussion. A soft role is relatively form-receiving and shape-conforming: it yields rather than imposing geometry, enabling containment, glide, flow, pressure response, buffering, and local shape change. Fascia or muscle to tendon or ligament to bone or joint remains a first-order candidate handoff, while tissues can exchange roles with direction, state, scale, and task.
@@ -180,7 +180,7 @@ Acknowledge that the terminology is motivated partly by Yin/Yang and TCM usage, 
 
 ### 4. Three-dimensional configuration and load paths
 
-Unit BGB-U-0004 · state proposed · posture FND/SYN · confidence E2 · medical M1 · readiness R1
+Unit BGB-U-0004 · state accepted · posture FND/SYN · confidence E2 · medical M1 · readiness R2
 Tags domain:mechanics, model:spatial-frames, mech:load-path, mech:force-torque, mech:geometry, use:foundation · gates DEF, FORM, EVID, MEAS, VIS
 
 **Chapter summary.** This chapter introduces local and global frames, position and orientation, basis decomposition, center of mass, moment arms, rotational inertia, contact, boundary conditions, and three-dimensional force and moment organization. Configuration comprises geometry together with active forces, pressure, tissue state, stress and strain fields, and the resulting organization of available paths. This generic spatial reasoning precedes the later signed axial, opening/rotational, and expansive/lateral generalized-mode model.
@@ -229,7 +229,7 @@ Introduce axial, opening/rotational, and expansive/lateral organization as a lat
 
 ### 5. Skeleton, joints, and shape-preserving paths
 
-Unit BGB-U-0005 · state proposed · posture FND/SYN · confidence E2 · medical M1 · readiness R1
+Unit BGB-U-0005 · state accepted · posture FND/SYN · confidence E2 · medical M1 · readiness R2
 Tags domain:anatomy, domain:biomechanics, anat:skeleton, mech:geometry, mech:load-path, use:foundation · gates DEF, EVID, ALT, VIS
 
 **Chapter summary.** This chapter examines skeletal geometry, joint surfaces, contact, ligamentous restraint, stability, and force transmission through bones and articulations as components of relatively shape-preserving paths. Configuration changes moments, contact distribution, available paths, and compensation. Preferred or optimal organization remains a later hypothesis; the account here is specific to task, anatomy, capacity, and scale.
@@ -270,7 +270,7 @@ Define stability as the ability to maintain or recover usable relationships unde
 
 ### 6. Active, tensile, compliant, pressure-bearing, and tension-network systems
 
-Unit BGB-U-0006 · state proposed · posture FND/SYN/HYP · confidence E1 · medical M2 · readiness R1
+Unit BGB-U-0006 · state accepted · posture FND/SYN/HYP · confidence E1 · medical M2 · readiness R2
 Tags domain:anatomy, domain:biomechanics, anat:muscle-tendon, anat:fascia, model:tensegrity, mech:pressure-flow, use:organizing-model · gates DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** Muscle, tendon, ligament, fascia, cartilage, capsules, fluid, pressure-bearing cavities, and sliding interfaces actuate, guide, tension, stabilize, buffer, contain, and adapt skeletal routes. The integrated tension-network account of baseline tone, prestress, fascia, glide, pressure, and long-range continuity remains a whole-system hypothesis, while its component links remain independently researchable.
@@ -311,7 +311,7 @@ Return to the first-order sequence in which muscle or fascia gathers demand, ten
 
 ### 7. The posterior chain as an anatomical system
 
-Unit BGB-U-0007 · state proposed · posture FND/SYN · confidence E2 · medical M1 · readiness R1
+Unit BGB-U-0007 · state accepted · posture FND/SYN · confidence E2 · medical M1 · readiness R2
 Tags domain:anatomy, domain:biomechanics, model:posterior-chain, anat:posterior-chain, anat:muscle-tendon, use:foundation · gates DEF, EVID, ALT, VIS
 
 **Chapter summary.** Posterior-chain anatomy can be defined at both narrow and broad boundaries. It includes the calf–Achilles complex, hamstrings, gluteals, spinal extensors, thoracolumbar fascia, latissimus dorsi, trapezius, scapular structures, and plausible foot-to-cranium continuities. Several of these are among the body's largest and most mechanically consequential muscle groups. Together they form a major support and transfer system, while participation in a preferred global route remains a further question.
@@ -352,7 +352,7 @@ Gather the anatomy into the firmest Book I position: posterior structures form a
 
 ### 8. The physics and ordinary function of posterior support
 
-Unit BGB-U-0008 · state proposed · posture FND/SYN/HYP · confidence E2 · medical M1 · readiness R1
+Unit BGB-U-0008 · state accepted · posture FND/SYN/HYP · confidence E2 · medical M1 · readiness R2
 Tags domain:biomechanics, model:posterior-chain, mech:energy-storage, mech:force-torque, process:stance, process:gait, context:sport · gates DEF, EVID, ALT, MEAS, VIS
 
 **Chapter summary.** Posterior structures participate in standing, walking, sitting, lifting, propulsion, deceleration, balance recovery, stabilization, shock management, and elastic energy storage and return. Their relationships to performance, fatigue, stability, and injury exposure remain distinct research questions. Evolutionary development of upright locomotion remains an explanatory hypothesis rather than a closed conclusion.
@@ -393,7 +393,7 @@ Preserve the evolutionary account as a research program. Upright locomotion, hum
 
 ### 9. Posterior support across the whole body and lifespan
 
-Unit BGB-U-0009 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
+Unit BGB-U-0009 · state accepted · posture SYN/HYP · confidence E1 · medical M2 · readiness R2
 Tags domain:biomechanics, model:posterior-chain, model:hard-soft, process:development, process:aging, process:adaptation, use:hypothesis · gates DEF, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** Posterior anatomy operates in relation to anterior, lateral, deep, skeletal, active, tensile, and pressure-bearing systems. Development, training, pregnancy, injury, chronic illness, disability, aging, and changing reserve create distinct contexts for posterior participation and whole-body load sharing. Proposed relationships among posterior, exterior, hard, and Yang remain visible while region, role, and sign remain analytically distinguishable.
@@ -457,7 +457,7 @@ End with an explicit ladder. First, posterior structures form a major anatomical
 
 ### 10. Mechanical homeostasis, capacity, dose, time, and environment
 
-Unit BGB-U-0010 · state proposed · posture SYN/HYP · confidence E2 · medical M2 · readiness R1
+Unit BGB-U-0010 · state accepted · posture SYN/HYP · confidence E2 · medical M2 · readiness R2
 Tags domain:biomechanics, domain:health, process:adaptation, process:recovery, context:environment, context:ergonomics · gates DEF, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** Mechanical homeostasis is the maintenance of viable dynamic ranges rather than one fixed posture. Capacity depends on development, load history, tissue state, biological regulation, task, variability, and recovery. Sedentary exposure, repetitive work, sport, technology-shaped tasks, visual field, workspace, seating, breaks, and aging provide measurable dose-and-capacity contexts.
@@ -494,7 +494,7 @@ Replace a single universal failure threshold with changing margins and trajector
 
 ### 11. Continuity, handoff, leakage, interruption, and substitution
 
-Unit BGB-U-0011 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
+Unit BGB-U-0011 · state accepted · posture SYN/HYP · confidence E1 · medical M2 · readiness R2
 Tags domain:biomechanics, model:hard-soft, mech:load-path, mech:interruption, mech:substitution, use:organizing-model · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** This chapter follows how demand moves among coordinated skeletal, active, tensile, compliant, sliding, and pressure-bearing roles. It defines the transfer vocabulary used by the taxonomy: continuity and handoff describe available organization; interruption, bypass, overload, leakage, substitution, and rerouting describe distinct changes in it. Load leakage or misrouting into yielding or ventral structures remains a project-native hypothesis whose proposed exposures must be stated mechanically.
@@ -531,7 +531,7 @@ Require every leakage or interruption narrative to state the task, candidate nor
 
 ### 12. Global geometry, local concentration, and strain localization
 
-Unit BGB-U-0012 · state proposed · posture FND/SYN · confidence E2 · medical M2 · readiness R1
+Unit BGB-U-0012 · state accepted · posture FND/SYN · confidence E2 · medical M2 · readiness R2
 Tags domain:biomechanics, mech:geometry, mech:concentration, mech:stress-strain, use:organizing-model · gates DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** This chapter owns two related families in the taxonomy while keeping their scales separate. Global or axial geometric redistribution can change what reaches a region; local shape, curvature, moment arms, stiffness contrast, contact, and boundary conditions can then concentrate stress or convert modest whole-system displacement into larger local strain. Altered spinal curves, incongruence, wear, and collapse remain candidate contexts, with ordinary variation, compensation, and failure kept distinct.
@@ -568,7 +568,7 @@ Distinguish a modeled concentration from tissue intolerance, symptoms, wear, col
 
 ### 13. Constraint-maintained deformation and loss of excursion
 
-Unit BGB-U-0013 · state proposed · posture SYN/HYP · confidence E2 · medical M2 · readiness R1
+Unit BGB-U-0013 · state accepted · posture SYN/HYP · confidence E2 · medical M2 · readiness R2
 Tags domain:biomechanics, model:hard-soft, mech:constraint, mech:stress-strain, mech:pressure-flow, use:organizing-model · gates DEF, FORM, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** This chapter defines constraint-maintained deformation or lost excursion as a generic mechanical family. Surrounding geometry and demand may maintain compression, bending, traction, tethering, or collapse of a compliant structure against its restoring tendencies. Reduced space, altered course, changed lumen, restricted glide, and constrained expansion describe aspects of the imposed equilibrium; they are not substitutes for identifying what maintains it. Cross-system medical comparison belongs to Chapter 20 and the complete thoracic-outlet narrative to Chapter 24.
@@ -605,7 +605,7 @@ Lay out the candidate sequence: surrounding demand → wall or tissue stress →
 
 ### 14. Instability, discoordination, bracing, and repeated demand
 
-Unit BGB-U-0014 · state proposed · posture SYN/HYP · confidence E2 · medical M2 · readiness R1
+Unit BGB-U-0014 · state accepted · posture SYN/HYP · confidence E2 · medical M2 · readiness R2
 Tags domain:biomechanics, mech:instability, mech:discoordination, mech:compensation, use:organizing-model · gates DEF, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** This chapter owns two families that often coexist but require different observations: segmental instability concerns the maintenance or recovery of a usable relationship, while coordination or handoff failure concerns timing and transfer among otherwise capable participants. Recurrent joint injury, rib or scapular discoordination, micro-motion, repeated correction, and inefficient regional transfer provide candidate contexts. The proposed proprioception–bracing feedback loop and altered internal signaling remain research questions.
@@ -642,7 +642,7 @@ Identify candidate observations: perturbation response, joint or segment motion,
 
 ### 15. Compensation, rerouting, and delayed consequence
 
-Unit BGB-U-0015 · state proposed · posture SYN/HYP · confidence E2 · medical M2 · readiness R1
+Unit BGB-U-0015 · state accepted · posture SYN/HYP · confidence E2 · medical M2 · readiness R2
 Tags domain:biomechanics, mech:compensation, mech:substitution, mech:scale-transition, process:adaptation, use:organizing-model · gates DEF, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** This chapter develops compensatory rerouting as the sixth family and as a central capability rather than an automatic defect. Bracing, altered tone, changed gait, contralateral loading, and distal substitution may preserve function while changing future demand. Low-grade deviation to compensation to cumulative demand to delayed or distal consequence forms a coherent conditional pathway whose effects may be useful, neutral, costly, reversible, or eventually insufficient.
@@ -683,7 +683,7 @@ Require evidence about what came first, what changed next, what maintained the p
 
 ### 16. Scale transition and possible regulatory consequences
 
-Unit BGB-U-0016 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
+Unit BGB-U-0016 · state accepted · posture SYN/HYP · confidence E1 · medical M2 · readiness R2
 Tags domain:biomechanics, domain:mechanobiology, mech:scale-transition, mech:compensation, process:remodeling, use:hypothesis · gates DEF, EVID, LINK, ALT, MEAS
 
 **Chapter summary.** Possible scale transitions run from local exposure to neighboring recruitment, changed kinetic sequence, and body-wide reorganization, as well as in the reverse direction from global configuration to local concentration. Tone, effort, interoception, neural signaling, circulation, pressure, inflammation, energetic cost, resilience, and gradual degeneration remain explicit downstream research branches rather than an assumed single cascade.
@@ -736,7 +736,7 @@ Develop ongoing muscular effort, repeated correction, autonomic regulation, reco
 
 ### 17. Established mechanical reasoning in medicine
 
-Unit BGB-U-0017 · state proposed · posture FND/SYN · confidence E2 · medical M2 · readiness R1
+Unit BGB-U-0017 · state accepted · posture FND/SYN · confidence E2 · medical M2 · readiness R2
 Tags domain:medicine, domain:biomechanics, context:clinical-reasoning, use:foundation · gates DEF, EVID, LINK, ALT, CLIN
 
 **Chapter summary.** Established medicine already uses pressure, pumping, ventilation, fixation, decompression, conduit patency, joint loading, prosthetic interfaces, and structural support. This chapter documents that common ground and stops before claiming a new framework. Its endpoint is the narrower observation that recognized mechanical endpoints do not always reconstruct the route or history that produced them.
@@ -773,7 +773,7 @@ State the chapter's stance plainly. Existing specialties already contain sophist
 
 ### 18. The proposed addition: longitudinal load routing
 
-Unit BGB-U-0018 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
+Unit BGB-U-0018 · state accepted · posture SYN/HYP · confidence E1 · medical M2 · readiness R2
 Tags domain:medicine, domain:biomechanics, mech:load-path, context:clinical-reasoning, use:organizing-model · gates DEF, EVID, LINK, ALT, CLIN
 
 **Chapter summary.** The proposed addition is a longitudinal object of study: how demand entered a whole-body system, was partitioned among paths, changed through compensation, reached a local tissue, and affected the conditions of later function or recovery. This history may matter before exercise technique and beyond rehabilitation. Prevention, risk, functional reserve, ambiguous chronic presentations, surgery, devices, and recovery remain intended applications rather than conclusions of this chapter.
@@ -810,7 +810,7 @@ Set the no-protocol boundary explicitly. Book I does not derive an exercise rout
 
 ### 19. From mechanical exposure to tissue response
 
-Unit BGB-U-0019 · state proposed · posture FND/SYN · confidence E2 · medical M2 · readiness R1
+Unit BGB-U-0019 · state accepted · posture FND/SYN · confidence E2 · medical M2 · readiness R2
 Tags domain:mechanobiology, domain:medicine, mech:stress-strain, process:adaptation, process:remodeling, process:recovery · gates DEF, EVID, LINK, ALT, CLIN
 
 **Chapter summary.** Stress, strain, pressure, traction, shear, bending, contact, and repeated deformation connect mechanical exposure to time-dependent tissue behavior. Mechanotransduction, fluid movement, sensitization, inflammation, remodeling, injury, degeneration, and repair depend on tissue state, dose, rate, repetition, variability, and recovery. The same exposure class may be useful, neutral, symptomatic, or damaging under different conditions.
@@ -847,7 +847,7 @@ Keep the epistemic steps separate. Evidence that a tissue experienced strain doe
 
 ### 20. Comparing conduits, nerves, sliding interfaces, and pressure systems
 
-Unit BGB-U-0020 · state proposed · posture SYN/HYP · confidence E1 · medical M3 · readiness R1
+Unit BGB-U-0020 · state accepted · posture SYN/HYP · confidence E1 · medical M3 · readiness R2
 Tags domain:medicine, domain:biomechanics, mech:constraint, mech:pressure-flow, anat:vascular, anat:lymphatic, anat:neural · gates DEF, FORM, EVID, LINK, ALT, MEAS, CLIN
 
 **Chapter summary.** This chapter is a cross-system comparison rather than a worked case. It asks how constraint-maintained deformation differs among vessels, lymphatic pathways, nerve roots and peripheral nerves, sliding interfaces, airways, and cranial, thoracic, abdominal, and pelvic pressure systems. Thoracic outlet, pelvic basin, venous return, lymphatic flow, nerve excursion, airway, and pressure-related contexts remain named hypotheses. For each system, geometry and imposed load must precede claims about flow, conduction, regulation, or symptoms.
@@ -884,7 +884,7 @@ Organize a matrix across vessel, lymphatic pathway, nerve, airway, cavity, and s
 
 ### 21. Causal scope, alternatives, and the whole person
 
-Unit BGB-U-0021 · state proposed · posture SYN/APP · confidence E2 · medical M3 · readiness R1
+Unit BGB-U-0021 · state accepted · posture SYN/APP · confidence E2 · medical M3 · readiness R2
 Tags domain:medicine, domain:health, context:clinical-reasoning, use:clinical-reference · gates DEF, EVID, LINK, ALT, CLIN, ETH
 
 **Chapter summary.** This chapter is the framework's causal contract. It defines how mechanics may organize, contribute to, modify, follow from, or add little to an explanation without forcing every case into a fixed label. Mechanical accounts remain in comparison with inflammatory, infectious, genetic, metabolic, neurological, psychological, social, developmental, and environmental accounts. Osteoarthritis versus rheumatoid arthritis and connective-tissue, autoimmune, metabolic, traumatic, and multisystem examples serve as boundary tests.
@@ -925,7 +925,7 @@ Distinguish direct mechanical observation, plausible linkage, supported tissue r
 
 ### 22. Integrating the lens into clinical workflow
 
-Unit BGB-U-0022 · state proposed · posture SYN/APP · confidence E1 · medical M3 · readiness R1
+Unit BGB-U-0022 · state accepted · posture SYN/APP · confidence E1 · medical M3 · readiness R2
 Tags domain:medicine, context:clinical-reasoning, use:organizing-model, use:clinical-reference · gates DEF, EVID, LINK, ALT, MEAS, CLIN, ETH, AUD
 
 **Chapter summary.** This chapter applies the preceding causal contract to workflow: history taking, task and time questions, imaging and asymptomatic findings, symptom-modulation observations, measurement, uncertainty recording, follow-up, and referral. It shows where routing context meets diagnosis, pharmacology, surgery, rehabilitation, and interdisciplinary care, and addresses the objections that the framework is either merely rehabilitation or an ungrounded alternative diagnostic system.
@@ -980,7 +980,7 @@ The framework remains testable only when terms are defined, mechanisms are decom
 
 ### 23. Geometry and localized strain
 
-Unit BGB-U-0023 · state proposed · posture SYN/APP · confidence E2 · medical M3 · readiness R1
+Unit BGB-U-0023 · state accepted · posture SYN/APP · confidence E2 · medical M3 · readiness R2
 Tags domain:biomechanics, domain:medicine, mech:geometry, mech:concentration, mech:stress-strain, use:worked-example · gates PROV, DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS
 
 **Chapter summary.** The worked narrative uses a joint, cartilage, disc, bone, or spinal context to trace task and geometry through moment arms, contact, stress redistribution, localized strain, tissue response, and possible symptoms. Axial collapse, altered curves, disc and facet contexts, stenosis, Schmorl's nodes, and limb comparisons remain candidates in the supporting inventory.
@@ -1021,7 +1021,7 @@ Compare morphology, genetics, inflammation, activity history, acute injury, sens
 
 ### 24. Thoracic outlet: a soft structure held under constraint
 
-Unit BGB-U-0024 · state proposed · posture SYN/HYP/APP · confidence E1 · medical M3 · readiness R1
+Unit BGB-U-0024 · state accepted · posture SYN/HYP/APP · confidence E1 · medical M3 · readiness R2
 Tags domain:biomechanics, domain:medicine, model:hard-soft, mech:constraint, mech:pressure-flow, use:worked-example · gates PROV, DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS
 
 **Chapter summary.** Thoracic outlet syndrome supplies the complete candidate narrative that Chapters 13 and 20 deliberately deferred. The case must choose a presentation and system boundary, then trace imposed contact, compression, traction, bending, or tethering through wall or neural-tissue strain, maintained deformation, and restricted excursion before considering flow, conduction, function, or symptoms. A shorter comparison tests which steps generalize beyond this corridor.
@@ -1062,7 +1062,7 @@ Use one shorter example from a nerve root, pelvic basin, upper airway, craniofac
 
 ### 25. Instability, repeated demand, and changing capacity
 
-Unit BGB-U-0025 · state proposed · posture SYN/APP · confidence E2 · medical M3 · readiness R1
+Unit BGB-U-0025 · state accepted · posture SYN/APP · confidence E2 · medical M3 · readiness R2
 Tags domain:biomechanics, domain:medicine, mech:instability, mech:discoordination, mech:compensation, use:worked-example · gates PROV, DEF, EVID, LINK, ALT, MEAS, CLIN
 
 **Chapter summary.** Candidate contexts include recurrent ankle injury, spinal segmental instability, rib or sacroiliac dysfunction, and other settings in which control, tissue state, and repeated loading interact. Short-term compensation can preserve function while changing future demand, and one presentation may cross several failure families.
@@ -1103,7 +1103,7 @@ Identify measures of laxity, kinematics, kinetics, balance, perturbation respons
 
 ### 26. Silent compensation in a mixed chronic presentation
 
-Unit BGB-U-0026 · state proposed · posture SYN/HYP/APP · confidence E1 · medical M3 · readiness R1
+Unit BGB-U-0026 · state accepted · posture SYN/HYP/APP · confidence E1 · medical M3 · readiness R2
 Tags domain:medicine, domain:biomechanics, mech:compensation, mech:scale-transition, process:aging, use:worked-example · gates PROV, DEF, EVID, LINK, ALT, MEAS, CLIN, ETH
 
 **Chapter summary.** A candidate involving nonspecific low-back pain, progressive postural change, age-related loss of reserve, fatigue, low resilience, or diffuse pain provides a genuinely multicausal narrative. The sequence of silent compensation, cumulative demand, delayed or distal consequence, and possible lag between mechanism and conventional findings remains visible while mechanical history, biology, recovery, expectation, behavior, environment, and social context coexist.
@@ -1156,7 +1156,7 @@ List observations that would favor a meaningful routing contribution, another pr
 
 ### 27. Mechanical questions and observations in clinical reasoning
 
-Unit BGB-U-0027 · state proposed · posture SYN/APP · confidence E1 · medical M3 · readiness R1
+Unit BGB-U-0027 · state accepted · posture SYN/APP · confidence E1 · medical M3 · readiness R2
 Tags domain:medicine, domain:research, context:clinical-reasoning, model:posterior-chain, use:clinical-reference · gates DEF, EVID, LINK, ALT, MEAS, CLIN, AUD
 
 **Chapter summary.** This chapter gathers non-protocol questions about load history, task, configuration, hard and soft roles, posterior participation, path availability, substitution, local exposure, scale, variability, capacity, and recovery. Posterior-specific observations of transitions, balance, fatigue, pain, compensation, and reserve remain candidate markers rather than diagnostic conclusions.
@@ -1197,7 +1197,7 @@ Separate ordinary observation from research instrumentation and validated clinic
 
 ### 28. Education, prevention, movement literacy, and environmental design
 
-Unit BGB-U-0028 · state proposed · posture SYN/APP · confidence E1 · medical M2 · readiness R1
+Unit BGB-U-0028 · state accepted · posture SYN/APP · confidence E1 · medical M2 · readiness R2
 Tags domain:pedagogy, domain:public-health, context:environment, context:ergonomics, use:public-education · gates DEF, EVID, LINK, ALT, MEAS, ETH, AUD
 
 **Chapter summary.** Possible applications include professional education, public movement literacy, prevention, ordinary movement observation, workspace and environmental design, and longitudinal self-awareness. The larger ambition is that better mechanical understanding could change culture and prevention, while individualized tests, cues, and corrective programs remain later practice work.
@@ -1238,7 +1238,7 @@ Keep general literacy, environmental choice, and non-prescriptive observation in
 
 ### 29. Building the research and development program
 
-Unit BGB-U-0029 · state proposed · posture EDT/HYP/APP · confidence E1 · medical M3 · readiness R1
+Unit BGB-U-0029 · state accepted · posture EDT/HYP/APP · confidence E1 · medical M3 · readiness R2
 Tags domain:research, domain:medicine, domain:public-health, use:research-program, use:clinical-reference · gates INTENT, PROV, DEF, EVID, LINK, ALT, MEAS, CLIN, SAFE, ETH, AUD
 
 **Chapter summary.** The project's research, measurement, educational, therapeutic, implementation, and health-system programs remain separate development tracks. Candidate instruments target load partition, strain localization, maintained deformation, excursion, instability, compensation, and tissue response. New assessments, interventions, professional collaboration, and a broader biomechanical medicine remain active development programs.
@@ -1279,7 +1279,7 @@ Preserve the larger ambition: mechanics may eventually become a more explicit an
 
 ### 30. The wider series hypothesis: *The Back Goes Backwards*
 
-Unit BGB-U-0030 · state proposed · posture SYN/HYP · confidence E1 · medical M2 · readiness R1
+Unit BGB-U-0030 · state accepted · posture SYN/HYP · confidence E1 · medical M2 · readiness R2
 Tags domain:biomechanics, model:posterior-chain, model:preferred-configuration, model:generalized-modes, model:yin-yang, use:hypothesis · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS, VIS
 
 **Chapter summary.** Three nested propositions close the book: posterior structures form a major load-management system; anterior–posterior distribution is one useful lens within three-dimensional routing; and posterior participation may be a necessary but insufficient manifestation of a preferred body-wide organization expressed through downward axial, external or opening rotational, and outward expansive modes. Posterior names a region, hard names a role, and Yang names a signed organizational tendency whose relationships remain central research questions.

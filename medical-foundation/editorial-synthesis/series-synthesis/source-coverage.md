@@ -423,7 +423,7 @@ The 21-chapter structure is retained one-for-one. Each old chapter `n` maps to `
 
 - `new` reconciliation: **156 of 156** grouped substantive/editorial obligations have active destinations or a protected editorial/quarantine disposition.
 - Provisional outline: **119 of 119** numbered chapters have active destinations; all book-level theses, boundaries, handoffs, development rules, and open decisions are retained.
-- Direct authorial alignment refinements: **6 of 6** have active destinations and explicit provenance.
+- Direct authorial alignment refinements: **7 of 7** have active destinations and explicit provenance.
 - Solely quarantined substantive concepts: **0**.
 - Explicitly retired concepts: **0**.
 

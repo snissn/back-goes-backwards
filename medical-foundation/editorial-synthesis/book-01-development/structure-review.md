@@ -1,7 +1,7 @@
 # Book I Structural Review
 
 **Book:** *The Back Goes Backwards*, Book I: *Medical Foundations*
-**Status:** Provisional structural acceptance draft
+**Status:** Structural review accepted at working `R2`
 **Review object:** The six-Part, thirty-chapter architecture in the detailed Book I outline
 
 ## Book-level verdict
@@ -12,7 +12,7 @@ Retain the present six-Part, thirty-chapter structure. It has a coherent argumen
 
 No chapter presently warrants deletion, merger, division, or relocation. The source-reconciliation work has given each chapter a legitimate job, and the larger sequence preserves the strongest architecture recovered from the `new` archive. The remaining structural work is mainly to sharpen boundaries between neighboring chapters, choose the exact worked examples, and ensure that recurring concepts advance rather than restart.
 
-This verdict is generous but not automatic. *Accept* and *accept with refinement* below are recommendations to retain the unit in the proposed architecture; they do not advance it from `R1` to jointly accepted `R2`. “Accept with refinement” means that the chapter's placement and central job are sound while its eventual brief must resolve a named seam, scope, or example choice. Neither disposition means that inherited wording or claims have already survived evidence review.
+The [Book I brief-acceptance and control-delta docket](decisions/book-i-brief-acceptance-and-control-delta-docket.md) advances this structure and all 30 chapter briefs to working `R2`. *Accept* and *accept with refinement* below now describe the retained placement and job; a refinement is owned development work, not a structural hold. This acceptance does not mean that inherited wording or claims have survived evidence review.
 
 The book's decisive narrative move occurs between Parts II and III. Parts I and II establish how a living body can successfully divide and route mechanical demand. Part III develops the negative account: what can happen when dose, capacity, geometry, timing, constraint, or compensation make that organization harder to sustain. Parts IV and V then earn medical relevance rather than assuming it. Part VI gives the reader a bounded present use and discloses the stronger series program.
 
@@ -299,7 +299,7 @@ Part IV is accepted when it answers the skeptical reader in sequence: medicine a
 - **Unique job:** Test the negative hard/soft model in one complete corridor narrative, beginning with maintaining demand and separating deformation, excursion or lumen, function, symptoms, and diagnosis.
 - **Reader movement:** **Entry:** the reader understands the generic model and cross-system comparison. **Exit:** the reader can see exactly where a thoracic-outlet account is mechanically strong, medically conditional, or unresolved.
 - **Dependencies and handoff:** Tests Chapters 13, 19–21; contrasts with Chapter 25's non-obstructive repeated-demand problem.
-- **Refinement or open point:** Objective aTOS is selected as a bounded evidence anchor using a source-grounded composite, with repeated deformation → wall injury explicitly reconstructed. Thrombotic vTOS supplies a compact retained-state timeline; tendon–SSCT relative glide supplies the non-lumen transfer; neurogenic TOS remains an evidence-boundary contrast. These distinctions prevent evidence pooling rather than making subtype taxonomy the chapter's thesis. Medical-coauthor approval, source-table completion, and figure rights remain open.
+- **Refinement or open point:** Objective aTOS is selected as a bounded evidence anchor using a source-grounded composite, with repeated deformation → wall injury explicitly reconstructed. Thrombotic vTOS supplies a compact retained-state timeline; tendon–SSCT relative glide supplies the non-lumen transfer; neurogenic TOS remains an evidence-boundary contrast. These distinctions prevent evidence pooling rather than making subtype taxonomy the chapter's thesis. The controlled-salvage sheet authorizes bounded first-draft use; medical-coauthor approval, publication-anatomy review, and final figure rights remain open publication gates.
 
 ### 25. Instability, repeated demand, and changing capacity
 
@@ -390,22 +390,22 @@ These are boundary controls for chapter briefs, not recommendations to collapse 
 | Chapters 28 and 29 | Chapter 28 addresses reader- and environment-facing implications; Chapter 29 defines the staged development program. |
 | Chapters 9 and 30 | Chapter 9 closes the posterior foundation with a claim ladder; Chapter 30 uses that ladder to disclose the stronger series hypothesis. |
 
-## Decisions that still require authorial or joint acceptance
+## Reversible decisions resolved for development
 
-The structure can advance without settling the later formal model, but the following choices materially affect Book I's chapter briefs:
+The structure can advance without settling the later formal model. The acceptance docket resolves the formerly open choices as follows:
 
-1. Whether “mechanical homeostasis” is the preferred reader-facing name for the dynamic viability model in Chapter 10.
-2. Whether Chapter 23 leads with the lumbar motion segment or with a limb joint, and which region serves as the transfer comparison.
-3. Whether recurrent lateral ankle instability remains Chapter 25's leading example.
-4. Whether Chapter 26 retains the office-worker/nonspecific-low-back-pain vignette or uses another longitudinal mixed case.
-5. Whether Chapter 28 merely opens the institutional and environmental-design program or makes a stronger bounded recommendation.
-6. How much of the later-book program Chapter 30 names before the ending loses focus.
+1. Retain “mechanical homeostasis” as a provisional viable-range term; terminology review may rename it without changing the chapter.
+2. Chapter 23 provisionally leads with a bounded knee-joint contact/local-exposure construction and uses the lumbar motion segment as its required transfer test.
+3. Chapter 25 provisionally leads with recurrent lateral ankle instability.
+4. Chapter 26 uses a transparent hypothetical mixed chronic vignette, with the archived office-worker/low-back context retained as candidate material rather than patient evidence.
+5. Chapter 28 opens institutional and environmental design as a development program, not an established general recommendation.
+6. Chapter 30 names the preferred-configuration program directly but stops before Book II's derivation and detailed coordinate model.
 
-These choices should be made during chapter-brief and evidence work, not by reopening the six-Part architecture.
+All remain replaceable if research defeats the chosen teaching form. Replacement does not reopen the six-Part architecture.
 
-## Exact structural acceptance criteria
+## Structural acceptance criteria satisfied
 
-Book I may move from `proposed/R1` to structural `accepted/R2` when all of the following are true:
+Book I is at structural `accepted/R2` because the following conditions have been met in the accepted briefs and shared controls:
 
 1. The six-Part movement and the independent job of every Part are jointly accepted.
 2. Every chapter has one sentence stating its unique editorial job and that sentence does not also describe another chapter.
@@ -423,9 +423,9 @@ Book I may move from `proposed/R1` to structural `accepted/R2` when all of the f
 14. The book-specific contract, claim/evidence ledger, model registry, example registry, figure registry, and chapter briefs use the stable `BGB-U` units rather than creating a competing structure.
 15. No source obligation is removed during compression without an inventory, remapped home, decision record, or quarantine record preserving its conceptual kernel and provenance.
 
-## Recommended immediate use of this review
+## Immediate use of this review
 
-Treat the structure as provisionally retained. The three vertical-slice briefs and their focused evidence packs now test it at drafting depth:
+Treat the structure as the working development contract. The three vertical-slice briefs and their focused evidence packs now test it at drafting depth:
 
 - `BGB-U-0002` to test foundational definitions and diagrams;
 - `BGB-U-0013` to test the project's distinctive mechanical synthesis;
