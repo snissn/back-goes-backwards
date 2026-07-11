@@ -151,7 +151,7 @@ The registered models are `BGB-M-0001` through `BGB-M-0004`. The selected recurr
 4. **`BGB-FIG-01-004` — Mechanical exposure through time:** matched histories that differ in duration, repetition, rate, sequence, and recovery without implying one universal dose score.
 5. **`BGB-FIG-01-005` — Three meanings of force line:** external line of action, inferred multicarrier transfer, and embodied continuity, each using different notation and evidence status.
 
-The figures should use a controlled legend that can be reused across Book I. Chapter 13 inherits its notation for maintaining demand, pressure, stress, strain, and inferred links; Chapter 24 additionally inherits the observed/calculated/modeled/hypothesized evidence-state distinction.
+The figures should use the controlled provenance legend in the [definitions and notation pack](../evidence/chapter-02-definitions-and-notation.md): `OBS`, `MEAS`, `CALC`, `INF`, `MOD`, `HYP`, and `EMB`, encoded redundantly rather than by color alone. Chapter 13 inherits its notation for maintaining demand, pressure, stress, strain, and inferred links; Chapter 24 additionally inherits the evidence-state distinction for every causal arrow.
 
 ## Evidence and source obligations
 
@@ -160,6 +160,7 @@ The figures should use a controlled legend that can be reused across Book I. Cha
 - Source nonlinear, anisotropic, viscoelastic, poroelastic, active, and history-dependent qualifications where they enter the prose.
 - Do not use a citation about one tissue or loading regime as universal evidence for all living materials.
 - Treat engineering analogies as models whose limits are stated, not evidence that a medical conclusion follows.
+- Use the [definitions and notation pack](../evidence/chapter-02-definitions-and-notation.md) as the controlling technical sheet for object type, units, frames, reference configurations, assumptions, and category-error checks.
 
 This chapter is medically low-exposure, but terminological errors here would propagate through the entire series. Formal and visual review are therefore as important as citation completeness.
 
@@ -209,7 +210,7 @@ The detailed Book I outline is the structural source. The `new` outlines and leg
 
 The brief is ready for drafting when:
 
-- the controlled definitions and notation have passed formal review;
+- the controlled definitions and notation pack has passed mechanics, biomechanics, and authorial-intent review;
 - the five-figure program has a shared legend;
 - the claim ledger separates definitions from biological bridge claims;
 - every engineering analogy has an explicit scope and limit;

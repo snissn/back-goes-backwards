@@ -2,7 +2,7 @@
 
 **Scope:** BGB-U-0002, BGB-U-0013, and BGB-U-0024
 
-**Status:** Editorial evidence stress test; not yet a chapter source pack
+**Status:** Editorial evidence stress test with focused selection packs; not yet an accepted chapter source pack
 
 **Search date:** 2026-07-11
 
@@ -28,7 +28,7 @@ Inclusion records relevance, not blanket endorsement. A source supports only the
 5. **Tube and nerve evidence must remain separate.** Both can illustrate a general boundary-condition schema, but vessel-wall deformation and fluid flow are not evidence for neural strain, excursion, intraneural circulation, or conduction, and vice versa.
 6. **Thoracic-outlet phenotypes are distinct causal problems.** Neurogenic, nonthrombotic venous, thrombotic venous, and arterial presentations require different definitions, measurements, alternatives, and evidence chains even when they share a region.
 7. **Positional compression is exposure evidence, not diagnosis.** Venous compression is frequent in asymptomatic volunteers in one controlled MR study, and arterial Doppler changes occurred in nearly three tenths of a small healthy sample. A dynamic image or waveform therefore cannot complete the clinical chain alone.
-8. **The leading vascular case remains a deliberate choice.** Objective arterial injury offers the cleanest extrinsic-constraint chain; effort thrombosis offers the richest transition from repeated external exposure to mixed intrinsic and extrinsic pathology. Nonthrombotic venous obstruction offers the most reversible story but currently the weakest standardized clinical chain.
+8. **Objective aTOS is the provisional lead; thrombotic vTOS retains a different job.** A focal bony relation, objective arterial pathology, and distal consequence provide the clearest endpoint chain, while repeated deformation → wall injury remains reconstructed and the definition/referral process enriches the correspondence. Thrombotic vTOS remains the stronger time-dependent transition from proposed exposure to retained intrinsic or mixed pathology.
 
 ## BGB-U-0002 — Working language of load
 
@@ -75,9 +75,9 @@ The source literature supports the ingredients—diverse material behavior, chan
 
 The formulation does **not** by itself establish that deformable tissues should be unloaded, that bone must always be the dominant carrier, that visible straightness is mechanically superior, or that a role assignment predicts health.
 
-### Deferred definitions pack
+### Definitions and notation pack
 
-Before drafting, the technical reviewer should approve one notation sheet containing:
+The [Chapter 2 definitions and notation pack](chapter-02-definitions-and-notation.md) now supplies the working sheet for:
 
 - system and boundary;
 - external force and moment;
@@ -88,7 +88,7 @@ Before drafting, the technical reviewer should approve one notation sheet contai
 - material and spatial frames; and
 - measured, calculated, inferred, and modeled quantities.
 
-The pack should use one simple rigid-body example, one deformable-body example, and one living-tissue example. Any nonlinear or finite-deformation qualification that matters later should be named without turning Chapter 2 into a continuum-mechanics survey.
+It also supplies the three-example verification set and the `OBS`/`MEAS`/`CALC`/`INF`/`MOD`/`HYP`/`EMB` provenance legend. Mechanics, biomechanics, authorial-intent, and figure review remain open; the pack does not advance Chapter 2 to accepted evidence status by itself.
 
 ## BGB-U-0013 — Constraint-maintained deformation
 
@@ -155,6 +155,12 @@ The tube and neural models share only this abstract schema:
 > In a defined system, surrounding and intrinsic boundary conditions can maintain a deformable or sliding structure in a state different from an appropriate reference. That state may include altered shape, wall stress, course, contact, or excursion. Whether it changes flow, conduction, signaling, function, or symptoms is a separate system-, dose-, and time-specific proposition.
 
 The statement is stronger than “space might matter” because it names the maintaining relation. It is narrower than “constraint causes dysfunction” because each downstream arrow remains open to measurement and alternatives.
+
+### Selected non-lumen calibration
+
+The [focused comparison](chapter-13-non-lumen-comparison.md) provisionally selects flexor tendon–SSCT relative glide during controlled healthy finger motion. Separate tendon excursion, SSCT excursion, and relative motion make the interface inspectable without using lumen or flow. Median-nerve excursion during controlled elbow motion remains the reserve.
+
+This selection calibrates the variables and preserves a null branch. The reviewed evidence establishes ordinary task-dependent motion and protocol-specific measurement, not an adverse maintained loss, pathological threshold, recovery after release, symptom mechanism, or intervention. Kinematic reversal must not be called recovery, and relative displacement must not be called shear stress or friction.
 
 ### Required countermodels
 
@@ -246,14 +252,16 @@ Neurogenic TOS is best retained as a contrast rather than the first hose-inspire
 
 ### Provisional editorial recommendation
 
-Keep the chapter vascular-first but do not yet lock the phenotype.
+The [focused phenotype comparison](thoracic-outlet-phenotype-comparison.md) supports this working arrangement:
 
-- Choose **objective arterial injury** if the chapter's principal job is to demonstrate the cleanest complete hard-role/soft-role constraint chain.
-- Choose **thrombotic venous TOS** if its principal job is to demonstrate repeated exposure, transition to retained intrinsic change, collateral adaptation, and a mixed state.
-- Retain **nonthrombotic venous obstruction** as a reserve candidate pending a stronger focused evidence pack.
-- Keep **neurogenic TOS** as the shorter parallel chain unless direct phenotype-specific evidence becomes substantially stronger.
+- **Lead:** objective aTOS using a source-grounded composite with focal bony anatomy, objective adjacent artery-wall pathology, and a documented distal embolic or ischemic consequence.
+- **Weakest arrow:** repeated imposed deformation → wall injury, always labeled reconstructed unless direct evidence is found.
+- **Required negative comparison:** healthy provocative arterial waveform change and bony variation without aTOS.
+- **Time-dependent comparison:** thrombotic vTOS as a compact event-to-retained-state timeline.
+- **Reserve:** nonthrombotic venous obstruction.
+- **Within-region contrast:** neurogenic TOS, used to show that neural variables require a different chain.
 
-The choice is editorial as well as evidentiary: a clean focal anomaly and a time-evolving mixed mechanism teach different versions of the framework.
+The direction remains provisional pending author and medical-coauthor approval. Its purpose is not to make aTOS representative of thoracic-outlet presentations; it gives Chapter 24 one bounded case whose strong and weak arrows can both remain visible.
 
 ### Phenotype-specific alternatives
 
@@ -264,36 +272,36 @@ The choice is editorial as well as evidentiary: a clean focal anomaly and a time
 | Nonthrombotic venous | ordinary positional compression, collateral compensation, heart-level and gravitational effects, lymphatic or other causes of swelling, intrinsic stenosis, and measurement disagreement |
 | Neurogenic | cervical radiculopathy, distal entrapment, other plexopathy, shoulder disorder, pain sensitization, trauma, systemic neuropathy, and mixed vascular-neural presentation |
 
-## Deferred research packs
+## Focused packs and remaining work
 
-### Chapter 2 definitions pack
+### Chapter 2 definitions and notation
 
-- Select one standard mechanics source for each controlled definition and convention.
-- Add one authoritative biomechanics source showing how internal tissue stress is measured or inferred.
-- Use tissue-specific examples for dose dimensions; do not synthesize a universal dose functional.
-- Obtain technical review of every diagram that labels a load path, force line, stress, strain, pressure, or moment.
+- Working pack complete at [chapter-02-definitions-and-notation.md](chapter-02-definitions-and-notation.md).
+- Resolve final typography, force/deformation-gradient notation, moment/torque language, finite-deformation depth, and printed force-line treatment.
+- Obtain formal, biomechanics, authorial-intent, visual, and accessibility review before drafting approval.
 
-### Chapter 13 formal and empirical pack
+### Chapter 13 formal and empirical work
 
 - Compare at least two tube-law formulations and state geometry, wall, flow, and boundary assumptions.
 - Add contact, bending, tethering, longitudinal tension, anisotropic loading, pulsatility, and collateral routes only where the selected model can represent them.
 - Separate human, animal, bench, computational, and formal evidence in the source table.
-- Identify one non-tube model and state exactly what generalizes.
+- Use the selected tendon–SSCT comparison and state exactly what generalizes; retain the median nerve as reserve.
 - Search for recovery after unloading and for transitions from repeatedly recreated deformation to retained material or pathological change.
+- Obtain anatomical and measurement review; leave adverse constraint and recovery unresolved unless new evidence directly supports them.
 
-### Chapter 24 arterial pack
+### Chapter 24 objective-aTOS work
 
-- Build one source chain from external structure and task through objective arterial wall or hemodynamic change to the defined presentation.
-- Include asymptomatic dynamic arterial findings and diagnostic test performance.
-- Restrict cohorts to explicit arterial definitions and record anatomical lesions, objective injury, and distal findings separately.
-- Determine whether a documented published case or a source-grounded composite can support every observed element.
+- Focused comparison complete at [thoracic-outlet-phenotype-comparison.md](thoracic-outlet-phenotype-comparison.md).
+- Build the final claim-by-claim source table for the source-grounded composite.
+- Preserve source-observed fact, cohort context, clinical interpretation, mechanical reconstruction, and project-framework application as distinct provenance states.
+- Obtain author, medical-coauthor, relevant vascular, figure-rights, and pre-drafting literature-refresh approval.
 
-### Chapter 24 thrombotic venous pack
+### Chapter 24 thrombotic-vTOS comparison
 
 - Use the 2026 American Venous Forum guideline to define current UEDVT classification and evidence gaps.
 - Separate primary UEDVT, vTOS-associated UEDVT, effort thrombosis, chronic thrombosis, and nonthrombotic positional obstruction.
-- Search prospective or well-characterized cohorts for exposure history, anatomical findings, thrombophilia assessment, collateralization, wall change, and long-term function.
-- Identify which arrows are directly observed and which remain a reconstructed pathophysiological model.
+- Use the focused comparison's event-to-retained-state mini-timeline rather than a second complete vignette.
+- Obtain medical approval of the timeline, alternatives, and boundary; preserve treatment-altered measurement and reconstructed initiation.
 
 ### Neural comparison pack
 
@@ -305,25 +313,25 @@ The choice is editorial as well as evidentiary: a clean focal anomaly and a time
 
 | Gate | Pass condition |
 |---|---|
-| FORM | The Chapter 2 notation sheet and Chapter 13 tube and neural models have technical review; every equation states assumptions, variables, units, and boundary conditions |
-| DEF / CLIN | Chapter 24 names one leading phenotype, one comparison, and the exact criterion set used for each |
+| FORM | The Chapter 2 notation sheet and Chapter 13 tube and non-lumen interface models have technical review; every equation states assumptions, variables, units, and boundary conditions |
+| DEF / CLIN | Chapter 24 names one leading phenotype, the distinct job of every retained comparison, and the exact criterion set used for each clinically classified presentation |
 | EVID | Focused source packs record search date, databases, inclusion logic, study design, population, endpoint, limitations, and conflicts or funding where material |
 | LINK | Every arrow in the selected causal chain has direct support, a labeled formal inference, or an explicit unresolved status; evidence is not borrowed from another phenotype |
 | ALT | At least one live competing explanation is attached to every medically exposed transition, with a proposed discriminating observation |
 | MEAS | The vignette identifies observable exposure, tissue-state, physiological, and functional variables and the timing of each |
 | PROV / CLIN | Every vignette fact is traceable to a published case, approved source-grounded composite, or clearly hypothetical element |
-| CLIN | The medical coauthor approves terminology, phenotype, alternatives, and exclusions; vascular and, if retained, peripheral-nerve expertise reviews the condition-specific chain |
+| CLIN | The medical coauthor approves terminology, phenotype, alternatives, and exclusions; vascular expertise reviews the condition-specific chain, and hand/wrist anatomy and biomechanics review the tendon–SSCT comparison |
 | VIS | Figures visually distinguish observed anatomy, measured quantity, model output, authorial synthesis, and unresolved causal inference |
 | AUD / EVID | The claim ledger records the strongest permissible reader-facing wording for each medically exposed proposition |
 
 If a gate fails, the default response is to narrow the claim, change the leading phenotype, expose the missing arrow, or retain the mechanism as a research program. Failure of one clinical instantiation does not by itself invalidate or delete the generic hard/soft or maintained-constraint model.
 
-## Unresolved editorial choices
+## Joint approval choices
 
-1. Should Chapter 24 optimize for the cleanest demonstrable extrinsic-constraint chain, favoring objective arterial injury, or for the most instructive time-dependent transition, favoring thrombotic venous TOS?
-2. If thrombotic venous TOS leads, is the chapter centered on the pre-thrombotic exposure that must be reconstructed, or on the mixed state after thrombosis that can be measured more directly?
-3. Should the shorter comparison remain neurogenic TOS, which maximizes within-region contrast, or move to another anatomically constrained conduit or nerve interface with a stronger evidence chain?
-4. How much tube-law and pressure-flow formalism belongs in Chapter 13 versus a figure or technical note, given that no simple equation can stand in for a living vessel?
-5. Which direct authorial formulation of hard/soft should open the evidence ladder, and how much technical translation should immediately follow it?
+1. Approve or revise objective aTOS as Chapter 24's lead and the source-grounded composite as its vignette form.
+2. Approve or revise thrombotic vTOS as a compact event-to-retained-state comparison rather than a second full case.
+3. Approve or revise tendon–SSCT relative glide as Chapter 13's non-lumen calibration and Chapter 24's transfer system.
+4. Decide how much tube-law and pressure-flow formalism belongs in Chapter 13 versus a figure or technical note, given that no simple equation can stand in for a living vessel.
+5. Decide which direct authorial formulation of hard/soft opens the evidence ladder and how much technical translation immediately follows it.
 
-Until the phenotype, focused packs, and review gates are approved, Chapter 24 remains a well-specified editorial and research program rather than draft-ready medical prose.
+Until those choices and the remaining review gates are approved, the pilot remains a well-specified editorial and research program rather than draft-ready medical prose.

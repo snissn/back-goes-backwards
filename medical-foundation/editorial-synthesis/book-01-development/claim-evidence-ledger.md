@@ -48,9 +48,9 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 | `BGB-C-0015` | Thoracic outlet syndrome is not one mechanical presentation | `BGB-U-0024` | FND | E2 | M3 | Case-selection boundary |
 | `BGB-C-0016` | Corridor mechanics vary with anatomy, state, and task | `BGB-U-0024` | FND/SYN | E2 | M3 | Anatomical-mechanical bridge |
 | `BGB-C-0017` | An extrinsic thoracic-outlet account begins with imposed load | `BGB-U-0024` | SYN/HYP | E1 | M3 | Candidate mechanism |
-| `BGB-C-0018` | A vascular account requires a staged wall-to-flow chain | `BGB-U-0024` | HYP/APP | E1 | M3 | Vascular bridge |
+| `BGB-C-0018` | A vascular account requires a tissue-specific staged chain | `BGB-U-0024` | HYP/APP | E1 | M3 | Vascular bridge |
 | `BGB-C-0019` | A neural account requires a staged load-to-function chain | `BGB-U-0024` | HYP/APP | E1 | M3 | Neural bridge |
-| `BGB-C-0020` | The observed corridor state is a changing equilibrium | `BGB-U-0024` | SYN/HYP | E2 | M3 | State model |
+| `BGB-C-0020` | Corridor states may be dynamic, retained, or mixed | `BGB-U-0024` | SYN/HYP | E2 | M3 | State and chronology model |
 | `BGB-C-0021` | Geometry, physiology, symptoms, and diagnosis are non-equivalent | `BGB-U-0024` | FND/SYN | E2 | M3 | Clinical inference boundary |
 | `BGB-C-0022` | Intrinsic, extrinsic, and nonmechanical accounts may coexist | `BGB-U-0024` | SYN | E2 | M3 | Alternatives rule |
 
@@ -88,12 +88,12 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 
 - **Raw form:** “Force, moment, torque, pressure, stress, strain, strain rate, and deformation” must not be collapsed into one meaning of load.
 - **Provenance:** `project-model` and `editorial-synthesis`; source obligation `BGB-S-1208` preserves levers, moments, tension, compression, and force paths.
-- **Normalized statement:** Force, moment, pressure, stress, strain, strain rate, and deformation describe different mechanical objects with different units, mathematical forms, and measurement methods; moment and torque are context-sensitive names for a turning effect and require a stated point or axis.
+- **Normalized statement:** Force, moment, traction, contact pressure, fluid pressure, stress, strain, strain rate, deformation, work, power, and energy describe different mechanical objects with different units, mathematical forms, frames or reference states, and measurement methods. Moment and torque are context-sensitive names for a turning effect and require a stated point or axis.
 - **Scope:** Introductory classical and continuum mechanics as applied to living structures; advanced constitutive complexity is deferred.
 - **Bridge role:** Supplies the dimensional grammar needed to move from external demand to internal exposure.
 - **Posture / prior / exposure:** FND · E2 · M0.
 - **Evidence question:** Are all definitions, symbols, units, diagrams, and examples dimensionally consistent and appropriate for biological material?
-- **Required evidence:** Authoritative reference definitions; dimensional audit; specialist review of pressure, stress-tensor, and strain examples.
+- **Required evidence:** The [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-and-notation.md); authoritative reference definitions; dimensional audit; specialist review of traction, pressure, stress-tensor, strain, work, power, and energy examples.
 - **Alternatives and disfavoring observations:** Terminology varies by discipline, especially *moment* versus *torque* and engineering versus true strain. Variants may coexist if explicitly defined. A dimensionally inconsistent equation or a pressure treated as a force without area would fail the gate.
 - **Gates:** DEF, FORM, EVID, VIS.
 - **Publication role:** Foundational definitions and error control.
@@ -221,7 +221,7 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 - **Bridge role:** Generalizes the maintained-deformation family beyond tubes while retaining tissue-specific branches.
 - **Posture / prior / exposure:** SYN/HYP · E1 · M2.
 - **Evidence question:** For each candidate structure, what excursion or deformation is normally required, how is it measured, what constrains it, and when does restriction affect function?
-- **Required evidence:** Structure-specific anatomy and mechanics; dynamic imaging or motion measurement; experimental constraint studies; clinical association only after mechanical links are established.
+- **Required evidence:** The [focused non-lumen comparison](evidence/chapter-13-non-lumen-comparison.md); structure-specific anatomy and mechanics; dynamic imaging or motion measurement; experimental constraint studies; clinical association only after mechanical links are established. The selected tendon–SSCT calibration currently establishes task-dependent relative motion, not adverse maintained loss or recovery after release.
 - **Alternatives and disfavoring observations:** Reduced excursion may be protective, incidental, measurement-dependent, or caused intrinsically. Normal function despite the measured restriction, or restriction that follows rather than precedes the outcome, narrows the claim.
 - **Gates:** DEF, FORM, EVID, LINK, ALT, MEAS.
 - **Publication role:** Named research family with examples labeled as candidates.
@@ -260,15 +260,15 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 
 - **Raw form:** “Present thoracic outlet syndrome as a diagnostically heterogeneous candidate context rather than a single confirmed mechanism.”
 - **Provenance:** `editorial-synthesis`; source obligations `BGB-S-1224` and `BGB-S-1314`; stronger legacy claims remain source leads rather than accepted wording.
-- **Normalized statement:** Before using thoracic outlet syndrome as a worked narrative, the chapter must select and define a neurogenic, venous, arterial, or mixed presentation and distinguish a syndrome label, an anatomical observation, and a proposed mechanism.
+- **Normalized statement:** Chapter 24 provisionally selects objective arterial thoracic outlet syndrome as its leading presentation and must define the exact criterion set used. The arterial case, thrombotic-venous timeline, and neurogenic contrast remain separate, and each must distinguish the syndrome label, anatomical observations, retained pathology, and proposed mechanism.
 - **Scope:** Named clinical context; final subtype taxonomy and diagnostic criteria require current clinical review.
 - **Bridge role:** Establishes the case boundary before any corridor mechanics are generalized.
 - **Posture / prior / exposure:** FND · E2 · M3.
 - **Evidence question:** What current classifications, diagnostic uncertainties, and population definitions are suitable for the chapter's selected presentation?
-- **Required evidence:** Current clinical guidelines or consensus documents; systematic diagnostic reviews; anatomy and epidemiology sources; medical-coauthor review.
+- **Required evidence:** The [focused thoracic-outlet phenotype comparison](evidence/thoracic-outlet-phenotype-comparison.md); current clinical guidelines or consensus documents; systematic diagnostic reviews; anatomy and epidemiology sources; medical-coauthor review.
 - **Alternatives and disfavoring observations:** Terminology and criteria may vary across specialties. A vignette that cannot be assigned a defensible presentation or relies only on posture and symptoms should not carry the worked causal chain.
 - **Gates:** PROV, DEF, EVID, ALT, CLIN.
-- **Publication role:** Clinical boundary and case-selection rule.
+- **Publication role:** Clinical boundary and provisional case-selection record.
 
 ### BGB-C-0016 — Corridor mechanics vary with anatomy, state, and task
 
@@ -298,17 +298,17 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 - **Gates:** PROV, DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS.
 - **Publication role:** Clearly labeled candidate mechanism for one selected presentation.
 
-### BGB-C-0018 — A vascular account requires a staged wall-to-flow chain
+### BGB-C-0018 — A vascular account requires a tissue-specific staged chain
 
 - **Raw form:** For vessels, distinguish “wall deformation, cross-sectional area, resistance, flow, regulation, and symptoms.”
 - **Provenance:** `editorial-synthesis` preserving vascular source obligations `BGB-S-1111`, `BGB-S-1223`, and `BGB-S-1224`.
-- **Normalized statement:** A vascular thoracic-outlet account must separately establish imposed load, vessel-wall stress and deformation, course or cross-sectional change, hemodynamic consequence, regulatory or collateral response, functional effect, and any symptom relation.
+- **Normalized statement:** A vascular thoracic-outlet account must separately establish the presentation-specific sequence rather than requiring one universal wall-to-flow chain. For the provisional arterial case, the candidate sequence is focal anatomy and task → reconstructed repeated arterial deformation → objective wall lesion → thrombus, embolus, or occlusion where present → distal arterial or ischemic consequence → clinical presentation. A venous account requires its own wall, thrombotic, outflow, collateral, and temporal variables.
 - **Scope:** The selected arterial or venous presentation; arterial and venous mechanics and outcomes are not interchangeable.
 - **Bridge role:** Tissue-specific branch of the generic causal chain.
 - **Posture / prior / exposure:** HYP/APP · E1 · M3.
 - **Evidence question:** Which links are demonstrated for the selected vascular presentation, under what tasks and measurements, and which remain inferred?
-- **Required evidence:** Vascular anatomy and pathophysiology; dynamic imaging; pressure and flow measurement; fluid-structure modeling; diagnostic and outcome studies; clinical review.
-- **Alternatives and disfavoring observations:** Intrinsic vascular disease, thrombosis, collateral circulation, autonomic regulation, systemic hemodynamics, and measurement artifact. Geometry without a consistent hemodynamic or functional change prevents completion of the full chain.
+- **Required evidence:** Vascular anatomy and pathophysiology; objective artery-wall and distal findings for the arterial lead; dynamic imaging, pressure, flow, or fluid-structure evidence where the claimed link requires them; diagnostic and outcome studies; clinical review.
+- **Alternatives and disfavoring observations:** Intrinsic vascular disease, another embolic source, trauma, thrombosis, hypercoagulability, collateral circulation, autonomic regulation, systemic hemodynamics, incidental bony variation, and measurement artifact. The arterial chain remains incomplete where repeated deformation is rhetorically treated as observed rather than reconstructed.
 - **Gates:** DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS.
 - **Publication role:** Conditional vascular branch; no treatment recommendation.
 
@@ -326,17 +326,17 @@ The `BGB-C` identifiers below are stable provisional claim IDs. Confidence and e
 - **Gates:** DEF, FORM, EVID, LINK, ALT, MEAS, CLIN, VIS.
 - **Publication role:** Conditional neural branch; no diagnostic shortcut or treatment recommendation.
 
-### BGB-C-0020 — The observed corridor state is a changing equilibrium
+### BGB-C-0020 — Corridor states may be dynamic, retained, or mixed
 
 - **Raw form:** Tissue elasticity, internal or transmural pressure, fluid flow, muscle activity, and movement may resist or alter the deformation imposed by surrounding demand.
 - **Provenance:** `author-direct` hose clarification and `editorial-synthesis` in `BGB-U-0024`.
-- **Normalized statement:** A maintained thoracic-outlet deformation should be modeled as a changing relation among imposed external demand, surrounding geometry, tissue restoring behavior, internal pressure or neural tension, active muscle, respiration, and movement rather than as an inert fixed narrowing.
-- **Scope:** Dynamic mechanical model; specific state variables differ for neural and vascular branches.
-- **Bridge role:** Explains why the same anatomy can behave differently across time, tasks, breathing phases, and people.
+- **Normalized statement:** A thoracic-outlet state may be dynamically recreated by current boundary conditions, retained through wall injury, thrombus, scar, or other material change, or mixed. Current geometry must therefore be separated from the initiating exposure history and from the state that now maintains the finding.
+- **Scope:** Dynamic and path-dependent state model; specific variables differ for arterial, venous, and neural branches.
+- **Bridge role:** Explains why the same anatomy can behave differently across time and tasks and why an objective retained lesion need not reveal its initiating history.
 - **Posture / prior / exposure:** SYN/HYP · E2 · M3.
-- **Evidence question:** Which restoring and maintaining terms materially change the observed state, and on what timescale?
-- **Required evidence:** Dynamic and positional measurement; constitutive characterization; within-person repeated-task data; validated simulations where direct measurement is unavailable.
-- **Alternatives and disfavoring observations:** A fixed lesion or intrinsic obstruction may dominate and make the dynamic model secondary. Failure of the state to vary with any proposed maintaining or restoring term narrows its role.
+- **Evidence question:** Which current terms maintain or modify the observed state, which initiating exposures are observed or reconstructed, and on what timescale did the system move from reversible to retained or mixed behavior?
+- **Required evidence:** Dynamic and positional measurement where relevant; material and pathological characterization; chronology; repeated-task data; retained-state imaging; validated simulations where direct measurement is unavailable.
+- **Alternatives and disfavoring observations:** A fixed lesion, intrinsic obstruction, trauma, or systemic process may dominate and make the proposed dynamic exposure secondary or incidental. Present-state variation cannot by itself recover causal history.
 - **Gates:** DEF, FORM, EVID, ALT, MEAS, CLIN, VIS.
 - **Publication role:** Explanatory state model that keeps the analogy biologically realistic.
 
@@ -388,9 +388,9 @@ defined system and reference state
 selected presentation and system boundary                 BGB-C-0015
     -> anatomy, state, and task                            BGB-C-0016
     -> candidate imposed demand                            BGB-C-0017
-    -> dynamic balance of maintaining/restoring terms      BGB-C-0020
-    -> vascular branch                                     BGB-C-0018
-       or neural branch                                    BGB-C-0019
+    -> observed, reconstructed, and retained state          BGB-C-0020
+    -> arterial branch: lesion and distal consequence       BGB-C-0018
+       or separately defined venous/neural branch           BGB-C-0018 / 0019
     -> measured function, finding, symptom, and diagnosis  BGB-C-0021
     -> competing and interacting accounts                  BGB-C-0022
 ```
@@ -399,7 +399,7 @@ The final arrow is not a victory condition for the mechanical hypothesis. The wo
 
 ## Pilot completion criteria
 
-The pilot moves from mapping to evidence review only after joint acceptance of:
+Exploratory evidence mapping and source comparison may proceed before joint acceptance. The pilot moves to formally accepted evidence status or draft-ready `R3` only after joint acceptance of:
 
 1. the raw-to-normalized transformations;
 2. the distinction between generic mechanics and condition-specific claims;

@@ -49,10 +49,24 @@ This is an authority order for project intent, not an evidence hierarchy. Resear
 | `model-registry.md` | Mechanical models, analogies, assumptions, variables, scopes, and failure conditions |
 | `example-registry.md` | Candidate examples and worked narratives, including alternatives and medical exposure |
 | `figure-registry.md` | Free-body diagrams, anatomy figures, explanatory models, and their technical review state |
-| `chapter-briefs/` | Accepted chapter briefs used to govern salvage and drafting |
+| `chapter-briefs/` | Pilot chapter briefs used to govern salvage and drafting once accepted |
+| `evidence/` | Pilot evidence map, controlled definitions, focused comparisons, source registers, and remaining review gates |
+| `source-salvage-map.md` | Exact recovery paths and dispositions for usable concepts, provenance, incompatible wording, and pipeline contamination |
 | `decisions/` | Durable decision records kept outside clean contracts, outlines, and briefs |
 
 The registries and reviews may begin as compact tables and grow only when the material requires it. The goal is control and traceability, not administrative volume.
+
+## Current state
+
+| Control surface | Current state | What remains open |
+|---|---|---|
+| Book I contract | Working contract complete | Joint authorial acceptance |
+| Six-Part, 30-chapter structure | Every unit has a unique job and provisional disposition | Joint `R2` acceptance and later worked-case selections |
+| Pilot claims, models, examples, and figures | Control registries populated for Chapters 2, 13, and 24 | Decision acceptance, specialist review, and later evidence-state advancement |
+| Pilot chapter briefs | Drafting-depth briefs complete and reconciled to the focused packs | Joint acceptance of hard/soft observability, tendon–SSCT selection, and objective-aTOS case design |
+| Focused evidence work | Definitions/notation, non-lumen comparison, and thoracic-outlet phenotype comparison complete | Formal, anatomical, medical, provenance, figure-rights, and literature-refresh gates recorded in each pack |
+| Source salvage | Pilot archive map complete | Passage-level recovery after briefs are accepted |
+| Reader-facing prose | Not started | Begins only after the pilot milestone closes |
 
 ## Stable identifiers
 

@@ -8,17 +8,17 @@
 
 The vertical slice is structurally complete enough to expose a small number of real choices. This docket keeps those choices outside the clean contract, registries, and chapter briefs. It records the present recommendation without converting that recommendation into an accepted decision.
 
-The relevant control documents are the [claim-evidence ledger](../claim-evidence-ledger.md), [model registry](../model-registry.md), [example registry](../example-registry.md), [figure registry](../figure-registry.md), three [pilot chapter briefs](../chapter-briefs/), and [pilot evidence map](../evidence/pilot-evidence-map.md).
+The relevant control documents are the [claim-evidence ledger](../claim-evidence-ledger.md), [model registry](../model-registry.md), [example registry](../example-registry.md), [figure registry](../figure-registry.md), three [pilot chapter briefs](../chapter-briefs/), [pilot evidence map](../evidence/pilot-evidence-map.md), [Chapter 2 definitions and notation pack](../evidence/chapter-02-definitions-and-notation.md), [Chapter 13 non-lumen comparison](../evidence/chapter-13-non-lumen-comparison.md), and [thoracic-outlet phenotype comparison](../evidence/thoracic-outlet-phenotype-comparison.md).
 
 ## Decision summary
 
 | Decision | Question | Present recommendation | Blocks |
 |---|---|---|---|
 | `BGB-DEC-0001` | What makes hard/soft analytically additive? | Use a comparative role-and-availability test rather than one scalar | Final Chapter 13 model and Figure 006 |
-| `BGB-DEC-0002` | Which non-lumen system tests Chapter 13? | A peripheral nerve in a neutral movement context, subject to a focused evidence pack | Chapter 13 example and transfer figure |
-| `BGB-DEC-0003` | Which thoracic-outlet phenotype leads Chapter 24? | Objective arterial TOS for the cleanest first complete chain | Chapter 24 vignette, anatomy, source pack, and figures |
-| `BGB-DEC-0004` | What role should thrombotic venous TOS retain? | Preserve it as the principal mixed-state and time-dependent comparison or future worked case | Final Chapter 24 scope and later example inventory |
-| `BGB-DEC-0005` | How should the shorter comparison work? | Reuse Chapter 13's non-lumen example; retain neurogenic TOS as a within-region variable contrast | Chapter 24 comparison section and Figure 012 |
+| `BGB-DEC-0002` | Which non-lumen system tests Chapter 13? | Flexor tendon–SSCT relative glide; median-nerve excursion retained as reserve | Chapter 13 example and transfer figure |
+| `BGB-DEC-0003` | Which thoracic-outlet phenotype leads Chapter 24? | Objective aTOS using a source-grounded composite and an explicitly reconstructed repeated-injury arrow | Chapter 24 vignette, anatomy, source table, and figures |
+| `BGB-DEC-0004` | What role should thrombotic venous TOS retain? | Preserve it as a compact event-to-retained-state timeline and later full-case candidate | Final Chapter 24 scope and later example inventory |
+| `BGB-DEC-0005` | How should the shorter comparison work? | Reuse tendon–SSCT variables under a distinct transfer record; retain neurogenic TOS as a within-region variable contrast | Chapter 24 comparison section and Figure 012 |
 | `BGB-DEC-0006` | How much tube-law mathematics belongs in reader-facing prose? | Keep causal relations and assumptions in the chapter; place detailed equations in a figure note or technical appendix | Chapter 13 density and figure design |
 | `BGB-DEC-0007` | How should line of action, load path, and force line be introduced? | Introduce them adjacently but as separate objects, using one controlled comparison figure | Chapter 2 terminology and Figure 005 |
 
@@ -62,17 +62,17 @@ Select one structure whose relevant freedom is excursion, course change, or slid
 
 ### Present recommendation
 
-Use a peripheral nerve in a neutral limb-movement context, not a named entrapment syndrome. This offers measurable excursion, deformation, and position-related stiffness while keeping symptoms and diagnosis outside the generic example. It tests whether the maintained-constraint schema survives when patency and flow are removed.
+Use the middle-finger flexor tendon–subsynovial connective tissue relation at the wrist during controlled healthy finger flexion and extension. Track absolute tendon excursion, SSCT excursion, and relative motion separately. This provides the clearer non-lumen transfer, mechanically proximal finger-motion endpoint, and hard/soft relational test while avoiding duplication with Chapter 24's neurogenic contrast.
 
-The example should state that ordinary nerve movement and changing stiffness are expected. It should ask what would demonstrate a consequential loss of excursion or imposed state rather than treating any measured change as dysfunction.
+The example is a neutral calibration and null branch. It establishes task-dependent relative motion, not an adverse maintained constraint, pathological threshold, recovery after release, health outcome, or intervention. Reverse movement is not recovery, and relative displacement is not direct shear stress or friction.
 
 ### Reserve option
 
-A well-characterized tendon or other sliding interface may replace the nerve if the focused evidence pack shows a clearer maintaining relation, reference state, recovery measure, and functional comparison with less overlap with Chapter 24.
+Median-nerve excursion at the wrist during controlled elbow movement remains the reserve. Its recent measurement-validation evidence is strong, but the immediate functional endpoint is less direct and the example duplicates Chapter 24's neural variable contrast.
 
 ### Closure requirement
 
-The Chapter 13 focused pack must compare at least two candidate systems on measurement quality, ordinary variation, maintaining conditions, recovery, functional relevance, and duplication with later chapters.
+Authorial approval of the hard/soft teaching job; anatomical confirmation of the tendon, SSCT, and imaging level; selection of one acquisition protocol; and acceptance that adverse constraint and recovery remain unresolved. The [focused comparison](../evidence/chapter-13-non-lumen-comparison.md) has completed the candidate comparison but does not close these gates.
 
 ## BGB-DEC-0003 — Leading thoracic-outlet phenotype
 
@@ -82,11 +82,11 @@ Choose one phenotype-specific case that can carry the complete Chapter 24 eviden
 
 ### Present recommendation
 
-Lead with arterial TOS defined by an objective subclavian-artery abnormality attributed to extrinsic compression, not by a provocative pulse or waveform change alone. Prefer a case involving a defined external anatomical structure, objective wall injury or post-stenotic change, and a documented hemodynamic or distal arterial consequence. This is currently the cleanest available test of the proposed chain:
+Lead with arterial TOS defined by an objective subclavian-artery abnormality or ischemic consequence attributed to extrinsic compression, not by a provocative pulse or waveform change alone. Use a source-grounded composite involving a defined focal bony relation, objective adjacent wall pathology, and a documented distal arterial consequence. The chain is:
 
-> defined anatomy and task → repeated imposed arterial deformation → objective wall injury or post-stenotic change → documented hemodynamic or distal consequence → clinical presentation
+> defined anatomy and task → **reconstructed** repeated imposed arterial deformation → objective wall lesion → thrombus, embolus, or occlusion where present → distal arterial or ischemic consequence → clinical presentation
 
-This choice favors clarity and defensibility. It does not imply that arterial TOS is common, that ordinary posture causes it, or that a focal anomaly establishes a universal preferred route. The case should state its rarity, anatomy-specificity, and selection into specialist care as part of the argument.
+This choice favors clarity and defensibility, but the focal anatomy → repeated deformation → wall injury arrow is not directly observed in the available chain. The definition itself and referral to operative specialist cohorts enrich the anatomy/pathology correspondence. Those features must be part of the argument. The case does not imply that arterial TOS is common, that ordinary posture causes it, or that a focal anomaly establishes a universal preferred route.
 
 ### Principal alternative
 
@@ -94,7 +94,7 @@ Thrombotic venous TOS provides a richer account of repetition, history, intrinsi
 
 ### Closure requirement
 
-Complete the arterial and thrombotic-venous focused packs far enough to compare every arrow, then obtain author and medical-coauthor approval of the chapter's principal teaching job.
+Obtain author and medical-coauthor approval of the narrower teaching job and composite form; build a source table for every fact and arrow; confirm image rights; and retain the reconstructed status of repeated injury. The [focused phenotype comparison](../evidence/thoracic-outlet-phenotype-comparison.md) has completed the selection comparison but not these approval and production gates.
 
 ## BGB-DEC-0004 — Role of thrombotic venous TOS
 
@@ -104,7 +104,7 @@ Preserve the time-dependent venous material without overloading the arterial-led
 
 ### Present recommendation
 
-Retain thrombotic venous TOS as the pilot's principal mixed-state comparison and as a candidate for a later full worked narrative. Its protected contribution is the transition:
+Retain thrombotic venous TOS as a compact event-to-retained-state mini-timeline (`BGB-X-0009`) and as a candidate for a later full worked narrative. Its protected contribution is the transition:
 
 > repeated external exposure and individual susceptibility → wall and flow changes → thrombosis → retained intrinsic obstruction and collateral adaptation → changed future response to external demand
 
@@ -112,7 +112,7 @@ In Chapter 24, use only enough of this comparison to show why present geometry c
 
 ### Closure requirement
 
-Decide after the two vascular source packs whether this comparison remains inside Chapter 24, contributes only its abstract temporal pattern to generic Chapter 15, appears as a bounded system comparison in Chapter 20, or becomes a later full worked narrative. The named M3 condition should not migrate wholesale into Chapter 15's generic account of compensation and delayed consequence.
+Author and medical-coauthor approval of the compact timeline and its boundary. If it cannot remain subordinate to the arterial case, move the full narrative rather than pooling the two vascular phenotypes. The named M3 condition should not migrate wholesale into Chapter 15's generic account of compensation and delayed consequence.
 
 ## BGB-DEC-0005 — Shorter comparison and neurogenic material
 
@@ -122,7 +122,7 @@ Choose a comparison that tests transfer without adding a second medically overlo
 
 ### Present recommendation
 
-Use Chapter 13's selected non-lumen system and baseline variables as the basis for `BGB-X-0008`, the Chapter 24 transfer test. This creates a deliberate callback without collapsing `BGB-X-0004`, the generic Chapter 13 example, into the medically exposed comparison record. It lets the reader compare a conduit with an excursion-dependent structure using already established variables while keeping each chapter's evidence and editorial job visible.
+Use Chapter 13's tendon–SSCT system and baseline variables as the basis for `BGB-X-0008`, the Chapter 24 transfer test. This creates a deliberate callback without collapsing `BGB-X-0004`, the generic Chapter 13 example, into the medically exposed comparison record. It lets the reader compare a focal arterial case with an excursion-dependent sliding interface while keeping each chapter's evidence and editorial job visible.
 
 Retain neurogenic TOS as a short within-region contrast showing that contact pressure, strain, stiffness, excursion, intraneural circulation, conduction, symptoms, and diagnosis cannot borrow evidence from the arterial chain. Do not ask the neurogenic material to carry a full clinical mechanism in this volume unless the focused evidence materially changes.
 

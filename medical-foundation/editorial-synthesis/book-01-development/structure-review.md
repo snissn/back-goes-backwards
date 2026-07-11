@@ -12,7 +12,7 @@ Retain the present six-Part, thirty-chapter structure. It has a coherent argumen
 
 No chapter presently warrants deletion, merger, division, or relocation. The source-reconciliation work has given each chapter a legitimate job, and the larger sequence preserves the strongest architecture recovered from the `new` archive. The remaining structural work is mainly to sharpen boundaries between neighboring chapters, choose the exact worked examples, and ensure that recurring concepts advance rather than restart.
 
-This verdict is generous but not automatic. “Accept with refinement” below means that the chapter's placement and central job are sound while its eventual brief must resolve a named seam, scope, or example choice. It does not mean that inherited wording or claims have already survived evidence review.
+This verdict is generous but not automatic. *Accept* and *accept with refinement* below are recommendations to retain the unit in the proposed architecture; they do not advance it from `R1` to jointly accepted `R2`. “Accept with refinement” means that the chapter's placement and central job are sound while its eventual brief must resolve a named seam, scope, or example choice. Neither disposition means that inherited wording or claims have already survived evidence review.
 
 The book's decisive narrative move occurs between Parts II and III. Parts I and II establish how a living body can successfully divide and route mechanical demand. Part III develops the negative account: what can happen when dose, capacity, geometry, timing, constraint, or compensation make that organization harder to sustain. Parts IV and V then earn medical relevance rather than assuming it. Part VI gives the reader a bounded present use and discloses the stronger series program.
 
@@ -299,7 +299,7 @@ Part IV is accepted when it answers the skeptical reader in sequence: medicine a
 - **Unique job:** Test the negative hard/soft model in one complete corridor narrative, beginning with maintaining demand and separating deformation, excursion or lumen, function, symptoms, and diagnosis.
 - **Reader movement:** **Entry:** the reader understands the generic model and cross-system comparison. **Exit:** the reader can see exactly where a thoracic-outlet account is mechanically strong, medically conditional, or unresolved.
 - **Dependencies and handoff:** Tests Chapters 13, 19–21; contrasts with Chapter 25's non-obstructive repeated-demand problem.
-- **Refinement or open point:** Choose the presentation—neurogenic, venous, arterial, or explicitly mixed—and the shorter comparison before briefing. Diagnostic heterogeneity should be a feature of the test, not a reason to blur the system boundary.
+- **Refinement or open point:** Focused evidence provisionally selects objective aTOS using a source-grounded composite, with repeated deformation → wall injury explicitly reconstructed. Thrombotic vTOS supplies a compact retained-state timeline; tendon–SSCT relative glide supplies the non-lumen transfer; neurogenic TOS remains a variable contrast. Author and medical-coauthor approval, source-table completion, and figure rights remain open.
 
 ### 25. Instability, repeated demand, and changing capacity
 
@@ -396,7 +396,7 @@ The structure can advance without settling the later formal model, but the follo
 
 1. Whether “mechanical homeostasis” is the preferred reader-facing name for the dynamic viability model in Chapter 10.
 2. Whether Chapter 23 leads with the lumbar motion segment or with a limb joint, and which region serves as the transfer comparison.
-3. Which thoracic-outlet presentation Chapter 24 tests and which second compliant system provides the comparison.
+3. Whether to approve or revise objective aTOS as Chapter 24's lead and tendon–SSCT relative glide as its second compliant system.
 4. Whether recurrent lateral ankle instability remains Chapter 25's leading example.
 5. Whether Chapter 26 retains the office-worker/nonspecific-low-back-pain vignette or uses another longitudinal mixed case.
 6. Whether Chapter 28 merely opens the institutional and environmental-design program or makes a stronger bounded recommendation.
@@ -426,10 +426,10 @@ Book I may move from `proposed/R1` to structural `accepted/R2` when all of the f
 
 ## Recommended immediate use of this review
 
-Treat the structure as provisionally retained and build the first three vertical-slice briefs against it:
+Treat the structure as provisionally retained. The three vertical-slice briefs and their focused evidence packs now test it at drafting depth:
 
 - `BGB-U-0002` to test foundational definitions and diagrams;
 - `BGB-U-0013` to test the project's distinctive mechanical synthesis;
 - `BGB-U-0024` to test medical exposure, alternatives, and case structure.
 
-Those briefs should reveal whether the accepted chapter boundaries work at drafting depth. If they do, the remaining chapters can be briefed Part by Part without another global re-outline. If they do not, revisions should target the demonstrated seam rather than reopening the entire architecture by default.
+The next structural action is joint review of the pilot decisions, especially hard/soft observability, tendon–SSCT selection, and objective-aTOS case design. If those boundaries survive, the remaining chapters can be briefed Part by Part without another global re-outline. If they do not, revisions should target the demonstrated seam rather than reopening the entire architecture by default.

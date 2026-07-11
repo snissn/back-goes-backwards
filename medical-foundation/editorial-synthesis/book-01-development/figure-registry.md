@@ -20,6 +20,8 @@ The book-specific identifiers `BGB-FIG-01-###` are asset IDs. They do not replac
 
 Figures move through `specified → sketched → technical review → evidence review → accessibility and rights review → publication-approved`.
 
+`BGB-FIG-01-001` through `005` inherit the symbols, units, and `OBS`/`MEAS`/`CALC`/`INF`/`MOD`/`HYP`/`EMB` provenance legend from the [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-and-notation.md). Later figures reuse that legend rather than inventing new evidence-state graphics.
+
 ## Pilot index
 
 | Figure | Working title | Primary unit | Format | State |
@@ -32,10 +34,10 @@ Figures move through `specified → sketched → technical review → evidence r
 | `BGB-FIG-01-006` | Shape-preserving and form-receiving roles | `BGB-U-0013` | Relational role diagram | specified |
 | `BGB-FIG-01-007` | What holds a hose kinked? | `BGB-U-0013` | Five-state analogy sequence | specified |
 | `BGB-FIG-01-008` | Intrinsic, extrinsic, and mixed constraint | `BGB-U-0013` | Differential model matrix | specified |
-| `BGB-FIG-01-009` | Thoracic-outlet system boundary | `BGB-U-0024` | Reviewed anatomy schematic | selection-dependent |
+| `BGB-FIG-01-009` | Objective-aTOS system boundary | `BGB-U-0024` | Reviewed anatomy schematic | specified provisionally |
 | `BGB-FIG-01-010` | The thoracic-outlet causal chain | `BGB-U-0024` | Branching evidence map | specified |
-| `BGB-FIG-01-011` | Maintaining and restoring influences | `BGB-U-0024` | Dynamic equilibrium schematic | selection-dependent |
-| `BGB-FIG-01-012` | What transfers to a second compliant system? | `BGB-U-0024` | Comparative matrix | selection-dependent |
+| `BGB-FIG-01-011` | Exposure, injury, and retained state through time | `BGB-U-0024` | Evidence-state timeline | specified provisionally |
+| `BGB-FIG-01-012` | What transfers to tendon–SSCT relative glide? | `BGB-U-0024` | Comparative matrix | specified provisionally |
 
 ## BGB-FIG-01-001 — One task, several system boundaries
 
@@ -105,8 +107,8 @@ Figures move through `specified → sketched → technical review → evidence r
 ## BGB-FIG-01-006 — Shape-preserving and form-receiving roles
 
 - **Editorial job:** Present the hard/soft model as a changing division of labor, including the adverse substitution case.
-- **Model / example:** `BGB-M-0005`; candidate comparison `BGB-X-0004`.
-- **Required panels:** Successful task-specific role relation; same tissue changing role with direction or phase; form-receiving structure held as a substitute boundary; counterexample in which substantial soft-tissue loading is normal.
+- **Model / example:** `BGB-M-0005`; provisionally selected comparison `BGB-X-0004`.
+- **Required panels:** Successful task-specific role relation; same tissue changing role with direction or phase; form-receiving structure held as a substitute boundary; counterexample in which substantial soft-tissue loading is normal; controlled tendon–SSCT inset showing separate motion traces and an unresolved recovery-after-release cell.
 - **Required labels:** Scale, direction, task, state, timescale, carrier, deformation or excursion, and whether the panel is hypothesis or ordinary mechanics.
 - **Visual encoding:** Do not color anatomy permanently hard or soft. Encode roles on interactions or states, with a legend that permits tissue roles to switch.
 - **Caption obligation:** Hard and soft are relative mechanical roles, not tissue classes, moral categories, or a demand for zero deformation.
@@ -144,9 +146,9 @@ Figures move through `specified → sketched → technical review → evidence r
 ## BGB-FIG-01-009 — Thoracic-outlet system boundary
 
 - **Editorial job:** Orient the selected presentation and expose the anatomy and contacts included in `BGB-C-0015` through `BGB-C-0017`.
-- **Model / example:** `BGB-M-0008`; either `BGB-X-0005` or `BGB-X-0006` after selection.
-- **Required anatomy:** Only structures required by the chosen system boundary. Candidate structures include clavicle, first rib, scapula, relevant muscles, selected brachial plexus element, and selected subclavian vessel; arm position and respiratory phase appear as conditions, not static labels.
-- **Required panels:** Neutral orientation; selected task or phase; cross-section or oblique inset showing the proposed contact or tethering relation. Separate neural and vascular overlays if both remain.
+- **Model / example:** `BGB-M-0008`; provisional objective-aTOS lead `BGB-X-0005`.
+- **Required anatomy:** Only the focal bony relation and subclavian-artery anatomy required by the source-grounded composite. Candidate focal relations include cervical-rib/first-rib fusion, first-rib anomaly, or healed clavicular fracture; use only the relation supported by the selected source base.
+- **Required panels:** Observed focal anatomy and adjacent arterial lesion; distal arterial or ischemic consequence where sourceable; a separate reconstruction panel for the proposed repeated contact or deformation. Do not imply that one image directly observed cumulative exposure.
 - **Required labels:** Corridor definition, side, body position, task, respiratory phase, selected structure, imposed contact or force if evidenced, and anatomical variation.
 - **Visual encoding:** Anatomically faithful geometry; hypothesis arrows visually distinct from verified anatomy; no generic red pinch mark standing in for measured deformation.
 - **Caption obligation:** The illustration defines the candidate system and does not diagnose thoracic outlet syndrome or establish which structure is consequential.
@@ -158,37 +160,37 @@ Figures move through `specified → sketched → technical review → evidence r
 ## BGB-FIG-01-010 — The thoracic-outlet causal chain
 
 - **Editorial job:** Require every bridge claim to remain visible and separately evidenced.
-- **Model / example:** `BGB-M-0008`; selected `BGB-X-0005` or `BGB-X-0006`; negative comparison `BGB-X-0007`.
-- **Required structure:** Presentation and boundary → anatomy, task, and state → imposed load → tissue deformation or lost excursion → separate vascular or neural branch → physiological or functional measure → symptom and diagnosis. Alternatives enter at each arrow, not only at the end.
+- **Model / example:** `BGB-M-0008`; objective-aTOS lead `BGB-X-0005`; negative comparison `BGB-X-0007`; venous timeline `BGB-X-0009` only as a separately labeled branch.
+- **Required structure:** Focal anatomy and task → reconstructed repeated arterial deformation → objective wall lesion → thrombus, embolus, or occlusion where present → distal arterial or ischemic consequence → presentation and diagnosis. Alternatives enter at each arrow, not only at the end; definition-based selection is visible.
 - **Required labels:** Claim IDs `BGB-C-0015` through `BGB-C-0022`; evidence state for each link once review begins; observed versus inferred quantity.
 - **Visual encoding:** Branches and gates rather than one inevitable downward arrow. A link can be marked supported, conditional, unresolved, or disfavored only after evidence review.
 - **Caption obligation:** Support for one link does not establish the next; the model remains useful if review narrows or rejects part of the chain.
 - **Technical and clinical review:** Claim-ledger consistency; medical-coauthor review; no diagnostic or treatment implication.
 - **Accessibility:** Text alternative follows each branch and names its alternatives.
 - **Rights / provenance:** Original diagram.
-- **Failure to avoid:** A posture-to-symptom cascade with no null paths, regulation, or differential explanations.
+- **Failure to avoid:** A posture-to-symptom cascade, an exposure arrow rendered as directly observed, or a composite drawn as one fully documented patient.
 
-## BGB-FIG-01-011 — Maintaining and restoring influences
+## BGB-FIG-01-011 — Exposure, injury, and retained state through time
 
-- **Editorial job:** Show the dynamic equilibrium proposed in `BGB-C-0020`.
-- **Model / example:** `BGB-M-0008`; selected thoracic-outlet presentation.
-- **Required content:** Maintaining side—contact, compression, traction, bending, tethering, active tension, or external load as supported for the selected case. Restoring or modifying side—elasticity, internal or transmural pressure, flow, neural excursion, movement, respiration, and active control as relevant. State outputs remain tissue-specific.
-- **Required labels:** Phase and timescale; measured versus modeled terms; direction and application of loads; state variable being balanced.
-- **Visual encoding:** Dynamic state-space or paired time panels are preferred over a literal balance scale, which could imply scalar equality among unlike quantities.
-- **Caption obligation:** “Equilibrium” means a changing mechanical state under specified conditions, not that unlike forces, pressures, and tissue responses can be placed on one unqualified scale.
-- **Technical review:** Biomechanics plus vascular or neural specialist according to the selected branch.
-- **Accessibility:** Text alternative identifies each maintaining and restoring influence and how task changes the state.
+- **Editorial job:** Show the chronology protected by `BGB-C-0020`: current imposed state, cumulative exposure reconstructed from later evidence, retained material pathology, and mixed future response are different objects.
+- **Model / example:** `BGB-M-0008`; objective-aTOS lead `BGB-X-0005` and thrombotic-vTOS timeline `BGB-X-0009`.
+- **Required content:** One arterial row distinguishing observed focal anatomy, reconstructed repeated deformation, objective wall lesion, distal event, and later state; one shorter venous row showing proposed exposure, DVT, retained obstruction or recanalization, collaterals, and changed future response.
+- **Required labels:** Phenotype; time; observed, measured, inferred, and reconstructed status; current maintaining terms; retained intrinsic state; missing exposure history; treatment-altered measurements where relevant.
+- **Visual encoding:** Parallel timelines or state-transition panels. Never place unlike quantities on a balance scale or pool arterial and venous variables.
+- **Caption obligation:** Present geometry and pathology can record history without directly revealing the initiating exposure; the arterial repeated-injury arrow remains reconstructed, and the venous timeline is a comparison rather than a second complete case.
+- **Technical review:** Biomechanics, vascular medicine/surgery, claim-provenance, and medical-coauthor review.
+- **Accessibility:** Text alternative follows both timelines and names which links are observed, reconstructed, retained, or unresolved.
 - **Rights / provenance:** Original diagram.
-- **Failure to avoid:** A generic list of arrows with no tissue, quantity, or phase specified.
+- **Failure to avoid:** A generic vascular timeline, treatment narrative, or smooth causal arrow that hides the change from extrinsic to intrinsic or mixed state.
 
 ## BGB-FIG-01-012 — What transfers to a second compliant system?
 
 - **Editorial job:** Test, rather than merely illustrate, the generalization in `BGB-C-0012` through `BGB-C-0014`.
-- **Model / example:** `BGB-M-0006`; `BGB-X-0008` after selection.
-- **Required structure:** Side-by-side matrix for thoracic-outlet primary case and second system: compliant object; required freedom; maintaining relation; deformation or lost excursion; restoring behavior; tissue-specific function; measurement; intrinsic alternative; noncorresponding observation.
+- **Model / example:** `BGB-M-0006`; selected transfer record `BGB-X-0008`, inheriting neutral variables from `BGB-X-0004` without inheriting its evidence as support for aTOS.
+- **Required structure:** Side-by-side matrix for objective aTOS and tendon–SSCT relative glide: object; required freedom; boundary or maintaining relation; observed or reconstructed state; restoring behavior; tissue-specific function; measurement; intrinsic alternative; noncorresponding observation; recovery status.
 - **Required labels:** Which rows are shared model structure and which are system-specific.
 - **Visual encoding:** Empty or unresolved cells remain visibly unresolved; do not fill them with analogous words unsupported in the second system.
-- **Caption obligation:** Shared causal order does not imply shared anatomy, constitutive behavior, physiology, clinical importance, or intervention.
+- **Caption obligation:** Shared questions about boundary conditions, tissue-specific freedom, time, and alternatives do not imply shared anatomy, constitutive behavior, physiology, clinical importance, or intervention. The tendon example does not establish adverse constraint, and its kinematic reversal is not recovery after release.
 - **Technical review:** Specialist for each system plus cross-model review.
 - **Accessibility:** The comparison matrix doubles as the text alternative.
 - **Rights / provenance:** Original diagram; anatomical insets subject to separate rights records.
@@ -197,8 +199,8 @@ Figures move through `specified → sketched → technical review → evidence r
 ## Production order
 
 1. Sketch `BGB-FIG-01-001` through `005` while the Chapter 2 brief is reviewed.
-2. Resolve the hard/soft observable and the non-lumen example before commissioning `006` and `008`.
+2. Obtain authorial and technical approval of the hard/soft observable and provisionally selected tendon–SSCT example before commissioning `006` and `008`.
 3. Technically review `007` before any biological conduit analogy is drafted.
-4. Select the thoracic-outlet presentation before producing `009` or `011`.
+4. Obtain author and medical-coauthor approval of the provisional objective-aTOS lead before producing `009` or `011`.
 5. Build `010` directly from the evidence ledger so its evidence-state labels cannot outrun the research.
-6. Select the second compliant system only after the primary case reveals which proposed relations deserve a transfer test.
+6. Build `012` from the tendon–SSCT focused pack and preserve every unresolved cell rather than forcing visual symmetry with aTOS.

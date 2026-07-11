@@ -83,7 +83,7 @@ Generalize the relation beyond tubes. Candidate functions include:
 
 The shared variable is not always cross-sectional area. It may be contact pressure, curvature, tensile strain, shear, friction, displacement, phase lag, or available excursion. Each system needs its own dependent variable and evidence.
 
-The chapter should select one non-lumen comparison (`BGB-X-0004`) rather than presenting this list as if every transfer had already been earned. A peripheral nerve or a well-characterized sliding interface currently offers the strongest test because it replaces patency and flow with excursion and relative motion. The final choice depends on whether normal variation, maintaining conditions, recovery, and functional relevance can all be described without duplicating Chapter 24.
+Use `BGB-X-0004`, the middle-finger flexor tendon–subsynovial connective tissue relation at the wrist during controlled finger flexion and extension. Keep absolute tendon excursion, SSCT excursion, and relative motion as separate variables. The healthy movement evidence makes this a neutral calibration and null branch: it shows task-dependent excursion without a lumen, but it does not yet demonstrate an adverse maintained constraint, a pathological threshold, or recovery after release. Median-nerve excursion at the wrist during controlled elbow motion remains the reserve if anatomical or measurement review exposes a fatal weakness in the selected interface.
 
 ### 13.5 Intrinsic, extrinsic, and mixed constraint
 
@@ -140,12 +140,14 @@ Boundary-equilibrium, transient-versus-maintained, tube, excursion, and visible-
 2. **`BGB-FIG-01-007` — What holds a hose kinked?:** open, transiently deformed, recovered, externally maintained, intrinsic or residual, and mixed states; include wall/contact and pressure–flow subpanels without merging them.
 3. **`BGB-FIG-01-008` — Intrinsic, extrinsic, and mixed constraint:** maintaining condition, response to release, measurement, alternative, and unresolved question, with equal visual weight across branches.
 
-The no-lumen example and visible-arrow chain should appear as a controlled inset or reuse the Book I causal-chain notation. If either becomes visually illegible, it should receive a later dedicated figure ID rather than being crowded into these three assets.
+The no-lumen example should appear as a controlled inset in `BGB-FIG-01-006`: tendon and SSCT tracked separately through flexion, extension, and return, with task variation, measurement status, and an unresolved recovery-after-release cell. It must not be crowded into the hose figure or resemble a movement instruction. If the inset becomes illegible, it should receive a dedicated figure ID before production.
 
 ## Evidence and source obligations
 
 - Establish standard mechanics of deformable tubes, contact, pressure, and wall response without importing simplified assumptions silently into biology.
-- Map empirical evidence for neural strain, contact pressure, and excursion separately from vascular deformation and flow.
+- Use the [focused non-lumen comparison](../evidence/chapter-13-non-lumen-comparison.md) to control the tendon–SSCT example; retain the median-nerve evidence as reserve rather than treating it as the selected system.
+- Distinguish tendon excursion, SSCT excursion, relative displacement, calculated relative-motion indices, shear stress, friction, and tissue state rather than allowing *glide* to fuse them.
+- Record method error, out-of-plane limitations, task and protocol dependence, and ordinary variation before interpreting a difference in excursion.
 - Identify ordinary and asymptomatic deformation ranges so the chapter does not equate deformation with dysfunction.
 - Distinguish current externally maintained deformation from persistent material remodeling or adhesion.
 - Source claims about restoring tendencies, autoregulation, collateral flow, tissue adaptation, and phase-dependent motion at the appropriate system.
@@ -182,6 +184,8 @@ Those later models can be tested once the ordinary mechanics are explicit. Book 
 - Keep named diseases and regional examples brief; Chapters 20 and 24 own comparative and clinical development.
 - Do not use *compression*, *strain*, *narrowing*, *impingement*, and *constraint* as synonyms.
 - Do not imply that compliant structures should be unloaded or undeformed.
+- Do not substitute reverse movement or repeated cycles for recovery after release of an adverse constraint.
+- Do not turn the finger-motion comparison into an exercise, self-test, or claim that greater relative motion is better.
 - Do not turn “load wants to travel through the hard body” into a literal law of motion.
 - Preserve the author's mechanical priority while translating colloquial language into explicit variables.
 
@@ -189,7 +193,7 @@ Those later models can be tested once the ordinary mechanics are explicit. Book 
 
 - **Claims:** `BGB-C-0008` through `BGB-C-0014`.
 - **Models:** `BGB-M-0005` through `BGB-M-0007`.
-- **Examples:** selected `BGB-X-0003`; candidate `BGB-X-0004`.
+- **Examples:** selected `BGB-X-0003`; provisionally selected `BGB-X-0004`.
 - **Figures:** `BGB-FIG-01-006` through `BGB-FIG-01-008`.
 
 The detailed Book I outline controls the chapter's generic scope. The `new` Section 1 material on soft-to-hard handoff, soft-tissue substitution, lost glide, corridor narrowing, and systemic consequences is a generous conceptual and provenance source. Its protected questions should be retained, but its fixed tissue classes, universal posterior claims, disease cascades, protocols, and conclusion-first clinical language cannot enter this chapter without reconstruction through the claims and models above.
@@ -201,6 +205,7 @@ The brief is ready for drafting when:
 - *maintained*, *constraint*, *excursion*, *intrinsic*, *extrinsic*, and *mixed* have operational working definitions;
 - the tube model states its boundary conditions and assumptions;
 - one non-tube comparison has been selected and shows what genuinely generalizes and what fails to transfer;
+- the non-tube comparison separates absolute tendon motion, SSCT motion, and relative motion, and leaves adverse constraint and recovery visibly unresolved;
 - the hard/soft account identifies a candidate observable beyond relabeling ordinary stiffness and load sharing;
 - every downstream chain exposes its intermediate variables and alternatives;
 - at least one null branch is built into each candidate chain;

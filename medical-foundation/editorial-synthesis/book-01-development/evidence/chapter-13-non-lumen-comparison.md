@@ -317,13 +317,13 @@ For Chapter 13, add the tendon–SSCT comparison as a controlled inset or a smal
 
 For Chapter 24, `BGB-X-0008` can reuse the same baseline variables without reusing the generic example as clinical evidence:
 
-| Shared model row | Tendon–SSCT system | Arterial-led thoracic-outlet system |
+| Shared model row | Tendon–SSCT system | Objective-aTOS system |
 |---|---|---|
-| Required freedom | Relative excursion through a movement cycle | Wall and lumen response within the selected task and pressure-flow state |
-| Maintaining relation | Declared hand configuration, drive, and bounded path | Case-specific anatomy, task, contact, pressure, bending, or tethering as supported |
-| Measured state | Tendon motion, SSCT motion, relative-motion index | Wall geometry, lumen or course, hemodynamic variable |
-| Restoring behavior | Kinematic reversal observed; recovery after adverse constraint unresolved | Pressure, wall behavior, flow, movement, and time; case-specific recovery evidence required |
-| Immediate function | Specified finger movement | Tissue-specific arterial function and downstream consequence |
+| Required freedom or function | Relative excursion through a movement cycle | Artery-wall integrity and distal arterial supply in the selected context |
+| Maintaining or initiating relation | Declared hand configuration, drive, and bounded path | Focal anatomy and proposed repeated arterial deformation, explicitly reconstructed |
+| Measured state | Tendon motion, SSCT motion, relative-motion index | Objective wall lesion; thrombus, embolus, or occlusion where present; distal consequence |
+| Restoring or retained behavior | Kinematic reversal observed; recovery after adverse constraint unresolved | Current pressure, flow, regulation, collateral response, and retained lesion do not directly recover the initiating exposure |
+| Immediate function or consequence | Specified finger movement | Distal arterial or ischemic consequence and clinical presentation kept separate |
 | Important failure of analogy | No lumen, flow, active vascular wall, collateral circulation, or vascular physiology | Relative glide cannot be replaced by patency or flow language |
 
 That comparison earns transfer only at the level of declared boundary conditions, a maintained or repeated state, a tissue-specific freedom, a restoring account, measurement, and alternatives. It does not establish shared anatomy, material behavior, physiology, clinical importance, or intervention.
@@ -339,21 +339,20 @@ That comparison earns transfer only at the level of declared boundary conditions
 7. **Functional gate:** Keep the endpoint at specified finger movement unless direct evidence connects the measured interface variable to another function. No symptom or health claim is needed for the pilot.
 8. **Figure prototype:** Draft an original two-track schematic with observed, calculated, inferred, and unresolved elements visually distinct. Test that it cannot be mistaken for an exercise instruction.
 9. **Chapter 24 seam review:** Confirm that `BGB-X-0008` reuses the comparison's grammar but not its evidence as support for the thoracic-outlet case.
-10. **Control-record update after approval:** If the recommendation is accepted, update the docket, example registry, Chapter 13 brief, and Figure 012 planning record together. This comparison file does not itself close or mutate those records.
+10. **Control-record consistency:** Keep the docket, example registry, Chapter 13 brief, Chapter 24 transfer record, and Figure 012 planning record aligned to the same provisional selection. This comparison file does not itself close the decision or advance evidence status.
 
-## Exact downstream edits if the selection is accepted
+## Control-record alignment
 
-These are the recommended control changes for the next integration pass. They are listed here rather than applied so this evidence pack cannot silently close its own decision.
+The surrounding control records should preserve the following clean state while the selection remains provisional:
 
-1. **`decisions/pilot-decision-docket.md`, index row and `BGB-DEC-0002`:** change the present recommendation to the middle-finger flexor tendon–SSCT relation in healthy controlled finger flexion-extension. Move median-nerve excursion during controlled elbow motion to the reserve. Keep closure conditional on anatomical and measurement review, and state that recovery after release remains unmeasured.
-2. **`chapter-briefs/BGB-U-0013-constraint-maintained-deformation.md`, Section 13.4:** replace candidate-selection language with the selected tendon–SSCT comparison. Name absolute tendon excursion, SSCT excursion, and relative motion as separate variables. State that the example is a neutral calibration and null branch, not a demonstrated adverse constraint.
-3. **The same Chapter 13 brief, evidence obligations and acceptance criteria:** add method error, ordinary task variation, and the unresolved recovery cell. Require the prose to distinguish reverse motion from recovery and relative displacement from shear stress or friction.
-4. **`example-registry.md`, `BGB-X-0004`:** set state to provisionally selected pending technical review; identify the exact tendon, tissue, location, task, and reference conditions; preserve all current excluded inferences; add median nerve as the named reserve rather than deleting it.
-5. **`decisions/pilot-decision-docket.md`, `BGB-DEC-0005`, and the Chapter 24 Section 24.7 brief:** specify that `BGB-X-0008` calls back to tendon–SSCT relative glide. Keep the neurogenic thoracic-outlet material as a separate within-region variable contrast, not as evidence for or against the tendon example.
-6. **`example-registry.md`, `BGB-X-0008`:** select tendon–SSCT as the second-system baseline for an arterial-led Chapter 24 comparison. Preserve a distinct example ID and evidence record even though its variables are introduced through `BGB-X-0004`.
-7. **`figure-registry.md`, `BGB-FIG-01-012`:** populate the second-system column with tendon, SSCT, relative excursion, kinematic reversal, finger-motion endpoint, intrinsic adhesion/material-state alternative, and the unresolved recovery-after-release cell. Do not use a generic *restriction* label where the source only shows task-dependent relative motion.
-8. **Chapter 13 figure planning:** either add a small dedicated non-lumen figure ID or explicitly assign the controlled inset to `BGB-FIG-01-006`. Do not crowd the interface into the hose figure, and do not depict an exercise sequence.
-9. **Claims and models:** retain `BGB-C-0012`–`BGB-C-0014` and `BGB-M-0006` unchanged in strength. Link this pack as selection support; it does not justify advancing the adverse-constraint, recovery, physiological, or clinical links.
+1. **Decision docket:** `BGB-DEC-0002` recommends the middle-finger flexor tendon–SSCT relation and retains median-nerve excursion as reserve; closure remains conditional on anatomical, measurement, and authorial review.
+2. **Chapter 13 brief:** Section 13.4 names absolute tendon excursion, SSCT excursion, and relative motion separately and treats the example as a neutral calibration and null branch.
+3. **Evidence obligations:** Method error, ordinary task variation, and the unresolved recovery cell remain visible; reverse motion is not recovery, and relative displacement is not shear stress or friction.
+4. **Example registry:** `BGB-X-0004` preserves the exact tendon, tissue, location, task, reference conditions, excluded inferences, and median-nerve reserve.
+5. **Chapter 24 seam:** `BGB-X-0008` calls back to tendon–SSCT relative glide under a distinct transfer record; neurogenic TOS remains a separate within-region variable contrast.
+6. **Figure 012:** The second-system column contains tendon, SSCT, relative excursion, kinematic reversal, finger-motion endpoint, intrinsic adhesion/material-state alternative, and unresolved recovery after release.
+7. **Chapter 13 figure planning:** The controlled inset belongs in `BGB-FIG-01-006` unless legibility requires a dedicated ID; it never enters the hose figure or resembles an exercise sequence.
+8. **Claims and models:** `BGB-C-0012`–`BGB-C-0014` and `BGB-M-0006` remain unchanged in strength. This pack supports selection only; it does not advance adverse-constraint, recovery, physiological, or clinical links.
 
 No series boundary, chapter title, medical claim, protocol, or Book II–V content changes follow from this selection.
 
@@ -374,9 +373,9 @@ No series boundary, chapter title, medical claim, protocol, or Book II–V conte
 | [Ellis et al., 2018](https://www.sciencedirect.com/science/article/pii/S0301562917322470) | Systematic review of ultrasound nerve-excursion reliability | Authoritative method-level synthesis | Heterogeneous protocols and older evidence; reliability does not establish validity of a clinical mechanism |
 | [Seynnes and Cronin, 2020](https://pubmed.ncbi.nlm.nih.gov/33332991/) | Critical technical review of tendon ultrasound speckle tracking | Cross-cutting warning about anisotropy, algorithm choices, and absent method standards | Broad tendon-method review; not specific evidence for the selected wrist interface |
 
-## Decision record proposed for review
+## Decision posture
 
-**Proposed disposition:** revise `BGB-DEC-0002` from “peripheral nerve, subject to comparison” to “flexor tendon–SSCT relative glide selected; neutral median-nerve excursion retained as reserve.”
+**Present recommendation:** flexor tendon–SSCT relative glide selected provisionally; neutral median-nerve excursion retained as reserve.
 
 **Reason:** the tendon–SSCT system provides the clearer non-lumen transfer, a direct relative-motion observable, a mechanically proximal functional endpoint, a strong hard/soft relational test, a simpler figure, and less neural duplication in Chapter 24. The nerve remains evidentially credible and should be preserved because its recent measurement validation is strong and it may become preferable if anatomical, figure, or interface-measurement review exposes a fatal weakness in the tendon selection.
 

@@ -15,7 +15,7 @@ Every example records:
 - the alternatives or contrasts it must preserve; and
 - its figure and chapter destinations.
 
-Examples move through `candidate → selected → specified → evidence-reviewed → drafted → publication-approved`. A familiar analogy can be selected before its biological application is evidence-reviewed, provided the boundary is explicit.
+Examples move through `candidate → selected → specified → evidence-reviewed → drafted → publication-approved`. *Selected* records the current provisional editorial choice; it does not mean jointly accepted or clinically approved. A familiar analogy can be selected before its biological application is evidence-reviewed, provided the boundary is explicit.
 
 ## Pilot index
 
@@ -24,11 +24,12 @@ Examples move through `candidate → selected → specified → evidence-reviewe
 | `BGB-X-0001` | Moving and carrying an object | Neutral recurring task | `BGB-U-0002` | selected | Change system boundary and scale without changing the event |
 | `BGB-X-0002` | Joint moment and contact distribution | Bounded mechanical example | `BGB-U-0002` | candidate | Separate force, moment, pressure, and tissue exposure |
 | `BGB-X-0003` | Garden hose under changing constraint | Engineering analogy | `BGB-U-0013` | selected | Show the maintaining relation before lumen and flow |
-| `BGB-X-0004` | Excursion without a lumen | Comparative mechanical example | `BGB-U-0013` | candidate | Test whether the model extends beyond tubes |
-| `BGB-X-0005` | Thoracic-outlet vascular presentation | Named clinical candidate | `BGB-U-0024` | unselected variant | Test the wall-to-flow branch |
-| `BGB-X-0006` | Thoracic-outlet neural presentation | Named clinical candidate | `BGB-U-0024` | unselected variant | Test the load-to-excursion/function branch |
-| `BGB-X-0007` | Asymptomatic or noncorresponding corridor observation | Negative comparison | `BGB-U-0024` | required, design pending | Prevent geometry from functioning as diagnosis |
-| `BGB-X-0008` | Second compliant-system comparison | Transfer test | `BGB-U-0024` | selection pending | Determine what generalizes beyond thoracic-outlet anatomy |
+| `BGB-X-0004` | Flexor tendon–SSCT relative glide | Comparative mechanical example | `BGB-U-0013` | selected | Test excursion without a lumen while preserving a null branch |
+| `BGB-X-0005` | Objective arterial thoracic outlet syndrome | Named clinical lead | `BGB-U-0024` | selected | Test a focal anatomy-to-lesion-to-distal-consequence chain |
+| `BGB-X-0006` | Neurogenic thoracic-outlet variable contrast | Named clinical contrast | `BGB-U-0024` | candidate | Prevent arterial evidence from being borrowed by a neural account |
+| `BGB-X-0007` | Arterial noncorrespondence comparison | Negative comparison | `BGB-U-0024` | selected | Prevent provocative geometry or waveform from functioning as diagnosis |
+| `BGB-X-0008` | Tendon–SSCT transfer comparison | Transfer test | `BGB-U-0024` | selected | Determine what generalizes beyond thoracic-outlet anatomy |
+| `BGB-X-0009` | Thrombotic-vTOS retained-state timeline | Temporal comparison | `BGB-U-0024` | selected | Show transition from proposed exposure to intrinsic or mixed state |
 
 ## BGB-X-0001 — Moving and carrying an object
 
@@ -87,39 +88,41 @@ Examples move through `candidate → selected → specified → evidence-reviewe
 - **Figure link:** `BGB-FIG-01-007`.
 - **Development decision:** Decide whether a photographed physical demonstration adds clarity beyond a clean schematic. If performed, record materials and conditions so the demonstration can be reproduced.
 
-## BGB-X-0004 — Excursion without a lumen
+## BGB-X-0004 — Flexor tendon–SSCT relative glide
 
 - **Type:** Comparative mechanical example.
-- **State:** Candidate; a peripheral nerve and sliding tissue interface are leading options.
-- **Primary job:** Test whether constraint-maintained deformation remains useful when the key variable is glide, excursion, or course change rather than fluid flow through a lumen.
+- **State:** Provisionally selected pending anatomical, measurement, figure, and authorial-intent review.
+- **System:** Middle-finger flexor digitorum superficialis tendon and adjacent subsynovial connective tissue at the wrist during standardized healthy finger flexion and extension.
+- **Primary job:** Test whether the constraint model remains useful when the measured variables are absolute tendon excursion, SSCT excursion, and relative motion rather than fluid flow through a lumen.
 - **Claim links:** `BGB-C-0012`, `BGB-C-0013`, `BGB-C-0014`.
 - **Model link:** `BGB-M-0006`.
-- **Selection criteria:** The structure has a defined task-dependent excursion; both intrinsic and extrinsic restrictions are plausible; measurement methods and asymptomatic comparisons exist; the example does not duplicate the full thoracic-outlet case.
-- **Facts requiring evidence:** Normal and variable excursion; forces or contacts that alter it; functional relevance; response to changing the proposed constraint.
-- **Alternatives and contrasts:** Reduced excursion can be normal, protective, caused by intrinsic adhesion or tissue state, or secondary to pain and guarding.
+- **Reference conditions:** Wrist neutral; forearm, elbow, shoulder, movement cadence, active or passive drive, finger set, and imaging level declared. Compare phases or one controlled task perturbation without naming an ideal value.
+- **Facts requiring evidence:** Protocol-specific tendon and SSCT excursion; tracking error and reliability; task variation; anatomical naming; response to changing conditions. Current evidence does not establish adverse constraint, a pathological threshold, or recovery after release.
+- **Alternatives and contrasts:** Different task geometry or activation, ordinary coupling, anatomical variation, intrinsic adhesion or material state, protection, reverse causation, and measurement artifact.
 - **Excluded inferences:** Restricted glide is not automatically entrapment, injury, symptom source, or indication for a mobilization technique.
-- **Figure link:** `BGB-FIG-01-006` or a later dedicated figure if selected.
-- **Development decision:** Prefer a nonvascular example because it tests the general model rather than repeating the hose.
+- **Figure link:** Controlled inset in `BGB-FIG-01-006`, or a dedicated figure if the inset becomes illegible.
+- **Reserve:** Median-nerve excursion at the wrist during controlled elbow motion.
+- **Development decision:** Use the neutral example to teach the observable and the null branch. Do not substitute reverse motion for recovery or relative displacement for shear stress, friction, injury, or health.
 
-## BGB-X-0005 — Thoracic-outlet vascular presentation
+## BGB-X-0005 — Objective arterial thoracic outlet syndrome
 
-- **Type:** Named clinical candidate, with separate venous and arterial variants.
-- **State:** Unselected variant. Do not draft a composite vascular case.
-- **Primary job:** Test whether the imposed-load → wall deformation → geometry → pressure/flow → function/symptom chain can be supported one link at a time.
+- **Type:** Named clinical lead; source-grounded composite proposed.
+- **State:** Provisionally selected pending author and medical-coauthor approval. Do not draft the composite as though one patient supplied every fact.
+- **Primary job:** Test whether a focal bony relation → reconstructed repeated arterial deformation → objective wall lesion → thrombus, embolus, or occlusion where present → distal arterial or ischemic consequence → clinical presentation can be supported one link at a time.
 - **Claim links:** `BGB-C-0015` through `BGB-C-0018`, `BGB-C-0020` through `BGB-C-0022`.
-- **Model link:** `BGB-M-0008` vascular branch.
-- **Selection criteria:** Defensible presentation definition; measurable dynamic geometry and hemodynamics; sufficient literature to distinguish anatomy, mechanism, findings, and symptoms; medical-coauthor approval.
-- **Evidence obligations:** Current classification and diagnostic uncertainty; anatomy; positional or task-dependent wall and lumen behavior; pressure and flow; regulation and collateral response; prevalence of findings in symptomatic and asymptomatic groups; alternative vascular and systemic processes.
-- **Required internal contrasts:** Venous versus arterial mechanics; resting versus provoking task; geometry with versus without physiological change; symptom with versus without corresponding measured change.
+- **Model link:** `BGB-M-0008` arterial-lead branch.
+- **Selection criteria:** Objective arterial pathology or ischemia attributed to a focal external relation under the declared criterion set; traceable anatomy, lesion, and distal consequence; alternatives and referral selection explicit; medical-coauthor approval.
+- **Evidence obligations:** Current aTOS definition; focal anatomy; objective wall pathology; thrombus, embolus, occlusion, perfusion, or ischemic findings as applicable; reconstructed exposure status; asymptomatic provocative findings; alternative arterial and systemic processes.
+- **Required internal contrasts:** Healthy provocative arterial waveform change; bony variation without aTOS; objective pathology without an ischemic presentation; evidence-state difference between observed endpoints and reconstructed exposure history.
 - **Excluded inferences:** No single posture as universal cause; no extrapolation from one vessel to nerves; no diagnostic home test; no correction or treatment claim.
 - **Figure links:** `BGB-FIG-01-009` through `BGB-FIG-01-011`.
-- **Development decision:** Select either one vascular presentation or the neural presentation as the primary case. The other can remain a short contrast rather than creating a medically overloaded chapter.
+- **Development decision:** Final approval must preserve the narrow teaching job, source-grounded composite architecture, reconstructed repeated-injury arrow, and definition/referral enrichment.
 
 ## BGB-X-0006 — Thoracic-outlet neural presentation
 
 - **Type:** Named clinical candidate.
-- **State:** Unselected variant.
-- **Primary job:** Test whether the imposed-load → neural strain/contact/excursion → intraneural physiology or conduction → function/symptom chain can be supported one link at a time.
+- **State:** Candidate within-region contrast, not the leading vignette.
+- **Primary job:** Show which neural variables would require independent evidence and why the arterial chain cannot establish them.
 - **Claim links:** `BGB-C-0015` through `BGB-C-0017`, `BGB-C-0019` through `BGB-C-0022`.
 - **Model link:** `BGB-M-0008` neural branch.
 - **Selection criteria:** Defensible presentation definition; a measurable candidate mechanical variable; adequate alternatives; medical-coauthor approval.
@@ -127,34 +130,47 @@ Examples move through `candidate → selected → specified → evidence-reviewe
 - **Required internal contrasts:** Mechanical observation with versus without functional change; symptoms that do and do not track the task; corridor hypothesis versus cervical or distal source.
 - **Excluded inferences:** A narrow image, forward shoulder position, paresthesia, or provocative maneuver alone does not establish mechanism or diagnosis; no treatment recommendation follows.
 - **Figure links:** `BGB-FIG-01-009` through `BGB-FIG-01-011`.
-- **Development decision:** Compare feasibility with `BGB-X-0005`. Selection should be based on whether the full bridge can be researched clearly, not on which narrative sounds more dramatic.
+- **Development decision:** Retain as a compact variable and evidence contrast unless later evidence justifies a separate full narrative.
 
-## BGB-X-0007 — Asymptomatic or noncorresponding corridor observation
+## BGB-X-0007 — Arterial noncorrespondence comparison
 
 - **Type:** Required negative comparison.
-- **State:** Required; exact study or vignette design pending evidence review.
+- **State:** Selected; final source extraction and figure design pending.
 - **Primary job:** Demonstrate that anatomy, geometry, deformation, physiological change, symptoms, and diagnosis need not coincide.
 - **Claim links:** `BGB-C-0021`, `BGB-C-0022`; it also tests `BGB-C-0016` through `BGB-C-0020`.
 - **Model link:** `BGB-M-0008`.
-- **Candidate forms:** An asymptomatic person with the proposed geometry; symptoms without the proposed deformation; deformation without measurable downstream change; a finding that changes with task while symptoms do not; or a symptom explained better by another source.
+- **Selected forms:** Healthy provocative arterial waveform change and bony variation without aTOS. A specialist cohort's objective arterial pathology without an ischemic presentation may provide a third noncorrespondence if the population boundary remains explicit.
 - **Evidence obligations:** Prevalence, measurement reliability, participant selection, diagnostic criteria, and temporal relation. The comparison should come from evidence or a transparently hypothetical vignette, never a fabricated clinical history.
 - **Excluded inferences:** The counterexample does not prove mechanics irrelevant; it determines specificity, boundary conditions, or the role of reserve and compensation.
 - **Figure link:** `BGB-FIG-01-010` or a data figure selected after evidence review.
 - **Development decision:** Make this comparison structurally necessary in the chapter brief, not an optional caveat added after the main narrative.
 
-## BGB-X-0008 — Second compliant-system comparison
+## BGB-X-0008 — Tendon–SSCT transfer comparison
 
 - **Type:** Transfer test.
-- **State:** Selection pending.
-- **Primary job:** Test which parts of the constraint-maintained-deformation sequence survive outside thoracic-outlet anatomy.
-- **Candidate families:** Peripheral nerve or nerve root; upper airway; venous or lymphatic route; pelvic basin; craniofacial passage; sliding organ interface.
+- **State:** Selected as the Chapter 24 callback to `BGB-X-0004`; final specification follows approval of that example.
+- **Primary job:** Test which parts of the constraint-maintained-deformation sequence survive when the comparison object is a sliding interface rather than an artery.
+- **Selected system:** The same flexor tendon–SSCT relation and neutral baseline variables as `BGB-X-0004`, preserved under a distinct transfer record so its evidence is not treated as clinical evidence for the arterial case.
 - **Claim links:** `BGB-C-0012` through `BGB-C-0014` and, by comparison, `BGB-C-0017` through `BGB-C-0022`.
 - **Model links:** `BGB-M-0006`; a new model is required if the selected system's mechanics cannot be represented without distortion.
-- **Selection criteria:** Different constitutive behavior from the primary thoracic-outlet case; a measurable maintaining relation and functional variable; useful intrinsic/extrinsic contrast; manageable medical exposure.
-- **Evidence obligations:** System-specific anatomy, mechanics, regulation, alternatives, and outcome measures. No link is inherited merely because the same words—constraint, narrowing, glide, or pressure—apply.
+- **Selection criteria:** Retain tendon motion, SSCT motion, relative excursion, kinematic reversal, finger-motion endpoint, intrinsic adhesion/material-state alternative, and an unresolved recovery-after-release cell.
+- **Evidence obligations:** System-specific anatomy, motion-tracking validity, task variation, alternatives, and outcome measures. No link is inherited merely because *constraint*, *glide*, or *recovery* appears in both systems.
 - **Excluded inferences:** The comparison is not proof of a universal soft-body syndrome or one body-wide treatment mechanism.
 - **Figure link:** `BGB-FIG-01-012`.
-- **Development decision:** If the primary case is vascular, prefer a neural or sliding-interface comparison. If it is neural, prefer a conduit or pressure-bearing comparison.
+- **Development decision:** Use the same comparison grammar, not the same causal evidence. State explicitly that relative glide does not map to lumen, flow, wall injury, collateralization, or ischemia.
+
+## BGB-X-0009 — Thrombotic-vTOS retained-state timeline
+
+- **Type:** Temporal, mixed-state clinical comparison.
+- **State:** Selected as a compact Chapter 24 timeline; not a second full vignette.
+- **Primary job:** Preserve the transition from a proposed repeated external exposure to wall and flow change, thrombosis, retained obstruction or recanalization, collateral adaptation, and a changed response to future demand.
+- **Claim links:** `BGB-C-0015` through `BGB-C-0018`, `BGB-C-0020` through `BGB-C-0022`.
+- **Model link:** `BGB-M-0008` thrombotic-venous timeline.
+- **Evidence obligations:** Objective axillary-subclavian DVT; chronology; current etiological classification; retained thrombus, stenosis, occlusion, recanalization, or collaterals; treatment effects on later measurement; systemic and device-related alternatives; reconstructed initiating exposure labeled.
+- **Required contrast:** Later venographic class need not correspond to symptoms or recover the initiating state.
+- **Excluded inferences:** Athletic activity, youth, a named syndrome, or later obstruction does not directly observe the initial mechanical exposure; arterial evidence and pressure–flow language do not transfer.
+- **Figure link:** `BGB-FIG-01-011` and, where useful, `BGB-FIG-01-010` as a separately labeled branch.
+- **Development decision:** Keep the comparison short enough that objective aTOS remains the one complete case. If the temporal account requires full clinical development, move it to a later worked narrative rather than pooling two vascular cases.
 
 ## Pilot selection decisions
 
@@ -162,7 +178,7 @@ Before the three chapter briefs are accepted, joint review should decide:
 
 1. the exact recurring object-transfer task and whether `BGB-X-0002` can reuse its anatomy;
 2. whether the hose appears only as a schematic or also as a reproducible physical demonstration;
-3. which non-lumen example tests Chapter 13;
-4. whether Chapter 24's primary presentation is vascular or neural;
-5. what negative comparison will prevent the selected presentation from becoming a posture-to-diagnosis story; and
-6. which second system produces the strongest transfer test with the least duplication.
+3. approve or revise the tendon–SSCT selection and its median-nerve reserve;
+4. approve or revise objective aTOS as Chapter 24's primary presentation;
+5. approve the arterial noncorrespondence set and source-grounded composite form; and
+6. confirm the distinct jobs of the tendon–SSCT transfer record and thrombotic-vTOS timeline.

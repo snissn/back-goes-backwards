@@ -241,7 +241,7 @@ Preserve this phenotype as a reserve because it may isolate a more reversible re
 
 ### Neurogenic TOS
 
-Preserve neurogenic TOS as a within-region contrast only. It usefully demonstrates why artery and vein evidence cannot establish brachial-plexus contact pressure, strain, excursion, intraneural circulation, conduction, symptoms, or diagnosis. Chapter 24 should not borrow a vascular chain to complete a neural one. The separate Chapter 13 peripheral-nerve example remains the better non-lumen transfer test.
+Preserve neurogenic TOS as a within-region contrast only. It usefully demonstrates why artery and vein evidence cannot establish brachial-plexus contact pressure, strain, excursion, intraneural circulation, conduction, symptoms, or diagnosis. Chapter 24 should not borrow a vascular chain to complete a neural one. The selected Chapter 13 tendon–SSCT comparison provides the non-lumen transfer test without duplicating this neural contrast.
 
 ## Editorial recommendation and explicit limits
 

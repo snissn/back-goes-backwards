@@ -60,7 +60,7 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
   1. **Task and environment:** mass, acceleration, gravity, external contact, applied force.
   2. **Segment or section:** resultant force and moment pair `(F, M)`.
   3. **Pressure-bearing interface or fluid system:** pressure, pressure gradient, contact-pressure distribution.
-  4. **Tissue field:** stress tensor `sigma`, strain measure `epsilon`, strain rate, deformation map, and time history.
+  4. **Tissue field:** current and reference configurations, deformation map `χ(X,t)`, deformation gradient `F_def`, stress tensor `σ`, declared strain measure, strain rate, and time history.
   5. **Biological response:** a separate downstream layer, not another synonym for mechanical load.
 
 - **Minimal relations:**
@@ -68,11 +68,11 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
   ```text
   M_O = r x F                         turning effect about O
   t(n) = sigma n                      traction on a plane with normal n
-  p_avg = F_normal / A                average pressure under stated assumptions
+  p_avg = F_normal / A                average pressure using the declared current or reference area
   ```
 
   The strain measure and constitutive relation must be selected for the deformation regime; the registry does not impose one universal biological material law.
-- **Outputs:** A quantity map with units, scale, measurement or inference method, and uncertainty for every important arrow.
+- **Outputs:** A quantity map with units, scale, frame or reference configuration, provenance label (`OBS`, `MEAS`, `CALC`, `INF`, `MOD`, `HYP`, or `EMB`), and uncertainty for every important arrow.
 - **Assumptions to declare:** Geometry, material behavior, active forces, boundary conditions, reference configuration, homogeneity or anisotropy, and timescale.
 - **Competing or complementary representations:** Direct local measurement; inverse estimation; continuum simulation; descriptive kinematics when forces cannot be justified.
 - **Validation work:** Dimensional audit; sensitivity to boundary conditions and constitutive assumptions; validation against direct measurements where possible.
@@ -88,13 +88,14 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
 - **Provisional representation:** An ordered descriptor rather than a vector with commensurable components:
 
   ```text
-  E = {quantity and location; magnitude; direction;
+  \mathcal{E}[q; S, t_0:t_1] = {
+       quantity and location; magnitude; direction;
        application rate; duration; repetition; sequence;
        variability; rest; recovery and material state}
   ```
 
 - **Inputs:** A named mechanical quantity and location, time series or task history, tissue or system state, and candidate response.
-- **Outputs:** A reproducible exposure description and a smaller candidate set of predictive features for the selected context.
+- **Outputs:** A reproducible multidimensional exposure record—not a scalar dose or a vector whose unlike entries can be added—and a smaller candidate set of predictive features for the selected context.
 - **Assumptions to declare:** Relevant observation window; independence or interaction among dose features; treatment of recovery; validity of exposure measurement.
 - **Competing or complementary representations:** Peak value, impulse, cumulative load, cycle count, fatigue-damage model, work or energy, strain-time integral, task-class exposure, or state-space history.
 - **Validation work:** Compare the descriptor with simpler alternatives; estimate repeatability and predictive value; identify which features matter for each tissue and outcome.
@@ -112,8 +113,8 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
   | Submodel | Object | Minimum specification |
   |---|---|---|
   | External line of action | Geometric line associated with a force vector | Force, point or distributed contact, frame, task |
-  | Internal transfer relation | Inferred route or network of resultants, contacts, tension, compression, pressure, and active control | System boundary, carriers, quantity, scale, balance, uncertainty |
-  | Embodied force line | Felt continuity or coordination used to generate a hypothesis | Reporter, task, sidedness, phase, phenomenology, candidate measured correlates |
+  | Internal transfer relation (`LP-n` or `FL_inf`) | Inferred route or network of resultants, contacts, tension, compression, pressure, and active control | System boundary, carriers, quantity, scale, balance, uncertainty, `INF`/`MOD`/`HYP` status |
+  | Embodied force line (`FL_emb`) | Felt continuity or coordination used to generate a hypothesis | Reporter, task, sidedness, phase, phenomenology, candidate measured correlates, `EMB` status |
 
 - **Representation:** A path may be a single line, branching graph, distributed field, or time-varying network. The choice is part of the model, not a decorative decision.
 - **Inputs:** Defined task; boundaries; candidate carriers; measured or modeled forces, moments, pressure, or deformation; embodied observation where relevant.
@@ -124,6 +125,8 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
 - **Failure conditions:** A line is drawn because anatomy looks continuous; a felt connection is declared a resultant force; or different carriers and scales are silently merged.
 - **Publication limit:** No “hidden cable,” meridian identity, or one correct body-wide route is established in Book I.
 - **Figure link:** `BGB-FIG-01-005`.
+
+The [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-and-notation.md) controls the symbols, units, provenance legend, and category-error checks for `BGB-M-0002` through `BGB-M-0004`.
 
 ## BGB-M-0005 — Hard/soft division of mechanical labor
 
@@ -173,6 +176,7 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
 - **Assumptions to declare:** Reference configuration; linear or nonlinear response; viscoelasticity and hysteresis; active regulation; contact; timescale; whether deformation is harmful, neutral, protective, or unknown.
 - **Competing or complementary representations:** Stenosis as geometry; entrapment model; contact mechanics; tethering and excursion model; active-control model; pathological remodeling; symptom-first clinical model.
 - **Validation work:** Manipulate or observe maintaining terms and restoration; measure deformation and excursion over time; compare intrinsic, extrinsic, and mixed models; test the downstream link separately.
+- **Pilot non-lumen instantiation:** `BGB-X-0004`, flexor tendon–SSCT relative glide during controlled healthy finger motion, tests task-dependent excursion and the null branch. It does not yet validate adverse maintained loss or recovery after release.
 - **Failure conditions:** The model treats narrowing as its own cause, skips from geometry to symptoms, or ignores a persistent intrinsic state after the proposed external constraint changes.
 - **Publication limit:** A generic failure family, not a diagnosis and not proof that relieving a proposed constraint will improve health.
 - **Figure links:** `BGB-FIG-01-006`, `BGB-FIG-01-008`.
@@ -194,25 +198,25 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
 
 ## BGB-M-0008 — Thoracic-outlet corridor model
 
-- **Purpose:** Apply the generic constraint model to a selected named presentation while keeping vascular, neural, anatomical, functional, symptomatic, and diagnostic levels separate.
+- **Purpose:** Apply the generic constraint model to a provisional objective-aTOS lead while keeping arterial, venous, neural, anatomical, functional, symptomatic, and diagnostic levels separate.
 - **Provenance:** Source obligations `BGB-S-1111`, `BGB-S-1112`, `BGB-S-1119`, `BGB-S-1223`, `BGB-S-1224`, and `BGB-S-1314`; normalized by `editorial-synthesis` and direct authorial clarification about imposed load.
 - **Claim dependencies:** `BGB-C-0015` through `BGB-C-0022`.
 - **Model variants:**
 
   | Variant | Constrained object | Mechanical outputs | Downstream outputs kept separate |
   |---|---|---|---|
-  | Vascular—venous | Selected vein segment | Wall deformation, course, area, pressure, flow | Swelling, discoloration, function, symptoms, diagnosis |
-  | Vascular—arterial | Selected artery segment | Wall deformation, course, area, pressure, flow | Perfusion measures, function, symptoms, diagnosis |
+  | Arterial lead | Subclavian artery adjacent to a defined focal bony relation | Reconstructed repeated deformation; objective wall lesion; thrombus, embolus, or occlusion where present | Distal arterial or ischemic consequence, presentation, diagnosis |
+  | Thrombotic-venous timeline | Axillary-subclavian vein and retained thrombotic/outflow state | Proposed repeated exposure; wall and flow change; thrombus; residual obstruction, recanalization, or collaterals | Swelling, discoloration, function, symptoms, diagnosis kept separate |
   | Neural | Selected neural structure | Contact pressure, strain, bending, excursion | Intraneural physiology, conduction, function, symptoms, diagnosis |
   | Mixed | Explicitly named structures | Variant-specific outputs | Interactions rather than pooled outcome |
 
 - **System inputs:** Individual anatomy; clavicle, first rib, scapula, cervical and thoracic relationships; surrounding muscles and fascia; arm position and task; respiration; external support or load; prior tissue state.
 - **Maintaining terms:** Candidate contact, compression, traction, bending, torsion, tethering, active tension, or pressure difference.
 - **Restoring and modifying terms:** Tissue elasticity and viscosity; vessel pressure and flow; neural tension and excursion; active movement; respiration; collateral or regulatory response.
-- **Outputs:** A time-resolved mechanical state; tissue-specific physiological measurement; function; symptoms; clinical classification—each reported separately.
+- **Outputs:** Observed anatomy and pathology; reconstructed exposure; retained or changing tissue state; tissue-specific physiological measurement; function; symptoms; clinical classification—each reported separately.
 - **Assumptions to declare:** Selected presentation and criteria; side and task; corridor definition; temporal relationship; measurement limits; whether the case is illustrative, representative, or exceptional.
 - **Competing or interacting models:** Congenital or fixed anatomy; intrinsic neural or vascular disease; scar or mass effect; cervical or distal neural source; systemic vascular or neurological disease; sensitization and other symptom mechanisms; behavioral and environmental exposure.
-- **Validation work:** Current clinical taxonomy; anatomy and dynamic measurement review; within-person and comparison observations; claim-by-claim evidence mapping; medical-coauthor review.
+- **Validation work:** Current clinical taxonomy; source table for every composite fact and causal arrow; definition- and referral-enrichment audit; anatomy and dynamic measurement review; comparison observations; claim-by-claim evidence mapping; author and medical-coauthor review.
 - **Failure conditions:** Static posture is treated as diagnosis; neural and vascular findings are pooled; geometry substitutes for imposed load; symptom improvement is assumed to validate the proposed path; or the case is generalized to every compliant structure.
 - **Publication limit:** One transparent worked hypothesis. It provides no home test, corrective drill, or substitution for clinical evaluation.
 - **Figure links:** `BGB-FIG-01-009`, `BGB-FIG-01-010`, `BGB-FIG-01-011`.
@@ -222,5 +226,5 @@ A model record identifies its purpose, variables, system boundary, assumptions, 
 1. Select a notation and mathematical depth suitable for Book I without weakening dimensional precision.
 2. Decide whether *load path* and *force line* share one reader-facing figure or require separate introductions.
 3. Define a minimum observable test for the hard/soft role distinction beyond ordinary stiffness and load sharing.
-4. Select the thoracic-outlet presentation before commissioning anatomy or entering condition-specific evidence.
-5. Decide whether the second compliant-system comparison uses another conduit or a non-lumen excursion case; the latter would test the model more strongly.
+4. Approve or reject the provisional objective-aTOS lead and source-grounded composite before commissioning anatomy or drafting condition-specific prose; focused selection evidence is complete.
+5. Approve or reject flexor tendon–SSCT relative glide as the second compliant-system comparison; median-nerve excursion remains the reserve.
