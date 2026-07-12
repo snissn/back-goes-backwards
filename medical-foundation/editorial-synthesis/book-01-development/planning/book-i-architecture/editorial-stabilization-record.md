@@ -41,7 +41,7 @@ The architecture is ready for redrafting when:
 
 | Object | Primary owner in the strict architecture |
 |---|---|
-| Evidence-state vocabulary | Introduction; formal record application in Chapter 18 |
+| Evidence-state vocabulary | Introduction; applied, without redefinition, in Chapters 18, 22, and 27 |
 | Systems, quantities, exposure vocabulary, and force-line meanings | Chapter 2 |
 | Hard/soft definition and early TCM-motivation signpost | Chapter 3 |
 | Configuration, frames, and load-path construction | Chapter 4 |
@@ -87,24 +87,48 @@ The architecture is ready for redrafting when:
 
 ## Round 1 — Strict-architecture review
 
-**Status:** pending independent review of the first complete architecture and crosswalk.
+**Status:** complete; structural revision required and applied.
 
-The review must inspect:
+**Independent review lenses:**
 
-- unit singularity and hidden second jobs;
-- chapter ownership and cross-chapter duplication;
-- constructive progression and reader payoff;
-- source-preservation completeness;
-- case escalation and evidence completeness;
-- Part and chapter handoffs;
-- word-budget plausibility; and
-- Book I/II and Books III–V seam discipline.
+1. front matter and Parts I–III developmental edit;
+2. Parts IV–VI developmental and worked-narrative edit; and
+3. whole-book architecture, source-preservation, drafting-contract, and production audit.
+
+### Architecture that survived
+
+- The six-Part, thirty-chapter macrostructure remains sound; no Part or chapter reorder was required.
+- Chapter 28 remains one chapter, with “available options” as the object joining literacy to collective redesign and its modern-exposure unit as the hinge.
+- Chapters 17 and 18 remain distinct: Chapter 17 establishes medically accepted mechanical endpoints; Chapter 18 constructs the longitudinal routing record.
+- The posterior proposition ladder remains the earned Part II payoff after its full marker matrix moves to Chapter 29 and Book II.
+- Chapters 11 and 14 remain distinct after route-state timing is separated from the mechanisms of dynamic control.
+- Chapter 16 remains the Part III multiscale synthesis after its four downstream branches are compressed into a comparison rather than a second evidence survey.
+- The front matter orients the reader without attempting to prove the later chapters' claims.
+
+### Material corrections applied
+
+- Added explicit dispositions for every nonempty chapter lead before the first H2 in Chapters 1–21, including four figures and two embedded tables that the initial H2-based audit had missed. Chapters 22–30 have no such lead blocks.
+- Canonicalized the six load-management families as geometric redistribution; local concentration; task/segment instability; discoordination or mistimed handoff; maintained deformation/lost excursion; and compensatory rerouting.
+- Completed the drafting contract for every conclusion by adding its development moves and evidence or example burden.
+- Made I.8 the sole definition owner for evidence states; Chapters 18, 22, and 27 now apply the common legend.
+- Removed the conditional standalone Part VI synthesis and absorbed its unique closing work into Chapter 30.
+- Reduced repeated openings: I.0 owns the full object-transfer scene, the Part I opening is an orientation bridge, and 1.0 owns the matched two-state comparison.
+- Consolidated Chapter 4's spatial coordinates, generalized modes, and material directions into one comparative unit while preserving local orthotropy as a Book II research option.
+- Distinguished neutral rerouting and temporal availability in Chapter 11 from adverse discoordination in Chapter 14 and function-preserving compensatory rerouting in Chapter 15.
+- Recast Chapter 16's downstream material as a receiver-and-timescale branch comparison and preserved effort, regulation, fatigue, adaptability, and resilience without surveying their evidence prematurely.
+- Moved Chapter 18's full incremental-value gate and Chapter 20's prospective study design into Chapter 29.
+- Gave the four Part V narratives exact, escalating outputs and required each opening to declare what is observed, inferred, and unknown.
+- Restored a receiver-specific exposure-to-response question and posterior participation as one candidate path in Chapter 27.
+- Compressed Chapter 30 into the Book I synthesis, the Book II mode-and-assumption seam, and a concise later-series horizon; detailed TCM, K1–PC8, force-line, breath, torus, and practice material remains preserved in Books III–V source assets.
+- Clarified the later-book seam: Book II defines and discriminates configuration regimes independently of breath; Book IV owns breath- and pressure-linked transition mechanisms and the torus/topology candidates.
+
+Round 1 therefore changes the architecture materially and cannot count as a no-change stabilization round.
 
 ## Stabilization log
 
 | Round | Structural changes required? | Result |
 |---|---:|---|
 | 0 — source diagnosis | yes | First complete strict architecture produced. |
-| 1 — architecture review | pending | — |
+| 1 — architecture review | yes | Macrostructure retained; source accounting, unit contract, ownership, case outputs, and later-book seams revised. |
 | 2 — post-revision developmental reread | pending | — |
 | 3 — confirmation reread if needed | pending | — |

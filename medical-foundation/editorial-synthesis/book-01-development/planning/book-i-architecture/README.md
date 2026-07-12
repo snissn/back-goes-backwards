@@ -24,7 +24,7 @@ The book develops that argument in six affirmative movements:
 
 1. **Mechanical foundations:** embodied life continuously generates and receives mechanical demand, and that demand can be described precisely.
 2. **Architecture of support:** living support is a coordinated division of mechanical labor; posterior anatomy is one large and consequential participant in it.
-3. **Load management:** viable support can change through identifiable patterns of concentration, maintained deformation, unstable relation, mistimed handoff, and compensatory rerouting.
+3. **Load management:** viable support can change through six identifiable families: geometric redistribution; local concentration; task/segment instability; discoordination or mistimed handoff; maintained deformation/lost excursion; and compensatory rerouting.
 4. **Medical meaning:** a mechanical history becomes medically informative by specifying the receiver, exposure, response, chronology, alternatives, and whole-person context.
 5. **Worked narratives:** a useful framework clarifies real examples by making their chains more explicit, comparable, and testable.
 6. **Reasoning and development:** the framework can improve questions, measurement, education, design, and research while the stronger preferred-configuration program is developed in later books.

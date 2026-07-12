@@ -2,16 +2,16 @@
 
 ## Part proposition
 
-A changing demand meets a changing capacity through particular paths and handoffs. When that organization changes, the resulting exposure can be described through distinct families of redistribution, concentration, maintained deformation, instability, discoordination, and compensatory rerouting.
+A changing demand meets a changing capacity through particular paths and handoffs. When that organization changes, the resulting exposure can be described through six canonical families: geometric redistribution; local concentration; task/segment instability; discoordination or mistimed handoff; maintained deformation/lost excursion; and compensatory rerouting.
 
 ## Reader movement
 
-Chapter 10 establishes the conditions of mechanical viability. Chapter 11 defines transfer and handoff states. Chapters 12–15 develop the six families, with each family assigned a clear owner. Chapter 16 shows how local, regional, and whole-task relations can interact while keeping downstream biological branches separate.
+Chapter 10 establishes the conditions of mechanical viability. Chapter 11 supplies handoff mechanics and route-state qualifiers without owning the adverse discoordination family. Chapters 12–15 develop the six canonical families, with Chapter 14 owning adverse discoordination or mistimed handoff and Chapter 15 owning function-preserving compensatory rerouting. Chapter 16 shows how local, regional, and whole-task relations interact while keeping downstream branches separate.
 
 ## Part opening — A vocabulary for load mismanagement
 
 - **Proposition:** “Bad load” becomes useful only when translated into a named change in organization, exposure, receiver, and time.
-- **Develop:** Introduce the viable baseline; present the six families in one map; show that several can coexist or remain inconsequential; state which chapter owns each family; identify scale transition as an analytical operation rather than a seventh family.
+- **Develop:** Introduce the viable baseline; present geometric redistribution, local concentration, task/segment instability, discoordination or mistimed handoff, maintained deformation/lost excursion, and compensatory rerouting in one map; show that several can coexist or remain inconsequential; state which chapter owns each family; identify scale transition as an analytical operation rather than a seventh family.
 - **Evidence/example:** One family map with viable, altered, and null branches.
 - **Continuity:** Inherits Part II's cooperative architecture and hands Chapter 10 the changing demand–capacity relation.
 - **Editorial boundary:** The families describe mechanical organization, not diagnoses or a moral classification of bodies.
@@ -91,9 +91,11 @@ Define viable range, locate demand in a person–task–environment system, show
 - **Continuity:** Provides the baseline against which Chapter 11 can describe route states.
 - **Target:** 400–550 words.
 
-### 10.8 Conclusion — Viability is a history, not a pose
+### 10.8 Conclusion — Viability integrates demand, capacity, and recovery
 
 - **Proposition:** Load management concerns whether changing demand can be distributed through available paths within the present capacities and recovery processes of the system.
+- **Develop:** Gather external demand, configuration, receiver-specific capacity, dose, recovery, possible trajectories, and margin into one time-dependent account; identify the route-and-handoff question that remains.
+- **Evidence/example:** Reuse the chapter's branching trajectory figure with one viable and one narrowing-margin history.
 - **Continuity:** Hands Chapter 11 the mechanics of transfer and handoff.
 - **Target:** 220–300 words.
 
@@ -105,13 +107,13 @@ Mechanical continuity is maintained through changing handoffs among carriers, an
 
 ### Chapter movement
 
-Establish endpoint equivalence, define continuity and handoff, formalize receiver mismatch, compare route states, create an inspectable route record, and transition from changed allocation to local concentration.
+Establish endpoint equivalence, distinguish external balance from internal allocation, define continuity and handoff, record temporal route availability, formalize receiver mismatch, compare neutral and consequential route states, create an inspectable route record, and transition from changed allocation to local concentration.
 
 ### 11.0 Opening — External success can contain different internal allocations
 
 - **Proposition:** Two executions can achieve the same visible endpoint through different carriers, timings, contacts, and receiver exposures.
-- **Develop:** Compare two successful versions of one task; separate endpoint from internal distribution; introduce allocation as the chapter's object.
-- **Evidence/example:** Side-by-side task solutions.
+- **Develop:** Compare two successful versions of one task; distinguish the external force-and-moment balance from the nonunique internal allocation that can satisfy it; separate endpoint from internal distribution; introduce allocation as the chapter's object.
+- **Evidence/example:** Side-by-side task solutions plus the source chapter's balance-constrains/allocation-branches figure.
 - **Continuity:** Inherits viable support and creates the route-state problem.
 - **Target:** 280–400 words.
 
@@ -128,15 +130,15 @@ Establish endpoint equivalence, define continuity and handoff, formalize receive
 - **Proposition:** Handoffs preserve task continuity by transforming how demand is carried.
 - **Develop:** Show muscle-to-tendon, tendon-to-bone, bone-to-joint, pressure-to-wall tension, body-to-device, and region-to-region examples; name input, output, interface, and phase; distinguish handoff availability from actual use.
 - **Evidence/example:** A multi-carrier handoff diagram.
-- **Continuity:** Provides the basic transition and hands 11.3 timing and coordination.
+- **Continuity:** Provides the basic transition and hands 11.3 temporal route availability.
 - **Target:** 500–650 words.
 
-### 11.3 Timing and coordination determine whether a handoff is usable
+### 11.3 Temporal availability qualifies a handoff route
 
-- **Proposition:** A structurally available route can still change because carriers engage with different timing, magnitude, or phase relation.
-- **Develop:** Define early, late, insufficient, excessive, or poorly sequenced contribution; show how timing alters receiver exposure; assign the full control theory to Chapter 14.
+- **Proposition:** A structurally available carrier contributes to a handoff only when it is available and used in the phase, direction, and magnitude the route requires.
+- **Develop:** Add required phase and observed timing to the route record; distinguish structural availability, temporal availability, and actual use; treat early, late, insufficient, or excessive contribution as route-state observations; show how a phase mismatch can change receiver exposure without explaining the control mechanism that produced it.
 - **Evidence/example:** One phase-shifted handoff.
-- **Continuity:** Owns the handoff/coordination family at route level and hands 11.4 receiver mismatch.
+- **Continuity:** Supplies the handoff mechanics and temporal qualifier used later; hands 11.4 receiver mismatch while Chapter 14 retains ownership of dynamic control and adverse discoordination.
 - **Target:** 400–550 words.
 
 ### 11.4 Mechanical leakage names a receiver mismatch
@@ -151,7 +153,7 @@ Establish endpoint equivalence, define continuity and handoff, formalize receive
 ### 11.5 Route states form a comparative taxonomy
 
 - **Proposition:** Interruption, bypass, overload, substitution, rerouting, and leakage describe different changes in allocation.
-- **Develop:** Define each by route availability, route use, carrier state, receiver exposure, and task result; present useful or neutral instances alongside adverse ones; identify overlap rules.
+- **Develop:** Define each by route availability, route use, carrier state, receiver exposure, and task result; present useful or neutral instances alongside adverse ones; distinguish neutral rerouting here from function-preserving compensatory rerouting developed in Chapter 15; identify overlap rules.
 - **Evidence/example:** One comparison table with a common task.
 - **Continuity:** Gives the rest of Part III stable terms and hands 11.6 endpoint-equivalent comparison.
 - **Target:** 500–650 words.
@@ -175,6 +177,8 @@ Establish endpoint equivalence, define continuity and handoff, formalize receive
 ### 11.8 Conclusion — Changed routes change exposure questions
 
 - **Proposition:** Once a route or handoff changes, the next inquiry is where the demand is redistributed and how it is concentrated at a receiver.
+- **Develop:** Gather balance versus allocation, continuity, carrier handoff, temporal availability, leakage, route states, endpoint equivalence, and the route ledger; state the two scale-specific questions Chapter 12 will separate.
+- **Evidence/example:** Reuse the completed A/U/E/C route ledger for the chapter's endpoint-equivalent comparison.
 - **Continuity:** Hands Chapter 12 its two-scale problem.
 - **Target:** 200–280 words.
 
@@ -247,6 +251,8 @@ Separate regional redistribution from local concentration, trace geometry into r
 ### 12.7 Conclusion — Local fields have mechanical histories
 
 - **Proposition:** Geometry organizes distribution, interfaces localize it, and living receivers determine what that exposure becomes over time.
+- **Develop:** Reassemble regional geometry, interface fields, material transitions, bounded sensitivity, receiver history, and the joint synthesis; identify maintained boundary relations as the next distinct mechanism.
+- **Evidence/example:** Reuse the chapter's two-scale joint example from regional resultant through local field, ending before the separately tested biological arrow.
 - **Continuity:** Hands Chapter 13 maintained deformation and lost excursion.
 - **Target:** 200–280 words.
 
@@ -327,6 +333,8 @@ Define reference state and restoring tendency, identify maintaining relations, d
 ### 13.8 Conclusion — Constraint is an active relation
 
 - **Proposition:** Loss of space or excursion is mechanically explained by the relations that impose, maintain, and transform deformation in a named receiver.
+- **Develop:** Gather reference state, maintaining boundary, persistence type, hard/soft relation, conduit sequence, receiver freedom, downstream output, and boundary perturbation into one inspectable account.
+- **Evidence/example:** Reuse the constrained-versus-viable relation and its predicted response to boundary change.
 - **Continuity:** Hands Chapter 14 stability, timing, and corrective work.
 - **Target:** 220–300 words.
 
@@ -356,12 +364,12 @@ Define the maintained relation, develop capable variability, coordination, stabi
 - **Continuity:** Establishes the positive control baseline and hands 14.2 timing.
 - **Target:** 400–550 words.
 
-### 14.2 Coordination organizes timing among capable participants
+### 14.2 Dynamic control organizes timing among capable participants
 
-- **Proposition:** Coordination aligns recruitment, phase, magnitude, and mechanical role so that handoffs and corrections arrive when the task requires them.
-- **Develop:** Define sequencing, synchrony, relative phase, and regional cooperation; distinguish structural availability from timed use; connect to Chapter 11's handoff family.
+- **Proposition:** Dynamic control coordinates recruitment, phase, magnitude, sensory information, and mechanical role so that participants respond when the task requires them.
+- **Develop:** Define sequencing, synchrony, relative phase, feedback, and regional cooperation; use Chapter 11's temporal-availability record as the observed handoff result; explain how control and sensory processes can produce or correct a timing relation; reserve the adverse label for a task-specific mismatch with a declared consequence.
 - **Evidence/example:** One early/late recruitment comparison.
-- **Continuity:** Adds temporal organization and hands 14.3 stabilization strategies.
+- **Continuity:** Establishes Chapter 14's ownership of dynamic-control mechanism and adverse discoordination; hands 14.3 stabilization strategies.
 - **Target:** 450–600 words.
 
 ### 14.3 Stabilization, correction, and bracing are legitimate solutions
@@ -372,12 +380,12 @@ Define the maintained relation, develop capable variability, coordination, stabi
 - **Continuity:** Shows active solutions and hands 14.4 state comparison.
 - **Target:** 450–600 words.
 
-### 14.4 Capable variation, instability, and discoordination are distinct states
+### 14.4 Capable variation, task/segment instability, and adverse discoordination are distinct states
 
 - **Proposition:** Dynamic states differ according to whether the relation is maintained, whether adequate strategies are available, and whether their timing resolves the task.
-- **Develop:** Define capable variation, task-specific instability, and discoordination; include coexistence and transition; use positive criteria rather than appearance alone.
+- **Develop:** Define capable variation, task/segment instability, and discoordination or mistimed handoff; distinguish a route-level timing qualifier from the adverse dynamic state owned here; include coexistence and transition; use positive criteria rather than appearance alone.
 - **Evidence/example:** A three-column comparison table.
-- **Continuity:** Establishes the instability and coordination families and hands 14.5 repeated correction.
+- **Continuity:** Establishes the task/segment-instability and discoordination-or-mistimed-handoff families and hands 14.5 repeated correction.
 - **Target:** 450–600 words.
 
 ### 14.5 Corrective work becomes a mechanical history
@@ -407,6 +415,8 @@ Define the maintained relation, develop capable variability, coordination, stabi
 ### 14.8 Conclusion — Control has mechanics and history
 
 - **Proposition:** Stability is an active, variable achievement whose corrections can protect function and shape future exposure.
+- **Develop:** Gather task relation, capable variability, dynamic coordination, stabilization strategies, adverse states, corrective dose, sensory feedback, and comparison methods; identify when a successful correction becomes the starting state for another task.
+- **Evidence/example:** Reuse the chapter's three-state comparison and repeated-perturbation timeline.
 - **Continuity:** Hands Chapter 15 compensation and persistence.
 - **Target:** 220–300 words.
 
@@ -444,10 +454,10 @@ Name the protected function, trace changed allocation and immediate benefit, def
 - **Continuity:** Gives compensation multiple values and hands 15.3 silent persistence.
 - **Target:** 400–550 words.
 
-### 15.3 Silent compensation preserves function without announcing its history
+### 15.3 Continued function can conceal a changed allocation
 
-- **Proposition:** A changed allocation can remain unnoticed because the valued function continues and no symptom or visible failure identifies the transition.
-- **Develop:** Define observed, reported, inferred, and unknown strategy change; state what “silent” refers to; preserve asymptomatic and harmless possibilities.
+- **Proposition:** A changed allocation can preserve the valued function while its mechanical history remains unobserved, unreported, inferred, or unknown.
+- **Develop:** Apply I.8's observed, reported, inferred, and unknown evidence states to strategy change; state what “silent” refers to; preserve asymptomatic and harmless possibilities.
 - **Evidence/example:** A subtle support or timing change across repeated trials.
 - **Continuity:** Introduces hidden chronology and hands 15.4 retention.
 - **Target:** 400–550 words.
@@ -495,6 +505,8 @@ Name the protected function, trace changed allocation and immediate benefit, def
 ### 15.9 Conclusion — A solution changes the next question
 
 - **Proposition:** Compensation preserves function in the present and becomes explanatory only through the history it creates or avoids.
+- **Develop:** Gather protected endpoint, changed allocation, immediate benefit, silent persistence, retention, cumulative receiver exposure, distant reconstruction, causal position, and possible futures; identify the scale question that remains.
+- **Evidence/example:** Reuse the chapter's branching future-state figure populated by the endpoint-equivalent example.
 - **Continuity:** Hands Chapter 16 local, regional, and whole-task interaction.
 - **Target:** 220–300 words.
 
@@ -506,7 +518,7 @@ Local, regional, and whole-task organization interact bidirectionally, while phy
 
 ### Chapter movement
 
-Define scale-specific variables, trace local-to-regional, regional-to-whole, and whole-to-local relations, preserve the configuration-transition hypothesis, separate four downstream branches, and state the exact bridge into medical meaning.
+Define scale-specific variables; trace local-to-regional, regional-to-whole, and whole-to-local relations; preserve the configuration-transition hypothesis at the Book II seam; compare four downstream branches in one synthesis; and state the exact bridge into medical meaning.
 
 ### 16.0 Opening — Scale changes the object of explanation
 
@@ -543,37 +555,22 @@ Define scale-specific variables, trace local-to-regional, regional-to-whole, and
 ### 16.4 Configuration transitions are a bounded research hypothesis
 
 - **Proposition:** Coordinated changes across several relations may sometimes produce a qualitatively different routing regime rather than a small movement within the same organization.
-- **Develop:** Define a provisional state-transition criterion through continuity, carrier set, coupling, return behavior, or field organization; specify observables that could distinguish regimes; preserve ordinary continuous variation as an alternative.
+- **Develop:** Define a provisional state-transition criterion through continuity, carrier set, coupling, return behavior, or field organization; specify observables that could distinguish regimes; preserve ordinary continuous variation as an alternative; state that Book II must define and discriminate mechanical configuration regimes independently of any breath mechanism.
 - **Evidence/example:** A conceptual before/after routing-field model.
-- **Continuity:** Preserves the author's whole-system intuition and hands technical formalization to Book II.
-- **Editorial boundary:** Topology, invariants, and a preferred state remain later formal work.
+- **Continuity:** Preserves the author's whole-system intuition, hands regime definition and discrimination to Book II, and hands the downstream synthesis to 16.5.
+- **Editorial boundary:** Topology, invariants, and a preferred state remain Book II formal work; breath- and pressure-linked transition mechanisms belong to Book IV and are not required to establish a mechanical regime distinction.
 - **Target:** 450–600 words.
 
-### 16.5 Sensation and control form one downstream branch
+### 16.5 Downstream consequences separate into four receiver-specific branches
 
-- **Proposition:** Mechanical state can alter sensory input and control, while sensory and control states can alter later mechanical organization.
-- **Develop:** Refer to Chapter 14's loop; identify receiver, timing, and measurement; keep this as one candidate branch rather than a systemic conclusion.
-- **Evidence/example:** One concise sensorimotor pathway.
-- **Continuity:** Begins the downstream map and hands 16.6 pressure and excursion.
-- **Target:** 350–500 words.
+- **Proposition:** Sensation and control, pressure/flow/excursion, tissue response, and energetic or regulatory cost are four connected but non-equivalent consequence programs.
+- **Develop:** Compare the receiver, quantity, timescale, measure, and feedback relation for each branch; preserve tone, proprioception, interoception, and neural signaling under sensation/control; preserve caliber, flow, pressure, glide, course, and excursion under form-receiving systems; preserve adaptation, repair, sensitization, injury, and remodeling under tissue response; preserve ongoing effort, autonomic regulation, recovery demand, fatigue, adaptability, and resilience under energetic/regulatory cost; assign detailed evidence to Chapters 14 and 19–21; include a null or divergent result in each row.
+- **Evidence/example:** One four-row branch map populated only with examples already introduced in Chapters 10–15.
+- **Continuity:** Synthesizes the possible downstream programs without forming one cascade and hands 16.6 the common receiver-and-outcome bridge.
+- **Editorial boundary:** Book IV owns breath- and pressure-linked regulatory or transition mechanisms; this unit preserves them as later hypotheses rather than using them to connect the four branches.
+- **Target:** 550–650 words.
 
-### 16.6 Pressure, flow, and excursion form distinct downstream branches
-
-- **Proposition:** Mechanical organization can affect pressure, flow, caliber, glide, course, or excursion through receiver-specific boundary relations.
-- **Develop:** Apply Chapter 13; distinguish conduits, nerves, sliding tissues, and cavities; identify the evidence required at each arrow; defer detailed comparison to Chapter 20.
-- **Evidence/example:** A branched summary diagram.
-- **Continuity:** Preserves the compliant-system program and hands 16.7 tissue response.
-- **Target:** 350–500 words.
-
-### 16.7 Tissue response and energetic cost require their own receivers and denominators
-
-- **Proposition:** Tissue adaptation or injury and whole-task energetic cost are separate outcomes that require different measures, timescales, and causal bridges.
-- **Develop:** Name local mechanobiological response and whole-task energy/metabolic outcomes; identify their feedback into capacity and strategy; defer full development to Chapters 19 and 21.
-- **Evidence/example:** One two-branch comparison.
-- **Continuity:** Completes the downstream map and hands 16.8 medical bridge.
-- **Target:** 350–500 words.
-
-### 16.8 A mechanical relation becomes medical through a receiver and outcome
+### 16.6 A mechanical relation becomes medical through a receiver and outcome
 
 - **Proposition:** Medical meaning begins when a defined exposure is connected to a receiver-specific response, chronology, function, finding, symptom, or clinical decision within the whole person.
 - **Develop:** State the requirements as a positive bridge; identify possible stopping levels; preview established medical mechanics and longitudinal routing.
@@ -581,16 +578,18 @@ Define scale-specific variables, trace local-to-regional, regional-to-whole, and
 - **Continuity:** Hands Part IV the medical-interpretation problem.
 - **Target:** 400–550 words.
 
-### 16.9 Conclusion — Mechanics supplies candidate pathways
+### 16.7 Conclusion — Mechanics supplies candidate pathways
 
 - **Proposition:** Part III has made load mismanagement mechanically specific enough for biological and medical evaluation.
+- **Develop:** Gather the bidirectional scale map, bounded configuration-regime hypothesis, four downstream branches, and receiver-and-outcome bridge; state what Part IV must add for medical interpretation.
+- **Evidence/example:** Reuse the three-scale systems diagram with the four-branch map attached at the receiver level.
 - **Continuity:** Opens Part IV with mechanics already present in medicine.
 - **Target:** 220–300 words.
 
 ## Part III synthesis — From viability to candidate consequence
 
-- **Proposition:** Changing demand and capacity act through route states that can redistribute exposure, concentrate it, maintain deformation, destabilize relation, mistime handoffs, or reroute function through compensation.
-- **Develop:** Reassemble the six families in causal order; show how compensation and recovery feed back; place scale transition above the map; name the exact receiver-and-response bridge that remains.
+- **Proposition:** Changing demand and capacity act through six canonical families: geometric redistribution; local concentration; task/segment instability; discoordination or mistimed handoff; maintained deformation/lost excursion; and compensatory rerouting.
+- **Develop:** Reassemble the six families in causal order; state that Chapter 11 supplies handoff mechanics and route-state qualifiers while Chapter 14 owns adverse discoordination and Chapter 15 owns function-preserving compensatory rerouting; show how compensation and recovery feed back; place scale transition above the map; name the exact receiver-and-response bridge that remains.
 - **Evidence/example:** The final family map populated with one example per family and clear ownership.
 - **Continuity:** Hands Part IV candidate mechanical histories rather than foregone medical conclusions.
 - **Target:** 350–500 words.

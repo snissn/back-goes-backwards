@@ -8,9 +8,9 @@ Living support emerges from cooperation among skeletal geometry, joint contact, 
 
 The reader enters with abstract mechanical roles. Chapters 5–6 turn them into anatomical relations. Chapters 7–8 then map and test posterior participation. Chapter 9 restores whole-body and lifespan variation and separates three proposition levels: anatomical existence, task-specific importance, and the later preferred-configuration hypothesis.
 
-## Part opening — Support is a cooperative achievement
+## Part opening — Support emerges through cooperation
 
-- **Proposition:** No single material or structure carries a living task; support is produced by a timed exchange among structures with different mechanical capabilities.
+- **Proposition:** Living support is produced by a timed exchange among structures, control processes, external contacts, and forms of assistance with different mechanical capabilities.
 - **Develop:** Name skeletal, active, tensile, form-receiving, sliding, pressure-mediated, control, environmental, and assistive contributions; connect each to Part I's roles and paths; establish the Part's movement from general architecture to posterior example.
 - **Evidence/example:** A layered diagram of the recurring object transfer.
 - **Continuity:** Inherits Part I's path model and hands Chapter 5 the clearest shape-preserving architecture.
@@ -94,6 +94,8 @@ Move from geometry to material behavior, joint redirection, ligamentous guidance
 ### 5.8 Conclusion — The skeleton provides changing possibilities
 
 - **Proposition:** Bones, joints, and restraints establish adaptable shape-preserving routes that become functional only through cooperation with active, tensile, form-receiving, sliding, and pressure systems.
+- **Develop:** Gather geometry, finite bone deformation, changing joint contact, recruited restraint, linked routes, and task-specific stability into the chapter's positive skeletal contribution; identify the living functions still to be added.
+- **Evidence/example:** Reuse the linked-segment task diagram with the skeletal possibilities and missing cooperative functions marked.
 - **Continuity:** Hands Chapter 6 the completion of support.
 - **Target:** 200–280 words.
 
@@ -177,11 +179,13 @@ Add each capability as one job in the same transfer, then synthesize the systems
 - **Develop:** Reconstruct the object transfer from ground/support to object; identify carrier and role changes; introduce tensegrity as one illustrative model of distributed tension and compression; state what the model clarifies and what requires direct anatomy and measurement.
 - **Evidence/example:** A layered handoff diagram plus a bounded tensegrity comparison.
 - **Continuity:** Completes general support and hands Chapter 7 a specific large anatomical system.
-- **Target:** 550–700 words.
+- **Target:** 550–650 words.
 
 ### 6.9 Conclusion — Cooperation creates adaptable support
 
 - **Proposition:** Living support is the timed coordination of persistence, actuation, transmission, deformation, glide, pressure, and control.
+- **Develop:** Reassemble the chapter's distinct jobs into one handoff sequence; state how their coordination creates a support system whose distribution can change with task and phase.
+- **Evidence/example:** Reuse the layered handoff diagram, without adding another network model.
 - **Continuity:** Opens the posterior body as a major test of the cooperative account.
 - **Target:** 220–300 words.
 
@@ -270,6 +274,8 @@ Define scope first, follow the anatomy from ground to cranium, distinguish conne
 ### 7.9 Conclusion — A major system is now anatomically defined
 
 - **Proposition:** Posterior anatomy is sufficiently substantial and connected to justify functional study, while the degree and direction of its task contribution remain empirical questions.
+- **Develop:** Gather the regional atlas, the three declared scopes, and the connection–coordination–transfer ladder; state the functional question Chapter 8 can now ask.
+- **Evidence/example:** Reuse the nested posterior-scope figure with one example placed at each evidentiary level.
 - **Continuity:** Hands Chapter 8 the move from atlas to mechanics.
 - **Target:** 220–300 words.
 
@@ -305,7 +311,7 @@ Begin with force and moment balance, examine several ordinary tasks, distinguish
 - **Develop:** Trace calf, hamstring, gluteal, axial, and upper-body participation by phase; distinguish joint moment, muscle force, power, and energy; show shared contributions.
 - **Evidence/example:** A gait-phase figure with posterior jobs rather than one chain arrow.
 - **Continuity:** Supplies a strong ordinary-function case and hands 8.3 lifting and lowering.
-- **Target:** 550–700 words.
+- **Target:** 550–650 words.
 
 ### 8.3 Lifting and lowering change posterior leverage and energy flow
 
@@ -358,6 +364,8 @@ Begin with force and moment balance, examine several ordinary tasks, distinguish
 ### 8.9 Conclusion — Posterior support is substantial and shared
 
 - **Proposition:** Posterior anatomy performs major ordinary mechanical work whose amount, timing, and consequence depend on task, state, and cooperation.
+- **Develop:** Gather the task examples through the distinct outcome categories; retain the evolutionary question as motivation; state why whole-body and lifespan variation is the next required boundary.
+- **Evidence/example:** Reuse the chapter's outcome matrix populated by one gait or object-transfer comparison.
 - **Continuity:** Hands Chapter 9 the whole-body and lifespan boundary.
 - **Target:** 220–300 words.
 
@@ -369,14 +377,14 @@ Posterior support is one changing participant in a whole-body system whose optio
 
 ### Chapter movement
 
-Integrate other support domains, trace developmental and contextual variation, define reserve, establish research observations, and close with the three posterior proposition levels that govern the rest of the series.
+Integrate other support domains, trace developmental and contextual variation, define reserve, and close with the three posterior proposition levels and their distinct evidence burdens.
 
 ### 9.0 Opening — A large participant belongs to a larger system
 
 - **Proposition:** Mechanical importance can be substantial without being exclusive or constant.
-- **Develop:** Revisit one posterior-intensive task and show the concurrent anterior, lateral, deep, pressure-mediated, sensory, environmental, and assistive contributions.
-- **Evidence/example:** A whole-body contribution map.
-- **Continuity:** Inherits Chapter 8's positive case and prepares systemic integration.
+- **Develop:** Use one final still frame from the completed object transfer; widen it from a posterior overlay to the whole body and then to the person–environment system; show concurrent anterior, lateral, deep, pressure-mediated, sensory, environmental, and assistive contributions; explicitly retire the full recurring task after this frame.
+- **Evidence/example:** Reuse the source's three-boundary widening figure as the final object-task callback.
+- **Continuity:** Inherits Chapter 8's positive case, retires the full recurring task, and prepares systemic integration.
 - **Target:** 280–400 words.
 
 ### 9.1 Support domains cooperate and exchange emphasis
@@ -424,28 +432,23 @@ Integrate other support domains, trace developmental and contextual variation, d
 - **Proposition:** Mechanical reserve changes through interacting trajectories in tissue, muscle, control, sensation, recovery, health, environment, and experience.
 - **Develop:** Define reserve relative to task and outcome; distinguish chronological age from state; include maintained and improved capacity; show how support and environment change the margin.
 - **Evidence/example:** Two older adults with different capacity–environment relations.
-- **Continuity:** Synthesizes lifespan variation and hands 9.7 measurement questions.
+- **Continuity:** Synthesizes lifespan variation and hands 9.7 the proposition ladder and its evidence burdens.
 - **Target:** 450–600 words.
 
-### 9.7 Candidate markers turn the posterior program into research
-
-- **Proposition:** A posterior-support hypothesis becomes testable through declared observations of timing, force, moment, energy, configuration, variability, capacity, and response.
-- **Develop:** List candidate measures by proposition; separate marker, mechanism, and outcome; require task and reference frame; include null and alternative patterns.
-- **Evidence/example:** A measurement matrix rather than a self-test.
-- **Continuity:** Converts the anatomical and functional case into an empirical program; hands 9.8 the proposition ladder.
-- **Target:** 400–550 words.
-
-### 9.8 Three posterior propositions govern the series
+### 9.7 Three posterior propositions govern the series
 
 - **Proposition:** Posterior anatomy exists as a scope-declared system; it contributes substantially to many tasks; and it may prove necessary within a preferred organization developed later.
-- **Develop:** State the evidence and dependency of each level; show that the first two support Book I while the third remains a hypothesis; identify posterior participation as expected to be necessary but insufficient in the future model.
-- **Evidence/example:** A three-level boxed synthesis with inherited and deferred obligations.
-- **Continuity:** Closes Part II and hands Part III a positive baseline of viable, variable support.
-- **Target:** 450–600 words.
+- **Develop:** State the evidence and dependency of each level; show that the first two support Book I while the third remains a hypothesis; identify posterior participation as expected to be necessary but insufficient in the future model; name only the proposition-specific observations needed to discriminate the levels—scope and anatomy, task-resolved force/moment/energy or participation, and configuration-dependent necessity with alternatives and nulls; separate marker, mechanism, and outcome.
+- **Evidence/example:** A three-level boxed synthesis with columns for present support, candidate observations, nulls or alternatives, and deferred obligations.
+- **Continuity:** Converts the anatomical, functional, and lifespan case into a gated series proposition and hands 9.8 the Chapter 10 transition.
+- **Editorial boundary:** The full posterior measurement matrix belongs to 29.2–29.3 and the Book II source packet, not this Part II payoff.
+- **Target:** 500–650 words.
 
-### 9.9 Conclusion — Viable support changes with the person and task
+### 9.8 Conclusion — Viable support changes with the person and task
 
 - **Proposition:** The architecture of support is substantial, variable, and history-dependent; load management concerns whether its present organization remains viable for a declared demand and receiver.
+- **Develop:** Gather whole-body cooperation, acquired options, changing life states, assistance, reserve, and the three posterior propositions into one positive baseline; ask how that organization changes when demand, capacity, constraint, timing, or recovery changes.
+- **Evidence/example:** Reuse the three-level proposition synthesis with one lifespan example showing why current participation cannot be inferred from anatomy alone.
 - **Continuity:** Hands Chapter 10 capacity, dose, recovery, and environment.
 - **Target:** 220–300 words.
 

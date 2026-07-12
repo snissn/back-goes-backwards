@@ -8,18 +8,18 @@ A mechanical framework earns usefulness by making concrete histories more specif
 
 The four cases increase in historical and causal difficulty:
 
-1. Chapter 23 has a well-defined task and a comparatively measurable geometry-to-local-field sequence.
-2. Chapter 24 has strong present anatomy and endpoints but a partly reconstructed cumulative middle.
-3. Chapter 25 follows recurrence through changing state, exposure opportunity, protection, and recovery.
-4. Chapter 26 tests the method where chronology, carrier, receiver, and causal ordering remain substantially incomplete.
+1. Chapter 23 establishes a strong bounded mechanical relation from geometry to local field while downstream biology and clinical meaning remain open.
+2. Chapter 24 establishes a substantive focal arterial account while its cumulative wall-exposure interval remains reconstructed.
+3. Chapter 25 establishes several measured state relations while the transition mechanism remains incomplete and regional bridges are narrowed or null only where evidence supports that result.
+4. Chapter 26 uses a transparent hypothetical with no established regional carrier and ends in unresolved causal plurality.
 
 Each chapter has one lead mechanical family and one distinct output. The case ledger from Chapter 22 remains the shared method; the cases do not re-teach the full foundation.
 
 ## Part opening — Complete narratives expose missing links
 
 - **Proposition:** A worked case becomes informative when it declares what is observed, what is inferred, where the mechanical chain changes scale, and which competing histories remain live.
-- **Develop:** Introduce the common ledger; state the progression of completeness; define the four possible case outputs—bounded support, mixed support, disfavored link, or unresolved comparison.
-- **Evidence/example:** One overview table comparing the four cases.
+- **Develop:** Introduce the common ledger and its observed/inferred/unknown status; state the exact progression from bounded geometry relation, to focal account with reconstructed interval, to measured state relations with incomplete transition, to hypothetical unresolved plurality.
+- **Evidence/example:** One overview table comparing the four cases by strongest supported relation, open interval or link, and exact bounded output.
 - **Continuity:** Inherits Chapter 22's record and hands Chapter 23 the most measurable case.
 - **Target:** 320–450 words.
 
@@ -36,8 +36,8 @@ This chapter demonstrates the global-redistribution and local-concentration fami
 ### 23.0 Case opening — One step contains several mechanical quantities
 
 - **Proposition:** A walking step can be described through ground reaction, segment motion, joint moment, contact force, pressure, and local tissue strain, each at a different scale.
-- **Develop:** Present the task and system boundaries; distinguish the quantities positively; identify the cartilage receiver; state the chapter's exact geometry-to-field question.
-- **Evidence/example:** One stance-phase scale stack.
+- **Develop:** Present the task and system boundaries; distinguish the quantities positively; identify the cartilage receiver; state the chapter's exact geometry-to-field question; complete the standard status line using the I.8 subset—**observed** for direct or measured relations, **inferred** for modeled internal relations, and **unknown** for downstream biological or clinical links.
+- **Evidence/example:** One stance-phase scale stack annotated with the standard observed/inferred/unknown status.
 - **Continuity:** Applies Chapters 2, 12, 19, and 22 without redefining them.
 - **Target:** 300–420 words.
 
@@ -63,7 +63,7 @@ This chapter demonstrates the global-redistribution and local-concentration fami
 - **Develop:** Present human measurement and model evidence; identify peak, average, area, depth, and time; include meniscal or implant evidence by exact job; preserve uncertainty.
 - **Evidence/example:** One local-field map.
 - **Continuity:** Completes the scale transition and hands 23.4 dose and receiver state.
-- **Target:** 550–700 words.
+- **Target:** 550–650 words.
 
 ### 23.4 Dose and cartilage state determine the next branch
 
@@ -99,7 +99,9 @@ This chapter demonstrates the global-redistribution and local-concentration fami
 
 ### 23.8 Conclusion — Geometry creates local exposure questions
 
-- **Proposition:** The first narrative earns the path from task geometry to a local field and demonstrates where the biological chain begins.
+- **Proposition:** The first narrative establishes a strong bounded mechanical relation from task geometry to a local field while downstream biology and clinical meaning remain open.
+- **Develop:** State the strongest supported relation, the surrogate or null findings that narrow it, and the exact downstream arrows the case does not complete.
+- **Evidence/example:** Reuse the completed evidence-state chain from 23.7.
 - **Continuity:** Opens maintained constraint in Chapter 24.
 - **Target:** 200–280 words.
 
@@ -116,8 +118,8 @@ The arterial composite is the focal case for constraint-maintained deformation. 
 ### 24.0 Case opening — A strong endpoint with a missing middle
 
 - **Proposition:** Present anatomy, arterial deformation, and distal consequence can be well documented even when the repeated exposure connecting them through time was not directly observed.
-- **Develop:** State the teaching-composite status; introduce the corridor, receiver, present endpoint, and missing interval; pose the maintaining-relation question.
-- **Evidence/example:** A concise annotated case timeline.
+- **Develop:** State the teaching-composite status; introduce the corridor, receiver, present endpoint, and missing interval; complete the standard status line using the I.8 subset—**observed** for present anatomy and endpoints, **inferred** for the reconstructed cumulative relation, and **unknown** for the unobserved intervals; pose the maintaining-relation question.
+- **Evidence/example:** A concise case timeline annotated with the standard observed/inferred/unknown status.
 - **Continuity:** Applies Chapters 13, 18, 20, and 22.
 - **Target:** 300–420 words.
 
@@ -187,7 +189,9 @@ The arterial composite is the focal case for constraint-maintained deformation. 
 
 ### 24.9 Conclusion — Persistent constraint creates a longitudinal problem
 
-- **Proposition:** The second narrative shows how an ongoing relation can maintain deformation and how material response can transform an extrinsic state into a mixed history.
+- **Proposition:** The second narrative establishes a substantive focal arterial account while its cumulative wall-exposure interval remains reconstructed.
+- **Develop:** Rejoin surrounding boundary, wall demand, retained state, and present arterial endpoints; state exactly which repeated-exposure and wall-transition links remain reconstructed.
+- **Evidence/example:** Reuse the final case chain with gap notation from 24.8.
 - **Continuity:** Opens recurrence and state transition in Chapter 25.
 - **Target:** 200–280 words.
 
@@ -204,8 +208,8 @@ The ankle is the primary case for task-specific instability and state transition
 ### 25.0 Case opening — Recurrence is a sequence of changing states
 
 - **Proposition:** A later event occurs in the material, sensorimotor, perceptual, and environmental state left by earlier events and recovery.
-- **Develop:** Introduce the recurring ankle event; show event → residual state → next exposure → response; define the case question.
-- **Evidence/example:** A state-transition timeline.
+- **Develop:** Introduce the recurring ankle event; show event → residual state → next exposure → response; complete the standard status line using the I.8 subset—**observed** for measured state relations, **inferred** for transition mechanisms, and **unknown** for unmeasured regional bridges; define the case question.
+- **Evidence/example:** A state-transition timeline annotated with the standard observed/inferred/unknown status.
 - **Continuity:** Applies Chapters 10, 14, 15, 18, and 22.
 - **Target:** 300–420 words.
 
@@ -275,15 +279,17 @@ The ankle is the primary case for task-specific instability and state transition
 
 ### 25.9 The case yields a state-transition account of recurrence
 
-- **Proposition:** Recurrence becomes mechanically informative when each event, residual state, protective strategy, exposure opportunity, and recovery process is separately represented.
-- **Develop:** Complete the case ledger; state supported and unresolved links; identify next discriminating observations; name the case output.
+- **Proposition:** Recurrence becomes mechanically informative when measured state relations are separated from an incomplete transition mechanism and from regional bridges narrowed or null only where evidence supports that result.
+- **Develop:** Complete the case ledger; state the measured passive, task, perceptual, exposure, protection, and recovery relations; identify the unobserved or inferred event-to-state transitions; report positive, narrowed, null, and unknown regional links precisely; name the bounded output.
 - **Evidence/example:** Final state-transition record.
 - **Continuity:** Hands Chapter 26 a chronic history with fewer observed intermediate links.
 - **Target:** 350–500 words.
 
 ### 25.10 Conclusion — Repetition meets a new receiver each time
 
-- **Proposition:** The third narrative shows why recurrence is a changing history rather than the same event repeated.
+- **Proposition:** The third narrative establishes several measured state relations while the transition mechanism remains incomplete and regional bridges remain narrowed, null, or open according to their evidence.
+- **Develop:** Summarize the event/state/next-event sequence, the measured relations it supports, and the exact transition and regional links it leaves incomplete.
+- **Evidence/example:** Reuse the final state-transition record from 25.9.
 - **Continuity:** Opens the methodological null case.
 - **Target:** 200–280 words.
 
@@ -300,8 +306,8 @@ This is the book's methodological null and ambiguity case. The framework must im
 ### 26.0 Case opening — Begin with a sparse chronology
 
 - **Proposition:** A chronic history should begin with dated intervals and observed changes rather than a cause assigned from the present endpoint.
-- **Develop:** Introduce the hypothetical person; mark baseline, life or work change, first functional change, symptom onset, later findings, care, and missing intervals; state no declared cause.
-- **Evidence/example:** The opening chronology table.
+- **Develop:** Introduce the hypothetical person; mark baseline, life or work change, first functional change, symptom onset, later findings, care, and missing intervals; complete the standard status line using the I.8 subset—**observed:** none, because the case inputs are transparently stipulated; **inferred:** candidate relations constructed for comparison; **unknown:** carrier and causal order; state no declared cause.
+- **Evidence/example:** The opening chronology table annotated with the standard observed/inferred/unknown status.
 - **Continuity:** Applies the complete Part IV ledger under maximal uncertainty.
 - **Target:** 300–420 words.
 
@@ -316,7 +322,7 @@ This is the book's methodological null and ambiguity case. The framework must im
 ### 26.2 Silent compensation preserves a function through changed allocation
 
 - **Proposition:** A strategy can change while task performance continues, with the change observed, reported, inferred, embodied, or unknown.
-- **Develop:** State protected function; identify candidate change in support, timing, range, or effort; record evidence state; preserve harmless and adaptive possibilities.
+- **Develop:** State protected function; identify candidate change in support, timing, range, or effort; record the relevant I.8 evidence state; preserve harmless and adaptive possibilities.
 - **Evidence/example:** One plausible but unconfirmed strategy transition.
 - **Continuity:** Introduces the candidate history and hands 26.3 changing receiver.
 - **Target:** 450–600 words.
@@ -361,16 +367,18 @@ This is the book's methodological null and ambiguity case. The framework must im
 - **Continuity:** Closes the hardest case and hands Part VI the portable scaffold.
 - **Target:** 400–550 words.
 
-### 26.8 Conclusion — The method can end without a single story
+### 26.8 Conclusion — Structured plurality is a valid result
 
-- **Proposition:** The fourth narrative demonstrates that disciplined reconstruction can clarify a chronic history even when no causal chain wins.
+- **Proposition:** The fourth narrative uses a transparent hypothetical with no established regional carrier and ends in unresolved causal plurality.
+- **Develop:** State what the chronology and comparison structure clarify, which carrier and causal links remain unestablished, and why preserving several live histories is the exact bounded result.
+- **Evidence/example:** Reuse the final case contract from 26.7.
 - **Continuity:** Hands Chapter 27 the reusable seven-question sequence.
 - **Target:** 220–300 words.
 
 ## Part V synthesis — Four narratives, four distinct outputs
 
-- **Proposition:** The cases demonstrate distribution, maintained deformation, state transition, and unresolved plurality as different products of the same reasoning method.
-- **Develop:** State what each chapter added; compare evidence completeness; identify where each chain stopped; show that null and mixed results improve the framework; prepare the move from case analysis to portable questions.
-- **Evidence/example:** A final four-case matrix.
+- **Proposition:** The cases yield a bounded geometry-to-field relation, a focal arterial account with a reconstructed cumulative interval, measured recurrence-state relations with an incomplete transition mechanism, and a hypothetical ending in unresolved causal plurality.
+- **Develop:** Compare the strongest supported relation, evidence-state boundary, and exact output of each chapter; identify where each chain stops; show how narrowed, null, reconstructed, and unresolved links improve the framework; prepare the move from case analysis to portable questions.
+- **Evidence/example:** A final four-case matrix keyed to observed/inferred/unknown status and bounded result.
 - **Continuity:** Hands Part VI a tested reasoning scaffold and development agenda.
 - **Target:** 350–500 words.

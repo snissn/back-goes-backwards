@@ -76,7 +76,7 @@ Open with the recurring task, state the book's thesis, locate load routing withi
 ### I.8 Evidence states preserve how each link became known
 
 - **Proposition:** Observed, reported, measured, calculated, modeled, inferred, reconstructed, embodied, hypothesized, and unknown relations can coexist when their provenance remains visible.
-- **Develop:** Define the terms once; explain exact source jobs; state how broad negative evidence and narrower hypotheses should be compared directly; identify specialist and coauthor review still required before publication.
+- **Develop:** Define the terms once; explain exact source jobs; state how broad negative evidence and narrower hypotheses should be compared directly; show how a chain can remain useful when one link is measured and the next is inferred or unknown.
 - **Evidence/example:** A small evidence-state legend used throughout the book.
 - **Continuity:** Centralizes epistemic guidance and hands I.9 the reader contract.
 - **Target:** 400–550 words.
@@ -85,5 +85,6 @@ Open with the recurring task, state the book's thesis, locate load routing withi
 
 - **Proposition:** The reader is invited to trace mechanical relations within the whole person, retain useful local results, and stop where an intermediate link remains unsupported.
 - **Develop:** State the additive clinical posture; preserve the wider hypothesis without requiring assent; return to the opening task; end on the first question of Chapter 1.
+- **Evidence/example:** One abbreviated version of the opening task whose chain ends honestly at an unknown intermediate link.
 - **Continuity:** Hands Part I an oriented reader and an ordinary event.
 - **Target:** 250–350 words.

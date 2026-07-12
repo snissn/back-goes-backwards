@@ -74,17 +74,19 @@ Define mechanical endpoints, show substitution, constructed healing environments
 - **Continuity:** Names the project's additional object and hands 17.6 the field relation.
 - **Target:** 450–600 words.
 
-### 17.6 Longitudinal routing extends an established landscape
+### 17.6 The incremental object is cross-time linkage
 
-- **Proposition:** The proposed record connects questions already distributed across biomechanics, medicine, rehabilitation, ergonomics, occupational health, movement science, and patient experience.
-- **Develop:** State each field's existing contribution by job; identify the missing cross-time linkage; define incremental value as added understanding, prediction, decision, or communication.
-- **Evidence/example:** A field-to-record contribution map.
-- **Continuity:** Places the proposal and hands Chapter 18 its exact form.
+- **Proposition:** The proposal's incremental object is an explicit cross-time relation among mechanical, clinical, occupational, environmental, and lived records.
+- **Develop:** Locate neighboring fields by the local questions and records they already supply; define the added object as an explicit relation among those observations across events and intervals; reserve source-by-source assembly, provenance, governance, and access for 18.7; define incremental value as added understanding, prediction, decision, or communication.
+- **Evidence/example:** A field-to-question map converging on one cross-time linkage.
+- **Continuity:** Places the proposal in the existing landscape and hands Chapter 18 the construction of its longitudinal record.
 - **Target:** 400–550 words.
 
 ### 17.7 Conclusion — From endpoint to history
 
 - **Proposition:** Medicine already acts on mechanical endpoints; longitudinal routing asks how the present relation emerged and changed through time.
+- **Develop:** Rejoin substitution, healing environment, altered local relation, and interface distribution as examples of established endpoint reasoning; state the one additional cross-time object the next chapter must build.
+- **Evidence/example:** Reuse the endpoint-with-candidate-histories comparison from 17.5.
 - **Continuity:** Hands Chapter 18 the construction of that record.
 - **Target:** 200–280 words.
 
@@ -96,7 +98,7 @@ A longitudinal routing record is a dated, provenance-preserving account of task,
 
 ### Chapter movement
 
-Define the record, show alternative histories, attach provenance, organize dose, index changes with the six families, follow compensation branches, make the record interdisciplinary, and state staged tests of value.
+Define the record, show alternative histories, apply the evidence-state legend, organize dose, index changes with the six families, follow compensation branches, make the record interdisciplinary, and end by naming the receiver and the proposal's concise survival criterion.
 
 ### 18.0 Opening — Present state underdetermines prior path
 
@@ -116,8 +118,8 @@ Define the record, show alternative histories, attach provenance, organize dose,
 
 ### 18.2 Every link retains how it became known
 
-- **Proposition:** Observed, reported, measured, calculated, modeled, inferred, reconstructed, embodied, hypothesized, and unknown relations can coexist when their provenance remains visible.
-- **Develop:** Define the evidence-state vocabulary once; show mixed-source entries; preserve disagreement and uncertainty; distinguish source state from truth ranking.
+- **Proposition:** The record applies the evidence-state legend from I.8 to each relation so differently known links can coexist without losing provenance.
+- **Develop:** Use the I.8 terms rather than redefining them; show a record containing several evidence states; preserve disagreement and uncertainty; distinguish evidence state from truth ranking.
 - **Evidence/example:** One color- or symbol-coded record.
 - **Continuity:** Makes the history auditable and hands 18.3 dose.
 - **Target:** 450–600 words.
@@ -132,8 +134,8 @@ Define the record, show alternative histories, attach provenance, organize dose,
 
 ### 18.4 The six families locate organizational changes
 
-- **Proposition:** Redistribution, concentration, instability, handoff change, maintained deformation, and compensatory rerouting index where and how the history changes.
-- **Develop:** Place each family on a sample record; state its scale and variables; allow overlap without synonymy; connect to Parts III and V.
+- **Proposition:** Geometric redistribution; local concentration; task/segment instability; discoordination or mistimed handoff; maintained deformation/lost excursion; and compensatory rerouting index where and how the history changes.
+- **Develop:** Place each of the six canonical families on a sample record; state its scale and variables; allow overlap without synonymy; connect to Parts III and V.
 - **Evidence/example:** A time-indexed family map.
 - **Continuity:** Integrates the taxonomy and hands 18.5 branching compensation.
 - **Target:** 400–550 words.
@@ -157,23 +159,16 @@ Define the record, show alternative histories, attach provenance, organize dose,
 ### 18.7 The record is assembled across disciplines and lived knowledge
 
 - **Proposition:** Different observers can contribute distinct intervals and variables without collapsing their source meanings or professional roles.
-- **Develop:** Assign likely contributions from person/family, clinician, therapist, engineer, ergonomist, imaging, laboratory, and environment; preserve contradictions; identify governance and access.
+- **Develop:** Apply 17.6 operationally by assigning person/family, clinician, therapist, engineer, ergonomist, imaging, laboratory, and environment to exact record fields or intervals; preserve contradictions; identify governance and access; avoid repeating the field-placement argument.
 - **Evidence/example:** One shared-record source map.
-- **Continuity:** Locates ownership and hands 18.8 staged value.
+- **Continuity:** Locates operational contribution and hands 18.8 the receiver and survival criterion.
 - **Target:** 400–550 words.
 
-### 18.8 The proposal earns value in stages
-
-- **Proposition:** The routing record advances through feasibility, reliability, construct validity, added information, and decision value for a declared use.
-- **Develop:** Define each stage briefly; separate descriptive, explanatory, predictive, and decision purposes; state stopping conditions; defer full development standards to Chapter 29.
-- **Evidence/example:** One staged gate diagram.
-- **Continuity:** Establishes the survival test and hands 18.9 the receiver.
-- **Target:** 350–500 words.
-
-### 18.9 The receiver opens the biological question
+### 18.8 Conclusion — The receiver opens the biological question
 
 - **Proposition:** A routing history becomes biologically specific when it identifies the local receiver and the mechanical exposure reaching it.
-- **Develop:** Move from the record to tissue architecture, state, dose, and response; state the exact question Chapter 19 answers.
+- **Develop:** Move from the completed record to tissue architecture, state, dose, and response; state the exact question Chapter 19 answers; add one concise survival criterion—that the record must eventually demonstrate feasibility and added value for a declared use—while assigning the full staged gate to Chapter 29.
+- **Evidence/example:** A completed record ending at one named receiver, with the next biological arrow left open.
 - **Continuity:** Hands Chapter 19 the exposure-to-response bridge.
 - **Target:** 220–320 words.
 
@@ -262,6 +257,8 @@ Move from task to receiver, organize dose, condition response by tissue state, e
 ### 19.9 Conclusion — Biology transforms exposure into future state
 
 - **Proposition:** Mechanical exposure and living response form a receiver-specific history whose consequences cannot be inferred from the task alone.
+- **Develop:** Rejoin dose, receiver state, mechanotransduction, tissue-specific response, and feedback into one sequence; state where the clinical ladder remains open.
+- **Evidence/example:** Reuse the full exposure–response–next-exposure cycle from 19.7.
 - **Continuity:** Hands Chapter 20 controlled freedom across form-receiving systems.
 - **Target:** 220–300 words.
 
@@ -342,14 +339,16 @@ Define controlled freedom, identify the maintaining relation, classify persisten
 ### 20.8 The division-of-labor hypothesis predicts preserved freedom
 
 - **Proposition:** More effective shape-preserving organization should, under declared conditions, reduce the need for selected form-receiving structures to maintain gross geometry and thereby preserve their receiver-specific freedom.
-- **Develop:** State measurable predictions; identify task, receiver, comparator, and outcome; include alternative explanations and nonunique organizations; locate preferred-configuration work in later books.
-- **Evidence/example:** One prospective comparison design.
+- **Develop:** State measurable predictions; identify task, receiver, comparator, and outcome; include alternative explanations and nonunique organizations; locate preferred-configuration work in later books; assign prospective study design to 29.2.
+- **Evidence/example:** A prediction-and-comparison matrix; 29.2 owns the prospective study specification.
 - **Continuity:** Makes hard/soft clinically researchable and hands Chapter 21 causal placement.
 - **Target:** 450–600 words.
 
 ### 20.9 Conclusion — Mechanical intelligibility precedes causal role
 
 - **Proposition:** Controlled freedom supplies a cross-system mechanical question; the next task is to determine where that relation sits in a person's causal history.
+- **Develop:** Summarize the common grammar and the receiver-specific differences; retain the division-of-labor prediction as a question whose causal position remains open.
+- **Evidence/example:** Reuse the completed cross-system comparison matrix from 20.7.
 - **Continuity:** Hands Chapter 21 scope and whole-person causality.
 - **Target:** 220–300 words.
 
@@ -395,7 +394,7 @@ Begin with the causal question, place mechanical relations through time, build r
 - **Continuity:** Places mechanical history inside the person and hands 21.4 disease boundary.
 - **Target:** 500–650 words.
 
-### 21.4 Joint disease demonstrates relevance without fixed priority
+### 21.4 Joint disease places mechanics within plural causality
 
 - **Proposition:** Osteoarthritis and rheumatoid arthritis show how local mechanics can interact with tissue, immune, inflammatory, behavioral, and care histories in different causal positions.
 - **Develop:** Use osteoarthritis for localization/distribution and broader biology; use rheumatoid arthritis for immune-led disease with possible mechanical modulation; focus on causal placement rather than disease review.
@@ -430,6 +429,8 @@ Begin with the causal question, place mechanical relations through time, build r
 ### 21.8 Conclusion — A causal contract becomes a clinical question
 
 - **Proposition:** Whole-person causal reasoning allows a mechanical history to contribute at the level its evidence supports.
+- **Develop:** Summarize the declared question, time-dependent causal position, reciprocal loops, whole-person nodes, and supported/narrowed/disfavored/unresolved result states.
+- **Evidence/example:** Reuse the completed causal-contract record from 21.7.
 - **Continuity:** Hands Chapter 22 selective integration into care.
 - **Target:** 220–300 words.
 
@@ -470,7 +471,7 @@ Begin with the person's problem and current care, declare one mechanical questio
 ### 22.3 Preserve evidence provenance at each seam
 
 - **Proposition:** Reported, observed, measured, calculated, modeled, inferred, reconstructed, and unknown entries remain distinguishable as the record crosses professions and scales.
-- **Develop:** Apply the existing legend; show one disagreement; preserve uncertainty through communication; keep documentation practical.
+- **Develop:** Apply the workflow-relevant subset of I.8's evidence-state legend rather than redefining it; show one disagreement; preserve uncertainty through communication; keep documentation practical.
 - **Evidence/example:** An annotated record excerpt.
 - **Continuity:** Makes the workflow auditable and hands 22.4 current findings.
 - **Target:** 350–500 words.
@@ -510,6 +511,8 @@ Begin with the person's problem and current care, declare one mechanical questio
 ### 22.8 Conclusion — The framework improves the next question
 
 - **Proposition:** The lens earns clinical value when it makes a present relation, missing history, comparison, measurement, or stopping point clearer within existing care.
+- **Develop:** Rejoin the selected question, selective record, provenance, local finding, professional contributions, and bounded output; preview the shared case ledger.
+- **Evidence/example:** Reuse one of the three mini-outcomes from 22.6 as the final workflow result.
 - **Continuity:** Opens Part V's progressively harder narratives.
 - **Target:** 220–300 words.
 

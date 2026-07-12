@@ -8,14 +8,14 @@ Living bodies continually organize mechanical demand. A precise account begins b
 
 The reader enters with an ordinary, mostly external idea of load. The Part moves from embodied demand, to mechanical quantities, to a division of mechanical labor, to the three-dimensional organization of that labor. The reader exits able to describe a candidate mechanical history without treating posture as exposure, tissue names as fixed roles, or a path as a hidden cable.
 
-## Part opening — An ordinary task has a mechanical history
+## Part opening — Entering the mechanical account
 
-- **Proposition:** Moving an object between two supports is simultaneously a material, biological, controlled, and situated event.
-- **Develop:** Establish the recurring task; show contact with object, ground, support, device, or helper; name changing geometry, active force, deformation, pressure, sensation, prior state, and environment; introduce “mechanical history” as the book's object of inquiry.
-- **Evidence/example:** One inclusive version of the recurring object transfer, illustrated without a preferred technique.
-- **Continuity:** Opens the book's main chain and hands Chapter 1 the fact of continuous mechanical embodiment.
-- **Editorial boundary:** Do not preview the entire taxonomy or defend every later claim here.
-- **Target:** 300–450 words.
+- **Proposition:** The opening task can now be followed from visible action into a precise account of living material, mechanical quantity, functional role, and configuration.
+- **Develop:** Recall the already-established scene in one sentence; name the four questions Part I will answer; make clear that the Part examines the event rather than narrating it again.
+- **Evidence/example:** A four-question orientation keyed to the opening task, without a second scene or new illustration.
+- **Continuity:** Inherits I.0–I.9 and hands Chapter 1 the first comparison inside the event.
+- **Editorial boundary:** Do not relaunch the object-transfer narrative or preview the later taxonomy.
+- **Target:** 150–220 words.
 
 ## Chapter 1 — The mechanical dimension of life
 
@@ -32,7 +32,7 @@ Begin with material embodiment, establish reciprocal mechanics–biology interac
 - **Proposition:** The object transfer occurs through living materials whose state changes what the task demands and how it is carried.
 - **Develop:** Describe the same visible action on two different days or with two different supports; show that external success does not reveal internal organization; pose the chapter question: what makes a mechanical description relevant?
 - **Evidence/example:** The recurring task under two contrasting states such as rested/fatigued or unsupported/assisted.
-- **Continuity:** Inherits the Part opening and creates the need to distinguish presence from importance.
+- **Continuity:** Inherits the Part's orientation and creates the need to distinguish presence from importance.
 - **Target:** 250–350 words.
 
 ### 1.1 Embodied life has continuous mechanical conditions
@@ -90,6 +90,7 @@ Begin with material embodiment, establish reciprocal mechanics–biology interac
 
 - **Proposition:** Mechanics becomes explanatory when its quantities, scales, paths, receivers, timing, and alternatives are made explicit.
 - **Develop:** Gather embodiment, reciprocity, scale, and whole-person context into one affirmative methodological statement; return briefly to the task; identify the ambiguity still hidden inside the word “load.”
+- **Evidence/example:** Reuse the chapter's paired task states to show what the material history adds beyond the shared visible endpoint.
 - **Continuity:** Completes the opening case and hands Chapter 2 a finite vocabulary problem.
 - **Target:** 220–300 words.
 
@@ -141,7 +142,7 @@ Move from the chosen system to external interactions, internal exposure, materia
 - **Develop:** Define normal and shear components; introduce tension, compression, shear, bending, torsion, multiaxial state, deformation, displacement, and strain rate; emphasize that these require a receiver and reference state.
 - **Evidence/example:** An idealized strip or beam followed by one bounded tissue translation.
 - **Continuity:** Crosses from boundary demand to local exposure; hands 2.5 the receiver's response properties.
-- **Target:** 550–700 words.
+- **Target:** 550–650 words.
 
 ### 2.5 Stiffness, compliance, strength, and capacity answer different questions
 
@@ -189,6 +190,7 @@ Move from the chosen system to external interactions, internal exposure, materia
 
 - **Proposition:** A credible mechanical narrative names its system, quantities, direction, receiver, time course, and uncertainty before assigning consequence.
 - **Develop:** Reconstruct the object transfer with the chapter's vocabulary; state the remaining question: how do different structures divide the labor of preserving relation and receiving deformation?
+- **Evidence/example:** Reuse the chapter's branching path diagram with its system, quantities, receiver, and evidence states labeled.
 - **Continuity:** Hands Chapter 3 the functional-role problem.
 - **Target:** 220–300 words.
 
@@ -271,6 +273,7 @@ Begin from the positive need for persistence and change, define each role, show 
 
 - **Proposition:** Support is a changing relation among structures that preserve geometry and structures that receive form.
 - **Develop:** Return to the object task; identify the unresolved variables—orientation, contact, activation, pressure, material state, and available motion—that determine which role appears.
+- **Evidence/example:** Reuse the chapter's two-state role-exchange example to gather the division of labor without adding another tissue case.
 - **Continuity:** Hands Chapter 4 the concept of configuration.
 - **Target:** 220–300 words.
 
@@ -308,7 +311,7 @@ Begin with one three-dimensional event, choose and transform reference frames, d
 - **Continuity:** Establishes modeling economy; hands 4.3 a fuller definition of configuration.
 - **Target:** 350–500 words.
 
-### 4.3 Configuration is a mechanical state, not only a visible pose
+### 4.3 Configuration includes the full mechanical state
 
 - **Proposition:** Configuration includes relative geometry, contacts, activation, pressure, tissue state, supports, and available motion at a declared phase.
 - **Develop:** Contrast identical visible postures with different activation, support, or pressure states; distinguish pose, movement, and configuration; show how changing one relation changes leverage and candidate paths.
@@ -329,38 +332,23 @@ Begin with one three-dimensional event, choose and transform reference frames, d
 - **Proposition:** Internal distribution is a time-varying allocation among carriers rather than a single uninterrupted line.
 - **Develop:** Trace branching and phase change; distinguish availability from actual recruitment; include indeterminate allocations and equivalent endpoints; show how a carrier can change role during the same task.
 - **Evidence/example:** A phased path diagram for lift, carry, and placement.
-- **Continuity:** Completes the load-path model and prepares the vocabulary distinctions in 4.6–4.8.
+- **Continuity:** Completes the load-path model and prepares the comparative direction vocabulary in 4.6.
 - **Target:** 500–650 words.
 
-### 4.6 Spatial coordinates describe location and orientation
+### 4.6 Three direction languages answer different questions
 
-- **Proposition:** Cartesian or anatomical axes describe spatial components and transformations.
-- **Develop:** Define the limited job of spatial frames; include local-to-global transformation; identify position, displacement, force, and moment components as distinct objects.
-- **Evidence/example:** One compact coordinate schematic.
-- **Continuity:** Establishes the first of three description families; hands 4.7 generalized modes.
-- **Target:** 300–450 words.
+- **Proposition:** Spatial coordinates, generalized modes, and material directions are three useful but non-equivalent descriptions of direction and organization.
+- **Develop:** Show that Cartesian or anatomical axes locate spatial components and transformations; show that generalized modes describe coordinated degrees of freedom and their conjugate forces or moments; show that material directions describe anisotropy, principal behavior, or an optional local orthotropic approximation; distinguish each family from the other two in one comparative sequence; name the future axial, opening/rotational, and expansive program only as a later application.
+- **Evidence/example:** One three-column comparison using a locally oriented tissue or segment, a reduced mechanical mode, and a fiber-reinforced or orthotropic material example.
+- **Continuity:** Prevents category collapse while keeping Book I's path account generic; hands 4.7 the anatomical carriers.
+- **Editorial boundary:** Signed preferred modes, extended transformations, orthotropic constitutive formalism, and principal-direction derivations belong to the Book II source packet.
+- **Target:** 500–650 words.
 
-### 4.7 Generalized modes describe coordinated degrees of freedom
-
-- **Proposition:** A reduced mode can combine coordinated motion or relation across structures and need not be a Cartesian force direction.
-- **Develop:** Introduce translation-like and rotational modes at a high level; distinguish coordinate, configuration, motion, force, and conjugate moment; contain the future axial, opening/rotational, and expansive program to a preview.
-- **Evidence/example:** One mechanical system in which a generalized coordinate differs from a spatial axis.
-- **Continuity:** Prepares the Book II seam without making it load-bearing in Book I; hands 4.8 material directions.
-- **Editorial boundary:** No signed preferred mode is established here.
-- **Target:** 350–500 words.
-
-### 4.8 Material directions describe directional behavior
-
-- **Proposition:** Anisotropy, orthotropy, and principal directions are material or state descriptions whose axes answer different questions from anatomy or generalized modes.
-- **Develop:** Define anisotropy and local material directions; present local orthotropy as an optional first-order approximation where supported; distinguish symmetry planes, principal stress or strain directions, and body coordinates.
-- **Evidence/example:** A fiber-reinforced or orthotropic material illustration beside a locally oriented tissue example.
-- **Continuity:** Prevents coordinate collapse and completes the conceptual boundary needed for later formalization.
-- **Target:** 350–500 words.
-
-### 4.9 Conclusion — Anatomy supplies the carriers
+### 4.7 Conclusion — Anatomy supplies the carriers
 
 - **Proposition:** A mechanical history now has a system, quantities, roles, configuration, and candidate paths; its next question is anatomical.
 - **Develop:** Reconstruct the object task in one concise chain; name bones, joints, muscle, tensile tissues, sliding structures, and pressure systems as the carriers Part II will study.
+- **Evidence/example:** Reuse the chapter's phased path diagram, now annotated with the three direction-language distinctions only where they clarify the carrier account.
 - **Continuity:** Closes Part I and hands Part II a concrete architecture problem.
 - **Target:** 220–300 words.
 

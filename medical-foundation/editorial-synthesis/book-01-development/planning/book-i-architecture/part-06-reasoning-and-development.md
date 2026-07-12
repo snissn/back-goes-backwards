@@ -45,7 +45,7 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 ### 27.2 What configuration and paths were available?
 
 - **Proposition:** Geometry, contacts, activation, pressure, material state, degrees of freedom, assistance, and environment define the available carrier set.
-- **Develop:** Identify candidate paths and supports; distinguish availability from use; specify phase and reference frame; include alternative viable configurations.
+- **Develop:** Identify candidate paths and supports; distinguish availability from use; specify phase and reference frame; include alternative viable configurations; treat posterior participation as one candidate path alongside anterior, lateral, pressure-mediated, and externally supported contributions rather than as the default answer.
 - **Evidence/example:** One configuration/path diagram.
 - **Continuity:** Converts demand into possibilities and hands 27.3 role division.
 - **Target:** 300–450 words.
@@ -58,13 +58,13 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 - **Continuity:** Assigns roles and hands 27.4 receiver exposure.
 - **Target:** 300–450 words.
 
-### 27.4 Where did local exposure reach a receiver?
+### 27.4 What exposure reached the receiver, and what response followed?
 
-- **Proposition:** A mechanical consequence begins with a named receiver and a defined force, moment, pressure, stress, strain, deformation, excursion, or contact history.
-- **Develop:** Move through regional distribution to local field; state dose and capacity; identify missing scale transitions.
-- **Evidence/example:** One receiver-specific exposure record.
-- **Continuity:** Localizes the inquiry and hands 27.5 preserved function.
-- **Target:** 300–450 words.
+- **Proposition:** A receiver-specific exposure–response junction connects a defined force, moment, pressure, stress, strain, deformation, excursion, or contact history to an observed or hypothesized change in the receiver and its next state.
+- **Develop:** Move through regional distribution to local field; state dose, capacity, recovery, and receiver state; identify the tissue or system response and whether it was observed, measured, modeled, inferred, or unknown; distinguish response from symptom, diagnosis, and outcome; identify missing scale or causal transitions.
+- **Evidence/example:** One receiver-specific exposure–response record ending at a declared evidence boundary.
+- **Continuity:** Localizes the inquiry, restores Chapter 19's biological bridge, and hands 27.5 preserved function and compensation.
+- **Target:** 400–550 words.
 
 ### 27.5 What did the strategy preserve?
 
@@ -85,16 +85,16 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 ### 27.7 What can be measured, and what remains unknown?
 
 - **Proposition:** The final question assigns evidence state, method, uncertainty, alternative, and stopping point to every preceding relation.
-- **Develop:** Separate observed, reported, measured, modeled, inferred, reconstructed, and unknown links; name context of use; identify a next measurement or an accepted unknown.
+- **Develop:** Apply the relevant subset of I.8's evidence-state legend rather than redefining it; name method, uncertainty, alternative, and context of use for each link; identify a next measurement or an accepted unknown.
 - **Evidence/example:** One completed evidence ledger.
 - **Continuity:** Completes the reasoning sequence and hands 27.8 case outputs.
 - **Target:** 350–500 words.
 
 ### 27.8 The four narratives demonstrate four outputs
 
-- **Proposition:** The same scaffold can yield a supported distribution relation, a mixed maintained-constraint history, a state-transition account, or unresolved causal plurality.
-- **Develop:** Compare Chapters 23–26 by output rather than retelling each case; show which question carried the decisive information; preserve nonconvergence as a strength.
-- **Evidence/example:** A seven-questions-by-four-cases matrix.
+- **Proposition:** The same scaffold can yield a strong bounded geometry-to-field relation, a substantive focal account with a reconstructed cumulative interval, several measured state relations with an incomplete transition mechanism, or a transparent hypothetical ending in unresolved causal plurality.
+- **Develop:** Compare Chapters 23–26 by strongest supported relation, evidence-state boundary, and exact output rather than retelling each case; show which question carried the decisive information; preserve narrowed, null, reconstructed, and unresolved links as informative results.
+- **Evidence/example:** A seven-questions-by-four-cases matrix keyed to the exact Part V outcomes.
 - **Continuity:** Demonstrates portability and hands 27.9 endpoint.
 - **Target:** 350–500 words.
 
@@ -109,6 +109,8 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 ### 27.10 Conclusion — A mechanical history becomes portable
 
 - **Proposition:** The seven questions preserve the book's depth while allowing a reader to use one relevant part at a time.
+- **Develop:** Recap the ordered movement from demand through paths, role division, receiver-specific exposure and response, preserved function, purposeful comparison, and evidence state; state the four bounded endpoints once.
+- **Evidence/example:** Reuse the one-page scaffold from 27.0 with its completed output branch.
 - **Continuity:** Opens mechanical literacy and collective action.
 - **Target:** 200–280 words.
 
@@ -116,17 +118,17 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 
 ### Chapter proposition
 
-Mechanical literacy helps people and institutions recognize demand, options, supports, and constraints; prevention becomes responsible when each program names its specific outcome and who controls the relevant conditions.
+Mechanical literacy helps people and institutions recognize and expand the available option space around demand, support, recovery, and constraint; prevention becomes responsible when each program names its specific outcome and who controls the relevant conditions.
 
 ### Chapter movement
 
-The chapter has two explicit halves. The first develops language for public and professional understanding. The second shows how that language expands environmental options, specifies prevention outcomes, and surfaces agency, access, and governance.
+The chapter has two explicit halves joined by one object: available options. The first develops language for public and professional understanding. Unit 28.4 is the hinge that turns broad activity labels into exposure sequences; the second uses that description to expand environmental options, specify prevention outcomes, and surface agency, access, and governance.
 
-### 28.0 Opening — Language changes what a system can recognize and redesign
+### 28.0 Opening — Language expands the available option space
 
-- **Proposition:** A shared mechanical vocabulary can expand attention from individual posture to tasks, histories, supports, options, environments, and control.
-- **Develop:** Use a shared workstation or other common setting; show how several people encounter different demands and choices; introduce literacy as capacity for description and inquiry.
-- **Evidence/example:** One multi-user environment.
+- **Proposition:** A shared mechanical vocabulary expands the options a person or institution can recognize, compare, and redesign around a task.
+- **Develop:** Use a shared workstation or other common setting; show how several people encounter different demands and available choices; introduce literacy as capacity for description, comparison, and option generation.
+- **Evidence/example:** One multi-user environment with an explicit available-options map.
 - **Continuity:** Inherits Chapter 27's questions and prepares the educational half.
 - **Target:** 300–420 words.
 
@@ -151,13 +153,13 @@ The chapter has two explicit halves. The first develops language for public and 
 - **Proposition:** Existing professions can use a shared mechanical history to ask better questions and communicate seams while retaining their own expertise and jurisdiction.
 - **Develop:** Define learning goals for medicine, rehabilitation, ergonomics, engineering, education, coaching, and design; include provenance and uncertainty; avoid inventing a universal assessor.
 - **Evidence/example:** One interdisciplinary learning scenario.
-- **Continuity:** Completes the literacy half and hands 28.4 modern exposure sequences.
+- **Continuity:** Completes the literacy half and hands 28.4 the explicit hinge from language to redesign.
 - **Target:** 400–550 words.
 
-### 28.4 Modern activities are exposure sequences
+### 28.4 Exposure sequences connect literacy to available options
 
-- **Proposition:** Work, school, caregiving, transport, device use, sitting, standing, and recreation become mechanical objects through configuration, time, support, variability, recovery, and control.
-- **Develop:** Translate two broad activity labels into sequences; include interruptions and task switching; show how categories conceal different exposures.
+- **Proposition:** Translating work, school, caregiving, transport, device use, sitting, standing, and recreation into exposure sequences reveals where available options can change.
+- **Develop:** Mark this unit as the chapter's hinge; translate two broad activity labels into configuration, time, support, variability, recovery, and control; include interruptions and task switching; show how categories conceal both different exposures and different redesign opportunities.
 - **Evidence/example:** One day-level exposure timeline.
 - **Continuity:** Turns literacy toward redesign and hands 28.5 environment.
 - **Target:** 450–600 words.
@@ -197,6 +199,8 @@ The chapter has two explicit halves. The first develops language for public and 
 ### 28.9 Conclusion — Options are properties of people and systems together
 
 - **Proposition:** Mechanical literacy expands what can be recognized, while design and institutional control determine which options are actually available.
+- **Develop:** Rejoin shared language, exposure sequences, environmental design, declared prevention targets, and agency/access as one available-options argument.
+- **Evidence/example:** Reuse the before/after option map from 28.5 with access and control added.
 - **Continuity:** Hands Chapter 29 independent development gates.
 - **Target:** 220–300 words.
 
@@ -221,16 +225,16 @@ Define the six-track network, make maturity use-specific, develop each track, pr
 ### 29.1 Maturity is specific to intended use
 
 - **Proposition:** A construct can be ready to describe, compare, teach, test for benefit, deliver in a setting, or inform a system decision at different times.
-- **Develop:** Define the six use states; reject one project-wide maturity score through positive examples of partial readiness; identify context of use and stopping condition.
-- **Evidence/example:** A use-specific maturity matrix.
+- **Develop:** Define the six use states; map feasibility, reliability, construct validity, added information, and decision value as staged gates within a declared use; reject one project-wide maturity score through positive examples of partial readiness; identify context of use and stopping condition.
+- **Evidence/example:** A combined use-specific maturity matrix and staged gate diagram transferred from Chapter 18.
 - **Continuity:** Sets the gate logic and hands 29.2 research.
 - **Target:** 400–550 words.
 
 ### 29.2 Mechanism and causal research earns bounded relations
 
 - **Proposition:** Research tests a declared physical, biological, causal, historical, or comparative relation using a design matched to that relation.
-- **Develop:** Define object, domain, population or system, comparator, measure, alternative, and disfavoring result; separate exploratory and confirmatory work; retain local, mixed, negative, and nonunique findings.
-- **Evidence/example:** One mechanism-study specification.
+- **Develop:** Define object, domain, population or system, comparator, measure, alternative, and disfavoring result; separate exploratory and confirmatory work; include prospective comparison design for the division-of-labor prediction from 20.8; retain local, mixed, negative, and nonunique findings.
+- **Evidence/example:** One mechanism-study specification using the controlled-freedom prediction as its worked comparison.
 - **Continuity:** Establishes relation evidence and hands 29.3 measurement.
 - **Target:** 450–600 words.
 
@@ -277,7 +281,7 @@ Define the six-track network, make maturity use-specific, develop each track, pr
 ### 29.8 Provenance and uncertainty travel across tracks
 
 - **Proposition:** Every handoff retains origin, normalized object, domain, evidence state, alternatives, licensed output, new question, and stopping condition.
-- **Develop:** Define cross-track record; show one result entering a new track without gaining evidentiary strength; preserve disagreement and versioning.
+- **Develop:** Apply I.8's evidence-state legend within the cross-track record; show one result entering a new track without gaining evidentiary strength; preserve disagreement and versioning.
 - **Evidence/example:** The provenance handoff figure.
 - **Continuity:** Coordinates the network and hands 29.9 candidate pathway.
 - **Target:** 400–550 words.
@@ -302,12 +306,15 @@ Define the six-track network, make maturity use-specific, develop each track, pr
 
 - **Proposition:** Separating tracks allows the project to pursue clinical and institutional transformation while requiring every application to earn its own benefit, harm, access, and value evidence.
 - **Develop:** Summarize what each track can establish; identify the place for later-series hypotheses; state the handoff to Chapter 30.
+- **Evidence/example:** Reuse the six-track network from 29.0 with each track's licensed output attached.
 - **Continuity:** Hands the wider preferred-configuration program an honest development home.
 - **Target:** 300–450 words.
 
 ### 29.12 Conclusion — Development is a network of earned handoffs
 
 - **Proposition:** The research program can remain expansive because its questions, evidence states, outputs, and stopping conditions remain distinct.
+- **Develop:** Rejoin the six tracks, use-specific gates, provenance handoffs, and result-routing decisions; state that later-series hypotheses enter the same network rather than bypassing it.
+- **Evidence/example:** Reuse the completed maintained-deformation network from 29.9 with its update routes from 29.10.
 - **Continuity:** Opens the final series-level hypothesis.
 - **Target:** 200–280 words.
 
@@ -319,7 +326,7 @@ Book I establishes a complete mechanical-history lens and an earned posterior em
 
 ### Chapter movement
 
-Return to the original task, state Book I's complete contribution, give the posterior title its earned meaning, name the stronger hypothesis, preview the modes, preserve the later TCM/breath/practice horizons, define Book II's burden and the program's learning paths, and close on the original mechanical history.
+Return to the original task, state Book I's complete contribution, give the posterior title its earned meaning, name the stronger hypothesis, state one concise Book I/II seam contract, preserve Books III–V as a compact named horizon, apply Chapter 29's result-routing once, and close the book on the original mechanical history.
 
 ### 30.0 Opening — The original task is now mechanically legible
 
@@ -331,8 +338,8 @@ Return to the original task, state Book I's complete contribution, give the post
 
 ### 30.1 Book I supplies a complete mechanical-history lens
 
-- **Proposition:** Demand enters a changing living system; configuration and paths distribute it; hard and soft roles divide mechanical labor; receiver, dose, capacity, recovery, compensation, biology, and context shape what follows.
-- **Develop:** State the durable chain affirmatively; include the six organization families and seven questions; locate mechanics alongside the whole person; make the foundation independently useful.
+- **Proposition:** Demand enters a changing living system; configuration and paths distribute it; hard and soft roles divide mechanical labor alongside active, tensile, sliding, and pressure-mediated support; receiver, dose, capacity, recovery, compensation, biology, and context shape what follows.
+- **Develop:** State the durable chain affirmatively; include the six organization families and seven questions, including the receiver-specific exposure–response junction; locate mechanics alongside the whole person; make the foundation independently useful.
 - **Evidence/example:** One nested foundation summary.
 - **Continuity:** Establishes the first proposition and hands 30.2 posterior emphasis.
 - **Target:** 450–600 words.
@@ -358,75 +365,37 @@ Return to the original task, state Book I's complete contribution, give the post
 - **Proposition:** The author's present expectation is that posterior participation will be required within the eventual preferred organization while remaining unable by itself to identify that state.
 - **Develop:** Distinguish anatomical participation, quantitative contribution, necessity, and sufficiency; include anterior, lateral, deep, pressure-mediated, environmental, and control relations; state this as Book II's derivational burden.
 - **Evidence/example:** A necessary/insufficient relation diagram.
-- **Continuity:** Connects the series title to the formal program and hands 30.5 generalized modes.
+- **Continuity:** Connects the series title to the formal program and hands 30.5 the complete Book I/II seam contract.
 - **Target:** 350–500 words.
 
-### 30.5 Three signed generalized modes form the candidate reduction
+### 30.5 The Book I/II seam names a candidate model and its burden
 
-- **Proposition:** The proposed reduced description uses axial, opening/rotational, and expansive modes, each with two signs.
-- **Develop:** State current Yang signs—downward axial resolution, external/opening rotation, and outward expansion—and their Yin opposites; clarify that the set includes two translation-like modes and one rotational mode; distinguish configuration, motion, force, and moment; require local frames, bilateral and left/right transformations, coupling, and phase.
-- **Evidence/example:** A generalized-mode schematic using pelvis, ribs, or vertebral local frames.
-- **Continuity:** Gives Book II a definite starting model and hands 30.6 assumptions and nonidentity.
-- **Target:** 500–650 words.
+- **Proposition:** Book II inherits a candidate reduction—axial, opening/rotational, and expansive modes with two signs each—and must independently define, derive, and discriminate the preferred-configuration model built from it.
+- **Develop:** State the proposed Yang signs as downward axial resolution, external or opening rotation, and outward expansion; distinguish configuration, motion, force, pressure, and moment; name bilateral reference symmetry and skeletal-primary routing as first-order assumptions and local orthotropy as an optional regional approximation; require Book II to define the preferred object, domain, efficiency or viability relation, reference configurations, generalized coordinates and conjugate loads, transformations, coupling, phase, posterior necessity, alternative reductions, multiple optima, and task dependence; make explicit that Book II's definition of a configuration or routing regime is mechanically independent of breath, even if Book IV later studies breath and pressure as possible drivers, organizers, modulators, indicators, or companions of transitions among regimes.
+- **Evidence/example:** One Book I/II seam contract combining the generalized-mode schematic, nonidentity matrix, and assumption register at preview resolution.
+- **Continuity:** Gives Book II a definite starting question without performing its derivation and hands 30.6 the later-series horizon.
+- **Target:** 550–650 words.
 
-### 30.6 Modeling assumptions and term families remain explicit
+### 30.6 Books III–V preserve the wider research horizon
 
-- **Proposition:** Bilateral symmetry and skeletal-primary routing can serve as first-order Book II assumptions, while local orthotropy remains an optional regional approximation rather than a whole-body axiom.
-- **Develop:** Distinguish posterior/anterior region, hard/soft role, generalized mode, Yang/Yin sign, material direction, and preferred/nonpreferred evaluation; provide noncorresponding examples; preserve local-to-global transformations.
-- **Evidence/example:** The nonidentity matrix and assumption register.
-- **Continuity:** Prevents the vocabulary from carrying conclusions and hands 30.7 traditional coordinate program.
+- **Proposition:** The traditional-coordinate, breath-and-geometry, and embodiment-and-practice programs remain explicit later layers whose claims do not carry Book I or define Book II's mechanical regime.
+- **Develop:** Point to the existing Book III assets as the authoritative home for the detailed Six-Division and paired-channel map—axial Kidney/Bladder and Heart/Small Intestine; opening/rotational Lung/Large Intestine and Spleen/Stomach; expansive/lateral Pericardium/Triple Warmer and Liver/Gallbladder—the gross limb projection, K1–PC8 coordination, and internal force-line observations; point to Book IV for diaphragm, rib cage, abdomen, pelvic floor, hyoid, respiratory phase, pressure, tensegrity, toroidal and alternative geometries, and breath/pressure-linked transition mechanisms; point to Book V for embodied observation, assessment, cues, drills, strength and coordination work, breathing practices, bandhas, yoga, Tai Chi, teaching, safety, and professional application; preserve all detailed content in those accepted assets rather than rehearsing it here.
+- **Evidence/example:** One series dependency map naming each later book's object, evidence burden, and preserved source asset.
+- **Continuity:** Keeps the full program visible at non-load-bearing preview resolution and hands 30.7 Chapter 29's learning architecture.
 - **Target:** 450–600 words.
 
-### 30.7 Book III investigates the traditional coordinate program
+### 30.7 Later hypotheses use the same result-routing architecture
 
-- **Proposition:** TCM hard/soft, Yin/Yang, Six Divisions, paired channels, and embodied landmarks may correspond to the mechanical modes at several mapping scales.
-- **Develop:** Preserve the current families: Kidney/Bladder and Heart/Small Intestine as axial; Lung/Large Intestine and Spleen/Stomach as opening/rotational; Pericardium/Triple Warmer and Liver/Gallbladder as expansive/lateral; state the gross projection of legs/feet toward axial support, arms/hands toward expansion, and rotation toward upper–lower coordination; identify K1–PC8 and internal force-line observations as embodied hypothesis sources.
-- **Evidence/example:** A provisional mapping table with evidence-state columns.
-- **Continuity:** Preserves the traditional program without making it evidence for Book I and hands 30.8 breath/geometry.
-- **Target:** 500–650 words.
-
-### 30.8 Book IV investigates breath, pressure, geometry, and state transition
-
-- **Proposition:** Diaphragm, rib cage, abdomen, pelvic floor, hyoid, pressure regulation, respiratory phase, tensegrity, toroidal geometry, and routing-regime transition are candidate parts of a later whole-system model.
-- **Develop:** Distinguish ordinary pressure-mediated support already established from stronger driver, organizer, modulator, indicator, and accompaniment hypotheses; preserve several candidate geometries; require formal state-transition observables.
-- **Evidence/example:** A later-book hypothesis map rather than a proof figure.
-- **Continuity:** Keeps breath and torus models generatively available and hands 30.9 embodiment/practice.
-- **Target:** 400–550 words.
-
-### 30.9 Book V investigates embodiment and practice
-
-- **Proposition:** Embodied observation, assessment, cues, drills, strength and coordination work, breathing practices, bandhas, yoga, Tai Chi, teaching methods, and professional application form a downstream program with their own efficacy, mechanism, safety, and scope questions.
-- **Develop:** State experience as a source of phenomena and hypotheses; preserve candidate practices generously; require application-specific benefits, harms, contraindications, audience, and provider scope; keep practice downstream of definitions and measures.
-- **Evidence/example:** A provenance-to-practice development chain.
-- **Continuity:** Completes the series map and hands 30.10 Book II's burden.
-- **Target:** 400–550 words.
-
-### 30.10 Book II must define and discriminate the preferred model
-
-- **Proposition:** Book II's first task is to define preferred object, domain, efficiency or viability relation, reference configurations, generalized coordinates, conjugate loads, transformations, coupling, phase, posterior necessity, and alternative reductions.
-- **Develop:** List the formal outputs; specify favorable, mixed, nonunique, and disfavoring observations; include multiple optima and task dependence; state that Book II assumes Book I rather than rebuilding it.
-- **Evidence/example:** The Book I/II seam contract.
-- **Continuity:** Converts the hypothesis into work and hands 30.11 learning paths.
-- **Target:** 450–600 words.
-
-### 30.11 The program learns by refining, replacing, or retiring exact claims
-
-- **Proposition:** Favorable, mixed, disfavoring, and nonunique results update the specific preferred-configuration, mode, correspondence, breath, or practice claims they test while independently supported Book I material retains its own standing.
-- **Develop:** Trace result paths; state what survives if no unique preferred configuration is found; identify later-book revisions; frame rejection as a productive research outcome.
-- **Evidence/example:** A nested dependency and result-routing figure.
-- **Continuity:** Resolves the non-load-bearing relationship and hands 30.12 the final return.
-- **Target:** 400–550 words.
-
-### 30.12 Conclusion — The mechanical history remains
-
-- **Proposition:** Book I leaves the reader with a constructive way to trace demand through a living person, while Book II asks whether those histories reveal a preferred whole-system organization.
-- **Develop:** Return to the person and object; state posterior emphasis once; end on the exact Book II question rather than a disclaimer or protocol.
-- **Continuity:** Closes Book I and opens the sequential series.
+- **Proposition:** Favorable, mixed, disfavoring, and nonunique results update the exact later-series claim they test while independently supported Book I relations retain their standing.
+- **Develop:** Apply 29.10 once to preferred configuration, mode, correspondence, breath/geometry, and practice claims; state what survives if no unique preferred organization is found; avoid rebuilding the full result matrix.
+- **Evidence/example:** Reuse the result-routing matrix from 29.10 with one nested later-series dependency overlay.
+- **Continuity:** Resolves the non-load-bearing relation and hands 30.8 the final return.
 - **Target:** 250–350 words.
 
-## Part VI and Book I synthesis
+### 30.8 Conclusion — The mechanical history remains
 
-- **Proposition:** Book I has moved from embodied mechanics to precise quantities, cooperative support, identifiable load-management patterns, medical interpretation, worked narratives, portable reasoning, and a staged development program.
-- **Develop:** State what the reader can now understand and do intellectually; preserve the wider hypothesis as the next research layer; avoid a second full conclusion after Chapter 30.
-- **Continuity:** This synthesis may be absorbed into Chapter 30's final pages rather than printed as a separate closing.
-- **Target:** 220–320 words if retained.
+- **Proposition:** Book I leaves the reader with a constructive way to trace demand through a living person, while Book II asks whether those histories reveal a preferred whole-system organization.
+- **Develop:** Return to the person and object; gather the book's movement from embodied mechanics through precise quantities, cooperative support, load-management patterns, medical interpretation, worked narratives, portable reasoning, available options, and staged development; state what the reader can now understand and do intellectually; name posterior emphasis once; preserve the wider hypothesis as the next research layer; end on Book II's exact question.
+- **Evidence/example:** Reuse the final annotated object-transfer image from 30.0 with the completed mechanical-history chain and open preferred-organization question.
+- **Continuity:** Closes Part VI and Book I and opens the sequential series without a second standalone synthesis.
+- **Target:** 300–420 words.
