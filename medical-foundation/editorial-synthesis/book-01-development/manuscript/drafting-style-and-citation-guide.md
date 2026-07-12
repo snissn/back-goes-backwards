@@ -231,7 +231,7 @@ Use quotation sparingly. Quote only when wording itself matters, reproduce it ex
 | *load path* | A bounded model of distribution and transfer through named carriers and a stated system | Not a literal hidden pipe, cable, meridian, or unique resultant |
 | *routing* | Distribution of a defined demand among available structures and paths | State quantity, carrier, scale, task, and time when the claim becomes technical |
 | *force line* | External line of action, inferred multicarrier relation, or embodied continuity; always state which | Never treat the three senses as synonyms |
-| *hard role* | Relatively shape-preserving, force-transmitting, constraining, or structurally resolving in a declared relation | Not a fixed hard-tissue class, always beneficial state, or synonym for posterior or Yang |
+| *hard role* | Relatively shape-preserving, path-establishing, constraining, or structurally resolving in a declared relation; force transmission alone is insufficient | Not a fixed hard-tissue class, always beneficial state, or synonym for posterior or Yang |
 | *soft role* | Relatively form-receiving or shape-conforming while retaining relevant yield, glide, containment, expansion, pressure response, or local change | Not weak, passive, unloaded, inferior, or synonymous with anterior anatomy |
 | *configuration* | Geometry plus contact, active state, pressure, material state, and available movement at a phase | Not interchangeable with visible posture |
 | *mechanical homeostasis* | Provisional term for maintaining relevant variables within viable dynamic ranges | Not a fixed set point, one posture, or universal health score |

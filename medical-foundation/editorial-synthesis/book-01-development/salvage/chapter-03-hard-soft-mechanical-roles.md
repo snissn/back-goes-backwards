@@ -26,7 +26,7 @@ The Chapter 3 draft should recover four things without qualification drift:
 5. generated Markdown only as a locator mirror of JSON, never as independent authority; and
 6. external mechanics, biomechanics, anatomy, and historical evidence, which constrains publishable claims without erasing authorial hypotheses.
 
-**Provenance wording precedence:** `project-model-memo.md:254` and `:381` still say *TCM-derived*. Direct author clarification and the accepted Chapter 3 controls supersede that wording. Drafting uses **motivated by TCM hard/soft and Yin/Yang concepts**; it does not use *derived from* or *inspired by* and does not claim exact identity.
+**Provenance wording:** The project memo and accepted Chapter 3 controls use **motivated by TCM hard/soft and Yin/Yang concepts**. Drafting does not use *derived from* or *inspired by* and does not claim exact identity.
 
 ## Disposition legend
 
@@ -41,7 +41,7 @@ The Chapter 3 draft should recover four things without qualification drift:
 | Source locator | Recoverable intent | Disposition | Chapter 3 use or destination |
 |---|---|---:|---|
 | `project-model-memo.md:72-74` | Native formulation and division of labor; hard/soft are roles rather than fixed tissues | D | Opening statement and immediate mechanical translation |
-| `project-model-memo.md:254-266` | Positive definitions; form reception; task-, direction-, state-, scale-, and time-dependence; functional soft-to-hard meaning; multicarrier internal relation | D/R | Definitions and role-exchange spine; replace stale *TCM-derived* with controlling *motivated by*; do not import later map |
+| `project-model-memo.md:254-266` | Positive definitions; form reception; task-, direction-, state-, scale-, and time-dependence; functional soft-to-hard meaning; multicarrier internal relation | D/R | Definitions and role-exchange spine; retain controlling *motivated by* wording; do not import later map |
 | `project-model-memo.md:277-300` | “Load going into” a compliant structure; hard/soft relevance to adverse exposure; Book I/later-book boundary | P/R | One bounded handoff sentence only; full mechanism remains Chapter 13 |
 | `project-model-memo.md:381,409-419` | Controlled vocabulary and explicit nonidentity with posterior/anterior, Yang/Yin, preferred configuration, torus, and practice | D/P | Boundary paragraph; later programs remain visible |
 | `01-medical-foundations.md:149-179` | Chapter arc from polarity through roles, candidate handoff, role exchange, traditional motivation, and survival work | D | Primary structural template, superseded only by the accepted brief |

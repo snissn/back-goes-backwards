@@ -168,7 +168,7 @@ At whole-body scale, the skeleton and its articulations provide the clearest rel
 
 #### 3.4 Hard and soft as functional roles
 
-A hard role preserves or imposes enough geometry to transmit, redirect, or resolve demand at the scale being modeled. A soft role receives form and conforms to the surrounding geometry; gliding, expansion, containment, cushioning, and pressure response are possible expressions of that yielding role rather than its definition. Bone is the clearest hard-role example and a vessel a clear soft-role example, yet active muscle, tendon, fascia, a pressurized cavity, or a coordinated assembly may become relatively hard in one direction while remaining soft in another. The assumption concerns division of labor, not permanent tissue identity.
+A hard role relatively preserves or imposes geometry, establishes a path, constrains motion, or structurally resolves demand at the scale being modeled. A soft role receives form and conforms to the surrounding geometry; gliding, expansion, containment, cushioning, and pressure response are possible expressions of that yielding role rather than its definition. Bone is the clearest hard-role example and a vessel a clear soft-role example, yet active muscle, tendon, fascia, a pressurized cavity, or a coordinated assembly may become relatively hard in one direction while remaining soft in another. Either role may transmit substantial force; transmission alone does not determine the role. The assumption concerns division of labor, not permanent tissue identity.
 
 #### 3.5 Candidate regional constitutive approximations
 
@@ -514,7 +514,7 @@ Tags domain:biomechanics, model:hard-soft, model:posterior-chain, model:preferre
 
 #### 11.1 Hard and soft name roles, not permanent materials
 
-Restate the polarity precisely. A hard role is relatively shape-preserving, path-establishing, force-transmitting, or geometrically resolving at the scale and direction under discussion. A soft role is relatively form-receiving and shape-conforming: it yields to neighboring geometry and remains available for glide, containment, expansion, flow, buffering, and local deformation. Bone often occupies the clearest hard role and viscera an obvious soft role, but muscle, tendon, ligament, fascia, cartilage, fluid spaces, and joints can change roles with task and state.
+Restate the polarity precisely. A hard role is relatively shape-preserving, path-establishing, constraining, or geometrically resolving at the scale and direction under discussion. A soft role is relatively form-receiving and shape-conforming: it yields to neighboring geometry and remains available for glide, containment, expansion, flow, buffering, and local deformation. Either role may transmit substantial force; transmission alone does not determine the role. Bone often occupies the clearest hard role and viscera an obvious soft role, but muscle, tendon, ligament, fascia, cartilage, fluid spaces, and joints can change roles with task and state.
 
 #### 11.2 Skeletal-primary routing is the first-order proposition
 

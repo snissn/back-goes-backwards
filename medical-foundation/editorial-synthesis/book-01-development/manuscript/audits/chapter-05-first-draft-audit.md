@@ -10,7 +10,7 @@
 
 ## Audit boundary
 
-This audit covers the reader-facing anatomical argument, skeletal-primary reduction, deformable-bone account, moving-contact model, ligament-recruitment distinction, configuration-to-candidate-exposure chain, linked object-transfer trace, conditional stability definition, text-native figures, provisional source notes, controlled salvage, and continuity from Chapter 4 into Chapter 6. It does not establish skeletal-primary routing as a whole-body empirical conclusion; validate one internal route, ideal alignment, preferred configuration, or posterior necessity; complete specialist anatomy, mechanics, medical, traditional-language, authorial-intent, accessibility, rights, or figure review; or close any publication gate.
+This audit covers the reader-facing anatomical argument, skeletal-first accounting reduction, deformable-bone account, moving-contact model, ligament-recruitment distinction, configuration-to-candidate-exposure chain, linked object-transfer trace, conditional stability definition, text-native figures, provisional source notes, controlled salvage, and continuity from Chapter 4 into Chapter 6. It does not introduce Book II's formal skeletal-primary routing assumption; validate one internal route, ideal alignment, preferred configuration, or posterior necessity; complete specialist anatomy, mechanics, medical, traditional-language, authorial-intent, accessibility, rights, or figure review; or close any publication gate.
 
 The draft is a clean synthesis from the accepted brief, evidence packet, and salvage disposition. No legacy or generated sentence, fixed hard-tissue taxonomy, universal neutral posture, disease cascade, treatment claim, protocol, or unsupported equation was promoted into reader prose. Archive intent survives through a stronger bounded proposition: skeletal geometry materially constrains contacts, moments, movement possibilities, and candidate distributions, while a functioning route remains deformable, multicarrier, and dependent on active and external support.
 
@@ -36,7 +36,7 @@ The canonical count comes from `manuscript/count-body-words.rb`. It excludes the
 |---|---|---|---|
 | Chapter 4 inheritance | Begins with phase 2 of the recurring object transfer and immediately applies boundary, frame, configuration, and multicarrier-path discipline | Does not reteach the spatial crosswalk or derive later coordinates | Pass |
 | Geometry as feasible set | Treats shape, orientation, contact, and moment arms as possibilities and constraints rather than a unique solution | Active state, material state, acceleration, pressure, and external support can select another solution | Pass |
-| Skeletal-primary routing | States it directly as a first-order modeling assumption for gross gravitational and external structural demand | Must close a declared balance and add a discriminating prediction; can be weakened or discarded when another model performs better | Pass |
+| Skeletal-first accounting | Begins with a skeletal and external-contact graph, then restores active, tensile, pressure-mediated, compliant, inertial, and external-support terms needed to close the balance | First in the analysis is not primary in the body; the graph can be weakened or discarded when another model performs better | Pass |
 | Deformable living bone | Uses direct tibial surface deformation and direction-/mode-dependent cortical-bone evidence | No rigid material, whole-body orthotropy, population norm, ideal strain, or preferred-direction inference | Pass |
 | Material versus structure | Separates specimen behavior, whole-bone geometry, and rigid-segment modeling decisions | A rigid reduction is withdrawn when local deformation or tissue state is the question | Pass |
 | Moving joint contact | Separates joint resultant, contact location, contact area, pressure, stress/strain, and biological response | Contact kinematics do not establish pressure, tissue response, disease, or a healthy path | Pass |
@@ -50,9 +50,9 @@ The canonical count comes from `manuscript/count-body-words.rb`. It excludes the
 
 The central controlled proposition remains clear: bones, articular surfaces, and recruited restraints provide the clearest relatively shape-preserving architecture, but a usable route exists only through changing contact and cooperation. The skeleton is neither passive scenery nor a visual alignment code.
 
-## Skeletal-primary and hard/soft audit
+## Skeletal-first accounting and hard/soft audit
 
-The authorial preference for first-order skeletal routing is present rather than hidden. It is explicitly labeled a modeling choice and given survival conditions:
+The authorial preference for beginning the accounting with skeletal geometry is present rather than hidden. It is explicitly separated from Book II's formal skeletal-primary routing assumption and given survival conditions:
 
 1. the declared skeletal graph must help close force-and-moment balance;
 2. its nodes and interfaces must correspond to anatomical contacts rather than a decorative line;
@@ -161,9 +161,9 @@ These checks establish controlled-draft hygiene and traceability, not substantiv
 
 The following remain open:
 
-1. external biomechanics review of every free-body statement, combined-loading description, moment-arm comparison, contact distinction, ligament-recruitment inference, linked graph, stability definition, and skeletal-primary survival test;
+1. external biomechanics review of every free-body statement, combined-loading description, moment-arm comparison, contact distinction, ligament-recruitment inference, linked graph, stability definition, and skeletal-first survival test;
 2. musculoskeletal anatomy review of bone, articular, cartilage, ligament, capsular, and linked-segment wording;
-3. authorial-intent review of skeletal-primary routing, structural resolution, positive hard/soft application, alignment restraint, and the posterior/preferred-configuration seam;
+3. authorial-intent review of skeletal-first accounting, structural resolution, positive hard/soft application, alignment restraint, and the Book II skeletal-primary and posterior/preferred-configuration seam;
 4. medical-coauthor review confirming that ordinary variation, implant evidence, support variants, fatigue evidence, and stability remain descriptive rather than diagnostic, prognostic, preventive, or prescriptive;
 5. figure registration, mechanics, anatomy, source-provenance, accessibility, grayscale, caption, rights, and final-art review;
 6. final source refresh and bibliography normalization, including exact metadata, page-level support, publication-date convention, funding/conflicts, and newer evidence;
@@ -181,6 +181,6 @@ The following extension gates remain closed without new control, evidence, and r
 
 ## Internal decision and next action
 
-Chapter 5 passes its controlled first-draft gate. It converts Chapter 4's spatial grammar into anatomy, treats skeletal-primary routing as a useful but defeasible first-order assumption, establishes bone as living and deformable, replaces fixed hinges with moving distributed contact, separates ligament length from force, and traces a cooperative skeletal graph across the recurring transfer. It shows why configuration matters without converting appearance into exposure or quality, and it defines stability as an achieved relation under declared conditions.
+Chapter 5 passes its controlled first-draft gate. It converts Chapter 4's spatial grammar into anatomy, uses skeletal-first accounting as a useful but defeasible opening reduction while reserving formal skeletal-primary routing for Book II, establishes bone as living and deformable, replaces fixed hinges with moving distributed contact, separates ligament length from force, and traces a cooperative skeletal graph across the recurring transfer. It shows why configuration matters without converting appearance into exposure or quality, and it defines stability as an achieved relation under declared conditions.
 
 The draft is ready for the Chapter 5 → Chapter 6 seam and later Part II integration. It is not publication-approved. Specialist review may narrow individual bone, knee, support, or stability passages without removing the chapter's valid job: to show how skeletal geometry creates changing shape-preserving possibilities that active, tensile, compliant, sliding, pressure-bearing, and control systems must make usable.

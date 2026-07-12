@@ -56,7 +56,7 @@ An output should be judged by the decision it was designed to inform. A precise 
 
 ## Track 1: Research
 
-Research begins with one declared relation along the book's causal chain: task and environment, configuration and available paths, external demand and internal distribution, local exposure, material or biological response, and a later finding, symptom, function, participation, or outcome. A study should state which link it observes, which it measures or calculates, which it represents with a model, and which it leaves open.
+Here, the research track has the narrower job of testing proposed physical and causal relations; every other track also requires research methods appropriate to its own question. This track begins with one declared relation along the book's causal chain: task and environment, configuration and available paths, external demand and internal distribution, local exposure, material or biological response, and a later finding, symptom, function, participation, or outcome. A study should state which link it observes, which it measures or calculates, which it represents with a model, and which it leaves open.
 
 The six adverse-organization families developed in Part III generate concrete questions. Does a change in geometry redistribute a defined force or moment? Does an interface concentrate stress or strain under a stated condition? Does a segment fail to maintain a relation during a task? Does timing alter a handoff between named carriers? Does an imposed boundary maintain deformation or reduce excursion? Does a compensation shift exposure, preserve performance, or do both at different times? These are candidate relations, not generic searches for proof that biomechanics matters.
 
@@ -152,7 +152,7 @@ The six tracks prevent one kind of result from becoming another. A second contro
 >
 > ```text
 > ORIGIN
-> direct formulation | earlier project material | model-generated extrapolation | traditional correspondence
+> direct authorial formulation | prior internal formulation | theoretical extrapolation | traditional correspondence
 > embodied observation | external evidence | mixed
 >       |
 >       v
@@ -181,7 +181,7 @@ The six tracks prevent one kind of result from becoming another. A second contro
 >
 > **Text alternative.** A vertical record begins with source origin, then names the exact object and domain, method and evidence state, alternatives and obligations, licensed output, prohibited inference, and an optional handoff. Every handoff carries uncertainty and a new stopping condition.
 
-Origin matters without fixing destiny. An embodied observation can generate a task or construct for measurement. If a later experiment finds a reproducible relation, the measured relation gains external support; the original experience does not become a direct measurement of anatomy or force. A traditional correspondence can motivate a comparison without serving as proof of mechanics. A generated equation can be replaced by a corrected and validated model, but the generator does not become a scientific source. Favorable evidence upgrades the tested proposition, not everything upstream of it.
+Origin matters without fixing destiny. An embodied observation can generate a task or construct for measurement. If a later experiment finds a reproducible relation, the measured relation gains external support; the original experience does not become a direct measurement of anatomy or force. A traditional correspondence can motivate a comparison without serving as proof of mechanics. A theoretical extrapolation can be corrected, formalized, and tested, but the initial extrapolation does not become a scientific source. Favorable evidence upgrades the tested proposition, not everything upstream of it.
 
 A handoff should therefore read like a compact contract between tracks. It names the result being transferred, the domain in which it was obtained, the uncertainty that remains, the stronger inference still prohibited, and the new question the receiving track will ask. Measurement might receive a task-specific mechanical relation from research and ask whether a proposed quantity represents it. Therapeutic development might receive a qualified measure and use it only as a mediator, not as a diagnostic label. Implementation might receive evidence of benefit for a named population while retaining uncertainty about another setting. Health-system development might receive a mature component while reopening cost, access, opportunity cost, and governance. At each crossing, the receiving track adds a burden; it does not erase the burden already carried.
 

@@ -12,7 +12,7 @@ Chapter 5 can be drafted around a bounded anatomical proposition:
 
 > Bones, articular surfaces, and recruited restraints provide the body's clearest relatively shape-preserving architecture, but a usable skeletal route exists only through changing contact, active force, tensile support, pressure, and tissue cooperation.
 
-This proposition keeps the archive's central insight—that skeletal geometry matters to how gross demand is organized—without treating bone as rigid, a joint as a fixed hinge, visible alignment as a verdict, or the skeleton as an autonomous chain. The chapter may use **skeletal-primary routing** as a declared first-order modeling assumption for gross gravitational and external structural demand. It may not present that assumption as an empirical conclusion established by Book I, and it may not use it to derive Book II's preferred configuration.
+This proposition keeps the archive's central insight—that skeletal geometry matters to how gross demand is organized—without treating bone as rigid, a joint as a fixed hinge, visible alignment as a verdict, or the skeleton as an autonomous chain. Chapter 5 may use **skeletal-first accounting** as a declared opening reduction for gross gravitational and external structural demand: begin with skeletal geometry and external contacts, then restore the other terms needed to close the balance. The formal **skeletal-primary routing** assumption remains Book II work and cannot be derived from the Chapter 5 reduction.
 
 The external source base supports several narrower claims: bone deforms under ordinary activity; cortical bone behavior depends on loading direction and mode; joint loads and moments change with task; articular contact locations move with configuration; different ligament bundles change length differently through motion; and support conditions can materially alter measured joint forces. Those findings make the chapter's model plausible and testable. They do not establish a unique whole-body route, one optimal alignment, a universal posterior solution, or a medical consequence.
 
@@ -28,7 +28,7 @@ The external source base supports several narrower claims: bone deforms under or
 | Ligament contribution is recruited by position, direction, and task rather than acting as a binary end stop | FND/SYN | In-vivo bundle-length studies and bounded cadaveric force studies | Length is not force; one knee experiment cannot generalize to all ligaments or ordinary activity |
 | A linked skeletal route is cooperative and multicarrier | SYN/HYP | Force balance, explicit contacts, and anatomical continuity | No single resultant is presumed to pass unchanged through every segment |
 | Stability is sufficient maintenance or recovery of usable relations under declared conditions | SYN | Operational definition plus perturbation- and task-specific measures | Stability is not stillness, symmetry, maximal stiffness, or a neutral pose |
-| Skeletal-primary routing is a useful first-order assumption | authorial modeling assumption | Project model and engineering reduction | It remains defeasible when active, tensile, pressure, inertial, or external-support terms dominate |
+| Skeletal-first accounting is a useful opening reduction | authorial modeling choice | Project model and engineering reduction | First in the analysis is not primary in the body; weaken or abandon it when another representation is more informative |
 
 ## Quantity and inference controls
 
@@ -95,9 +95,9 @@ A robotic cadaver study of a simulated pivot shift found that the relative force
 
 Together these studies permit a careful statement: ligamentous restraints can guide an articulation because different fibers and structures become mechanically relevant under different geometries and demands. They do not justify the archive's simpler assertion that ligaments are passive stabilizers forced to rescue every misaligned joint.
 
-## Skeletal-primary routing as a controlled reduction
+## Skeletal-first accounting as a controlled reduction
 
-The author's first-order intuition is that gross structural demand should, to a useful approximation, be organized principally through the skeleton. Chapter 5 should state this openly and modestly. The model is useful because mineralized bones and articular geometry preserve gross relations more clearly than many neighboring tissues over ordinary task phases. It provides a tractable starting graph for gravitational and externally applied demand.
+The author's first-order intuition is that skeletal geometry provides a useful opening representation of gross structural demand. Chapter 5 should state this openly and modestly. The reduction is useful because mineralized bones and articular geometry often preserve gross relations more clearly than many neighboring tissues over ordinary task phases. It provides a tractable starting graph for gravitational and externally applied demand without asserting that the skeleton is empirically primary in the completed system.
 
 The reduction is not anatomical exclusion. A skeletal node or edge has no functioning route unless the model includes the contacts and forces that make it available. Muscle produces and redirects force. Tendon transmits it. Ligaments and capsules constrain motion. Cartilage and fluid share contact demand. Pressure can support shape. Fascia and sliding interfaces couple or separate regions. Ground, furniture, water, tools, and other people can alter external support. Chapter 6 develops those systems; Chapter 5 keeps them visible as unresolved terms.
 
@@ -117,7 +117,7 @@ For every linked skeletal trace, record:
 
 ### Model survival tests
 
-The skeletal-primary assumption remains productive in a selected example only when:
+The skeletal-first accounting pass remains productive in a selected example only when:
 
 - the declared skeletal graph helps close force and moment balance;
 - its nodes and contacts correspond to anatomical interfaces rather than a decorative line;
@@ -232,7 +232,7 @@ The chapter's model is weakened for a selected system when:
 ### First-draft gate
 
 - Keep the full claim chain visible wherever appearance or geometry approaches exposure.
-- State skeletal-primary routing as an authorial first-order assumption at first use.
+- State skeletal-first accounting as a defeasible opening reduction at first use and reserve formal skeletal-primary routing for Book II.
 - Use at least two viable configurations and one support-modified variant.
 - Recall Chapter 3's hard role in one sentence; do not re-teach the full polarity.
 - Keep active, tensile, compliant, sliding, pressure, and external-support terms visible as unresolved contributors.
@@ -251,7 +251,7 @@ The chapter's model is weakened for a selected system when:
 
 **Owned here:** deformable skeletal geometry, articular contact, recruited restraint, linked skeletal possibilities, and conditional stability.
 
-**Named but non-load-bearing:** skeletal-primary routing; the possibility that posterior structures often provide important support.
+**Named but non-load-bearing:** skeletal-first accounting; the possibility that posterior structures often provide important support.
 
 **Chapter 6 inherits:** muscle, tendon, fascia, cartilage material behavior, capsules, glide, fluids, pressure, and baseline tone as cooperating systems.
 
@@ -259,7 +259,7 @@ The chapter's model is weakened for a selected system when:
 
 **Chapters 11–19 inherit:** interruption, concentration, maintained deformation, instability, compensation, scale transition, and tissue response.
 
-**Book II owns:** preferred configuration, signed generalized modes, an efficiency criterion, all-Yang organization, and the derivation of posterior necessity.
+**Book II owns:** formal skeletal-primary routing, preferred configuration, signed generalized modes, an efficiency criterion, all-Yang organization, and the derivation of posterior necessity.
 
 **Books III–V own:** traditional channel correspondence, breath as a driver, bandhas, assessment, correction, and practice.
 

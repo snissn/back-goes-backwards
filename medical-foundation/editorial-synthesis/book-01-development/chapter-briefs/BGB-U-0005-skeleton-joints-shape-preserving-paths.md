@@ -16,7 +16,7 @@
 
 This chapter turns Part I's abstract shape-preserving role into anatomy. It establishes bones, joint surfaces, contact, ligamentous restraint, and linked skeletal geometry as the clearest structures through which gross demand can be organized while movement remains possible. The skeleton is neither an inert frame nor a visual alignment code. It is a deformable, adapting architecture whose available routes change with configuration, contact, active control, tissue state, task, and scale.
 
-The chapter also gives *skeletal-primary routing* its bounded Book I meaning. For a first-order account of gravitational and external structural demand, skeletal geometry may be treated as a principal route of resolution. That assumption does not remove muscle, tendon, ligament, cartilage, fascia, pressure, sensation, or control from the system, and it does not establish one preferred route. Chapter 6 will add those cooperating systems explicitly.
+The chapter also gives *skeletal-first accounting* its bounded Book I meaning. For a first-order account of gravitational and external structural demand, the analysis may begin with skeletal geometry and external contacts, then restore every active, tensile, pressure-mediated, compliant, inertial, and external-support term required to close the balance. First in the analysis does not mean primary in the body. The named *skeletal-primary routing* assumption remains Book II work, and Chapter 6 adds the cooperating systems explicitly.
 
 **This chapter must:**
 
@@ -72,7 +72,7 @@ The chapter opens at the instant the recurring object leaves its support and the
 | Joint contact | A distributed, configuration-dependent interaction across articular surfaces | One fixed point or frictionless pin | Chapter 5 |
 | Congruence | Geometric correspondence of contacting surfaces under stated position and loading | Inherent stability or health | Chapter 5 |
 | Ligamentous guidance | Position- and direction-dependent tensile recruitment that constrains and helps organize motion | Passive rope or simple end stop | Chapters 5–6 |
-| Skeletal-primary routing | First-order assumption that gross structural demand is principally resolved through skeletal architecture | Claim that every internal load travels through bone or that soft tissues are unloaded | Project memo and Book II formalization |
+| Skeletal-first accounting | Opening reduction that maps skeletal geometry and external contacts before restoring the other terms needed for balance | Claim that the skeleton is empirically primary or that other carriers are secondary | Chapter 5; formal skeletal-primary routing belongs to Book II |
 | Stability | Ability to maintain or recover usable relations under a defined task and perturbation | Stillness, symmetry, maximal stiffness, or one neutral pose | Chapter 5; Chapter 14 treats instability |
 | Alignment | A descriptive spatial relation among structures at a stated time and frame | Diagnosis, optimality, or preferred configuration | Chapters 4–5; Book II owns preference |
 
@@ -238,12 +238,12 @@ Compare two people or two trials with visibly similar segment positions but diff
 
 - Ordinary variation, asymptomatic findings, adaptive configurations, and multiple viable task strategies.
 - Cases in which active force, external support, pressure, or material state matters more than visible skeletal geometry.
-- A null branch in which skeletal-primary routing adds no useful prediction beyond conventional segment mechanics.
+- A null branch in which the skeletal-first graph adds no useful prediction beyond conventional segment mechanics.
 
 ### Provenance and salvage
 
 - Preserve the archive's emphasis on skeletal geometry, joint contact, ligamentous restraint, and transmission.
-- Preserve skeletal-primary routing as a first-order assumption, not an established universal law.
+- Preserve the skeletal-first accounting pass as a defeasible Book I reduction; reserve formal skeletal-primary routing for Book II.
 - Reject generated language that converts alignment into diagnosis, prevention, or systemic health.
 
 ### Required review
@@ -259,9 +259,9 @@ Compare two people or two trials with visibly similar segment positions but diff
 
 The chapter uses mechanical accounting because living bodies are mechanically constrained, while preserving adaptation, active control, material change, sensation, and biological response. The simplification is useful only where its boundary is named.
 
-### “A skeletal-primary model ignores muscles and connective tissue.”
+### “A skeletal-first graph ignores muscles and connective tissue.”
 
-It is a first-order route assumption for gross structural demand, not a complete system. The chapter repeatedly marks active and tensile inputs, and Chapter 6 supplies the omitted architecture.
+It is an opening accounting pass for gross structural demand, not a complete system or a claim of bodily primacy. The chapter repeatedly marks active, tensile, pressure-mediated, compliant, inertial, and external-support terms, and Chapter 6 supplies the omitted architecture.
 
 ### “Alignment differences are common and often unrelated to pain.”
 
@@ -275,9 +275,9 @@ The operational definition is task performance and recovery of usable relations.
 
 **Owned by Book I:** Skeletal geometry, deformable bone, joint contact, ligamentous guidance, linked-segment continuity, and conditional stability.
 
-**Named but non-load-bearing:** Skeletal-primary routing as a productive first-order assumption; posterior skeletal continuity as a later anatomical focus.
+**Named but non-load-bearing:** Skeletal-first accounting as a productive Book I reduction; posterior skeletal continuity as a later anatomical focus.
 
-**Deferred to Book II:** Preferred configuration, signed generalized modes, the all-Yang organization, and any efficiency criterion selecting one skeletal regime.
+**Deferred to Book II:** Formal skeletal-primary routing, preferred configuration, signed generalized modes, the all-Yang organization, and any efficiency criterion selecting one skeletal regime.
 
 **Deferred to Book III:** Traditional channel or Six-Division correspondence with skeletal and tensile anatomy.
 

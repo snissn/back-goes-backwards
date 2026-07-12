@@ -60,9 +60,11 @@ The compact formulation—
 
 —should remain visible as the project's organizing proposal. Its defensible technical translation is relational:
 
-- a **hard role** is relatively shape-preserving, constraining, force-transmitting, or structurally resolving for the defined demand;
+- a **hard role** is relatively shape-preserving, path-establishing, constraining, or structurally resolving for the defined demand;
 - a **soft role** is relatively form-receiving and shape-conforming, remaining available to yield, glide, contain, expand, buffer, regulate, or change local shape; and
 - the same tissue or assembly can exchange or combine roles across directions, scales, states, and tasks.
+
+Either role may transmit substantial force. Transmission alone does not assign the role.
 
 This polarity is motivated by TCM hard/soft and Yin/Yang concepts. The signpost preserves the model's provenance; it does not claim that the Book I mechanical vocabulary is a definitionally exact translation or that traditional correspondence validates the mechanical hypothesis.
 

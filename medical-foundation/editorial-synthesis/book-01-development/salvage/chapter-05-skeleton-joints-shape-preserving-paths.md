@@ -44,12 +44,12 @@ It reconstructs those ideas through deformable bone, moving articular contact, r
 
 | Source locator | Recoverable intent | Disposition | Chapter 5 use or destination |
 |---|---|---:|---|
-| `project-model-memo.md:70-78` | Gross demand should preferentially find capable structural routes; hard/soft division of labor | D/R | State skeletal-primary routing as a first-order assumption, not a proven universal law |
+| `project-model-memo.md:70-78` | Gross demand should preferentially find capable structural routes; hard/soft division of labor | D/R/P | Use a skeletal-first accounting pass in Book I; protect formal skeletal-primary routing for Book II |
 | `project-model-memo.md:254-300` | Shape-preserving/form-receiving roles; compliant structures can be loaded normally; adverse substitution question | D/P | Apply relational hard role to skeletal assemblies; Chapter 13 owns maintained adverse substitution |
 | `01-medical-foundations.md` Chapter 5 structure | Geometry, deformable bone, moving contact, ligament guidance, linked route, conditional stability | D | Authoritative narrative spine together with accepted brief |
 | `BGB-U-0005-skeleton-joints-shape-preserving-paths.md:15-232` | Chapter job, reader arc, controlled terms, and seven-part sequence | D | Direct drafting architecture |
 | `claim-evidence-ledger.md` Chapter 5 families | Geometry constrains possibilities; configuration changes mechanics through intermediate relations | D | Claim posture and inference controls |
-| `model-registry.md` nested systems, quantity stack, load-path family, and hard/soft model | Explicit boundaries, quantities, networks, and role assignment | D | Governs recurring object trace and skeletal-primary reduction |
+| `model-registry.md` nested systems, quantity stack, load-path family, and hard/soft model | Explicit boundaries, quantities, networks, and role assignment | D | Governs recurring object trace and skeletal-first reduction |
 | `planning/recurring-object-transfer-specification.md` | Neutral phase structure and system-boundary ladder | D | Primary worked example; no lifting instruction |
 | `new/inputs/outlines/11-section-01.json` `/Section 1/1.../1.2 Hard Tissue Dynamics` | Bones, joints, and ligaments as a foundational structural architecture; geometry and integrity matter to demand sharing | R | Preserve centrality, stability, and transfer; replace rigid/neutral/systemic language |
 | Same JSON `/1.2.1 Structural Alignment` | Changing skeletal relation changes force trajectories, local moments, contacts, and compensatory requirements | R/P | Chapter 5 develops intermediate mechanics; universal optimum and clinical cascade defer |
@@ -190,7 +190,7 @@ The older “levers, fulcrums, and force pathways” material also survives, but
 
 After prose exists, verify that:
 
-- skeletal-primary routing is visibly a first-order modeling assumption;
+- skeletal-first accounting is visibly a defeasible opening reduction, while formal skeletal-primary routing remains deferred to Book II;
 - every use of *alignment* names a frame and a specific mechanical consequence;
 - bone is called deformable and living before any rigid-segment simplification;
 - contact location, contact area, pressure, stress, strain, deformation, and response remain distinct;

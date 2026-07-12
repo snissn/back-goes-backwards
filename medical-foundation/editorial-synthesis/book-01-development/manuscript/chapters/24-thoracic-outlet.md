@@ -1,4 +1,4 @@
-# Chapter 24 — Thoracic outlet: a soft structure held under constraint
+# Chapter 24 — Thoracic outlet: a form-receiving structure held under constraint
 
 ## A chain with a missing middle
 
@@ -236,7 +236,7 @@ The thoracic-outlet composite supplies a bounded example of how a surrounding re
 
 It places imposed demand before the geometry that demand may help maintain. It assigns shape-preserving and form-receiving roles without reducing them to tissue classes. It distinguishes the corridor from the artery, the wall from the lumen, the lumen from flow, local pathology from distal perfusion, and all of these from symptoms and diagnosis. It allows an external relation to become an intrinsic or mixed state through time. It puts alternatives and null observations inside the mechanism instead of attaching them as disclaimers after the conclusion.
 
-The resulting arterial account is strong at its endpoints and incomplete at its center. A focal right bony relation, right subclavian stenosis and post-stenotic dilation, a filling defect interpreted as local thrombus, distal occlusion, collateralization, and an objective pressure difference were observed together. Repeated deformation producing wall injury or another material-state change is the weakest, reconstructed arrow. The case's bilateral category shows why focal geometry must replace a generic anomaly label; independent cervical-rib occurrence and provocative waveform changes in healthy participants show that anatomy and dynamic geometry are not sufficient. The venous comparison shows why a later state cannot recover an initiating history. The tendon comparison shows that only the questions—not the vascular evidence—generalize to another soft structure.
+The resulting arterial account is strong at its endpoints and incomplete at its center. A focal right bony relation, right subclavian stenosis and post-stenotic dilation, a filling defect interpreted as local thrombus, distal occlusion, collateralization, and an objective pressure difference were observed together. Repeated deformation producing wall injury or another material-state change is the weakest, reconstructed arrow. The case's bilateral category shows why focal geometry must replace a generic anomaly label; independent cervical-rib occurrence and provocative waveform changes in healthy participants show that anatomy and dynamic geometry are not sufficient. The venous comparison shows why a later state cannot recover an initiating history. The tendon comparison shows that only the questions—not the vascular evidence—generalize to another form-receiving relation.
 
 That is enough for an informative mechanical narrative. The load-routing lens adds a disciplined account of what bears, receives, maintains, changes, and persists. Diagnosis, causal certainty, and treatment selection remain separate clinical tasks.
 

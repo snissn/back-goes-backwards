@@ -208,7 +208,7 @@ Introduce opposition, complementarity, mutual dependence, transformation, interi
 
 #### 4.2 Hard and soft inherited from Book I
 
-Recap only the seam: a hard role relatively preserves or imposes geometry and helps transmit or resolve gross demand; a soft role receives form and changes with surrounding geometry and load. Bone and vessel provide clear limiting examples, while muscle, tendon, fascia, cartilage, pressure-supported cavities, and coordinated assemblies can combine or exchange roles.
+Recap only the seam: a hard role relatively preserves or imposes geometry, establishes a path, constrains motion, or structurally resolves gross demand; a soft role receives form and changes with surrounding geometry and load. Bone and vessel provide clear limiting examples, while muscle, tendon, fascia, cartilage, pressure-supported cavities, and coordinated assemblies can combine or exchange roles. Either role may transmit substantial force; transmission alone does not assign the role.
 
 #### 4.3 The proposed mechanical correspondence
 

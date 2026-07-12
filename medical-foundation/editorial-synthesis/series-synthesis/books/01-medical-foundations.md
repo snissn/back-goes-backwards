@@ -146,7 +146,7 @@ Introduce work and energy only as far as needed to discuss absorption, storage, 
 Unit BGB-U-0003 · state accepted · posture SYN/HYP · confidence E1 · medical M2 · readiness R2
 Tags domain:biomechanics, model:hard-soft, mech:load-path, mech:substitution, use:organizing-model · gates INTENT, DEF, FORM, EVID, LINK, ALT, MEAS
 
-**Chapter summary.** Hard and soft form a functional polarity and division of mechanical labor. A hard role is relatively shape-preserving, force-transmitting, or structurally resolving at the scale under discussion. A soft role is relatively form-receiving and shape-conforming: it yields rather than imposing geometry, enabling containment, glide, flow, pressure response, buffering, and local shape change. Fascia or muscle to tendon or ligament to bone or joint remains a first-order candidate handoff, while tissues can exchange roles with direction, state, scale, and task.
+**Chapter summary.** Hard and soft form a functional polarity and division of mechanical labor. A hard role is relatively shape-preserving, path-establishing, constraining, or structurally resolving at the scale under discussion. A soft role is relatively form-receiving and shape-conforming: it yields rather than imposing geometry, enabling containment, glide, flow, pressure response, buffering, and local shape change. Either role may transmit substantial force; transmission alone does not determine the role. Fascia or muscle to tendon or ligament to bone or joint remains a first-order candidate handoff, while tissues can exchange roles with direction, state, scale, and task.
 
 **Chapter introduction.** Start from the project's compact intuition—“Load wants to travel through the hard body so that the soft body can remain soft”—and immediately identify the vocabulary as a flexible mechanical translation motivated by TCM hard/soft and Yin/Yang concepts, not as a claim of exact definitional identity. Treat it as a proposal about mechanical organization rather than a tissue taxonomy. The reader should understand why a yielding structure may carry substantial load and why a strong tissue may still be performing a soft role in a particular direction or task.
 
@@ -156,7 +156,7 @@ Return to the integrated body introduced in Chapter 1. Successful support requir
 
 #### 3.2 The hard role: establishing and resolving a path
 
-Define a hard role as relatively shape-preserving, force-transmitting, constraining, or geometrically organizing. Bone is the clearest example, but a tensioned tendon, active muscle, ligament, fascial sheet, pressurized cavity, or coordinated multi-structure assembly may also make a route mechanically firm in a particular direction.
+Define a hard role as relatively shape-preserving, path-establishing, constraining, or geometrically organizing. Bone is the clearest example, but a tensioned tendon, active muscle, ligament, fascial sheet, pressurized cavity, or coordinated multi-structure assembly may also make a route mechanically firm in a particular direction. Force transmission can accompany either role and is not sufficient to assign one.
 
 #### 3.3 The soft role: receiving form and remaining available to change
 

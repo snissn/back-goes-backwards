@@ -53,7 +53,7 @@ The project's compact intuition is:
 
 The polarity and its vocabulary are motivated by TCM hard/soft and Yin/Yang concepts. Book I translates that motivation into a flexible mechanical distinction; it does not claim that the terms are definitionally identical to any one traditional formulation or require the reader to accept the later TCM-coordinate model.
 
-The sentence is an organizing proposal about a division of mechanical labor. It does not classify bone as always hard or other tissues as always soft. It does not mean that compliant structures should bear no load. It proposes that gross structural demand is generally best resolved through capable, mechanically continuous, relatively shape-preserving and force-transmitting routes, leaving form-receiving structures sufficiently free to yield, conform, glide, contain, expand, regulate, and recover within their functional ranges.
+The sentence is an organizing proposal about a division of mechanical labor. It does not classify bone as always hard or other tissues as always soft. It does not mean that compliant structures should bear no load. It proposes that gross structural demand is generally best resolved through capable, mechanically continuous, relatively shape-preserving routes that transmit and resolve that demand, leaving form-receiving structures sufficiently free to yield, conform, glide, contain, expand, regulate, and recover within their functional ranges.
 
 The appropriate scale, direction, task, time horizon, and measure of “sufficiently free” must be stated whenever the proposal becomes a technical or medical claim.
 
@@ -95,11 +95,11 @@ Routing is the distribution of demand among available structures and paths. Cont
 
 ### Hard and soft roles
 
-A hard role is relatively shape-preserving, force-transmitting, constraining, or structurally resolving at the scale under discussion. Bone is the clearest example, but active muscle, tendon, ligament, fascia, cartilage, a pressurized cavity, or a coordinated assembly can perform a hard role in a particular direction and task.
+A hard role is relatively shape-preserving, path-establishing, constraining, or structurally resolving at the scale under discussion. Bone is the clearest example, but active muscle, tendon, ligament, fascia, cartilage, a pressurized cavity, or a coordinated assembly can perform a hard role in a particular direction and task. Either role may transmit substantial force; transmission alone does not determine the role.
 
 A soft role is relatively form-receiving and shape-conforming. It yields rather than imposing geometry and thereby remains available for functions such as glide, containment, expansion, buffering, flow, pressure response, and local shape change. Softness is not weakness, passivity, absence of load, or a synonym for anterior anatomy.
 
-One tissue can perform hard and soft roles simultaneously in different directions or exchange roles as activation, pressure, geometry, timescale, or task changes. The terms retain their TCM-derived project history, but Book I uses them as an explicit mechanical polarity. It does not require the reader to accept a TCM channel model.
+One tissue can perform hard and soft roles simultaneously in different directions or exchange roles as activation, pressure, geometry, timescale, or task changes. The terms retain their TCM-motivated project history, but Book I uses them as an explicit mechanical polarity. It does not require the reader to accept a TCM channel model.
 
 ### Mechanical homeostasis and capacity
 
@@ -303,7 +303,7 @@ The book should:
 
 Avoid moralizing anterior and posterior, treating compliant as inferior, calling all load stress or all deformation damage, implying that visible symmetry equals mechanical efficiency, or using “topological,” “invariant,” “ground state,” “tensegrity,” or similar formal terms beyond the precision actually established.
 
-Traditional origins should be credited without forcing either mystical endorsement or reductive dismissal. Book I may explain that hard/soft is a mechanical translation of a TCM-derived polarity; the full traditional correspondence belongs later.
+Traditional origins should be credited without forcing either mystical endorsement or reductive dismissal. Book I may explain that hard/soft is a mechanical translation of a TCM-motivated polarity; the full traditional correspondence belongs later.
 
 ## 17. Chapter-development standard
 

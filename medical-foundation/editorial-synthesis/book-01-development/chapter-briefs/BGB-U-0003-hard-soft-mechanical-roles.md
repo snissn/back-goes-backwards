@@ -14,7 +14,7 @@
 
 ## Chapter job
 
-This chapter owns Book I's abstract hard/soft polarity and its provenance. It develops the author's compact statement—“Load wants to travel through the hard body so that the soft body can remain soft”—as a relational division of mechanical labor. A hard role is relatively shape-preserving, path-establishing, force-transmitting, or structurally resolving under stated conditions. A soft role is relatively form-receiving and shape-conforming: it yields rather than imposing geometry, remaining available to deform, glide, contain, expand, recoil, and recover as its function requires.
+This chapter owns Book I's abstract hard/soft polarity and its provenance. It develops the author's compact statement—“Load wants to travel through the hard body so that the soft body can remain soft”—as a relational division of mechanical labor. A hard role is relatively shape-preserving, path-establishing, constraining, or structurally resolving under stated conditions. A soft role is relatively form-receiving and shape-conforming: it yields rather than imposing geometry, remaining available to deform, glide, contain, expand, recoil, and recover as its function requires. Either role may transmit substantial force; transmission alone does not determine the role.
 
 The terminology is motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts. Book I names that motivation immediately because it is part of the model's intellectual origin, but the traditional correspondence is neither a scientific validation nor a definitionally exact identity. This chapter translates the motivating polarity into a mechanical question that can be inspected: which structures or assemblies preserve enough organization to resolve a selected demand, and which remain free to receive form and change shape?
 
@@ -69,7 +69,7 @@ Open with the recurring object task and the compact hard/soft intuition, naming 
 
 | Term | Working definition | Required qualifier |
 |---|---|---|
-| Hard role | Relatively shape-preserving, path-establishing, force-transmitting, constraining, or structurally resolving behavior | Scale, direction, task, state, phase, and timescale |
+| Hard role | Relatively shape-preserving, path-establishing, constraining, or structurally resolving behavior | Scale, direction, task, state, phase, and timescale; force transmission alone does not assign the role |
 | Soft role | Relatively form-receiving and shape-conforming behavior that yields rather than imposing geometry | Reference or surrounding geometry, needed deformation or excursion, task, state, and timescale |
 | Division of labor | A task-specific relation in which gross demand is resolved while structures retain the deformation and movement needed for their functions | System boundary, carriers, selected demand, and functional requirement |
 | Role exchange | A change in which relation is comparatively shape-preserving or form-receiving | Direction or phase before and after the change |
@@ -77,7 +77,7 @@ Open with the recurring object task and the compact hard/soft intuition, naming 
 | Substitution | A form-receiving tissue or interface takes on a consequential path-establishing or boundary role | Exposure, duration, capacity, and consequence remain separate questions |
 | Hard body / soft body | Project shorthand for the current organization of roles across an assembly | Never a fixed anatomical coloring of the person |
 
-Containment, buffering, sliding, flow, pressure response, and local shape change are possible functions enabled by form reception. They are not separately sufficient definitions of softness. Likewise, stiffness, strength, and load fraction may help operationalize a hard role but do not define it universally.
+Containment, buffering, sliding, flow, pressure response, and local shape change are possible functions enabled by form reception. They are not separately sufficient definitions of softness. Either role may transmit substantial force. Likewise, stiffness, strength, force transmission, and load fraction may help characterize a relation but do not define a hard role universally.
 
 ## Argument sequence
 

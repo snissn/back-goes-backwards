@@ -56,7 +56,9 @@ The draft explicitly distinguishes all six required destinations:
 | Clinical use | a decision or patient-facing outcome compared with alternatives, burden, and harm | validity from public comprehension or professional interest | Pass; explicitly not authorized |
 | Research | construct definition, measurement, comparison, disfavoring result, and revision | utility or implementation from reproducibility alone | Pass |
 
-The six destinations are neither pooled nor presented as a ladder of automatic maturity. Clinical use remains a downstream object requiring separate validation rather than a hidden application of Chapter 27. Research can return a null or adverse result to the component that failed without converting that result into a global verdict on biomechanics.
+The six application destinations are neither pooled nor presented as a ladder of automatic maturity. The draft now distinguishes them from Chapter 29's six development tracks: the destinations name where a component may be used, while the tracks name the kind of development work being done and can operate across domains. Clinical use remains a downstream object requiring separate validation rather than a hidden application of Chapter 27. The Chapter 29 research track is defined narrowly around proposed physical and causal relations, while research methods remain necessary across all tracks. A null or adverse result returns to the component that failed without becoming a global verdict on biomechanics.
+
+The draft also makes the literacy vocabulary explicit. Movement literacy names the broader educational domain; mechanical literacy names this book's narrower proposed contribution concerning demand, support, exposure, and uncertainty. The evidence claims remain attached to the narrower construct.
 
 ## Outcome-separation audit
 

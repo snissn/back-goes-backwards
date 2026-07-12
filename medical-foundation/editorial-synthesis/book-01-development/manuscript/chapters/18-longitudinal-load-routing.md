@@ -119,7 +119,7 @@ But breadth is not novelty. If an ergonomic assessment, rehabilitation record, b
 
 ## Cumulative exposure is real—and metric-dependent
 
-The archive's concern with repeated demand has strong precedent. Occupational biomechanics and epidemiology have studied peak, cumulative, and time-varying physical exposures for decades. That work supports the importance of history while warning against treating cumulative load as one natural scalar.
+The concern with repeated demand has strong precedent. Occupational biomechanics and epidemiology have studied peak, cumulative, and time-varying physical exposures for decades. That work supports the importance of history while warning against treating cumulative load as one natural scalar.
 
 In a case–control comparison of 104 automotive workers reporting low-back pain and 130 controls, Norman and colleagues examined peak and cumulative variables derived from task observations, hand-force estimates, trunk kinematics, and modeled lumbar loads. The retained factors included an integrated lumbar moment over a shift, usual hand force, peak modeled shear, and peak trunk velocity.[^18-05] The result supports mixed peak-and-history exposure models. It does not identify one universal accumulation rule or recover an individual's internal route.
 

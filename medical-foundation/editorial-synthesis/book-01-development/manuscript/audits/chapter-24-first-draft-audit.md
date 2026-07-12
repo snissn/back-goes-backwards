@@ -1,6 +1,6 @@
 # Chapter 24 first-draft audit
 
-**Chapter:** *Thoracic outlet: a soft structure held under constraint*
+**Chapter:** *Thoracic outlet: a form-receiving structure held under constraint*
 **Audit date:** 2026-07-11
 **Decision:** Passes the internally controlled first-draft gate; publication gates remain open
 **Files audited:** `manuscript/chapters/24-thoracic-outlet.md` against the accepted Chapter 24 brief, focused phenotype comparison, controlled-salvage sheet, pilot closure, drafting style guide, and linked claim, model, example, and figure records

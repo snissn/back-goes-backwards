@@ -119,7 +119,7 @@ Figure 29.2 and its supporting prose define one cross-track record containing:
 7. receiving track and question; and
 8. retained uncertainty and a new stopping condition.
 
-Direct authorial formulation, archive material, generated extrapolation, traditional correspondence, embodied observation, external evidence, and mixed origin remain distinct. An embodied observation can generate a measurable task without becoming a force measurement. Traditional correspondence can motivate comparison without proving anatomy. A corrected model can replace a generated equation without making the generator a source. Later evidence upgrades the proposition tested rather than its entire provenance chain.
+Direct authorial formulation, prior internal formulation, theoretical extrapolation, traditional correspondence, embodied observation, external evidence, and mixed origin remain distinct. An embodied observation can generate a measurable task without becoming a force measurement. Traditional correspondence can motivate comparison without proving anatomy. A theoretical extrapolation can be corrected, formalized, and tested without becoming a scientific source retrospectively. Later evidence upgrades the proposition tested rather than its entire provenance chain.
 
 The handoff prose makes every crossing add an evidentiary burden. Research may transfer a relation to measurement. Measurement may transfer a qualified mediator to therapeutic development without creating a diagnosis. Therapeutic results may transfer a mature object to implementation while retaining population and setting limits. Implementation may transfer a component to health-system development while reopening cost, access, opportunity cost, and governance.
 

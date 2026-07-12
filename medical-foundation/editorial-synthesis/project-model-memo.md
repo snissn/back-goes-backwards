@@ -251,15 +251,15 @@ A **force line** may therefore refer to one of several related objects: an exter
 
 ## 8. Hard and soft mechanical roles
 
-“Hard” and “soft” are a project-specific, TCM-derived functional polarity. They should not be reduced to a binary anatomical inventory.
+“Hard” and “soft” are a project-specific functional polarity motivated by TCM hard/soft and Yin/Yang concepts. They should not be reduced to a binary anatomical inventory or presented as a definitionally exact translation of the traditional terms.
 
-A **hard role** is relatively shape-preserving and structurally resolving at the scale and time under discussion. It may transmit compression, tension, shear, bending, or torque while maintaining a usable geometry. Bone often performs this role in compression and bending; tendon and ligament can perform it in tension; joint geometry, active muscle, fascia, and pressurized compartments can also contribute to it.
+A **hard role** is relatively shape-preserving, path-establishing, constraining, or structurally resolving at the scale and time under discussion. It may transmit compression, tension, shear, bending, or torque while maintaining a usable geometry. Bone often performs this role in compression and bending; tendon and ligament can perform it in tension; joint geometry, active muscle, fascia, and pressurized compartments can also contribute to it. Either role may transmit substantial force; transmission alone does not determine the role.
 
 A **soft role** is relatively form-receiving and shape-conforming. In the intended Yin sense, it yields rather than imposing geometry: it deforms in response to surrounding constraints and loads, taking the shape available to it. That yielding may enable excursion, containment, buffering, pressure change, flow, sliding, or local shape adaptation, but those are expressions of softness rather than its definition. Muscle, fascia, cartilage, vessels, nerves, viscera, fluid-filled spaces, and other tissues may perform soft roles, but none is mechanically passive. A muscle can shift between yielding, transmitting, and shape-preserving roles; a tendon is anatomically soft tissue but may function as part of the hard body under tension. The polarity therefore depends on scale, direction, time, state, and task.
 
 The central principle is a division of labor, not an instruction to eliminate soft-tissue loading:
 
-> Gross structural demand should be resolved primarily through continuous, shape-preserving and force-transmitting pathways, while soft structures remain free to yield, conform, and change shape within their functional ranges rather than becoming substitute load-bearing boundaries.
+> Gross structural demand should be resolved primarily through continuous, shape-preserving pathways capable of resolving it, while soft structures remain free to yield, conform, and change shape within their functional ranges rather than becoming substitute load-bearing boundaries.
 
 The phrase “soft-to-hard” is best understood in this functional sense. It does not require load to pass through a universal sequence of tissue types. It asks whether compliant and active tissues can guide, buffer, and transmit demand into a coherent structural route, and whether that route ultimately resolves the demand without requiring vulnerable or highly deformable structures to maintain an imposed geometry chronically.
 
@@ -378,7 +378,7 @@ For the first book, this framing is best preserved as a motivating future direct
 - **Mechanical bottleneck:** A region or interface at which geometry, compliance, contact, or limited excursion concentrates demand or restricts transmission, movement, or flow.
 - **Posterior loading:** Greater load carriage by posterior structures; an anatomical observation, not a primitive coordinate.
 - **Extension:** A conventional anatomical movement. It may correlate with Yang organization but is not identical to it.
-- **Hard/soft:** A project-specific, TCM-derived functional polarity, not a literal tissue classification. “Hard” describes a relatively shape-preserving, force-transmitting, or structurally resolving role. “Soft” describes a relatively form-receiving and shape-conforming role: it yields rather than imposing geometry, deforming with surrounding constraints and loads. Containment, buffering, sliding, flow, and pressure response are possible expressions of that softness. The role depends on scale, direction, time, state, and task, and a tissue may perform both.
+- **Hard/soft:** A project-specific functional polarity motivated by TCM, not a literal tissue classification. “Hard” describes a relatively shape-preserving, path-establishing, constraining, or structurally resolving role. “Soft” describes a relatively form-receiving and shape-conforming role: it yields rather than imposing geometry, deforming with surrounding constraints and loads. Containment, buffering, sliding, flow, and pressure response are possible expressions of that softness. Either role may transmit substantial force; transmission alone does not determine the role. The role depends on scale, direction, time, state, and task, and a tissue may perform both.
 - **Mechanical homeostasis:** The proposed maintenance of mechanical variables within viable dynamic ranges. It does not yet imply one fixed set point.
 - **Phase:** Position within a temporal cycle, such as breathing or gait—not a fourth spatial dimension.
 - **Load-routing regime transition:** A qualitative reorganization of the body's load-path field or network.
@@ -491,7 +491,7 @@ The first deep audit of the `new` JSON outlines changes the working assessment o
 
 The structure to preserve is:
 
-- **Section 1:** the integrated body; skeletal and compliant tissue roles; local, regional, and body-wide scales; and six families of mechanical breakdown—geometric change, instability, concentration, discoordination, constraint, and compensation.
+- **Section 1:** the integrated body; skeletal and compliant tissue roles; local, regional, and body-wide scales; and six families of adverse mechanical organization—global or regional redistribution, local concentration, segmental or task-specific instability, timing or handoff failure, constraint-maintained deformation or lost excursion, and compensatory rerouting. Scale transition changes the analytical boundary rather than adding a seventh family.
 - **Section 2:** the hard/soft division of labor; posterior-chain anatomy and mechanics; upright tasks; changing capacity across the lifespan; failure of load transfer; and explicit limits of the model.
 - **Section 3:** the mechanism-first medical sequence—common ground, missing framework, causal boundaries, upstream medical relevance, cumulative demand, clinical integration, and research.
 - **Section 4:** three-dimensional reasoning, the proposed signed modes, Six Division mapping, bandha hypotheses, competing internal maps, and the tradition-to-mechanics translation problem.

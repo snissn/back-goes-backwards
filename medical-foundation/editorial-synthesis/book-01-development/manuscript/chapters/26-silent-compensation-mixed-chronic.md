@@ -106,9 +106,9 @@ Changed recruitment can also preserve output. During experimentally induced deep
 > | E | Dates are missing, measures conflict, or several routes predict the same observations | One route gains independent support while alternatives fail |
 > | F | Mechanical measures remain unchanged as the endpoint changes, while another account explains more | A reproducible, specific mechanical relation adds information |
 >
-> **Caption.** Route A preserves the archive's silent-compensation hypothesis, but it begins with the same visual weight as reverse causation, shared cause, successful adaptation, unresolved plurality, and low mechanical priority. These are causal comparisons, not diagnoses.
+> **Caption.** Route A preserves the silent-compensation hypothesis, but it begins with the same visual weight as reverse causation, shared cause, successful adaptation, unresolved plurality, and low mechanical priority. These are causal comparisons, not diagnoses.
 >
-> **Text alternative.** Six routes show different temporal orders and outcomes. A table gives each route observations that would raise its priority and observations that would lower or stop it. The preferred archive sequence is one branch rather than the default answer.
+> **Text alternative.** Six routes show different temporal orders and outcomes. A table gives each route observations that would raise its priority and observations that would lower or stop it. The silent-compensation sequence is one branch rather than the default answer.
 
 The six routes are not mutually exclusive for all time. A strategy can begin as useful protection, persist after its original job disappears, and later correspond with a different exposure. Pain can change movement, and the changed movement can then modify subsequent symptoms. A common work or health change can affect both. The question is not which label owns the person. It is which order best explains a defined endpoint over a defined interval, and where feedback changes that order.
 

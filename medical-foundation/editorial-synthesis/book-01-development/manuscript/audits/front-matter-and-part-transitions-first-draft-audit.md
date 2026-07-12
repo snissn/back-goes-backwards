@@ -43,7 +43,7 @@ Failure of the stronger hypothesis is stated to leave the Book I foundation inta
 
 Hard and soft are consistently roles, not permanent tissue classes. The reader-facing definition is:
 
-- comparatively shape-preserving, force-transmitting, constraining, or structurally resolving; and
+- comparatively shape-preserving, path-establishing, constraining, or structurally resolving, while recognizing that force transmission alone assigns neither role; and
 - comparatively form-receiving and shape-conforming, with the capacity to yield, glide, contain, expand, buffer, receive pressure, or change local shape.
 
 Role assignment is always relative to direction, scale, phase, task, and relation. Softness is not weakness, hard is not bone alone, and the polarity is not an anterior/posterior moral ranking. The wording is **motivated by** traditional Chinese medicine; no file uses the rejected inspiration wording or claims definitional identity with traditional categories.

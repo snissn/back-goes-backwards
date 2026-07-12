@@ -220,7 +220,7 @@ Chronology alone does not select a branch. A symptom appearing after repeated wo
 
 A useful model must retain ordinary nulls. Two people can complete the same task with visibly different strategies and no measured adverse change in the observed period. The same person can repeat a task while skill improves and local exposure stays similar, rises, or falls. A support can change exposure without changing symptoms. Symptoms can change while the selected mechanical measure changes little. These comparisons prevent every difference from being renamed hidden overload.
 
-The adverse branches remain important. The archive that motivated this framework asks how modest but repeated or poorly resolved demands might accumulate, shift among carriers, precede symptoms, or contribute to later consequences. Those questions are preserved, not answered by assertion. The next chapters separate interrupted handoff, concentration, maintained constraint, instability, and compensation so each proposed failure family receives its own mechanics and alternatives. Tissue-specific biology and condition-specific meaning require later bridges.
+The adverse branches remain important. The questions that motivated this framework include how modest but repeated or poorly resolved demands might accumulate, shift among carriers, precede symptoms, or contribute to later consequences. Those questions are preserved, not answered by assertion. The next chapters separate interrupted handoff, concentration, maintained constraint, instability, and compensation so each proposed failure family receives its own mechanics and alternatives. Tissue-specific biology and condition-specific meaning require later bridges.
 
 ## A changing margin is not a score
 

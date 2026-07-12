@@ -63,7 +63,7 @@ The following archive intentions are preserved in the first-draft plan:
 5. Magnitude, direction, rate, duration, repetition, sequence, variability, rest, state, and recovery remain distinguishable exposure dimensions rather than entries in one invented score.
 6. A load path can be linear, branching, distributed, active, pressure-mediated, or time-varying, provided that every carrier and quantity is named.
 7. Embodied continuity is preserved as phenomenological evidence and a hypothesis generator rather than either being erased or declared a measured anatomical cable.
-8. Posterior organization, coupled-motion hypotheses, and TCM-derived interpretations remain protected later-series research questions. Chapter 2 supplies the grammar by which they can eventually be stated and tested.
+8. Posterior organization, coupled-motion hypotheses, and TCM-motivated interpretations remain protected later-series research questions. Chapter 2 supplies the grammar by which they can eventually be stated and tested.
 
 ## Quarantined expressions and protected questions
 
