@@ -13,7 +13,7 @@ The order is:
 7. Part VI opening and Chapters 27–30; and
 8. the consolidated bibliography.
 
-Chapter 30 closes Part VI and the book, so there is no additional Part VI synthesis after it. [`assemble-first-draft.rb`](assemble-first-draft.rb) records every exact input path and writes `book-i-first-draft.md`. [`build-bibliography.rb`](build-bibliography.rb) collects and deduplicates the chapter source notes into `back-matter/bibliography.md` before assembly.
+Chapter 30 closes Part VI and the book, so there is no additional Part VI synthesis after it. [`assemble-first-draft.rb`](assemble-first-draft.rb) records every exact input path and writes `book-i-first-draft.md`. [`build-bibliography.rb`](build-bibliography.rb) collects the chapter source notes and deduplicates annotated source records by their complete canonicalized DOI set, complete link set, or normalized text before writing `back-matter/bibliography.md` and assembling the book.
 
 Run from the repository root:
 

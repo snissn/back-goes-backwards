@@ -2,6 +2,7 @@
 # frozen_string_literal: true
 
 require "pathname"
+require "uri"
 
 ROOT = Pathname.new(__dir__)
 CHAPTERS = ROOT.join("chapters")
@@ -14,12 +15,50 @@ chapter_paths = (1..30).map do |number|
   matches.first
 end
 
+def link_urls(entry)
+  urls = []
+  cursor = 0
+
+  while (start = entry.index("](", cursor))
+    position = start + 2
+    depth = 1
+    destination = +""
+
+    while position < entry.length && depth.positive?
+      character = entry[position]
+      if character == "("
+        depth += 1
+        destination << character
+      elsif character == ")"
+        depth -= 1
+        destination << character if depth.positive?
+      else
+        destination << character
+      end
+      position += 1
+    end
+
+    urls << destination if depth.zero? && destination.match?(/\Ahttps?:\/\//i)
+    cursor = [position, start + 2].max
+  end
+
+  urls
+end
+
+def canonical_url(url)
+  URI::DEFAULT_PARSER.unescape(url).downcase
+end
+
 def source_key(entry)
-  dois = entry.scan(/https:\/\/doi\.org\/[^)\s]+/i).map(&:downcase).uniq.sort
+  urls = link_urls(entry)
+  dois = urls.filter_map do |url|
+    match = url.match(/\Ahttps?:\/\/(?:dx\.)?doi\.org\/(.+)\z/i)
+    "https://doi.org/#{URI::DEFAULT_PARSER.unescape(match[1]).downcase}" if match
+  end.uniq.sort
   return "doi:#{dois.join('|')}" unless dois.empty?
 
-  urls = entry.scan(/\]\((https?:\/\/[^)]+)\)/i).flatten
-  return "url:#{urls.join('|').downcase}" unless urls.empty?
+  canonical_urls = urls.map { |url| canonical_url(url) }.uniq.sort
+  return "url:#{canonical_urls.join('|')}" unless canonical_urls.empty?
 
   "text:#{entry.downcase.gsub(/[*_`]/, '').gsub(/\s+/, ' ').strip}"
 end
@@ -44,11 +83,12 @@ end
 
 OUTPUT.dirname.mkpath
 body = +"# Bibliography\n\n"
-body << "This first-draft bibliography consolidates the sources documented in the chapter endnotes. " \
-        "Where a source appears in more than one chapter, one complete annotated entry is retained here; " \
-        "the chapter notes preserve the proposition-specific use and limit. Publication editing will normalize " \
-        "house style and recheck metadata without changing the evidentiary job of a source.\n\n"
+body << "This first-draft bibliography consolidates the annotated source records documented in the chapter endnotes. " \
+        "Where the same record appears in more than one chapter, one complete entry is retained here. Composite " \
+        "records remain intact, so an individual source may appear again when its annotation or source grouping differs. " \
+        "The chapter notes preserve each proposition-specific use and limit. Publication editing will normalize house " \
+        "style and recheck metadata without changing the evidentiary job of a source.\n\n"
 sorted.each { |record| body << "- #{record[:entry]}\n" }
 
 OUTPUT.write(body, encoding: "UTF-8")
-puts "Wrote #{sorted.length} unique source records to #{OUTPUT.relative_path_from(ROOT)}"
+puts "Wrote #{sorted.length} unique annotated source records to #{OUTPUT.relative_path_from(ROOT)}"
