@@ -2,7 +2,7 @@
 
 **Scope:** `BGB-U-0002`, `BGB-U-0013`, and `BGB-U-0024`
 
-**Status:** Core authorial directions recorded; technical, anatomical, and clinical gates remain open
+**Status:** Core directions and bounded first-draft decisions closed; publication-stage technical, anatomical, and clinical gates remain open
 
 ## Purpose
 
@@ -14,9 +14,9 @@ The relevant control documents are the [claim-evidence ledger](../claim-evidence
 
 | Decision | Question | Recorded direction | Remaining gate |
 |---|---|---|---|
-| `BGB-DEC-0001` | What makes hard/soft analytically additive? | Authorially accepted as a relational polarity motivated by TCM hard/soft and Yin/Yang concepts: shape-preserving and form-receiving roles | Formal observability and bounded counterexample review |
-| `BGB-DEC-0002` | Which non-lumen system tests Chapter 13? | Authorially accepted: flexor tendon–SSCT relative glide; median-nerve excursion retained as reserve | Anatomical, measurement, and figure review |
-| `BGB-DEC-0003` | How should thoracic outlet anchor Chapter 24? | Use objective aTOS as the best-evidenced anchor, not subtype taxonomy as the chapter's thesis | Medical review, source table, and figure rights |
+| `BGB-DEC-0001` | What makes hard/soft analytically additive? | Authorially accepted as a relational polarity motivated by TCM hard/soft and Yin/Yang concepts: shape-preserving and form-receiving roles | First-draft observability and counterexamples are specified; external formal review remains a publication gate |
+| `BGB-DEC-0002` | Which non-lumen system tests Chapter 13? | Authorially accepted: flexor tendon–SSCT relative glide; median-nerve excursion retained as reserve | First draft is bounded to neutral calibration; anatomy, measurement, and final figure review remains a publication gate |
+| `BGB-DEC-0003` | How should thoracic outlet anchor Chapter 24? | Use objective aTOS as the best-evidenced anchor, not subtype taxonomy as the chapter's thesis | The source-grounded composite is internally draft-authorized; medical, vascular, final anatomy, and rights review remains a publication gate |
 | `BGB-DEC-0004` | What role should thrombotic venous TOS retain? | Preserve it as a compact event-to-retained-state evidence comparison and later full-case candidate | Medical review of the timeline and boundary |
 | `BGB-DEC-0005` | How should the shorter comparison work? | Reuse tendon–SSCT variables under a distinct transfer record; retain neurogenic TOS only where it prevents evidence transfer across tissues | Evidence-specific comparison design and Figure 012 |
 | `BGB-DEC-0006` | How much tube-law mathematics belongs in reader-facing prose? | Keep causal relations and assumptions in the chapter; place detailed equations in a figure note or technical appendix | Chapter 13 density and figure design |
@@ -92,17 +92,17 @@ This choice favors clarity and defensibility, but the focal anatomy → repeated
 
 Thrombotic venous TOS provides a richer account of repetition, history, intrinsic change, collateralization, and a new response to future demand. Its initiating exposure is more often reconstructed rather than observed directly. It should lead only if the chapter's primary purpose changes from demonstrating the cleanest full chain to demonstrating a mixed state evolving through time.
 
-### Remaining gate
+### Publication gate
 
-Obtain medical-coauthor and relevant specialist review of the narrower teaching job and composite form; build a source table for every fact and arrow; confirm image rights; and retain the reconstructed status of repeated injury. The [focused phenotype comparison](../evidence/thoracic-outlet-phenotype-comparison.md) completes the selection comparison but not these clinical and production gates.
+The first-draft source-to-proposition table is complete. Before publication, obtain medical-coauthor and relevant vascular review of the narrower teaching job and composite form; audit every final fact and arrow against its provenance; confirm image rights; and retain the reconstructed status of repeated injury. The [focused phenotype comparison](../evidence/thoracic-outlet-phenotype-comparison.md) completes the selection comparison but not these clinical and production gates.
 
 ## BGB-DEC-0004 — Role of thrombotic venous TOS
 
-### Decision required
+### Recorded decision
 
 Preserve the time-dependent venous material without overloading the arterial-led chapter or reducing it to a discarded alternative.
 
-### Present recommendation
+### First-draft direction
 
 Retain thrombotic venous TOS as a compact event-to-retained-state mini-timeline (`BGB-X-0009`) and as a candidate for a later full worked narrative. Its protected contribution is the transition:
 
@@ -110,49 +110,49 @@ Retain thrombotic venous TOS as a compact event-to-retained-state mini-timeline 
 
 In Chapter 24, use only enough of this comparison to show why present geometry cannot identify original cause and why an extrinsic relation can become intrinsic or mixed. Do not attempt a second full case unless the arterial case proves too narrow to carry the chapter's intended temporal argument.
 
-### Remaining gate
+### Publication gate
 
 Medical-coauthor approval of the compact timeline and its boundary. If it cannot remain subordinate to the primary case, move the full narrative rather than pooling arterial and venous evidence. The named M3 condition should not migrate wholesale into Chapter 15's generic account of compensation and delayed consequence.
 
 ## BGB-DEC-0005 — Shorter comparison and neurogenic material
 
-### Decision required
+### Recorded decision
 
 Choose a comparison that tests transfer without adding a second medically overloaded chapter inside Chapter 24.
 
-### Present recommendation
+### First-draft direction
 
 Use Chapter 13's tendon–SSCT system and baseline variables as the basis for `BGB-X-0008`, the Chapter 24 transfer test. This creates a deliberate callback without collapsing `BGB-X-0004`, the generic Chapter 13 example, into the medically exposed comparison record. It lets the reader compare a focal arterial case with an excursion-dependent sliding interface while keeping each chapter's evidence and editorial job visible.
 
 Retain neurogenic TOS as a short within-region contrast showing that contact pressure, strain, stiffness, excursion, intraneural circulation, conduction, symptoms, and diagnosis cannot borrow evidence from the arterial chain. Do not ask the neurogenic material to carry a full clinical mechanism in this volume unless the focused evidence materially changes.
 
-### Remaining gate
+### Publication gate
 
 Confirm that the reused comparison exposes at least one genuine failure of analogy and that the neural material remains evidence bookkeeping rather than a second clinical thesis.
 
 ## BGB-DEC-0006 — Mathematical depth of the tube model
 
-### Decision required
+### Recorded decision
 
 Set the technical depth required to be precise without allowing a simplified equation to stand in for a living conduit.
 
-### Present recommendation
+### First-draft direction
 
 Keep the main prose focused on coupled variables and causal order: internal and external pressure, wall behavior, geometry, longitudinal conditions, supports, flow, time, and regulation. Use a figure or technical note to compare representative pressure-area or tube-law formulations and name their assumptions. Do not make a fixed-radius Poiseuille relation the governing biological model.
 
 The text may include a small number of equations when each variable, boundary condition, approximation, and explanatory job is visible. The purpose is dimensional and conceptual control, not mathematical atmosphere.
 
-### Closure requirement
+### Publication gate
 
 Technical review of the definitions sheet and tube-model figure, followed by a sample prose page at the intended reader level.
 
 ## BGB-DEC-0007 — Line of action, load path, and force line
 
-### Decision required
+### Recorded decision
 
 Preserve the project's force-line vocabulary without allowing three different objects to inherit one another's evidence.
 
-### Present recommendation
+### First-draft direction
 
 Keep the current Chapter 2 sequence:
 
@@ -162,7 +162,7 @@ Keep the current Chapter 2 sequence:
 
 Introduce them adjacently because the contrast is instructive, but define and label them separately. One comparison figure can carry the distinction if it uses different notation and evidence status for each panel. The traditional and Yin correspondence remains later-series work.
 
-### Closure requirement
+### Publication gate
 
 Authorial intent review of the embodied panel and technical review of the external and inferred-mechanical panels.
 

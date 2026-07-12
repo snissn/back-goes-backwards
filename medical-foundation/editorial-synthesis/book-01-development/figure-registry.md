@@ -144,7 +144,7 @@ Figures move through `specified → sketched → technical review → evidence r
 - **Rights / provenance:** Original diagram.
 - **Failure to avoid:** A binary diagram that forces every case into purely external or purely internal causation.
 
-## BGB-FIG-01-009 — Thoracic-outlet system boundary
+## BGB-FIG-01-009 — Objective-aTOS system boundary
 
 - **Editorial job:** Orient the selected presentation and expose the anatomy and contacts included in `BGB-C-0015` through `BGB-C-0017`.
 - **Model / example:** `BGB-M-0008`; selected objective-aTOS evidence anchor `BGB-X-0005`.
@@ -184,7 +184,7 @@ Figures move through `specified → sketched → technical review → evidence r
 - **Rights / provenance:** Original diagram.
 - **Failure to avoid:** A generic vascular timeline, treatment narrative, or smooth causal arrow that hides the change from extrinsic to intrinsic or mixed state.
 
-## BGB-FIG-01-012 — What transfers to a second compliant system?
+## BGB-FIG-01-012 — What transfers to tendon–SSCT relative glide?
 
 - **Editorial job:** Test, rather than merely illustrate, the generalization in `BGB-C-0012` through `BGB-C-0014`.
 - **Model / example:** `BGB-M-0006`; selected transfer record `BGB-X-0008`, inheriting neutral variables from `BGB-X-0004` without inheriting its evidence as support for aTOS.
@@ -199,9 +199,9 @@ Figures move through `specified → sketched → technical review → evidence r
 
 ## Production order
 
-1. Sketch `BGB-FIG-01-001` through `005` while the Chapter 2 brief is reviewed.
-2. Technically review the accepted hard/soft relational meaning and selected tendon–SSCT example before commissioning `006` and `008`.
-3. Technically review `007` before any biological conduit analogy is drafted.
-4. Obtain medical-coauthor approval of the selected objective-aTOS evidence anchor and source-grounded composite before producing `009` or `011`.
+1. Draft text-native storyboards for `BGB-FIG-01-001` through `005` with the Chapter 2 first draft; external technical and accessibility review precedes final art.
+2. Draft text-native `006` and `008` under the accepted hard/soft and tendon–SSCT controls; anatomy, biomechanics, and accessibility review precedes final art.
+3. Draft `007` only as a bounded engineering analogy whose biological limits are stated; solid/fluid-mechanics review precedes final art.
+4. Draft text-native `009` and `011` from the controlled objective-aTOS composite; medical-coauthor, vascular, anatomy, provenance, and rights review precedes final art or publication.
 5. Build `010` directly from the evidence ledger so its evidence-state labels cannot outrun the research.
 6. Build `012` from the tendon–SSCT focused pack and preserve every unresolved cell rather than forcing visual symmetry with aTOS.

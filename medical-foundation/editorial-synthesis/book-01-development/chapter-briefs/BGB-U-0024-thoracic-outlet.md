@@ -2,7 +2,7 @@
 
 **Unit:** `BGB-U-0024`
 
-**Status:** Pilot chapter brief for structural, claim, evidence, clinical, and visual review
+**Status:** Accepted `R2`; controlled first draft authorized; clinical publication review open
 
 **Series role:** Book I medically exposed worked narrative; full test of Chapters 13 and 20
 
@@ -18,7 +18,7 @@ Within the vertical slice, this chapter is the stress test. It must use Chapter 
 
 The selected evidence anchor is **objective arterial thoracic outlet syndrome** (`BGB-X-0005`): a defined focal bony relation, objective adjacent subclavian-artery pathology, and a documented distal embolic or ischemic consequence. It is chosen because the observed anatomy, lesion, and distal consequence can be kept visible while the weakest arrow—repeated imposed deformation → wall injury—remains explicitly reconstructed.
 
-The vignette form is a source-grounded composite, not one invented or purportedly complete patient history. Each fact must retain its provenance as a case observation, cohort context, clinical interpretation, mechanical reconstruction, or project-framework application. Medical-coauthor review remains required before the composite becomes draft-ready.
+The vignette form is a source-grounded composite, not one invented or purportedly complete patient history. Each fact must retain its provenance as a case observation, cohort context, clinical interpretation, mechanical reconstruction, or project-framework application. The composite is internally authorized for a bounded first draft under the [Chapter 24 controlled-salvage sheet](../salvage/chapter-24-thoracic-outlet.md); medical-coauthor and relevant vascular review remain required before publication approval.
 
 The chapter is not organized to teach a taxonomy of thoracic-outlet subtypes. It retains two deliberately smaller, structure-specific comparisons only where they clarify the evidence architecture:
 
@@ -208,7 +208,7 @@ The proposed exposure depends on task, external load, anatomy, active control, t
 
 - Target approximately 4,500–5,500 words before notes and figure captions.
 - Use the objective-aTOS evidence anchor, one compact vTOS timeline where it clarifies retained state, and one shorter non-lumen transfer comparison.
-- Do not begin reader-facing vignette prose or commission condition-specific figures until the medical coauthor has approved the objective-aTOS teaching job, composite form, alternatives, and exclusions.
+- First-draft vignette prose may proceed only under the source and provenance controls in the [controlled-salvage sheet](../salvage/chapter-24-thoracic-outlet.md). Do not commission publication anatomy, give clinical advice, or treat the composite as medically approved until the medical coauthor has reviewed the objective-aTOS teaching job, composite form, alternatives, and exclusions.
 - Do not mix vascular and neural evidence.
 - Do not mix venous and arterial pressure–flow relationships under a generic vascular label.
 - Do not present provocative maneuvers, self-palpation, posture correction, or exercises as reader instructions.
@@ -225,9 +225,9 @@ The proposed exposure depends on task, external load, anatomy, active control, t
 
 The `new` Section 1 material preserves the important project questions about corridor deformation, neurovascular structures, posterior or surrounding support, tethering, glide, and cross-system consequences. It should be mined generously for hypotheses, candidate anatomy, and provenance. Its inherited claims that posture or alignment makes a mechanical origin self-evident, that one corridor mechanism represents all thoracic-outlet presentations, or that restoration follows from a generic correction remain salvage problems rather than premises of this case.
 
-## Acceptance criteria
+## Publication acceptance criteria
 
-The brief is ready for drafting when:
+The bounded first draft is authorized by the [Wave 1 pilot-closure record](../decisions/pilot-closure-record.md). Publication approval requires:
 
 - the source-grounded composite has passed medical, provenance, and alternatives review;
 - the case definition requires objective arterial pathology or ischemic consequence rather than generic vascular or umbrella thoracic-outlet language;

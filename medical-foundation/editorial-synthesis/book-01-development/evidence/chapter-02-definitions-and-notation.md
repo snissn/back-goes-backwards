@@ -2,7 +2,7 @@
 
 **Unit:** `BGB-U-0002` — *A Working Language of Load*
 
-**Status:** Technical working pack for formal and reader-level review; not chapter prose and not an evidence-status upgrade
+**Status:** Internally verified for controlled first-draft use as of 2026-07-11; external mechanics, biomechanics, and final visual/accessibility review remain publication gates; not chapter prose and not an evidence-status upgrade
 
 **Controls:** `BGB-C-0001` through `BGB-C-0007`; `BGB-M-0001` through `BGB-M-0004`; `BGB-X-0001` and candidate `BGB-X-0002`; `BGB-FIG-01-001` through `BGB-FIG-01-005`; `BGB-DEC-0007`
 
@@ -36,7 +36,7 @@ Living tissues can be nonlinear, anisotropic, heterogeneous, viscoelastic, poroe
 ### General rules
 
 - Use SI units in calculations and figure labels. A unit does not identify a quantity by itself: moment and work can both reduce to `N m`, while stress, pressure, and energy density can all reduce to `Pa`.
-- Bold symbols denote vectors or second-order tensors; italic symbols denote scalars. Every tensor is tied to a stated basis or frame when components are shown.
+- In source text, semantic type is controlled by the definitions and symbol table rather than by Markdown styling alone. Final typesetting should use bold symbols for vectors and second-order tensors and italic symbols for scalars. Every tensor is tied to a stated basis or frame when components are shown.
 - Use a right-handed coordinate frame unless a figure explicitly declares another convention. State the origin and axes whenever signs or components matter.
 - Use compression-positive notation for pressure and contact pressure. If normal stress uses the common tension-positive solid-mechanics convention, say so rather than allowing the sign conventions to drift.
 - Angles are dimensionless in SI, but retain `rad` in rotational stiffness, angular velocity, and figure labels when it prevents ambiguity.
@@ -314,7 +314,7 @@ For planar or fixed-axis rotation, the rotational work over an interval is `inte
 **Mathematical object and unit.** The proposed exposure record is:
 
 ```text
-E[q; S, t_0:t_1] = {
+\mathcal{E}[q; S, t_0:t_1] = {
   quantity and location;
   magnitude and direction;
   application rate;
@@ -437,15 +437,55 @@ A Chapter 2 sentence or figure fails this pack if it:
 - draws a load path or force line without quantity, carrier, scale, and provenance; or
 - allows a mechanical description to inherit biological, clinical, traditional, or preferred-configuration meaning without its own bridge claim.
 
-## Provisional choices requiring formal or authorial review
+## Controlled drafting decisions
 
-1. **Vector and tensor typography.** This pack specifies semantic distinctions but not the final font system. Final production must choose bold, arrows, or a hybrid that remains legible in prose, equations, captions, e-readers, and monochrome figures.
-2. **Force versus deformation-gradient collision.** The provisional reader-facing choice is `F` for force and `F_def` for deformation gradient. A mechanics reviewer may prefer standard tensor typography, but the two objects must never appear as an unexplained `F` in the same passage.
-3. **Moment versus torque.** The provisional choice is `M_O` for the mechanical quantity and *torque* as a parenthetical or domain-specific word. This avoids collision with common uses of `τ` for shear stress.
-4. **Finite-deformation depth.** The pack names `F_def` and `E_GL` only to mark the limit of small-strain notation. Chapter 2 should not retain `E_GL` in reader-facing prose unless a later Book I equation actually depends on it.
-5. **Force-line visual language.** `FL_inf` and `FL_emb` are editorial control labels, not necessarily final printed symbols. The embodied panel and terminology remain subject to the authorial-intent review required by `BGB-DEC-0007`.
+The following choices now govern the controlled first draft. They may still be refined during production without reopening the chapter's mechanical grammar.
 
-None of these choices blocks source recovery or exploratory figure sketches. All block final technical approval of `BGB-FIG-01-003` and `BGB-FIG-01-005` until resolved.
+1. **Vector and tensor typography.** The source draft will carry semantic distinctions through explicit definitions, descriptive subscripts, and nearby prose. Final production may choose bold, arrows, or a hybrid, provided that vectors, tensors, and scalars remain distinguishable in prose, equations, captions, e-readers, and monochrome figures.
+2. **Force versus deformation-gradient collision.** Use `F` for force and `F_def` for deformation gradient. The two objects may not appear as an unexplained `F` in the same passage even if later technical typesetting would make them visually distinct.
+3. **Moment versus torque.** Use `M_O` for the mechanical quantity and *torque* as a parenthetical or domain-specific word. Do not introduce `τ` as a competing Chapter 2 symbol.
+4. **Finite-deformation depth.** Retain `F_def` and `E_GL` in this control pack to mark the limit of small-strain notation. Omit `E_GL` from reader-facing Chapter 2 prose unless a retained example actually depends on it.
+5. **Force-line visual language.** Keep `FL_inf` and `FL_emb` as drafting and figure-control labels. Printed prose may name the inferred-internal and embodied senses without exposing the abbreviations. In accordance with `BGB-DEC-0007`, the three senses remain adjacent but separate; the later Yin or traditional correspondence does not enter their Chapter 2 mechanical definition.
+
+These decisions authorize drafting and text-native figure sketches. Final typography and the embodied-panel design remain publication-stage choices, not reasons to delay the first draft.
+
+## Internal formal-verification record
+
+This pack received a bounded internal editorial and formal pass on 2026-07-11. The pass checked the expressions against the source anchors below for object type, dimensions, units, declared sign convention, reference state, system boundary, and observation-versus-inference status. It was not an external specialist review, an experimental validation, or a medical review.
+
+| Area checked | Result for controlled drafting | Residual publication question |
+|---|---|---|
+| System and balance laws | Dynamic force and moment balances are distinguished from the static special case; internal/external status remains boundary-relative | Outside mechanics review of final free-body figures |
+| Force, resultant, moment, and line of action | Vector objects, reference point, lever arm, units, distributed-resultant limit, and pure-couple exception are internally consistent | Technical review of final notation and captions |
+| Traction, contact pressure, fluid pressure, and stress | Object types, `Pa` units, compression-positive pressure convention, tension-positive solid-stress qualification, and `t(n) = σn` relation are internally consistent | Biomechanics review wherever an anatomical interface replaces an idealized one |
+| Deformation and strain | Reference/current configurations, deformation gradient, small-strain limit, and finite-strain guardrail are separated | Final decision on how much finite-deformation notation appears in print |
+| Stiffness, compliance, capacity, work, power, and energy | Units and conjugate variables are separated; moment is not treated as energy; capacity remains operational rather than constitutive | Source-specific review if the draft adds numerical human values |
+| Mechanical exposure history | The exposure record is explicitly ordered and non-summable; derived metrics retain their own units and assumptions | Tissue-specific evidence for any consequential dose metric used later |
+| Load path and force-line senses | Standard mechanics, project model, and embodied observation are distinct in object, notation, and provenance | Final visual and authorial-intent review of the embodied panel |
+| Living-tissue inference chain | Every transition from external contact to local field to biological response exposes an inference or modeling step | External biomechanics review before publication and before any specific anatomical or medical conclusion |
+
+No equation in the pack supplies a posterior preference, decompressive effect, tissue injury threshold, or medical consequence. Such a conclusion would require a separate model and evidence record.
+
+## Claim, model, example, and figure disposition
+
+| Control | First-draft disposition | Limit that remains in force |
+|---|---|---|
+| `BGB-C-0001` through `BGB-C-0006` | **Authorized at their existing evidence states** | Draft from the definitions and models in this pack; do not treat internal verification as an evidence-state upgrade |
+| `BGB-C-0007` | **Authorized as controlled project vocabulary** | Every internal or embodied force line retains `INF`, `MOD`, `HYP`, or `EMB` provenance and cannot inherit the external line of action's measurement status |
+| `BGB-M-0001` through `BGB-M-0004` | **Authorized as explanatory models** | None is a validated unique body-wide route or constitutive law |
+| `BGB-X-0001` | **Selected for the recurring boundary and exposure example** | Each panel must declare phase and static, quasi-static, or dynamic treatment |
+| Idealized deformable strip or block | **Selected for the core local-field example** | It teaches distribution and deformation; it does not stand in for one living tissue |
+| Candidate `BGB-X-0002` | **Optional and nonblocking** | A specific anatomical inset requires its own geometry, source, license, inference chain, and biomechanics review; omit it rather than draft past missing support |
+
+The figure registry remains authoritative for asset state. The table below authorizes only first-draft storyboards or text-native schematics and does not advance a figure from `specified` to a later production state.
+
+| Figure | First-draft readiness | Required constraint | Publication-stage gate |
+|---|---|---|---|
+| `BGB-FIG-01-001` | Ready for a text-native free-body storyboard | Reuse one event; redraw the boundary and force inventory; retain dynamics where acceleration is present | Mechanics and accessibility review of final art |
+| `BGB-FIG-01-002` | Ready for a nested-scale storyboard | Label every transition `MEAS`, `CALC`, `INF`, `MOD`, or separate evidence; do not make the arrows causal completion | Mechanics, biomechanics, and accessibility review |
+| `BGB-FIG-01-003` | Ready using the idealized deformable example | Keep force, moment, traction/pressure, stress, deformation, and strain visually distinct; anatomical inset remains optional | Technical review; anatomy, source, and rights review only if an inset is retained |
+| `BGB-FIG-01-004` | Ready for a time-history storyboard | Show incomparable histories without inventing a universal score or subtracting capacity from exposure | Technical and accessibility review |
+| `BGB-FIG-01-005` | Ready for a controlled three-panel storyboard | Give the external, inferred-internal, and embodied senses different objects, marks, and provenance | Mechanics review of the external and inferred panels; final authorial-intent and accessibility review of the embodied panel |
 
 ## Source anchors
 
@@ -463,12 +503,24 @@ These sources control definitions or delimit biological application; they do not
 10. McBride SH, Silva MJ. [“Adaptive and injury response of bone to mechanical loading.”](https://doi.org/10.1038/bonekey.2012.192) *BoneKEy Reports*. 2012;1:192. Provides one tissue-specific example of magnitude, frequency, cycle structure, rest, and state affecting response; it does not establish a universal dose function.
 11. National Research Council and Institute of Medicine. [“Biomechanics.”](https://www.ncbi.nlm.nih.gov/books/NBK222434/) In: *Musculoskeletal Disorders and the Workplace*. National Academies Press; 2001. Supports the operational separation of external demand, internal tissue exposure, tolerance, and individual capacity while illustrating why those latter terms require endpoint and context.
 
-## Review gate
+## Draft authorization and publication gate
 
-This pack is ready to govern drafting only after:
+This pack is authorized to govern a controlled Chapter 2 first draft now. No unresolved item blocks that draft if it:
 
-- a mechanics reviewer verifies every object type, equation, unit, sign convention, and finite-deformation qualification;
-- a biomechanics reviewer verifies the movement-analysis and living-tissue inference language;
-- the author approves the three force-line senses and the boundary around embodied observation;
-- the figure program adopts one accessible provenance legend; and
-- the final Chapter 2 examples demonstrate, rather than merely repeat, the distinctions above.
+- uses the definitions, notation, provenance labels, and stop rules above;
+- relies on `BGB-X-0001` and the idealized deformable example for its load-bearing instruction;
+- treats candidate `BGB-X-0002` as optional and omits any unsupported anatomical or numerical detail;
+- presents the five figures as storyboards or text-native schematics rather than publication-approved assets;
+- retains the controlled separation among line of action, load path, inferred force line, and embodied force line; and
+- does not use internal formal verification as evidence for a biological, clinical, posterior-preference, or preferred-configuration claim.
+
+Before publication, the final prose, equations, examples, and figures still require:
+
+- an external mechanics review of object type, equation, unit, sign convention, balance, and finite-deformation language;
+- an external biomechanics review of movement-analysis language and every retained living-tissue inference;
+- final authorial-intent review of the embodied force-line panel and its surrounding prose;
+- a single accessible provenance legend applied consistently in the produced figures;
+- source, anatomy, and rights review for any specific anatomical inset; and
+- a final demonstration that the examples make the distinctions operational rather than merely repeating definitions.
+
+Any later addition of numerical tissue values, a tissue-specific dose, a particular internal route, or a medical consequence reopens the relevant evidence and specialist gate. Chapter 2 is therefore **draft-authorized**, not publication-approved and not advanced to a stronger evidence state.

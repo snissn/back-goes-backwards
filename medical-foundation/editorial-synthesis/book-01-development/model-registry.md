@@ -222,10 +222,10 @@ The [Chapter 2 definitions and notation pack](evidence/chapter-02-definitions-an
 - **Publication limit:** One transparent worked hypothesis. It provides no home test, corrective drill, or substitution for clinical evaluation.
 - **Figure links:** `BGB-FIG-01-009`, `BGB-FIG-01-010`, `BGB-FIG-01-011`.
 
-## Registry-wide gates still required
+## Registry-wide first-draft decisions and publication gates
 
-1. Select a notation and mathematical depth suitable for Book I without weakening dimensional precision.
-2. Decide whether *load path* and *force line* share one reader-facing figure or require separate introductions.
-3. Formally review a minimum observable test for the accepted hard/soft role distinction beyond ordinary stiffness and load sharing.
-4. Complete medical and provenance review of the selected objective-aTOS evidence anchor and source-grounded composite before commissioning anatomy or drafting condition-specific prose.
-5. Complete anatomical and measurement review of the selected flexor tendon–SSCT comparison; median-nerve excursion remains the reserve.
+1. The Chapter 2 pack fixes first-draft notation and mathematical depth: explicit objects, units, boundaries, qualitative free bodies, and only equations whose variables and jobs are stated. Final typography and external mechanics review remain publication gates.
+2. *Line of action*, *load path*, and the three *force-line* senses are introduced adjacently but separately in one controlled comparison program; they do not share object type or evidence state.
+3. The accepted hard/soft role distinction may organize the first draft. External formal review must still test its minimum observable beyond ordinary stiffness and load sharing before publication.
+4. The selected objective-aTOS evidence anchor and source-grounded composite may enter internally controlled first-draft prose under its salvage sheet; medical, vascular, and final provenance review remains required before publication approval or final anatomy.
+5. The selected flexor tendon–SSCT comparison may enter as a neutral calibration. Anatomical, ultrasound-method, measurement, and final-figure review remains required before publication; median-nerve excursion remains the reserve.

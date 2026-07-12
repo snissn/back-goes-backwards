@@ -1,6 +1,6 @@
 # Book I Research and Controlled-Salvage Execution Sequence
 
-**Status:** development execution control
+**Status:** active execution control; Waves 0–1 closed for controlled first-draft use; Wave 7 is next
 
 **Scope:** all 30 Book I units, from completed development briefs through research, controlled source salvage, reader-facing drafting, and publication review
 
@@ -15,6 +15,18 @@ The governing sequence is:
 > accepted chapter brief → normalized control records → focused research and evidence table → specialist decision → controlled passage salvage → source-grounded draft → chapter and book-level review
 
 Research may proceed in parallel where dependencies permit. Promotion of claims, models, examples, figures, and passages remains record-specific. Reader-facing prose may begin only when the load-bearing records for that passage have passed their required gates.
+
+## Current execution state
+
+| Milestone | State | Governing record |
+|---|---|---|
+| Wave 0 — briefing layer and control deltas | **Complete** | [Book I brief-acceptance and control-delta docket](../decisions/book-i-brief-acceptance-and-control-delta-docket.md) |
+| Wave 1 — three-unit pilot | **Complete for controlled first-draft use** | [Wave 1 pilot-closure record](../decisions/pilot-closure-record.md) and three locator-level [salvage sheets](../salvage/) |
+| Wave 7 — vertical slice | **Authorized; next drafting milestone** | Chapters 2 → 13 → 24, followed by a cross-slice voice, terminology, provenance, and gate audit |
+| Waves 2–6 — remaining research and salvage | **Staged** | May proceed alongside the slice; each unit must receive a source-grounded drafting packet before prose |
+| Waves 8–9 — full draft and publication review | **Pending** | First-draft completion does not represent specialist or publication approval |
+
+For this execution phase, *first-draft closure* and *publication approval* are deliberately separate. A bounded draft may proceed when every load-bearing proposition has a source, explicit inference, hypothesis label, or visible exclusion. External specialist, rights, accessibility, final-art, and publication-wording reviews remain mandatory before publication and are never implied by first-draft authorization.
 
 ## Authorial directions already in force
 
@@ -94,25 +106,25 @@ The waves below describe promotion order. Search, retrieval, bibliography work, 
 
 #### Chapter 2 — working language and notation
 
-Complete the [definitions and notation pack](../evidence/chapter-02-definitions-and-notation.md). Resolve dimensions, units, boundaries, free bodies, line of action, load path, the controlled senses of *force line*, pressure, stress, strain, dose, capacity, and evidence-state notation. Obtain mechanics, biomechanics, visual, and authorial-intent review.
+Complete the [definitions and notation pack](../evidence/chapter-02-definitions-and-notation.md). Resolve dimensions, units, boundaries, free bodies, line of action, load path, the controlled senses of *force line*, pressure, stress, strain, dose, capacity, and evidence-state notation. Close the internal consistency gate; retain external mechanics, biomechanics, visual, accessibility, and final authorial-intent review for publication.
 
 **Deliverable:** A reviewed definitions sheet; accepted notation and figure specifications; claim/model dispositions; and a locator-level Chapter 2 salvage sheet.
 
 #### Chapter 13 — maintained deformation and lost excursion
 
-Complete the [non-lumen comparison pack](../evidence/chapter-13-non-lumen-comparison.md). Test whether the hard/soft relation adds an observable division of labor beyond ordinary stiffness and load sharing. Review tendon–SSCT anatomy, imaging level, acquisition method, excursion variables, functional endpoint, counterexample, and figure feasibility. Keep recovery, pathological threshold, and downstream health consequence unresolved unless directly supported.
+Complete the [non-lumen comparison pack](../evidence/chapter-13-non-lumen-comparison.md). Test whether the hard/soft relation adds an observable division of labor beyond ordinary stiffness and load sharing. Specify tendon–SSCT anatomy, imaging level, acquisition method, excursion variables, functional endpoint, counterexample, and figure feasibility. Keep recovery, pathological threshold, and downstream health consequence unresolved unless directly supported; retain external anatomy, measurement, biomechanics, and final-figure review for publication.
 
 **Deliverable:** A reviewed tendon–SSCT source table; a hard/soft observability and counterexample decision; accepted scope for the conduit analogy; updated control records; and a locator-level Chapter 13 salvage sheet.
 
 #### Chapter 24 — thoracic-outlet worked narrative
 
-Complete the [phenotype comparison pack](../evidence/thoracic-outlet-phenotype-comparison.md). Build a source row for every consequential fact and causal arrow in the selected objective arterial anchor. Preserve reconstructed exposure as reconstructed, include a genuine negative or noncorresponding comparison, obtain medical and relevant vascular review, and resolve figure provenance and rights. Use venous or neural contrasts only where their variables or evidentiary limits materially improve the chapter.
+Complete the [phenotype comparison pack](../evidence/thoracic-outlet-phenotype-comparison.md). Build a source row for every consequential fact and causal arrow in the selected objective arterial anchor. Preserve reconstructed exposure as reconstructed and include a genuine negative or noncorresponding comparison. Use venous or neural contrasts only where their variables or evidentiary limits materially improve the chapter. Medical, vascular, final anatomy, provenance, rights, and accessibility review remains mandatory before publication.
 
-**Deliverable:** A medically reviewed case-selection record; claim-by-claim evidence table; approved composite provenance; accepted alternatives and boundary statement; figure-rights disposition; updated controls; and a locator-level Chapter 24 salvage sheet.
+**First-draft deliverable:** An internally accepted case-selection record; claim-by-claim evidence table; declared composite provenance; accepted alternatives and boundary statement; draft-asset restrictions; updated controls; and a locator-level Chapter 24 salvage sheet. Publication approval additionally requires condition-specific medical and vascular review, final provenance, and figure-rights disposition.
 
 **Wave deliverable:** One pilot-closure record showing which claims, models, examples, figures, and passages are authorized, limited, deferred, replaced, or quarantined across the three chapters.
 
-**Exit gate:** The pilot has passed its required formal, anatomical, measurement, medical, provenance, and rights gates, or every unpassed item is visibly removed from load-bearing prose. Pilot closure authorizes the vertical-slice drafting lane; it does not make the rest of the book evidence-complete.
+**Exit gate:** The [pilot-closure record](../decisions/pilot-closure-record.md) identifies every authorized, limited, deferred, quarantined, and publication-gated item. Any item lacking external review is either non-load-bearing, explicitly labeled, or excluded from the first draft. This closes the vertical-slice drafting gate without claiming evidence-state promotion, specialist approval, final art, rights clearance, or publication readiness.
 
 ### Wave 2 — Establish the mechanical foundation
 
@@ -221,23 +233,23 @@ Every record for Chapters 20–22 must use the [causal-chain and evidence-state 
 
 **Units:** Chapters 2, 13, and 24
 
-**Entry condition:** Wave 1 closes the relevant evidence and review gates.
+**Entry condition:** Wave 1 closes the controlled first-draft gate and records all remaining publication gates.
 
 This drafting wave should begin as soon as the pilot closes and may run alongside Wave 2 research. It should not wait for every chapter's literature work, because its purpose is to calibrate reader level, density, notation, hypothesis labeling, case form, citation style, visual language, and medical boundaries before the full manuscript is written.
 
 Draft in sequence:
 
-1. Chapter 2, followed by mechanics, reader-level, and visual review;
-2. Chapter 13, followed by hard/soft, anatomy, measurement, and analogy review; and
-3. Chapter 24, followed by medical, vascular, provenance, alternatives, and safety review.
+1. Chapter 2, followed by an internal mechanics, reader-level, and visual audit;
+2. Chapter 13, followed by an internal hard/soft, anatomy, measurement, and analogy audit; and
+3. Chapter 24, followed by an internal medical-boundary, provenance, alternatives, and safety audit.
 
-**Exact deliverable:** Three reviewed reader-facing chapters, their figures and notes, a cross-slice voice and density audit, and a drafting-style decision record for the remaining 27 chapters.
+**Exact deliverable:** Three source-grounded first-draft chapters, text-native figure placeholders and notes, a cross-slice voice and density audit, a publication-gate inventory, and a drafting-style decision record for the remaining 27 chapters.
 
 **Exit gate:** The slice demonstrates that the same control system works in foundational, distinctive-mechanical, and medically exposed prose without hiding uncertainty or turning internal planning language into manuscript text.
 
 ### Wave 8 — Draft the full manuscript by Part
 
-**Entry condition:** The vertical-slice style decisions are accepted and the relevant chapter's evidence, models, examples, figures, and salvage sheet have passed their gates.
+**Entry condition:** The vertical-slice style decisions are accepted and the relevant chapter has an internally closed, source-grounded drafting packet whose unresolved publication gates are explicit.
 
 Research can remain parallel. Reader-facing drafting should proceed by Part and largely in chapter order so that terms, examples, and promises are inherited rather than restated:
 
@@ -250,7 +262,7 @@ Research can remain parallel. Reader-facing drafting should proceed by Part and 
 
 Within a Part, source-note preparation, reference normalization, figure production, and accessibility work may proceed in parallel. Multiple prose drafters may work only from the same accepted controls and must converge through one editorial integrator before a chapter is treated as complete.
 
-**Exact deliverable per chapter:** A clean-sheet reader draft, complete citations and source links, authorized figures and captions, explicit alternatives and boundaries, a post-draft provenance audit, and resolved chapter-level specialist review.
+**Exact deliverable per chapter:** A clean-sheet reader draft, complete citations and source links, text-native figure placeholders and captions, explicit alternatives and boundaries, a post-draft provenance audit, and a chapter-level publication-gate inventory. Final figures and external specialist review belong to Wave 9.
 
 **Exact deliverable per Part:** A continuity-reviewed Part with an opening promise, cumulative argument, conclusion, handoff, repetition audit, and no unresolved load-bearing placeholder.
 
@@ -480,17 +492,15 @@ Good commit units include:
 
 Avoid commits that mix speculative research notes, evidence-state advancement, broad prose rewrites, unrelated figures, and layout changes. An evidence pack and its directly justified control-record updates belong together; unrelated chapter research does not. Before each commit, validate links, inspect the diff for planning contamination or accidental source edits, and state which gate or deliverable the commit closes.
 
-## Immediate executable queue
+## Current executable queue
 
-The next unblocked work is:
+The first five items are complete. The next unblocked work is:
 
-1. complete Wave 0's brief-acceptance and control-delta docket for all 30 units;
-2. close the Chapter 2 definitions and notation decisions;
-3. complete Chapter 13 anatomy, measurement, hard/soft observability, counterexample, and figure review;
-4. complete Chapter 24 claim-by-claim source table, medical review, provenance, alternatives, and rights decisions;
-5. produce the pilot-closure record and three locator-level salvage sheets;
-6. draft and review the Chapter 2 → Chapter 13 → Chapter 24 vertical slice while Wave 2 foundation research begins; and
-7. proceed through Waves 2–6 without waiting for later authorial choices that do not alter the current chapter job.
+1. draft and internally audit the Chapter 2 → Chapter 13 → Chapter 24 vertical slice;
+2. freeze the resulting voice, citation, visual-placeholder, terminology, and uncertainty conventions;
+3. build proposition-level evidence and locator-level salvage packets for Chapters 1 and 3–12 while the slice is integrated;
+4. proceed through Waves 3–6 in dependency order, resolving ordinary editorial choices without waiting for authorial review unless the chapter's thesis or series boundary would materially change; and
+5. draft the remaining 27 chapters by Part, then run the full first-draft integrity audits before publication review begins.
 
 The author does not need to pre-resolve technical, evidentiary, or specialist questions before this queue begins. Authorial review should be requested only when research exposes a genuine choice among materially different arguments, examples, publication boundaries, or later-book destinations.
 

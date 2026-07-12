@@ -92,7 +92,7 @@ Examples move through `candidate → selected → specified → evidence-reviewe
 ## BGB-X-0004 — Flexor tendon–SSCT relative glide
 
 - **Type:** Comparative mechanical example.
-- **State:** Authorially selected; anatomical, measurement, and figure review remain open.
+- **State:** Selected and internally draft-authorized as a neutral calibration; publication-stage anatomical, measurement, and figure review remains open.
 - **System:** Middle-finger flexor digitorum superficialis tendon and adjacent subsynovial connective tissue at the wrist during standardized healthy finger flexion and extension.
 - **Primary job:** Test whether the constraint model remains useful when the measured variables are absolute tendon excursion, SSCT excursion, and relative motion rather than fluid flow through a lumen.
 - **Claim links:** `BGB-C-0012`, `BGB-C-0013`, `BGB-C-0014`.
@@ -108,7 +108,7 @@ Examples move through `candidate → selected → specified → evidence-reviewe
 ## BGB-X-0005 — Objective arterial thoracic outlet syndrome
 
 - **Type:** Named clinical evidence anchor; source-grounded composite proposed.
-- **State:** Authorially selected as the Chapter 24 anchor; medical-coauthor and provenance review remain open. Do not draft the composite as though one patient supplied every fact.
+- **State:** Selected and internally draft-authorized under the Chapter 24 salvage sheet; medical-coauthor, relevant vascular, final provenance, and publication review remains open. Do not draft the composite as though one patient supplied every fact.
 - **Primary job:** Test whether a focal bony relation → reconstructed repeated arterial deformation → objective wall lesion → thrombus, embolus, or occlusion where present → distal arterial or ischemic consequence → clinical presentation can be supported one link at a time.
 - **Claim links:** `BGB-C-0015` through `BGB-C-0018`, `BGB-C-0020` through `BGB-C-0022`.
 - **Model link:** `BGB-M-0008` arterial evidence-anchor branch.
@@ -117,9 +117,9 @@ Examples move through `candidate → selected → specified → evidence-reviewe
 - **Required internal contrasts:** Healthy provocative arterial waveform change; bony variation without aTOS; objective pathology without an ischemic presentation; evidence-state difference between observed endpoints and reconstructed exposure history.
 - **Excluded inferences:** No single posture as universal cause; no extrapolation from one vessel to nerves; no diagnostic home test; no correction or treatment claim.
 - **Figure links:** `BGB-FIG-01-009` through `BGB-FIG-01-011`.
-- **Development decision:** Medical and provenance approval must preserve the narrow teaching job, source-grounded composite architecture, reconstructed repeated-injury arrow, and definition/referral enrichment. The case anchors the regional mechanical narrative; subtype differentiation is not its primary teaching job.
+- **Development decision:** First-draft use must preserve the narrow teaching job, source-grounded composite architecture, reconstructed repeated-injury arrow, and definition/referral enrichment. Medical and provenance approval remains required before publication. The case anchors the regional mechanical narrative; subtype differentiation is not its primary teaching job.
 
-## BGB-X-0006 — Thoracic-outlet neural presentation
+## BGB-X-0006 — Neurogenic thoracic-outlet variable contrast
 
 - **Type:** Named clinical candidate.
 - **State:** Candidate within-region contrast, not the leading vignette.
@@ -136,7 +136,7 @@ Examples move through `candidate → selected → specified → evidence-reviewe
 ## BGB-X-0007 — Arterial noncorrespondence comparison
 
 - **Type:** Required negative comparison.
-- **State:** Selected; final source extraction and figure design pending.
+- **State:** Selected and source-specified for the first draft; final figure design and publication review pending.
 - **Primary job:** Demonstrate that anatomy, geometry, deformation, physiological change, symptoms, and diagnosis need not coincide.
 - **Claim links:** `BGB-C-0021`, `BGB-C-0022`; it also tests `BGB-C-0016` through `BGB-C-0020`.
 - **Model link:** `BGB-M-0008`.

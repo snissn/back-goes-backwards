@@ -2,7 +2,7 @@
 
 **Scope:** BGB-U-0002, BGB-U-0013, and BGB-U-0024
 
-**Status:** Editorial evidence stress test with focused selection packs; not yet an accepted chapter source pack
+**Status:** Accepted internal source map for the controlled first draft; not a systematic review or publication approval
 
 **Search date:** 2026-07-11
 
@@ -278,25 +278,23 @@ The author has accepted this arrangement as a development direction. Medical-coa
 
 ### Chapter 2 definitions and notation
 
-- Working pack complete at [chapter-02-definitions-and-notation.md](chapter-02-definitions-and-notation.md).
-- Resolve final typography, force/deformation-gradient notation, moment/torque language, finite-deformation depth, and printed force-line treatment.
-- Obtain formal, biomechanics, authorial-intent, visual, and accessibility review before drafting approval.
+- Draft-authorized definitions pack complete at [chapter-02-definitions-and-notation.md](chapter-02-definitions-and-notation.md), with locator-level recovery controlled by the [Chapter 2 salvage sheet](../salvage/chapter-02-working-language-of-load.md).
+- The controlled first-draft choices for typography, force/deformation-gradient notation, moment/torque language, finite-deformation depth, and force-line treatment are fixed in that pack.
+- External mechanics, biomechanics, final authorial-intent, visual, and accessibility review remains required before publication approval.
 
 ### Chapter 13 formal and empirical work
 
-- Compare at least two tube-law formulations and state geometry, wall, flow, and boundary assumptions.
-- Add contact, bending, tethering, longitudinal tension, anisotropic loading, pulsatility, and collateral routes only where the selected model can represent them.
-- Separate human, animal, bench, computational, and formal evidence in the source table.
-- Use the selected tendon–SSCT comparison and state exactly what generalizes; retain the median nerve as reserve.
-- Search for recovery after unloading and for transitions from repeatedly recreated deformation to retained material or pathological change.
-- Obtain anatomical and measurement review; leave adverse constraint and recovery unresolved unless new evidence directly supports them.
+- The draft-authorized focused comparison is complete at [chapter-13-non-lumen-comparison.md](chapter-13-non-lumen-comparison.md), with archive recovery controlled by the [Chapter 13 salvage sheet](../salvage/chapter-13-constraint-maintained-deformation.md).
+- The tube-law comparison, system assumptions, evidence-family separation, tendon–SSCT selection, median-nerve reserve, counterexamples, and analogy limits are explicit.
+- Adverse tendon–SSCT constraint, recovery after unloading, pathological threshold, clinical consequence, and intervention remain closed unless new evidence directly supports them.
+- Hand/wrist anatomy, ultrasound method, biomechanics, final figure, rights, and accessibility review remains required before publication approval.
 
 ### Chapter 24 objective-aTOS work
 
-- Focused comparison complete at [thoracic-outlet-phenotype-comparison.md](thoracic-outlet-phenotype-comparison.md).
-- Build the final claim-by-claim source table for the source-grounded composite.
-- Preserve source-observed fact, cohort context, clinical interpretation, mechanical reconstruction, and project-framework application as distinct provenance states.
-- Obtain medical-coauthor, relevant vascular, figure-rights, and pre-drafting literature-refresh approval.
+- The internally accepted focused comparison is complete at [thoracic-outlet-phenotype-comparison.md](thoracic-outlet-phenotype-comparison.md), with composite provenance and claim-by-claim source rows controlled by the [Chapter 24 salvage sheet](../salvage/chapter-24-thoracic-outlet.md).
+- Source-observed fact, cohort context, clinical interpretation, mechanical reconstruction, and project-framework application remain distinct provenance states.
+- The 2026-07-11 refresh adds the first-rib-anomaly case as the primary composite anchor and preserves repeated deformation → wall injury as reconstructed.
+- Medical-coauthor, relevant vascular, final anatomy, figure-rights, and publication-stage evidence refresh remains required before publication approval.
 
 ### Chapter 24 thrombotic-vTOS comparison
 
@@ -311,7 +309,9 @@ The author has accepted this arrangement as a development direction. Medical-coa
 - Do not use a neurodynamic position or shear-wave measurement as proof of pathology.
 - Include asymptomatic variation, test reliability, and alternative diagnoses.
 
-## Review gates before drafting
+## First-draft closure and publication gates
+
+The three pilot packs and locator-level salvage sheets satisfy the internal first-draft gate. They authorize the Chapter 2 → Chapter 13 → Chapter 24 vertical slice under their stated exclusions. They do not represent external specialist approval or advance a claim to a stronger evidence state.
 
 | Gate | Pass condition |
 |---|---|
@@ -328,12 +328,12 @@ The author has accepted this arrangement as a development direction. Medical-coa
 
 If a gate fails, the default response is to narrow the claim, change the evidence anchor, expose the missing arrow, or retain the mechanism as a research program. Failure of one clinical instantiation does not by itself invalidate or delete the generic hard/soft or maintained-constraint model.
 
-## Recorded authorial direction and remaining gates
+## Recorded first-draft direction and remaining publication gates
 
 1. Hard/soft is accepted as a shape-preserving/form-receiving relational polarity motivated by TCM hard/soft and Yin/Yang concepts; its minimum observable still requires formal review.
 2. Tendon–SSCT relative glide is selected for Chapter 13 and the Chapter 24 transfer; anatomy, protocol, measurement, and figure review remain open.
 3. Objective aTOS is selected as Chapter 24's evidence anchor. Thrombotic-vTOS and neurogenic material remain compact, structure-specific comparisons rather than a subtype thesis; medical and provenance review remain open.
-4. Decide how much tube-law and pressure-flow formalism belongs in Chapter 13 versus a figure or technical note, given that no simple equation can stand in for a living vessel.
-5. Decide which direct authorial formulation of hard/soft opens the evidence ladder and how much technical translation immediately follows it.
+4. Chapter 13 keeps coupled pressure, wall, geometry, support, flow, time, and regulation relations in the main prose; representative tube-law detail belongs in a figure note or technical note and cannot stand in for a living vessel.
+5. The hard/soft ladder opens with the direct shape-preserving/form-receiving authorial formulation, immediately followed by its task-relative mechanical translation and the statement that it is motivated by—not identical to—TCM hard/soft and Yin/Yang concepts.
 
-The authorial selection gates are closed. Until the remaining formal, anatomical, measurement, provenance, and clinical gates are approved, the pilot remains a well-specified editorial and research program rather than draft-ready medical prose.
+The authorial selection and controlled first-draft gates are closed. Remaining formal, anatomical, measurement, provenance, clinical, visual, rights, and accessibility reviews are publication gates unless a draft introduces a new numerical, anatomical, biological, diagnostic, or treatment claim. The pilot is therefore ready for the vertical-slice prose pass but is not publication-approved.

@@ -1,6 +1,6 @@
 # Book I Control and Source-Coverage Audit
 
-**Status:** complete development-layer audit; research and publication gates remain open
+**Status:** development-layer audit complete; structure accepted `R2`; pilot closed for controlled first-draft use; full-book research and publication gates remain open
 
 **Scope:** the Book I contract, six-Part structure, all 30 chapter briefs, central registries, shared planning controls, evidence packs, and archive-salvage coverage
 
@@ -17,9 +17,9 @@ Book I now has a coherent development system rather than a pilot surrounded by a
 5. test the framework in four unlike worked narratives; and
 6. convert the result into reasoning, education, research, and a non-load-bearing handoff to the wider series.
 
-The workspace is ready to move from briefing into the [research and controlled-salvage execution sequence](research-and-salvage-execution-sequence.md). It is **not** evidence-complete or publication-ready. The central claim, model, example, and figure registries remain intentionally concentrated on the Chapters 2, 13, and 24 vertical slice; most other briefs identify records “to create” rather than pretending that editorial coherence has already earned a stable scientific or clinical record.
+The workspace has moved through Wave 0 brief acceptance and the bounded Wave 1 pilot closure. Chapters 2, 13, and 24 are authorized for a controlled, source-grounded first-draft vertical slice under the [pilot-closure record](../decisions/pilot-closure-record.md). It is **not** evidence-complete or publication-ready. The central claim, model, example, and figure registries remain intentionally concentrated on that slice; most other briefs identify records “to create” rather than pretending that editorial coherence has already earned a stable scientific or clinical record.
 
-No missing chapter, unresolved book-boundary contradiction, broken local link, unknown referenced control ID, placeholder chapter, or prohibited TCM-provenance wording blocks the next phase. The remaining work consists of explicit acceptance, control promotion, source retrieval, formalization, case selection, specialist review, controlled passage salvage, and staged drafting.
+No missing chapter, unresolved book-boundary contradiction, broken local link, unknown referenced control ID, placeholder chapter, or prohibited TCM-provenance wording blocks drafting. The remaining first-draft work consists of control promotion, source retrieval, formalization, controlled passage salvage, staged drafting, and integrity review. External specialist, provenance, rights, accessibility, final-art, and publication-wording review remains a separate publication phase.
 
 ## Audit basis and authority
 
@@ -53,14 +53,14 @@ The development system consistently preserves the following directions:
 
 | Control | Current artifact | Coverage verdict | Remaining advancement |
 |---|---|---|---|
-| Chapter structure and continuity | [Structure review](../structure-review.md) | All six Parts and 30 units have distinct jobs, entry/exit movement, dependencies, handoffs, and refinement notes | Joint `R2` acceptance; evidence-dependent case decisions; later continuity review after drafting |
-| Brief standard | [Brief template](chapter-brief-template.md) and [coverage plan](chapter-brief-coverage-plan.md) | 30 of 30 drafting-depth briefs present; Chapters 1, 3, and 4 now include explicit narrative arcs; the three pilots retain semantically complete earlier heading variants | Record brief acceptance and deltas in Wave 0; do not restructure pilots merely for cosmetic uniformity |
+| Chapter structure and continuity | [Structure review](../structure-review.md) | All six Parts and 30 units have distinct jobs, entry/exit movement, dependencies, handoffs, and accepted `R2` placement | Evidence-dependent refinement and later continuity review after drafting |
+| Brief standard | [Brief template](chapter-brief-template.md) and [coverage plan](chapter-brief-coverage-plan.md) | 30 of 30 drafting-depth briefs accepted; the three pilots retain semantically complete earlier heading variants | Execute the accepted briefs; do not restructure pilots merely for cosmetic uniformity |
 | Recurring explanatory task | [Recurring-object specification](recurring-object-transfer-specification.md) | One neutral task is controlled across Chapters 1–8 without becoming technique advice | Select exact prop/task phases and support figure provenance during foundation research |
 | Causal and evidence-state grammar | [Causal-chain grammar](causal-chain-and-evidence-state-grammar.md) | Common nodes, arrow discipline, observation states, reconstruction qualifier, alternatives, and nulls available across Parts III–VI | Promote only the repeated records required by evidence tables and drafting |
 | Hard/soft roles | Chapters 3, 6, 13, and 20; `BGB-C-0009`, `BGB-M-0005`, `BGB-FIG-01-006` | Authorial meaning and TCM motivation are aligned; fixed tissue taxonomy and exact correspondence are excluded | Formal observability, comparison with established quantities, anatomy review, TCM provenance review, and counterexamples |
 | Adverse organization | [Adverse-family matrix](adverse-organization-family-matrix.md) | Six families have owners, distinctions, overlaps, transfer rules, nulls, and callbacks | Evidence atlas, candidate measurements, terminology comparison, regional crosswalk, and specialist review |
 | Whole-person integration | [Alternatives and modifiers matrix](whole-person-alternatives-and-modifiers-matrix.md) | Biological, psychological, social, developmental, environmental, and care factors enter named nodes and arrows rather than a closing disclaimer | Domain-specific evidence and condition-appropriate weighting in Chapters 19–26 |
-| Worked narratives | [Selection and comparison control](worked-narrative-selection-and-comparison.md) and Chapter 22 record | Four different inferential jobs, shared causal grammar, alternatives, nulls, provenance, and replacement rules | Select and review Chapters 23, 25, and 26; close Chapter 24's medical, provenance, and rights gates |
+| Worked narratives | [Selection and comparison control](worked-narrative-selection-and-comparison.md) and Chapter 22 record | Four different inferential jobs, shared causal grammar, alternatives, nulls, provenance, replacement rules, and lead selections are recorded | Build Chapters 23, 25, and 26 evidence packets; retain Chapter 24's medical, provenance, and rights gates for publication |
 | Later-book seams | [Later-book seam table](later-book-seam-table.md) | Exact permitted signposts, prohibited load-bearing uses, destination books, inherited foundations, and rejection test recorded | Book I/II joint seam review and later domain-specific formalization |
 | Research and salvage workflow | [Execution sequence](research-and-salvage-execution-sequence.md) | Waves 0–9, source-table standard, promotion gates, review routing, stop rules, and drafting order are explicit | Execute rather than expand the plan further unless evidence changes the architecture |
 
@@ -114,7 +114,7 @@ The development system consistently preserves the following directions:
 
 **Primary sources and controls:** worked-narrative selection control; Chapter 22 record; Chapter 24 evidence and decision packs; adverse-family and whole-person matrices.
 
-**Remaining work:** compare lumbar and limb-joint candidates for Chapter 23; select the Chapter 25 lead after ankle and reserve candidates are assessed; declare and support the source form for Chapter 26; close arterial-TOS claim-by-claim evidence, medical, provenance, and figure-rights gates; complete the cross-case matrix before drafting.
+**Remaining work:** build the Chapter 23 knee-joint-contact lead and lumbar-motion-segment transfer test; build the Chapter 25 recurrent-lateral-ankle-instability packet; support the Chapter 26 transparent hypothetical mixed chronic vignette; retain Chapter 24's medical, vascular, provenance, final-anatomy, and figure-rights publication gates; and complete the cross-case matrix before Part V integration.
 
 ### Part VI — Reasoning, prevention, development, and the wider hypothesis
 
@@ -164,15 +164,13 @@ The correct next source action is therefore passage- and proposition-level recov
 
 These are the remaining decisions that can materially change Book I or its publication state:
 
-1. **Contract and structural acceptance:** record joint acceptance of the working contract and move accepted unit placements from provisional `R1` to `R2` where appropriate. This does not block research that cannot alter the chapter job.
-2. **Pilot closure:** complete formal review for Chapter 2, anatomy and measurement review for Chapter 13, and medical, causal, provenance, negative-comparison, and figure-rights review for Chapter 24.
-3. **Worked-case selection:** select or replace the leading systems in Chapters 23, 25, and 26 after comparing evidence accessibility, teaching value, nulls, source form, and review burden.
-4. **Control promotion:** create the minimal book-wide claim, model, example, and figure records required for repetition control and evidence synthesis.
-5. **Evidence retrieval:** build exact source tables for every load-bearing proposition and causal arrow, including opposing and null evidence.
-6. **Formal and anatomical review:** close dimensional, frame, model, tissue, anatomy, measurement, and figure obligations before assertive prose.
-7. **Medical and whole-person review:** close condition-specific, clinical, causal, psychology/social-context, ethics, scope, and non-substitution gates for exposed chapters.
-8. **Traditional provenance review:** verify the early *motivated by* statement and compact closing mapping through TCM history, terminology, and authorial-intent review without making correspondence evidentiary.
-9. **Production review:** establish image provenance, permissions, accessibility, citation style, cross-Part repetition control, and final production standards only after underlying records stabilize.
+1. **Control promotion:** create the minimal book-wide claim, model, example, and figure records required for repetition control and evidence synthesis.
+2. **Evidence retrieval:** build exact source tables for every load-bearing proposition and causal arrow, including opposing and null evidence.
+3. **Worked-case evidence:** complete source form, causal chains, nulls, alternatives, and replacement tests for the selected Chapter 23, 25, and 26 leads.
+4. **Formal and anatomical review:** internally check dimensional, frame, model, tissue, anatomy, measurement, and figure obligations for first-draft use; retain external specialist approval for publication.
+5. **Medical and whole-person review:** internally bound condition-specific, clinical, causal, psychology/social-context, ethics, scope, and non-substitution claims; retain exposed publication claims for relevant specialist review.
+6. **Traditional provenance review:** verify the early *motivated by* statement and compact closing mapping through TCM history, terminology, and authorial-intent review without making correspondence evidentiary.
+7. **Production review:** establish final image provenance, permissions, accessibility, cross-Part repetition control, and production standards only after the manuscript and underlying records stabilize.
 
 ## Nonblocking observations
 
@@ -186,24 +184,23 @@ These are the remaining decisions that can materially change Book I or its publi
 
 ### Ready now
 
-- Wave 0 brief acceptance and control-delta extraction;
-- Chapter 2, 13, and 24 pilot research and specialist preparation;
-- source retrieval and indexing that does not prematurely promote claims;
-- foundation research for Chapters 1–6 where it does not depend on unresolved pilot terminology;
-- worked-case candidate comparison without drafting a persuasive case prematurely; and
-- figure provenance, rights research, and noncommittal technical sketching tied to accepted model jobs.
+- Chapter 2 → 13 → 24 source-grounded vertical-slice drafting;
+- the cross-slice voice, citation, terminology, visual-placeholder, provenance, and gate audit;
+- proposition-level source retrieval and locator-level salvage for the remaining chapters;
+- staged reader-facing drafting once each chapter's internal drafting packet closes; and
+- figure provenance, rights research, and text-native technical sketching tied to accepted model jobs.
 
 ### Not ready now
 
 - treating the 30 development briefs as accepted scientific or clinical claims;
 - promoting a legacy outline, generated run, or combined manuscript as canonical prose;
-- drafting load-bearing reader prose that depends on an unresolved formal, evidence, medical, or provenance gate;
+- presenting a first-draft claim as externally reviewed or publication-approved;
 - publishing a diagnostic workflow, self-test, score, corrective routine, or individual treatment implication;
 - using the preferred configuration, TCM correspondence, breath geometry, or practice program to close a Book I evidentiary gap; or
 - beginning layout and PDF polish as though manuscript content were stable.
 
 ## Immediate handoff
 
-Proceed through the [research and controlled-salvage execution sequence](research-and-salvage-execution-sequence.md). The first durable deliverable is the Wave 0 brief-acceptance and control-delta docket for all 30 units. In parallel, begin the exact Chapter 2, 13, and 24 retrieval and review work needed to close the vertical slice. Request authorial review only when that work exposes a genuine choice among materially different arguments, examples, boundaries, or later-book destinations.
+Proceed through Wave 7 of the [research and controlled-salvage execution sequence](research-and-salvage-execution-sequence.md): draft Chapters 2, 13, and 24 in dependency order, then freeze the usable voice and evidence conventions for the rest of Book I. In parallel, begin the exact source tables and locator-level salvage sheets for the remaining chapters. Request authorial review only when research exposes a genuine choice among materially different theses, book boundaries, or later-book destinations.
 
-The next phase should produce evidence tables, specialist decisions, registry deltas, and locator-level salvage sheets—not another generalized outline.
+The next phase should produce reader-facing chapters and their source/control packets—not another generalized outline.

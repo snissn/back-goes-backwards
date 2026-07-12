@@ -2,7 +2,7 @@
 
 **Unit:** `BGB-U-0013`
 
-**Status:** Pilot chapter brief for structural, claim, evidence, and model review
+**Status:** Accepted `R2`; controlled first draft authorized; publication review open
 
 **Series role:** Book I organizing mechanism; generic foundation for Chapters 20 and 24
 
@@ -200,9 +200,9 @@ Those later models can be tested once the ordinary mechanics are explicit. Book 
 
 The detailed Book I outline controls the chapter's generic scope. The `new` Section 1 material on soft-to-hard handoff, soft-tissue substitution, lost glide, corridor narrowing, and systemic consequences is a generous conceptual and provenance source. Its protected questions should be retained, but its fixed tissue classes, universal posterior claims, disease cascades, protocols, and conclusion-first clinical language cannot enter this chapter without reconstruction through the claims and models above.
 
-## Acceptance criteria
+## Publication acceptance criteria
 
-The brief is ready for drafting when:
+The bounded first draft is authorized by the [Wave 1 pilot-closure record](../decisions/pilot-closure-record.md). Publication approval requires:
 
 - *maintained*, *constraint*, *excursion*, *intrinsic*, *extrinsic*, and *mixed* have operational working definitions;
 - the tube model states its boundary conditions and assumptions;

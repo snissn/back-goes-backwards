@@ -2,7 +2,7 @@
 
 **Unit:** `BGB-U-0002`
 
-**Status:** Pilot chapter brief for structural, claim, evidence, and visual review
+**Status:** Accepted `R2`; controlled first draft authorized; publication review open
 
 **Series role:** Book I foundation; inherited by every later book
 
@@ -206,9 +206,9 @@ Use distinct visual notation for external forces, calculated resultants, modeled
 
 The detailed Book I outline is the structural source. The `new` outlines and legacy Section 2 mechanics passages are salvage sources for examples, lever language, energy-management questions, and visual prompts only. Any inherited equation, claimed force route, tissue generalization, or clinical consequence must be reconstructed against this brief rather than copied into it.
 
-## Acceptance criteria
+## Publication acceptance criteria
 
-The brief is ready for drafting when:
+The bounded first draft is authorized by the [Wave 1 pilot-closure record](../decisions/pilot-closure-record.md). Publication approval requires:
 
 - the controlled definitions and notation pack has passed mechanics, biomechanics, and authorial-intent review;
 - the five-figure program has a shared legend;

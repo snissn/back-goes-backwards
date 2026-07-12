@@ -4,7 +4,7 @@
 
 **Units and records:** `BGB-U-0013`, `BGB-X-0004`, `BGB-M-0006`, `BGB-C-0012`–`BGB-C-0014`
 
-**Status:** Decision-grade focused comparison; not a systematic review or a chapter source pack
+**Status:** Source-grounded first-draft decision; focused comparison rather than a systematic review; publication-stage anatomy, measurement, and figure review remain open
 
 **Search date:** 2026-07-11
 
@@ -21,6 +21,18 @@ This is a **moderate-confidence editorial recommendation**:
 - confidence is low that the reviewed healthy-motion studies establish an adverse maintained constraint, a pathological loss-of-excursion threshold, or recovery after release of such a constraint.
 
 The example should therefore teach the variables and the test, not complete a dysfunction narrative.
+
+## First-draft disposition
+
+The recorded authorial selection and the source set below are sufficient to authorize a bounded reader-facing first draft of the tendon–SSCT comparison. That authorization covers:
+
+- ordinary, task-dependent motion of the middle-finger FDS tendon and adjacent SSCT at the wrist;
+- separate presentation of tendon excursion, SSCT excursion, and calculated relative motion;
+- the hard/soft relation as a project interpretation to be tested, not a conclusion stated by the cited studies;
+- ordinary co-motion, task variation, method error, and absence of a pathological threshold as required nulls; and
+- an original schematic that distinguishes observed, calculated, inferred, and unresolved content.
+
+It does not authorize an adverse-constraint narrative, a preferred amount of relative motion, a health or symptom claim, a recovery-after-release claim, or an intervention. The external hand/wrist anatomy, ultrasound-method, biomechanics, and final-figure reviews required for publication have not occurred. They remain publication-stage checks and can narrow terminology, protocol choice, numerical detail, or the figure without blocking a source-grounded first draft that observes these limits.
 
 ## Decision boundary
 
@@ -94,6 +106,7 @@ The measurement case is strong for tendon displacement and adequate but qualifie
 3. In sixteen healthy controls, intra-rater, inter-rater, and test-retest ICCs were `0.94`, `0.95`, and `0.89` for tendon displacement; `0.93`, `0.82`, and `0.82` for SSCT displacement; and `0.87`, `0.74`, and `0.73` for the relative-motion shear index. The SSCT is less than a millimeter thick and layered, which makes region selection and out-of-plane motion important limitations ([Festen-Schrier et al., 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6389416/)).
 4. A direct intraoperative comparison reported moderate agreement for tendon and SSCT excursion and stronger agreement for the relative-motion index, but intra-rater reliability varied by outcome. It supports feasibility, not a universal measurement standard ([van Doesburg et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3898937/)).
 5. A cadaver study using color Doppler rather than speckle tracking imposed a known `20 mm` tendon excursion at three velocities. Mean displacement errors increased from `-0.05 mm` at `50 mm/s` to `-2.36 mm` at `150 mm/s`, making acquisition rate and motion velocity explicit parts of validity ([Tat et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25792584/)).
+6. A second cadaver study compared ultrasound-based FDS–SSCT relative displacement with mechanically measured tendon frictional work across two wrist postures, three velocities, and three tendon forces. Relative displacement and frictional work did not respond as interchangeable quantities: relative displacement had independent posture and force effects, whereas frictional work showed a posture-by-force interaction ([Tat et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27745892/)). This directly supports the rule that an ultrasound relative-motion index is not a measurement of frictional work, local shear stress, or tissue injury.
 
 The chapter should distinguish three quantities: absolute tendon excursion, SSCT excursion, and a calculated relative-motion index. Reliability of one does not validate the others, and a relative-motion index is not direct measurement of local shear stress, friction, injury, or tissue capacity.
 
@@ -151,11 +164,38 @@ This candidate offers a strong but nonliteral translation of the project's organ
 
 > Load wants to travel through the hard body so that the soft body can remain soft.
 
+The project's polarity is motivated by traditional Chinese medicine's hard/soft and Yin/Yang concepts. The mechanical roles used here are a flexible project translation, not a claim that the cited tendon studies validate a traditional correspondence or that the terms are definitionally identical.
+
 At the declared scale and direction, the tendon can perform a comparatively tensile, force-transmitting, and shape-preserving role while the surrounding interface remains form-receiving and available for deformation and relative motion. The simultaneous movement of tendon and SSCT also prevents a crude cable-in-empty-space picture: the soft-role tissue is loaded and moves, and the tendon itself deforms and changes role in other directions.
 
 The candidate observable is not the tissue label. It is whether the defined tensile transfer and the defined relative freedom can coexist under the task. Absolute tendon excursion alone cannot answer that question; measuring surrounding motion as well is what makes the example useful.
 
 No reviewed source establishes that more relative motion is always better, that the tendon should carry all demand, or that SSCT loading is undesirable. The example supports a division-of-labor question, not a universal answer.
+
+### Hard/soft observability decision
+
+The example makes the proposed division of labor **inspectable but not yet validated**. Its minimum record is:
+
+| Role-model element | Observable in the present source set | Evidence state | Permissible first-draft use |
+|---|---|---|---|
+| Candidate shape-preserving or structurally resolving relation | FDS tendon motion through a declared finger task; imposed tendon force only in the cadaver comparison | Observed but incomplete; healthy in-vivo tendon force and whole-task demand partition are not measured | Identify the tendon as a candidate tensile carrier for the task, not as the proven or exclusive hard path |
+| Form-receiving availability | SSCT excursion and its motion relative to the tendon | Observed or calculated under protocol-specific conditions | Show that surrounding tissue moves, deforms, and retains relative freedom rather than serving as empty space |
+| Coexistence of transfer and yielding | Tendon and SSCT move together to a degree and relative to one another to a degree | Observed plus calculated | Pose the division-of-labor question and show why both absolute and relative motion are needed |
+| Adverse substitution | Gross demand is resolved by maintaining consequential SSCT deformation, loss of excursion, or excessive cost | Not established | Leave the cell open; do not infer it from a smaller relative-motion index |
+| Restoration or recovery | Return after removal of an adverse maintaining relation | Not established | Distinguish kinematic return from recovery and leave the cell open |
+
+For the hard/soft model to add more than new names for stiffness and load sharing, a later comparison must hold task outcome and external demand sufficiently constant while measuring both the candidate carrier relation and the form-receiving function that remains available. The model would gain support if the proposed role partition predicted retained excursion, lower substitute demand, different recovery, or another prespecified outcome beyond the conventional variables. It would narrow to a heuristic if the same observations are fully described without the polarity or if the labels add no discriminating prediction.
+
+### Counterexample and null decision
+
+The selected system carries four required checks inside the example rather than adding them as disclaimers:
+
+1. **Ordinary soft loading:** SSCT moves with the tendon and is mechanically engaged during normal finger motion. This is a counterexample to any reading in which the soft role should be unloaded or motionless.
+2. **Task-difference null:** Grip diameter and finger configuration change relative motion in healthy tasks. A difference in excursion is therefore not, by itself, an adverse constraint or loss.
+3. **Quantity-separation null:** Ultrasound relative displacement and mechanically measured frictional work respond differently to posture and tendon force. A relative-motion index cannot stand in for stress, frictional work, injury, or capacity.
+4. **Outcome null:** The proposed maintaining term may change while finger motion remains completed and no independent functional consequence is measured. That result is compatible with ordinary variation and must not be converted into a hidden dysfunction claim.
+
+A stronger hard/soft application would be disfavored if matched task comparisons showed no relation between the proposed carrier partition and retained SSCT excursion or another prespecified function, or if apparent effects disappeared after accounting for task geometry, activation, anatomy, or measurement error.
 
 ### Duplication with Chapter 24
 
@@ -165,17 +205,15 @@ The tendon example also leaves Chapter 24's short neurogenic contrast free to ex
 
 ### Figure feasibility
 
-Figure feasibility is high. A controlled inset can use:
+Figure feasibility is high. The first-draft candidate is a controlled inset in `BGB-FIG-01-006`; it should receive a dedicated figure ID only if the following content is illegible at the inset scale.
 
-1. a longitudinal anatomical schematic of tendon and adjacent SSCT;
-2. extension, flexion, and return phases;
-3. separate displacement traces for tendon and SSCT;
-4. a relative-motion bracket or calculated index;
-5. two declared task geometries, such as different grip diameters, without labeling one correct;
-6. an observed-versus-inferred legend; and
-7. an unresolved recovery-after-release cell.
+1. **Orientation panel:** an original longitudinal wrist schematic identifies the middle-finger FDS tendon, adjacent SSCT tracking region, and ultrasound window. The anatomy is an orientation aid, not a copied or traced published figure.
+2. **Motion panel:** extension-to-flexion and return are shown with separate tendon and SSCT displacement traces. If source data are not extracted and cleared for redrawing, the traces must be marked *schematic, not measured values*.
+3. **Task-comparison panel:** two research-task geometries, such as the reported cylinder diameters, show that relative motion changes with the task. Neither state is labeled better, correct, open, or constrained.
+4. **Quantity panel:** tendon excursion and SSCT excursion are marked `OBS`; the difference or ratio is `CALC`; hard/soft role assignment is `HYP` or project interpretation; adverse constraint, pathological threshold, and recovery after release are `OPEN`.
+5. **Null panel:** ordinary co-motion and completed finger movement remain visible, so the graphic cannot imply that SSCT motion, SSCT loading, or a smaller relative-motion index is itself dysfunction.
 
-The figure must not draw unmeasured contact pressure, friction, stress, adhesion, or injury as observed. It should label the carpal tunnel only as the anatomical measurement site and should not resemble a hand exercise or self-test.
+The caption must state the task and reference conditions, distinguish kinematic return from recovery, and say that relative displacement is not local shear stress, frictional work, adhesion, injury, or health. The figure must not draw unmeasured contact pressure, friction, stress, adhesion, or injury as observed, and it must not resemble a hand exercise or self-test. Final art requires anatomy, ultrasound-method, biomechanics, accessibility, and rights review; a text-native schematic placeholder may be used in the first draft.
 
 ## Candidate B — median-nerve excursion during neutral limb movement
 
@@ -303,6 +341,21 @@ Do not infer from the example that:
 - the selected interface establishes a body-wide hard/soft law; or
 - a movement, exercise, or manual technique should be used to change it.
 
+## Limits of transfer from the hose model
+
+The tendon–SSCT comparison should follow the hose because it reveals which parts of the generic model survive after lumen and flow are removed.
+
+| Model element | What transfers | What does not transfer |
+|---|---|---|
+| Boundary conditions | A current state must be described with its task, contacts, supports, drive, reference, and time | The tendon is not a passive tube held by one visible clamp |
+| Maintaining relation | A repeated configuration can reproducibly create a different motion relation | Task dependence is not proof of adverse maintenance, tethering, or loss |
+| Tissue-specific freedom | Excursion and relative motion can be measured just as lumen or course can be measured in a conduit | Relative glide is not lumen area, patency, flow, perfusion, or hydraulic resistance |
+| Restoring behavior | Flexion and extension expose loading and return phases | Reverse motion is not recovery after release of an adverse state |
+| Hard/soft question | A tensile carrier and a form-receiving interface can be examined in the same bounded task | Tendon is not a rigid hose clamp, SSCT is not fluid, and neither tissue has one permanent role |
+| Consequence | The model asks whether a defined mechanical freedom remains available | No reviewed source establishes a pathological threshold, symptom, diagnosis, or benefit from changing the motion |
+
+The only warranted cross-system claim is methodological: identify what maintains the state, measure the system-specific deformation or freedom, test restoring behavior, and keep the downstream function separate. Tube pressure-flow results cannot serve as evidence for tendon–SSCT mechanics, and tendon–SSCT kinematics cannot serve as evidence for a vascular or neural clinical chain.
+
 ## Reserve formulation
 
 If editorial review rejects the tendon–SSCT system, use this reserve:
@@ -328,24 +381,36 @@ For Chapter 24, `BGB-X-0008` can reuse the same baseline variables without reusi
 
 That comparison earns transfer only at the level of declared boundary conditions, a maintained or repeated state, a tissue-specific freedom, a restoring account, measurement, and alternatives. It does not establish shared anatomy, material behavior, physiology, clinical importance, or intervention.
 
-## Work required before closing `BGB-DEC-0002`
+## Drafting closure and publication review
 
-1. **Authorial review:** Confirm that the tendon–SSCT relation preserves the intended hard/soft teaching job and that “load entering the soft body” is not being reduced to any ordinary interface shear.
-2. **Anatomical review:** Confirm the exact tendon, imaging level, SSCT naming, and relation to retinaculum and surrounding tissues. Avoid a generic tendon-sheath label unless a source studies that exact structure.
-3. **Measurement review:** Select one primary acquisition and analysis protocol. Record its frame rate, movement cadence, region definition, reference tissue, error, repeatability, and out-of-plane limitations.
-4. **Variation extraction:** Recover participant-level or distributional data where available. Do not present study means as normative thresholds.
-5. **Maintaining-relation gate:** Decide whether the neutral task effect is sufficient as a calibration example. If prose asserts an adverse maintained loss, add direct evidence connecting a defined constraint to relative motion and response when that constraint changes.
-6. **Recovery gate:** Keep recovery explicitly unresolved unless a study measures behavior after release or unloading at a stated timescale. Do not substitute reverse movement for recovery.
-7. **Functional gate:** Keep the endpoint at specified finger movement unless direct evidence connects the measured interface variable to another function. No symptom or health claim is needed for the pilot.
-8. **Figure prototype:** Draft an original two-track schematic with observed, calculated, inferred, and unresolved elements visually distinct. Test that it cannot be mistaken for an exercise instruction.
-9. **Chapter 24 seam review:** Confirm that `BGB-X-0008` reuses the comparison's grammar but not its evidence as support for the thoracic-outlet case.
-10. **Control-record consistency:** Keep the docket, example registry, Chapter 13 brief, Chapter 24 transfer record, and Figure 012 planning record aligned to the same provisional selection. This comparison file does not itself close the decision or advance evidence status.
+### Source-grounded first-draft gate — pass
+
+The comparison is complete enough for its bounded Chapter 13 job. The selected structure and task are explicit; tendon, SSCT, and relative motion remain separate; method error and ordinary variation are recorded; the hard/soft observable is specified without being declared validated; counterexamples and nulls are load-bearing; recovery and adverse constraint remain open; the hose-transfer limits are stated; and the figure has a reviewable panel, evidence-state, caption, and rights specification.
+
+The authorial selection is already recorded in `BGB-DEC-0002`. No additional author decision is needed before first drafting unless the prose would change the example's job or introduce an adverse, clinical, or corrective claim.
+
+### Publication-stage review — open and nonblocking for the first draft
+
+1. **Hand/wrist anatomy:** Confirm the exact FDS tendon, wrist imaging level, SSCT naming and tracking region, and relation to the flexor retinaculum and neighboring structures. Do not replace *SSCT* with generic *tendon sheath*.
+2. **Ultrasound method:** Select the primary acquisition and analysis protocol for any numerical or data-like presentation. Record frame rate, cadence, region definition, error, repeatability, clip selection, and out-of-plane limitations.
+3. **Biomechanics and hard/soft interpretation:** Confirm that the role-model paragraph remains an organizing interpretation and that “load entering the soft body” is not equated with ordinary interface shear or any smaller relative-motion value.
+4. **Figure, accessibility, and rights:** Review the orientation anatomy, evidence-state legend, caption, grayscale legibility, text alternative, and source/rights log. Use original schematic art unless a separate permission decision is recorded.
+5. **Final evidence refresh:** Re-run the focused search and check study-level funding or conflicts when the chapter enters publication review. Do not turn study means into normative thresholds.
+
+No external specialist review is represented as completed here. These checks may alter terminology, remove a number, replace a panel, or further narrow the example; none blocks a first draft that stays within the present authorization.
+
+### Extension gates — closed unless new evidence is added
+
+- **Adverse constraint:** Directly connect a named maintaining relation to a consequential loss of relative excursion before asserting one.
+- **Recovery:** Measure behavior after release or unloading at a stated timescale; kinematic reversal is insufficient.
+- **Beyond finger motion:** Add direct evidence for any physiological, symptomatic, diagnostic, or longer-term functional endpoint.
+- **Intervention:** A movement, manual technique, or other corrective implication would require a different evidence and safety review and is outside this chapter's current contract.
 
 ## Control-record alignment
 
-The surrounding control records should preserve the following clean state while the selection remains provisional:
+The surrounding control records should preserve the following clean state while publication approval remains open:
 
-1. **Decision docket:** `BGB-DEC-0002` recommends the middle-finger flexor tendon–SSCT relation and retains median-nerve excursion as reserve; closure remains conditional on anatomical, measurement, and authorial review.
+1. **Decision docket:** `BGB-DEC-0002` records the middle-finger flexor tendon–SSCT relation and retains median-nerve excursion as reserve; anatomy, measurement, and figure review remain publication-stage gates.
 2. **Chapter 13 brief:** Section 13.4 names absolute tendon excursion, SSCT excursion, and relative motion separately and treats the example as a neutral calibration and null branch.
 3. **Evidence obligations:** Method error, ordinary task variation, and the unresolved recovery cell remain visible; reverse motion is not recovery, and relative displacement is not shear stress or friction.
 4. **Example registry:** `BGB-X-0004` preserves the exact tendon, tissue, location, task, reference conditions, excluded inferences, and median-nerve reserve.
@@ -367,6 +432,7 @@ No series boundary, chapter title, medical claim, protocol, or Book II–V conte
 | [Korstanje et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC6882526/) | Eleven healthy participants across active, passive, and adjacent-finger configurations | Shows absolute and relative excursion depend on drive and adjacent geometry | Zone V “surrounding tissue” is not identical to carpal-tunnel SSCT; clinically motivated protocols must not become instructions |
 | [van Doesburg et al., 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3898937/) | Ultrasound plus direct intraoperative comparison | Qualified validation of tendon, SSCT, and relative-motion outcomes | Mixed healthy and clinical context; variable reliability; operative exposure can change mechanics |
 | [Tat et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25792584/) | Eight cadaver arms, imposed displacement at three velocities, color Doppler | Velocity-dependent validity and loading-versus-return behavior | Different imaging method; cadaver model; not recovery in living tissue |
+| [Tat et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27745892/) | Eight cadaver arms; relative displacement and frictional work compared across wrist posture, tendon velocity, and force | Shows that ultrasound relative displacement and mechanically measured frictional work capture related but noninterchangeable phenomena | Cadaver system; does not establish in-vivo stress, injury, pathological threshold, or clinical consequence |
 | [Snoj et al., 2025](https://www.sciencedirect.com/science/article/pii/S0301562924003855) | Seven cadaver forearms with marker reference plus eight healthy participants | Strong current validation and feasibility for small median-nerve displacement | Small samples; imposed cadaver traction; strain not detectable at tested displacement |
 | [Tomažin et al., 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC12969963/) | Twenty healthy adults; controlled finger, wrist, and elbow movement | Current absolute and relative median-nerve excursion by joint input | Narrow age range; active/passive inputs differ; best-quality clip selected; no conduction or clinical endpoint |
 | [Yao et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8671362/) | 197 healthy participants during composite finger flexion | Ordinary heterogeneity in transverse movement and visible longitudinal sliding pattern | Different plane, task, and partly qualitative outcome; cannot define a longitudinal excursion threshold |
@@ -375,8 +441,12 @@ No series boundary, chapter title, medical claim, protocol, or Book II–V conte
 
 ## Decision posture
 
-**Present recommendation:** flexor tendon–SSCT relative glide selected provisionally; neutral median-nerve excursion retained as reserve.
+**Recorded first-draft selection:** flexor tendon–SSCT relative glide; neutral median-nerve excursion retained as reserve.
 
 **Reason:** the tendon–SSCT system provides the clearer non-lumen transfer, a direct relative-motion observable, a mechanically proximal functional endpoint, a strong hard/soft relational test, a simpler figure, and less neural duplication in Chapter 24. The nerve remains evidentially credible and should be preserved because its recent measurement validation is strong and it may become preferable if anatomical, figure, or interface-measurement review exposes a fatal weakness in the tendon selection.
+
+**Draft authorization:** pass for the neutral calibration, hard/soft test, nulls, analogy limits, and schematic placeholder described in this pack.
+
+**Remaining nonblocking review:** hand/wrist anatomy, ultrasound protocol and numerical extraction, biomechanics interpretation, final figure and accessibility, rights, and publication-stage evidence refresh. No external review is claimed to have occurred.
 
 **What the decision does not close:** an adverse maintained-loss example, a recovery measure, a pathological threshold, a clinical claim, or an intervention. Those remain deferred evidence and editorial gates rather than implied conclusions.

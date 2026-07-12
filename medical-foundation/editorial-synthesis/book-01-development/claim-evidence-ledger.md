@@ -1,8 +1,8 @@
 # Book I Claim and Evidence Ledger
 
-**Status:** Pilot vertical slice for structural and research review
+**Status:** Pilot vertical-slice ledger accepted for controlled first-draft use
 **Scope:** `BGB-U-0002`, `BGB-U-0013`, and `BGB-U-0024`
-**Evidence state:** Questions and required evidence types are mapped; no claim has yet passed a claim-level evidence review.
+**Evidence state:** Focused sources and limits are mapped for first-draft use; no claim is promoted beyond its recorded evidence state by that authorization.
 
 ## Purpose
 
@@ -399,13 +399,15 @@ selected presentation and system boundary                 BGB-C-0015
 
 The final arrow is not a victory condition for the mechanical hypothesis. The worked narrative succeeds if the comparison makes the hypothesis more precise, including when the result is that a proposed link is weak, secondary, or unsupported for the selected presentation.
 
-## Pilot completion criteria
+## Pilot first-draft closure
 
-The hard/soft relational meaning, tendon–SSCT selection, and objective-aTOS evidence anchor have authorial acceptance. The pilot moves to formally accepted evidence status or draft-ready `R3` only after technical and clinical acceptance of:
+The hard/soft relational meaning, tendon–SSCT selection, and objective-aTOS evidence anchor have authorial acceptance. The three focused packs, controlled-salvage sheets, and pilot closure record authorize a bounded first draft while keeping publication-stage technical and clinical review open. Drafting must continue to preserve:
 
-1. the raw-to-normalized transformations;
+1. the raw-to-normalized transformations and evidence-state labels;
 2. the distinction between generic mechanics and condition-specific claims;
 3. the objective-aTOS composite, with retained comparisons kept structure-specific and subordinate;
 4. the evidence questions and disfavoring observations;
 5. the associated model, example, and figure registries; and
 6. the rule that no evidence source is entered without mapping it to an exact claim, scope, and link.
+
+This internal closure does not claim external mechanics, anatomy, vascular, medical, visual, rights, or accessibility approval. A new claim outside the authorized packs reopens its specific evidence and review gate.

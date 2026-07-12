@@ -4,7 +4,7 @@
 
 **Decision addressed:** `BGB-DEC-0003` and `BGB-DEC-0004`
 
-**Status:** Focused editorial source comparison; suitable for author and medical-coauthor phenotype selection, not yet a chapter source pack
+**Status:** Phenotype selection and source comparison accepted for internally controlled first-draft use; condition-specific medical and vascular review remains a publication gate
 
 **Search date:** 2026-07-11
 
@@ -28,11 +28,15 @@ The search used PubMed/MEDLINE, PubMed Central, Society for Vascular Surgery rep
 - measurement feasibility and modality disagreement; and
 - sourceable cases with anatomy and endpoints visible in the same patient.
 
-The search was English-language and human-focused. It was source-level but not exhaustive: no formal risk-of-bias instrument, pooled analysis, or complete backward-and-forward citation search was performed. The [TROTS registry protocol](https://pmc.ncbi.nlm.nih.gov/articles/PMC9821680/) was located, but no corresponding prospective phenotype-result publication was identified in this focused search. That absence should be rechecked before chapter drafting.
+The search was English-language and human-focused. It was source-level but not exhaustive: no formal risk-of-bias instrument, pooled analysis, or complete backward-and-forward citation search was performed. The [TROTS registry protocol](https://pmc.ncbi.nlm.nih.gov/articles/PMC9821680/) was located, but no corresponding prospective phenotype-result publication was identified in this focused search. That absence should be rechecked during the publication-stage literature refresh.
 
 ## Decision in one paragraph
 
 Keep **objective aTOS as the leading Chapter 24 phenotype**, but narrow the case to a focal bony anomaly or healed fracture, objective arterial wall pathology, and documented distal embolic or ischemic consequence. It currently offers the most sourceable endpoint chain and the clearest separation among surrounding anatomy, deformable tissue, wall lesion, distal physiology, and presentation. Its apparent cleanliness is partly produced by the SVS definition and by highly selected operative cohorts: human studies usually **co-observe** the bony relation, artery lesion, and distal consequence but do not directly observe years of repeated contact becoming wall injury. The repeated-deformation arrow must therefore remain a reconstruction. Retain **thrombotic vTOS as the chapter's principal time-dependent comparison**, because it shows how a proposed extrinsic exposure can become a mixed state involving thrombus, residual intrinsic obstruction, and collateral adaptation. Do not ask it to carry a second full clinical chain.
+
+### First-draft disposition
+
+The user has authorized the editorial team to resolve remaining ordinary blockers and proceed to a complete Book I first draft. The narrower objective-aTOS teaching job, explicitly sourced composite form, required negative comparisons, and exclusions in this memo are therefore accepted for drafting. Source-grounded, non-diagnostic prose may proceed under the [Chapter 24 controlled-salvage sheet](../salvage/chapter-24-thoracic-outlet.md). This is not a substitute for external clinical expertise: condition-specific medical and vascular review remains mandatory before publication, and any later reviewer correction may narrow or replace the composite. Until that review occurs, the chapter may contain no treatment recommendation, referral algorithm, reader self-test, or implication that an acute vascular presentation is a posture problem.
 
 ## Evidence-state key
 
@@ -192,7 +196,7 @@ The [ACR UEDVT criteria](https://pubmed.ncbi.nlm.nih.gov/32370975/) support dupl
 
 ### Recommended arterial form: an explicitly sourced composite
 
-Use a compact composite whose facts are individually traceable, rather than presenting a fictional patient as though one paper directly observed every arrow. The composite can include:
+Use a compact composite whose facts are individually traceable, rather than presenting a fictional patient as though one paper directly observed every arrow. The primary visual and factual anchor is now the 2026 open-access case, [*Arterial thoracic outlet syndrome due to a first-rib anomaly causing brachial artery embolic occlusion*](https://doi.org/10.1016/j.radcr.2026.02.020). Its bilateral first-rib anomalies, unilateral focal bony relation, ipsilateral subclavian stenosis and post-stenotic dilation, local thrombus, distal occlusion, collateral circulation, and objective side-to-side pressure difference make both the positive chain and an internal noncorrespondence visible. The composite can include:
 
 1. a focal cervical-rib/first-rib fusion, first-rib anomaly, or healed clavicular fracture;
 2. objective adjacent subclavian-artery wall pathology;
@@ -200,7 +204,7 @@ Use a compact composite whose facts are individually traceable, rather than pres
 4. objective distal ischemic findings; and
 5. a clearly labeled reconstruction of the repeated-deformation history.
 
-The 2023 [cervical-rib case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10371763/) is a strong visual base because one CTA set contains the fused bony anatomy, ipsilateral subclavian pseudoaneurysm, and brachial thromboembolus. It is not a complete stand-alone vignette: the patient was lost to follow-up, exposure history is sparse, and the repeated-injury arrow was not observed. The Pitcher and Vemuri cohorts can supply the population boundary and demonstrate that the anatomy-lesion-distal-consequence pattern recurs in selected specialist cohorts.
+The 2023 [cervical-rib case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10371763/) remains a strong secondary visual base because one CTA set contains fused bony anatomy, an ipsilateral subclavian pseudoaneurysm, and a brachial thromboembolus. It is not a complete stand-alone vignette: the patient was lost to follow-up, exposure history is sparse, and the repeated-injury arrow was not observed. The Pitcher and Vemuri cohorts can supply the population boundary and demonstrate that the anatomy-lesion-distal-consequence pattern recurs in selected specialist cohorts.
 
 Every sentence in the vignette should be tagged during drafting as one of:
 
@@ -247,7 +251,7 @@ Preserve neurogenic TOS as a within-region contrast only. It usefully demonstrat
 
 ### Recommendation
 
-Approve the current docket direction provisionally:
+The accepted first-draft direction is:
 
 - **Lead:** objective aTOS with defined focal bony anatomy, objective subclavian-artery damage, and documented distal embolic or ischemic consequence.
 - **Vignette form:** explicitly sourced composite anchored by one image-complete case and bounded by two specialist cohorts.
@@ -270,20 +274,21 @@ The worked case may conclude that the framework helps separate:
 
 It may also show that a deformable structure can acquire a consequential material state when the surrounding relation and time history matter. It may **not** conclude from this case that the skeleton is always the correct carrier, that posterior organization prevents vascular disease, that common posture is a root cause of TOS, that an anatomical variant predicts symptoms, or that the focal arterial chain proves the broader preferred-configuration program.
 
-### Closure conditions before prose
+### Closure conditions before publication-stage prose approval
 
-1. The author approves the narrower teaching job: a complete focal chain, not a representative account of all TOS.
-2. The medical coauthor confirms the aTOS and thrombotic-vTOS definitions, the alternative list, and the safety boundary.
+1. The narrower teaching job remains a complete focal chain, not a representative account of all TOS; this decision is accepted for the first draft.
+2. The medical coauthor confirms the aTOS and thrombotic-vTOS definitions, the alternative list, and the safety boundary before publication approval.
 3. A source table maps every vignette fact and every causal arrow to the evidence-state key.
 4. The selected image source has usable rights or is redrawn from source facts with attribution and no diagnostic-instruction framing.
 5. The chapter explicitly identifies definition-based and referral-based enrichment.
 6. The conclusion preserves the reconstructed status of the repeated-injury arrow.
-7. A pre-drafting refresh checks for TROTS registry results and newer prospective phenotype evidence.
+7. The 2026-07-11 refresh located no TROTS result publication in the focused search; it did locate two new 2026 aTOS case reports. Recheck for prospective phenotype evidence during publication review.
 
 ## Core source register
 
 | Source | Design and population | Role in this memo | Principal limit |
 |---|---|---|---|
+| [First-rib-anomaly aTOS case, 2026](https://doi.org/10.1016/j.radcr.2026.02.020) | Single open-access case with radiography, CT, and three-dimensional reconstruction | Primary composite anchor: bilateral anomaly, unilateral focal relation, subclavian lesion and thrombus, distal occlusion, collaterals, and objective pressure difference in one person | One treated case; cumulative injury not observed; treatment response is not mechanism validation |
 | [SVS TOS reporting standards](https://www.sciencedirect.com/science/article/pii/S0741521416301914) and [executive summary](https://www.sciencedirect.com/science/article/pii/S0741521416303457/) | Professional reporting standards | Phenotype boundaries and exclusion of pulse/waveform change alone from aTOS | Standardizes reporting; does not itself establish causal mechanisms or treatment effects |
 | [Pitcher et al., 2022](https://pubmed.ncbi.nlm.nih.gov/35378247/) | Retrospective 30-year single-center operative aTOS cohort; 41 patients, 45 limbs | Bony-anomaly definition, objective arterial pathology, acute ischemia, recurrent thromboembolism | Rare, selected, treated population; repeated injury not directly observed |
 | [Vemuri et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28189360/) | Retrospective tertiary operative aTOS cohort; 40 patients | Spectrum of bony and arterial pathology; vascular and nonvascular presentations | Referral and operative selection; presentation diversity prevents simple symptom mapping |
