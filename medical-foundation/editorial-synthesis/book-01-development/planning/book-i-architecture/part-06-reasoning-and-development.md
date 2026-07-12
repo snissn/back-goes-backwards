@@ -92,7 +92,7 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 
 ### 27.8 The four narratives demonstrate four outputs
 
-- **Proposition:** The same scaffold can yield a strong bounded geometry-to-field relation, a substantive focal account with a reconstructed cumulative interval, several measured state relations with an incomplete transition mechanism, or a transparent hypothetical ending in unresolved causal plurality.
+- **Proposition:** The same scaffold can yield **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**; **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**; **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**; or **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**.
 - **Develop:** Compare Chapters 23–26 without retelling them by keeping five fields separate: scenario construction, exact I.8 provenance, empirical comparison result, inferential disposition, and bounded output; show which question carried the decisive information and how a value in one field changes the next inquiry without replacing another field's label.
 - **Evidence/example:** A seven-questions-by-four-cases matrix with distinct scenario, provenance, comparison-result, inference, and output columns.
 - **Continuity:** Demonstrates portability and hands 27.9 endpoint.
@@ -395,7 +395,7 @@ Return to the original task, state Book I's complete contribution, give the post
 ### 30.8 Conclusion — The mechanical history remains
 
 - **Proposition:** Book I leaves the reader with a constructive way to trace demand through a living person, while Book II asks whether those histories reveal a preferred whole-system organization.
-- **Develop:** Return to the person and object; gather the book's movement from embodied mechanics through precise quantities, cooperative support, load-management patterns, medical interpretation, worked narratives, portable reasoning, available options, and staged development; state what the reader can now understand and do intellectually; name posterior emphasis once; preserve the wider hypothesis as the next research layer; end on Book II's exact question.
+- **Develop:** Return to the person and object, then gather the book's movement from embodied mechanics through precise quantities, cooperative support, changes in load organization, medical interpretation, worked narratives, portable reasoning, available options, and staged development. State what the reader can now understand and do intellectually, naming posterior emphasis once. Preserve the wider hypothesis as the next research layer and end on Book II's exact question.
 - **Evidence/example:** Reuse the final annotated object-transfer image from 30.0 with the completed mechanical-history chain and open preferred-organization question.
 - **Continuity:** Closes Part VI and Book I and opens the sequential series without a second standalone synthesis.
 - **Target:** 300–420 words.

@@ -6,19 +6,19 @@ A mechanical framework earns usefulness by making concrete histories more specif
 
 ## Narrative progression
 
-The four cases increase in historical and causal difficulty:
+The four cases increase in historical and causal difficulty. Their canonical outputs are:
 
-1. Chapter 23 establishes a strong bounded mechanical relation from geometry to local field while downstream biology and clinical meaning remain open.
-2. Chapter 24 establishes a substantive focal arterial account while its cumulative wall-exposure interval remains reconstructed.
-3. Chapter 25 establishes several measured state relations while the transition mechanism remains incomplete; positive and null regional comparisons narrow particular bridge claims while other links remain unresolved.
-4. Chapter 26 uses a transparent hypothetical with no established regional carrier and ends in unresolved causal plurality.
+1. Chapter 23: **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**.
+2. Chapter 24: **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**.
+3. Chapter 25: **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**.
+4. Chapter 26: **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**.
 
 Each chapter has one lead mechanical family and one distinct output. The case ledger from Chapter 22 remains the shared method; the cases do not re-teach the full foundation.
 
 ## Part opening — Complete narratives expose missing links
 
-- **Proposition:** A worked case becomes informative when scenario construction, evidence provenance, empirical comparison result, inferential disposition, and bounded output remain distinct at every link.
-- **Develop:** Introduce the five-field case ledger; retain the full I.8 legend for provenance; identify Chapters 23 and 25 as multistudy reconstructions, Chapter 24 as a teaching composite, and Chapter 26 as a stipulated hypothetical; distinguish positive, null, mixed, or inapplicable comparisons from supported, narrowed, disfavored, or unresolved inferences; state the progression from bounded geometry relation, to focal account with reconstructed interval, to measured state relations with incomplete transition, to hypothetical unresolved plurality.
+- **Proposition:** A worked case becomes informative when scenario construction, evidence provenance, empirical comparison result, inferential disposition, and bounded output remain distinct throughout the record.
+- **Develop:** Introduce the five-field case ledger and retain the full I.8 legend for provenance. Identify Chapters 23 and 25 as multistudy reconstructions, Chapter 24 as a teaching composite, and Chapter 26 as a stipulated hypothetical; distinguish positive, null, mixed, or inapplicable comparisons from supported, narrowed, disfavored, or unresolved inferences. State the four outputs exactly. Chapter 23: **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**. Chapter 24: **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**. Chapter 25: **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**. Chapter 26: **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**.
 - **Evidence/example:** One overview table comparing the four cases across all five fields without replacing one field's labels with another's.
 - **Continuity:** Inherits Chapter 22's record and hands Chapter 23 the most measurable case.
 - **Target:** 320–450 words.
@@ -36,7 +36,7 @@ This multistudy reconstruction demonstrates the geometric-redistribution and loc
 ### 23.0 Case opening — One step contains several mechanical quantities
 
 - **Proposition:** A walking step can be described through ground reaction, segment motion, joint moment, contact force, pressure, and local tissue strain, each at a different scale.
-- **Develop:** Declare the chapter a multistudy reconstruction whose adjacent sources do not constitute one continuous person's record; present the task and system boundaries; distinguish the quantities positively; identify the cartilage receiver; state the chapter's exact geometry-to-field question; label reported task details, observed or measured motion and external demand, calculated joint quantities, modeled internal fields, inferred bridges, and unknown downstream biological or clinical links without collapsing one state into another.
+- **Develop:** Declare the chapter a multistudy reconstruction whose adjacent sources do not constitute one continuous person's record, then define the task and system boundaries, cartilage receiver, and exact geometry-to-field question. Distinguish the quantities positively through a scale stack. Label reported task details, observed or measured motion and external demand, calculated joint quantities, modeled internal fields, inferred bridges, and unknown downstream biological or clinical links without collapsing one state into another.
 - **Evidence/example:** One multistudy-reconstruction banner and stance-phase scale stack annotated with the exact applicable I.8 evidence state at every link.
 - **Continuity:** Applies Chapters 2, 12, 19, and 22 without redefining them.
 - **Target:** 300–420 words.
@@ -92,14 +92,14 @@ This multistudy reconstruction demonstrates the geometric-redistribution and loc
 ### 23.7 The case supports a distribution question
 
 - **Proposition:** Geometry can establish a plausible and measurable change in distribution while receiver state, dose, response, and clinical meaning remain separately evaluated.
-- **Develop:** Complete the case ledger; state supported, unresolved, and disfavored links; identify the next decisive observation; name the chapter's bounded output.
-- **Evidence/example:** One completed evidence-state chain.
+- **Develop:** Complete the five-field record by retaining multistudy reconstruction as the scenario construction and naming the bounded output as **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**. Assign exact I.8 provenance to each link; record each declared empirical comparison as positive, null, mixed, or not applicable in a separate field from its supported, narrowed, disfavored, or unresolved inferential disposition. Identify the next decisive observation.
+- **Evidence/example:** One completed five-field case record containing the link-level evidence-state chain.
 - **Continuity:** Hands Chapter 24 a related local-field problem in which the boundary persists and maintains deformation.
 - **Target:** 350–500 words.
 
 ### 23.8 Conclusion — Geometry creates local exposure questions
 
-- **Proposition:** The first narrative establishes a strong bounded mechanical relation from task geometry to a local field while downstream biology and clinical meaning remain open.
+- **Proposition:** The first narrative establishes **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**.
 - **Develop:** State the strongest supported relation, the surrogate or null findings that narrow it, and the exact downstream arrows the case does not complete.
 - **Evidence/example:** Reuse the completed evidence-state chain from 23.7.
 - **Continuity:** Opens maintained constraint in Chapter 24.
@@ -182,14 +182,14 @@ The arterial composite is the focal case for constraint-maintained deformation. 
 ### 24.8 The case identifies an observable pathway and a researchable middle
 
 - **Proposition:** The maintained-deformation lens clarifies the boundary, receiver, present exposure, retained state, and endpoints while leaving the cumulative history visible as a measurement target.
-- **Develop:** Complete the ledger; identify which present links are observed, measured, calculated, or modeled; label the cumulative wall-exposure interval as reconstructed; state alternatives and the next decisive measurement; name the canonical output as a substantive focal arterial account with a reconstructed cumulative wall-exposure interval.
-- **Evidence/example:** Final case chain with gap notation.
+- **Develop:** Complete the five-field record by retaining teaching composite as the scenario construction and naming the bounded output as **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**. Assign exact I.8 provenance to each link, including the reconstructed cumulative interval; record any declared comparison as positive, null, mixed, or not applicable in a separate field from its inferential disposition. State alternatives and the next decisive measurement.
+- **Evidence/example:** Final five-field case record containing the case chain and gap notation.
 - **Continuity:** Hands Chapter 25 a history in which each event changes the next starting state.
 - **Target:** 350–500 words.
 
 ### 24.9 Conclusion — Persistent constraint creates a longitudinal problem
 
-- **Proposition:** The second narrative establishes a substantive focal arterial account while its cumulative wall-exposure interval remains reconstructed.
+- **Proposition:** The second narrative establishes **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**.
 - **Develop:** Rejoin surrounding boundary, wall demand, retained state, and present arterial endpoints; state exactly which repeated-exposure and wall-transition links remain reconstructed.
 - **Evidence/example:** Reuse the final case chain with gap notation from 24.8.
 - **Continuity:** Opens recurrence and state transition in Chapter 25.
@@ -280,15 +280,15 @@ This multistudy reconstruction uses the ankle as the primary case for task-speci
 ### 25.9 The case yields a state-transition account of recurrence
 
 - **Proposition:** Recurrence becomes mechanically informative when measured state relations and an incomplete transition mechanism are distinguished, and each regional bridge separately reports its comparison result and inferential disposition.
-- **Develop:** Complete the five-field case ledger; state the measured passive, task, perceptual, exposure, protection, and recovery relations; identify the unobserved or inferred event-to-state transitions; record positive, null, or mixed regional comparison results separately from supported, narrowed, disfavored, or unresolved bridge inferences; preserve unknown provenance where observations are absent; name the bounded output.
+- **Develop:** Complete the five-field case ledger and name its bounded output. State the measured passive, task, perceptual, exposure, protection, and recovery relations, preserving unknown provenance where observations are absent; identify the unobserved or inferred event-to-state transitions. Record positive, null, or mixed regional comparison results separately from supported, narrowed, disfavored, or unresolved bridge inferences.
 - **Evidence/example:** Final five-field state-transition record.
 - **Continuity:** Hands Chapter 26 a chronic history with fewer observed intermediate links.
 - **Target:** 350–500 words.
 
 ### 25.10 Conclusion — Repetition meets a new receiver each time
 
-- **Proposition:** The third narrative establishes several measured state relations while the transition mechanism remains incomplete; its regional comparison results narrow particular bridge claims while leaving others unresolved.
-- **Develop:** Summarize the event/state/next-event sequence, the measured relations, the positive or null regional comparisons, the bridge inferences those results narrow, and the exact transition and regional links that remain unresolved.
+- **Proposition:** The third narrative establishes **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**.
+- **Develop:** Summarize the event/state/next-event sequence and measured relations; report positive, null, or mixed regional comparison results; separately state how the full evidence record supports, narrows, disfavors, or leaves unresolved each bridge claim; identify the exact transition and regional links that remain unresolved.
 - **Evidence/example:** Reuse the final state-transition record from 25.9.
 - **Continuity:** Opens the methodological null case.
 - **Target:** 200–280 words.
@@ -362,14 +362,14 @@ This stipulated hypothetical is the book's methodological null and ambiguity cas
 ### 26.7 An unresolved result can still improve inquiry
 
 - **Proposition:** The framework adds value when it identifies the next decisive observation, preserves competing histories, or justifies stopping without inventing a missing bridge.
-- **Develop:** Complete the five-field ledger; retain stipulated hypothetical as scenario-construction status; assign exact I.8 provenance to each candidate relation; record any empirical comparison result separately; assign supported, narrowed, disfavored, or unresolved as the inferential disposition; identify one researchable question and one accepted uncertainty; name the bounded output as unresolved plurality.
+- **Develop:** Complete the five-field ledger by retaining stipulated hypothetical as the scenario construction and unresolved plurality as the bounded output. Assign exact I.8 provenance to each candidate relation; record any empirical comparison result separately from its supported, narrowed, disfavored, or unresolved inferential disposition. Identify one researchable question and one accepted uncertainty.
 - **Evidence/example:** Final case contract with separate scenario, provenance, comparison-result, inference, and output fields.
 - **Continuity:** Closes the hardest case and hands Part VI the portable scaffold.
 - **Target:** 400–550 words.
 
 ### 26.8 Conclusion — Structured plurality is a valid result
 
-- **Proposition:** The fourth narrative uses a transparent hypothetical with no established regional carrier and ends in unresolved causal plurality.
+- **Proposition:** The fourth narrative uses **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**.
 - **Develop:** State what the chronology and comparison structure clarify, which carrier and causal links remain unestablished, and why preserving several live histories is the exact bounded result.
 - **Evidence/example:** Reuse the final case contract from 26.7.
 - **Continuity:** Hands Chapter 27 the reusable seven-question sequence.
@@ -377,7 +377,7 @@ This stipulated hypothetical is the book's methodological null and ambiguity cas
 
 ## Part V synthesis — Four narratives, four distinct outputs
 
-- **Proposition:** The cases yield a bounded geometry-to-field relation, a focal arterial account with a reconstructed cumulative interval, measured recurrence-state relations with an incomplete transition mechanism, and a hypothetical ending in unresolved causal plurality.
+- **Proposition:** The cases yield **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**; **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**; **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**; and **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**.
 - **Develop:** Compare each chapter by scenario construction, exact I.8 provenance, empirical comparison result, inferential disposition, and bounded output; identify where each chain stops; show how reconstructed provenance, null comparisons, narrowed inferences, and unresolved outputs each improve a different part of the framework; prepare the move from case analysis to portable questions.
 - **Evidence/example:** A final four-case matrix with one column for each of the five non-interchangeable fields.
 - **Continuity:** Hands Part VI a tested reasoning scaffold and development agenda.

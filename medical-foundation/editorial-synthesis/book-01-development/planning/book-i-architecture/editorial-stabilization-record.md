@@ -181,6 +181,33 @@ Round 2 therefore cannot count as a no-change stabilization round. The next inde
 
 Round 3 therefore cannot count as a no-change stabilization round. Round 4 begins the next two-round stabilization attempt.
 
+## Round 4 — Post-revision developmental, claim, and integrity review
+
+**Status:** complete; bounded claim-architecture revision required and applied.
+
+**Independent review lenses:**
+
+1. whole-book developmental progression, chapter seams, constructive framing, worked-case pacing, and Part VI payoff;
+2. claim ownership, six-family ontology, five-field case logic, canonical outputs, and later-series boundaries; and
+3. exact source disposition, drafting-contract completeness, targets, figures, tables, bibliography, cross-references, and source-manuscript integrity.
+
+### Architecture that survived
+
+- The developmental lens required no change to the six-Part, thirty-chapter reader journey, unit ownership, chapter seams, object-transfer continuity, posterior proposition ladder, four-case escalation, Part VI payoff, or Book I/II handoff.
+- The integrity lens reconfirmed exact one-to-one accounting for 317 source objects and crosswalk rows; 116 uniquely numbered figures and 72 tables inside accounted source blocks; 384 unique bibliography records; 293 contiguous numbered units; 304 complete target-bearing units; and no unresolved destination, cross-reference, path, footnote, or source-manuscript mutation.
+- I.8 remains the sole evidence-state owner; Chapters 12 and 16 retain distinct scale jobs; Book II retains mechanically independent regime definition; Book IV retains breath-coupled dynamics and candidate whole-system geometries; and bandha development remains layered across Books III–V.
+
+### Material corrections applied
+
+- Reclassified the six Part III families as changes in mechanical organization that may alter exposure, rather than as six kinds of exposure. The families retain their analytical sequence and may coexist, recur, feed back, or appear in different causal orders.
+- Made the Part III opening constructive and sharpened Chapter 12's regional-to-local transformation language without changing either chapter's job.
+- Established one exact four-output register and reproduced it in the Part V opening, all four case conclusions, the Part V synthesis, Chapter 27's comparison, and the prose-disposition crosswalk.
+- Required complete five-field closure in Chapters 23 and 24 as well as Chapters 25 and 26. Scenario construction and bounded output now remain case-level fields; evidence provenance, empirical comparison result, and inferential disposition remain distinct link-level fields where relevant, with *not applicable* available for an undeclared comparison.
+- Removed wording that made a positive or null comparison automatically determine an inference. Comparison results and bridge-specific inferential dispositions are now recorded separately.
+- Regrouped the densest development instructions into two to five substantive moves while preserving every required concept, source burden, and destination.
+
+Round 4 therefore cannot count as a no-change stabilization round. Round 5 begins a new two-round stabilization attempt.
+
 ## Stabilization log
 
 | Round | Structural changes required? | Result |
@@ -189,5 +216,6 @@ Round 3 therefore cannot count as a no-change stabilization round. Round 4 begin
 | 1 — architecture review | yes | Macrostructure retained; source accounting, unit contract, ownership, case outputs, and later-book seams revised. |
 | 2 — post-revision developmental and integrity review | yes | Provenance, case outputs, scaffold chronology, topology ownership, bibliography disposition, and control grammar revised. |
 | 3 — developmental, claim-architecture, and source-integrity review | yes | Family ordering, scale ownership, five-field case logic, and layered bandha ownership revised. |
-| 4 — post-revision reread | pending | — |
-| 5 — independent confirmation reread | pending | — |
+| 4 — post-revision reread | yes | Family ontology, canonical case outputs, and five-field closure revised; macrostructure retained. |
+| 5 — first post-revision reread | pending | — |
+| 6 — independent confirmation reread | pending | — |

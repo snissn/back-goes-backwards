@@ -106,7 +106,7 @@ Worked-case records and comparison tables keep five fields distinct:
 4. **inferential disposition:** supported, narrowed, disfavored, or unresolved within the declared domain; and
 5. **bounded output:** the mechanical relation, researchable interval, structured uncertainty, or stopping decision the case earns.
 
-A single link may have entries in several fields. None of these labels substitutes for another: a reconstructed relation is not automatically supported or disfavored, a null comparison is not an evidence-provenance state, and a stipulated scenario is not an observation.
+A case record contains all five fields. Scenario construction and bounded output describe the case as a whole; individual links carry provenance and, where relevant, an empirical comparison result and an inferential disposition. A comparison may be not applicable. None of these labels substitutes for another: a reconstructed relation is not automatically supported or disfavored, a null comparison is not an evidence-provenance state, and a stipulated scenario is not an observation.
 
 Sources remain assigned by exact job:
 

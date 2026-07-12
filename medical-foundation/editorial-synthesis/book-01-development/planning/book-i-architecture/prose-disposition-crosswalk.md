@@ -272,15 +272,15 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 
 | Current source block | Destination | Disposition | Editorial action |
 |---|---|---|---|
-| Part V opening | Part V opening | rewrite constructively | Present the exact progression through a common five-field ledger that separates scenario construction, exact I.8 provenance, empirical comparison result, inferential disposition, and bounded output; consolidate case-wide boundaries once. |
+| Part V opening | Part V opening | rewrite constructively | Present the common five-field ledger and reproduce the four canonical outputs exactly: **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**; **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**; **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**; and **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**. |
 | Chapter 23: One step, several meanings of load | 23.0 | retain and compress | Declare the example a multistudy reconstruction, use it as the case-specific scale stack, and remove generic mechanics re-teaching. |
 | Chapter 23: Define the knee before solving it | 23.1 | retain | Preserve system, task, phase, receiver, and evidence boundary. |
 | Chapter 23: Geometry changes the internal question | 23.2 | retain | Preserve moment arms, alignment, contact, and distribution changes. |
 | Chapter 23: From joint demand to a local cartilage field | 23.3 | retain | Preserve heterogeneous local field, human evidence, model evidence, and counterexamples. |
 | Chapter 23: Exposure becomes consequence through the receiver | 23.4 | merge and compress | Apply Chapter 19's receiver/dose/state logic without re-teaching mechanobiology. |
 | Chapter 23: The axial transfer: disc, facets, and endplates | 23.6 | retain and compress | Keep a shorter lumbar portability test with declared different carriers. |
-| Chapter 23: Competing histories and an informative null | 23.5; 23.7 | retain and split | Use counterexamples to test geometry, then complete the case ledger. |
-| Chapter 23: What geometry can establish | 23.8 | rewrite constructively | End on a strong bounded mechanical relation while leaving downstream biology and clinical meaning open. |
+| Chapter 23: Competing histories and an informative null | 23.5; 23.7 | retain and split | Use counterexamples to test geometry, then complete all five case fields, including a not-applicable empirical-comparison result where no declared comparison exists. |
+| Chapter 23: What geometry can establish | 23.8 | rewrite constructively | End on **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**. |
 | Chapter 23 notes | Chapter 23 case evidence anchors | retain and split | Keep knee and lumbar sources distinct and assigned to exact case arrows. |
 | Chapter 24: A chain with a missing middle | 24.0 | retain | Preserve teaching-composite status, observed endpoints, and missing cumulative interval. |
 | Chapter 24: One region, several systems | 24.1; 24.6 | retain and split | Define the focal arterial case first; move venous and neural receiver comparisons later. |
@@ -288,7 +288,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 24: What the record shows—and what it does not | 24.4–24.5 | rewrite constructively | Build the retained-state timeline and current arterial endpoint chain with evidence states. |
 | Chapter 24: Venous and neural boundaries | 24.6 | retain and compress | Preserve receiver-specific variables without expanding into a full TOS taxonomy. |
 | Chapter 24: Transfer beyond a lumen | 24.7 | retain and compress | Keep one tendon-glide comparison; let Chapter 20 own the general grammar. |
-| Chapter 24: What this lens contributes | 24.8–24.9 | rewrite constructively | Produce the canonical case result—a substantive focal arterial account with a reconstructed cumulative wall-exposure interval—and identify that interval as the researchable middle without upgrading it to observation. |
+| Chapter 24: What this lens contributes | 24.8–24.9 | rewrite constructively | Complete all five case fields and produce **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**; identify that interval as the researchable middle without upgrading it to observation. |
 | Chapter 24 notes | Chapter 24 arterial case anchors; Chapter 20 comparisons | retain and split | Keep arterial sources with the case; move general venous, neural, and glide evidence to Chapter 20 where duplicated. |
 | Chapter 25: The same event does not happen to the same ankle twice | 25.0 | rewrite constructively | Declare the example a multistudy reconstruction and lead with recurrence as a sequence of changing states. |
 | Chapter 25: Three different objects inside one word | 25.1 | rewrite constructively | Define passive restraint, task-level relation maintenance, and perceived instability positively. |
@@ -296,7 +296,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 25: Repetition changes the next starting state | 25.3–25.5 | retain and split | Preserve residual-state logic and use copers to demonstrate alternative trajectories. |
 | Chapter 25: Protection comes before cost | 25.6 | retain | Preserve compensation-first-as-solution framing. |
 | Chapter 25: The axial transfer: lumbar motion and control | 25.8 | retain and compress | Apply the state grammar to lumbar recurrence without importing ankle evidence as proof. |
-| Chapter 25: A state-transition account of recurrence | 25.7; 25.9–25.10 | retain and split | Complete several measured state relations, state that the transition mechanism remains incomplete, and report regional comparison results separately from the inferential disposition of each bridge. |
+| Chapter 25: A state-transition account of recurrence | 25.7; 25.9–25.10 | retain and split | Produce **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**. |
 | Chapter 25 notes | Chapter 25 case evidence anchors | retain and split | Assign sources to ankle state, coper, exposure-opportunity, compensation, proximal/null, and lumbar jobs. |
 | Chapter 26: A history with no declared cause | 26.0 | retain | Preserve stipulated hypothetical as the scenario-construction status, the sparse chronology, and the explicit lack of predetermined cause. |
 | Chapter 26: Put time on the page before mechanism | 26.0 | merge | Absorb chronology fields into the case opening. |
@@ -306,9 +306,9 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 26: The regional bridge that is not there | 26.4 | rewrite constructively | Specify the fields a regional bridge requires and the observations that update it. |
 | Chapter 26: Findings, symptoms, and mechanism do not collapse | 26.5 | rewrite constructively | Define findings, function, symptoms, tissue response, and mechanism as separate chronology nodes. |
 | Chapter 26: Six legitimate endings | 26.6; 27.8–27.9 | retain and split | Keep competing histories inside the case; move the general endpoint taxonomy to Chapter 27. |
-| Chapter 26: What the lens added | 26.7–26.8 | rewrite constructively | Preserve the case as a transparent stipulated hypothetical with no established regional carrier; keep provenance, comparison result, and inference in separate fields; present unresolved causal plurality as its positive bounded output. |
+| Chapter 26: What the lens added | 26.7–26.8 | rewrite constructively | Produce **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**; keep provenance, comparison result, and inference in separate fields. |
 | Chapter 26 notes | Chapter 26 case anchors; Chapter 28 | retain and split | Keep mixed-history and low-back sources with the case; move broad occupational/design sources where they become general. |
-| Part V synthesis | Part V synthesis | rewrite constructively | Compare the four cases through separate scenario-construction, exact-provenance, comparison-result, inferential-disposition, and bounded-output fields; remove repeated protocol and diagnosis boundaries. |
+| Part V synthesis | Part V synthesis | rewrite constructively | Compare the four cases through separate scenario-construction, exact-provenance, comparison-result, inferential-disposition, and bounded-output fields; repeat the four canonical outputs exactly; remove repeated protocol and diagnosis boundaries. |
 
 ## Part VI source blocks
 
@@ -323,7 +323,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 27: 5. What, if anything, did the changed strategy preserve? | 27.5 | rewrite constructively | Broaden the question to function preserved, changed, or constrained; treat compensation as one possible explanation rather than a premise. |
 | Chapter 27: 6. What changes with task, support, time, or state? | 27.6 | retain and expand | Preserve purposeful comparison while making dated events and intervals, present modulation, longitudinal transition, and retrospective reconstruction explicit. |
 | Chapter 27: 7. What can actually be measured, and what remains uncertain? | 27.7 | retain | Apply the exact I.8 evidence-state labels relevant to the task without redefining the legend, while preserving uncertainty, alternatives, and the stopping point. |
-| Chapter 27: Four narratives, four different endings | 27.8 | rewrite constructively | Compare the four cases through the five non-interchangeable fields: scenario construction, exact I.8 provenance, empirical comparison result, inferential disposition, and bounded output. |
+| Chapter 27: Four narratives, four different endings | 27.8 | rewrite constructively | Compare the four cases through the five non-interchangeable fields and repeat the four canonical outputs exactly: **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**; **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**; **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**; and **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**. |
 | Chapter 27: A scaffold that is allowed to stop | 27.9–27.10 | rewrite constructively | Define four valid endpoints and close on portable inquiry. |
 | Chapter 27 notes | Chapter 27 evidence anchors; Chapter 29 | retain and split | Keep reasoning-scaffold sources; move full validation methods to Chapter 29. |
 | Chapter 28: Beyond “sit correctly” | 28.0–28.1 | rewrite constructively | Open with language expanding what people and systems can recognize and redesign. |

@@ -2,16 +2,16 @@
 
 ## Part proposition
 
-A changing demand meets a changing capacity through particular paths and handoffs. When that organization changes, the resulting exposure can be described through six canonical families: geometric redistribution; local concentration; task/segment instability; discoordination or mistimed handoff; maintained deformation/lost excursion; and compensatory rerouting.
+A changing demand meets a changing capacity through particular paths and handoffs. Those paths and handoffs can change through six canonical families of mechanical organization, each of which may alter local exposure: geometric redistribution; local concentration; task/segment instability; discoordination or mistimed handoff; maintained deformation/lost excursion; and compensatory rerouting.
 
 ## Reader movement
 
 Chapter 10 establishes the conditions of mechanical viability. Chapter 11 supplies handoff mechanics and route-state qualifiers without owning the adverse discoordination family. Chapters 12–15 develop the six canonical families, with Chapter 14 owning adverse discoordination or mistimed handoff and Chapter 15 owning function-preserving compensatory rerouting. Chapter 16 shows how local, regional, and whole-task relations interact while keeping downstream branches separate.
 
-## Part opening — A vocabulary for load mismanagement
+## Part opening — How organization changes exposure
 
-- **Proposition:** Load mismanagement becomes mechanically specific through a named change in organization, exposure, receiver, and time.
-- **Develop:** Introduce the viable baseline; present geometric redistribution, local concentration, task/segment instability, discoordination or mistimed handoff, maintained deformation/lost excursion, and compensatory rerouting in one map; show that several can coexist or remain inconsequential; state which chapter owns each family; identify scale transition as an analytical operation rather than a seventh family.
+- **Proposition:** A change in mechanical organization becomes specific when its family, exposure, receiver, and time course are named.
+- **Develop:** Introduce the viable baseline; present geometric redistribution, local concentration, task/segment instability, discoordination or mistimed handoff, maintained deformation/lost excursion, and compensatory rerouting in one map; show that several can coexist or remain inconsequential; state which chapter owns each family; identify transformation between scales as an analytical operation rather than a seventh family.
 - **Evidence/example:** One family map with viable, altered, and null branches.
 - **Continuity:** Inherits Part II's cooperative architecture and hands Chapter 10 the changing demand–capacity relation.
 - **Editorial boundary:** The families describe mechanical organization, not diagnoses or a moral classification of bodies.
@@ -229,7 +229,7 @@ Separate regional redistribution from local concentration, trace geometry into r
 - **Proposition:** A model can estimate how a declared geometric or material change affects a declared local output within a plausible range.
 - **Develop:** Define baseline, perturbation, fixed conditions, output, uncertainty, and validation; distinguish sensitivity from causal reconstruction; prefer transparent low-order models where they answer the question.
 - **Evidence/example:** One geometric parameter sweep.
-- **Continuity:** Makes scale transition testable and hands 12.5 living history.
+- **Continuity:** Makes the regional-to-local transformation testable and hands 12.5 living history.
 - **Target:** 400–550 words.
 
 ### 12.5 Concentration becomes consequential through receiver, dose, and state
@@ -564,7 +564,7 @@ Define scale-specific variables; trace local-to-regional, regional-to-whole, and
 ### 16.5 Downstream consequences separate into four receiver-specific branches
 
 - **Proposition:** Sensation and control, pressure/flow/excursion, tissue response, and energetic or regulatory cost are four connected but non-equivalent consequence programs.
-- **Develop:** Compare the receiver, quantity, timescale, measure, and feedback relation for each branch; preserve tone, proprioception, interoception, and neural signaling under sensation/control; preserve caliber, flow, pressure, glide, course, and excursion under form-receiving systems; preserve adaptation, repair, sensitization, injury, and remodeling under tissue response; preserve ongoing effort, autonomic regulation, recovery demand, fatigue, adaptability, and resilience under energetic/regulatory cost; assign detailed evidence to Chapters 14 and 19–21; include a null or divergent result in each row.
+- **Develop:** Build a four-branch comparison keyed by receiver, quantity, timescale, measure, and feedback: sensation/control carries tone, proprioception, interoception, and neural signaling; form-receiving systems carry caliber, flow, pressure, glide, course, and excursion; tissue response carries adaptation, repair, sensitization, injury, and remodeling; energetic/regulatory cost carries ongoing effort, autonomic regulation, recovery demand, fatigue, adaptability, and resilience. Assign detailed evidence to Chapters 14 and 19–21. Include a null or divergent result in each row.
 - **Evidence/example:** One four-row branch map populated only with examples already introduced in Chapters 10–15.
 - **Continuity:** Synthesizes the possible downstream programs without forming one cascade and hands 16.6 the common receiver-and-outcome bridge.
 - **Editorial boundary:** Ordinary pressure-mediated support and the pressure/flow/excursion branch remain available in Books I–II. Book IV owns respiratory-phase and breath/pressure-linked regulatory or transition mechanisms and the candidate whole-system geometries used to model them; this unit does not use those hypotheses to connect the four branches.
