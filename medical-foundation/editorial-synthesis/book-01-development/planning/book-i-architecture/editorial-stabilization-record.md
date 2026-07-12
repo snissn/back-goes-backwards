@@ -261,6 +261,30 @@ These two wording corrections preserve ownership, sequence, scope, disposition, 
 
 Round 6 therefore cannot be the second clean stabilization round. The count resets; Rounds 7 and 8 must both require no structural revision.
 
+## Round 7 — First unified-record stabilization reread
+
+**Status:** complete; no structural revision required.
+
+**Independent review lenses:**
+
+1. developmental review of the complete reader arc, finite unit jobs, record usability, case pacing, Part VI payoff, and Book I/II boundary;
+2. claim and ownership review of the composite record, evidence fields, canonical outputs, organization families, scale, causality, posterior claims, and later-series seams; and
+3. freshly recomputed source, disposition, drafting-contract, asset, reference, and production integrity.
+
+### Stable findings
+
+- Chapter 22.7 now functions as the sole owner of a reader-usable composite record. Its template-led 300–450-word treatment separates substantive-chain rows from epistemic fields without creating a second method or consuming Chapter 22.
+- Part V applies and populates that record; Chapter 27 converts its substance into seven portable questions. The four cases preserve distinct pacing, evidence difficulty, and bounded outputs.
+- The six-Part reader arc, finite unit jobs, difficult chapter seams, constructive framing, Part VI payoff, and independently testable Book I/II boundary required no change.
+- Claim ownership remained stable across I.8 provenance, comparison results, inferential dispositions, organization-change families, scale transformations, hard/form-receiving roles, posterior propositions, whole-person causality, and Books II–V.
+- Production validation again confirmed 317 exact source rows, 293 contiguous IDs, 304 complete drafting units, the 119,090–161,080 target range, 116 figures, 72 tables, 384 bibliography records, 464 resolved footnote definitions, no unresolved references or paths, ten parseable Markdown files, and an unchanged manuscript blob.
+
+### Nonstructural terminology correction
+
+- Standardized the empirical-comparison label as *not applicable* when no comparison is declared.
+
+This label correction changes no ownership, sequence, scope, disposition, or target. Round 7 is the first consecutive no-change round after the unified-record revision; Round 8 must independently confirm the same package.
+
 ## Stabilization log
 
 | Round | Structural changes required? | Result |
@@ -272,5 +296,5 @@ Round 6 therefore cannot be the second clean stabilization round. The count rese
 | 4 — post-revision reread | yes | Family ontology, canonical case outputs, and five-field closure revised; macrostructure retained. |
 | 5 — first post-revision reread | no | First consecutive clean round; only two nonstructural wording corrections applied. |
 | 6 — adversarial confirmation reread | yes | Complete case-record ownership moved to 22.7; Part V now applies the inherited method. |
-| 7 — first post-revision reread | pending | — |
+| 7 — first post-revision reread | no | First consecutive clean round; one controlled comparison-result label normalized. |
 | 8 — independent confirmation reread | pending | — |

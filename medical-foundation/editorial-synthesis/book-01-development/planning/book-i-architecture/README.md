@@ -102,7 +102,7 @@ Worked-case records and comparison tables keep five fields distinct:
 
 1. **evidence provenance:** the exact I.8 state—observed, reported, measured, calculated, modeled, inferred, reconstructed, embodied, hypothesized, or unknown;
 2. **scenario construction:** for example, a multistudy reconstruction, teaching composite, or stipulated hypothetical;
-3. **empirical comparison result:** positive, null, mixed, or not applicable under a declared comparison;
+3. **empirical comparison result:** positive, null, or mixed under a declared comparison, or not applicable when no comparison is declared;
 4. **inferential disposition:** supported, narrowed, disfavored, or unresolved within the declared domain; and
 5. **bounded output:** the mechanical relation, researchable interval, structured uncertainty, or stopping decision the case earns.
 

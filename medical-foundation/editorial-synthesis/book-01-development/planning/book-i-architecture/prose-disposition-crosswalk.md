@@ -279,7 +279,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 23: From joint demand to a local cartilage field | 23.3 | retain | Preserve heterogeneous local field, human evidence, model evidence, and counterexamples. |
 | Chapter 23: Exposure becomes consequence through the receiver | 23.4 | merge and compress | Apply Chapter 19's receiver/dose/state logic without re-teaching mechanobiology. |
 | Chapter 23: The axial transfer: disc, facets, and endplates | 23.6 | retain and compress | Keep a shorter lumbar portability test with declared different carriers. |
-| Chapter 23: Competing histories and an informative null | 23.5; 23.7 | retain and split | Use counterexamples to test geometry, then complete all five case fields, including a not-applicable empirical-comparison result where no declared comparison exists. |
+| Chapter 23: Competing histories and an informative null | 23.5; 23.7 | retain and split | Use counterexamples to test geometry, then complete all five case fields, including a *not applicable* empirical comparison result where no declared comparison exists. |
 | Chapter 23: What geometry can establish | 23.8 | rewrite constructively | End on **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**. |
 | Chapter 23 notes | Chapter 23 case evidence anchors | retain and split | Keep knee and lumbar sources distinct and assigned to exact case arrows. |
 | Chapter 24: A chain with a missing middle | 24.0 | retain | Preserve teaching-composite status, observed endpoints, and missing cumulative interval. |
