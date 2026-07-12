@@ -232,7 +232,7 @@ Evidence at one level does not license the next. In particular:
 
 An arterial presentation with a cervical rib, anomalous first rib, healed fracture, or another defined external structure plus objective subclavian-artery injury can provide the cleanest complete chain:
 
-> defined anatomy and task → repeated external arterial deformation → wall injury or post-stenotic change → objective hemodynamic or distal arterial consequence → clinical presentation
+> defined anatomy and task → proposed repeated external arterial deformation and candidate wall-state change → observed arterial or luminal abnormality → objective hemodynamic or distal arterial consequence → clinical presentation
 
 Its strengths are a visible external constraint, tissue-specific pathology, and an SVS definition that requires objective arterial abnormality rather than positional compression alone. Its limits are rarity, selection into specialist cohorts, and dependence on a focal anatomical lesion. It would demonstrate a mechanical principle, not ordinary posture or a common universal route.
 
@@ -256,9 +256,9 @@ Neurogenic TOS is best retained as a contrast rather than the first hose-inspire
 
 The [focused phenotype comparison](thoracic-outlet-phenotype-comparison.md) supports this working arrangement:
 
-- **Lead:** objective aTOS using a source-grounded composite with focal bony anatomy, objective adjacent artery-wall pathology, and a documented distal embolic or ischemic consequence.
+- **Lead:** objective aTOS using a source-grounded composite with focal bony anatomy, objective adjacent arterial imaging abnormalities, and a documented distal embolic or ischemic consequence.
 - **Weakest arrow:** repeated imposed deformation → wall injury, always labeled reconstructed unless direct evidence is found.
-- **Required negative comparison:** healthy provocative arterial waveform change and bony variation without aTOS.
+- **Required negative comparison:** healthy provocative arterial waveform change and independent healthy-population bony-variation evidence; the 2026 case's bilateral category is a geometry-resolution check because detailed left-vessel evaluation was not feasible.
 - **Time-dependent comparison:** thrombotic vTOS as a compact event-to-retained-state timeline.
 - **Reserve:** nonthrombotic venous obstruction.
 - **Within-region contrast:** neurogenic TOS, used to show that neural variables require a different chain.

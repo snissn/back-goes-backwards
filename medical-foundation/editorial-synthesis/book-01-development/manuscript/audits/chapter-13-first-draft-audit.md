@@ -18,8 +18,7 @@ The draft is a clean-sheet reconstruction from the accepted packet. No legacy or
 
 | Measure | Result | Control |
 |---|---:|---|
-| Body words, excluding notes and all blockquoted figure matter | 3,576 | Within the 3,500–4,500 target |
-| Words before notes, including headings and text-native figure matter | 4,481 | Recorded for reproducibility; not the controlling body count |
+| Canonical body words | 3,705 | Within the 3,500–4,500 target |
 | Text-native figures | 3 | Required role, hose-state, and persistence-branch jobs represented |
 | Source notes | 8 | Every note marker has one definition; no unused definitions |
 | Persistent external source links in notes | 16 | All identities and claim jobs reconcile to the accepted evidence packets; live-link and final bibliography normalization remain publication checks |
@@ -27,7 +26,7 @@ The draft is a clean-sheet reconstruction from the accepted packet. No legacy or
 | Raw URLs in body prose | 0 | Pass |
 | Placeholder citations, archive locators, or migration notes in reader prose | 0 | Pass |
 
-The controlling word count was produced from the chapter before `## Notes`, excluding headings and every blockquoted line. This removes all figure titles, tables, diagrams, captions, and text alternatives. It retains the displayed causal sequence and ordinary numbered or bulleted lists. The second count includes all material before the notes and is provided only to make the calculation auditable.
+The count comes from `manuscript/count-body-words.rb`, using the canonical drafting-guide method: exclude the chapter title, Notes section, and complete figure blocks; retain subsection headings, ordinary lists, and nonfigure displayed material.
 
 ## Claim and model audit
 
@@ -78,7 +77,6 @@ Its immediately adjacent controls are sufficient for this first draft:
 - the sentence is called an organizing proposition rather than a law of motion;
 - *load* is identified as umbrella language that must become a named mechanical quantity in technical use;
 - the distinction is explicitly **motivated by** traditional Chinese medicine's hard/soft and Yin/Yang concepts;
-- no use of *inspired by* remains;
 - the mechanical roles are declared a flexible translation rather than a definitionally exact identity;
 - hard is relative shape preservation, force transmission, constraint, or structural resolution in a stated relation;
 - soft is relative form reception and shape conformation while retaining task-relevant freedom;
@@ -111,7 +109,7 @@ The chapter does not attempt to stand alone as the book's clinical argument. It 
 |---|---|---|
 | Exact selected system | Middle-finger flexor digitorum superficialis tendon and adjacent SSCT at the wrist during controlled finger flexion and extension | Pass; final anatomy review open |
 | Separate observables | Tendon excursion, SSCT excursion, and calculated relative motion are named separately | Pass |
-| Ordinary task dependence | Grip diameter, active/passive drive, and adjacent-finger configuration are presented as sources of variation | Pass |
+| Ordinary task dependence | Grip diameter is supported in the selected middle-finger FDS–SSCT wrist system; active/passive drive and neighboring-finger configuration are explicitly assigned to a separate zone-V FDP–surrounding-tissue study | Pass; systems are not pooled |
 | Measurement limits | Image plane, probe pressure, region selection, frame rate, speed, layered target, and out-of-plane motion are named | Pass |
 | Quantity boundary | Relative displacement is not shear stress, friction, injury, or capacity | Pass |
 | Neutral null | Co-motion and smaller excursion in one task can be ordinary and do not establish dysfunction | Pass |
@@ -141,7 +139,7 @@ All three figures are original text-native teaching structures. They have provis
 | `13-02` | Four idealized collapsible-tube studies for coupled wall, pressure, axial, geometric, and support dependence | No patient-specific vessel, diagnosis, or clinical outcome inference | Pass |
 | `13-03` | Healthy forearm study as a non-monotonic compression/perfusion counterexample | Not transferred to focal kinking, venous outflow, or a named condition | Pass |
 | `13-04` | Yoshii et al. for task-dependent tendon/SSCT motion across grip diameters | No ideal task, adverse constraint, or threshold | Pass |
-| `13-05` | Schrier and Korstanje for reliability and task/protocol dependence | Values are not pooled into a normal range | Pass |
+| `13-05` | Schrier for tracking reliability and Korstanje for task/protocol dependence in a separate zone-V FDP–surrounding-tissue system | Different anatomy, location, target tissue, and protocol are explicit; findings are not imported into the selected FDS–SSCT system or pooled into a normal range | Pass |
 | `13-06` | Korstanje, Bandaru, and van Doesburg for qualified displacement-method validation | No validation of SSCT stress, friction, injury, or function | Pass |
 | `13-07` | Svensson and colleagues for acquisition, anisotropy, algorithm, and validation limitations | Broad method review is not system-specific outcome evidence | Pass |
 | `13-08` | Tat et al. for speed-dependent measurement, return-phase language, and noninterchangeability of displacement and frictional work | Cadaver results do not become living recovery, pathology, or clinical evidence | Pass |

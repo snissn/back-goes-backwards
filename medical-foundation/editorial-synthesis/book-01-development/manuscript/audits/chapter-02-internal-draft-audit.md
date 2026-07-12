@@ -18,7 +18,7 @@ The draft is a clean-sheet reconstruction. No legacy or generated sentence, equa
 
 | Measure | Result | Control |
 |---|---:|---|
-| Body words, excluding notes and figure material | 4,143 | Within the 3,500–4,500 target |
+| Canonical body words | 4,155 | Within the 3,500–4,500 target |
 | Text-native figures | 5 | All required Chapter 2 teaching jobs represented |
 | Source notes | 9 | Every note marker has one definition; no unused definitions |
 | Persistent source links | 13 | All identities checked; automated retrieval returned 200 for 11 and publisher bot-denial 403 for 2 DOI routes independently verified through their primary records |
@@ -26,7 +26,7 @@ The draft is a clean-sheet reconstruction. No legacy or generated sentence, equa
 | Local control links in this audit | 5 | All resolve |
 | Placeholder citations or raw archive references | 0 | Pass |
 
-The word count is calculated from reader body prose before `## Notes`, excluding every blockquoted figure, caption, and text alternative. Headings and the displayed moment relation remain in the count; this slightly overstates ordinary paragraph prose and does not threaten the upper bound.
+The count comes from `manuscript/count-body-words.rb`, using the canonical drafting-guide method: exclude the chapter title, Notes section, and complete figure blocks; retain subsection headings, ordinary lists, and nonfigure displayed material.
 
 ## Mechanics and notation audit
 

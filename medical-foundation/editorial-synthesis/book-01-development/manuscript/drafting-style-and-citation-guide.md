@@ -125,6 +125,18 @@ Each Part requires a short reader-facing introduction that states its question, 
 
 The book introduction and final conclusion are written or finalized only after the body and Chapter 30 handoff are stable.
 
+### Canonical body-word count
+
+Chapter ranges use one reproducible development count. Count reader-facing material after the chapter's H1 title and before `## Notes`. Retain subsection headings, ordinary lists, equations, and nonfigure displayed chains. Exclude each complete text-native figure block, including its title, diagram or table, caption, and text alternative. Markdown syntax, link destinations, and footnote markers are not words.
+
+The canonical implementation is [`count-body-words.rb`](count-body-words.rb):
+
+```shell
+ruby manuscript/count-body-words.rb manuscript/chapters/01-the-mechanical-dimension-of-life.md
+```
+
+The count is a scope and pacing control, not a prose-quality score. Audits should record the script result and may report other production counts only when they are clearly labeled and do not replace it.
+
 ## 5. Evidence-state expression in clean prose
 
 Control IDs and development labels never appear in reader prose. Preserve their distinctions with ordinary language.

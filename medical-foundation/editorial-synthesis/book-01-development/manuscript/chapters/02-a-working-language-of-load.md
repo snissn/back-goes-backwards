@@ -37,7 +37,7 @@ This method immediately exposes a common shortcut. Knowing the object's weight a
 > is internal             is external          crosses boundary      requires a model
 >
 > HOLD: acceleration approximately zero     MOVE/BRAKE: acceleration retained
-> STATUS: qualitative model inventory (MOD); no force value is presented as measured
+> STATUS: qualitative model inventory; no force value is presented as measured
 > ```
 >
 > **Caption.** Redrawing the boundary changes which interactions are external and which quantities can be determined. It does not change the event, reveal local tissue stress, or identify a unique internal route.
@@ -200,7 +200,7 @@ Energy is not a substance that must travel along one anatomical line. Nor is low
 
 This brings us to *load path*. In ordinary structural teaching, a load path links an applied load to the forces that bring a structure into equilibrium.[^02-09] That is a useful starting point. Living systems require a broader, explicitly declared representation. A load path may describe how a defined demand is distributed, transferred, opposed, and ultimately balanced through skeletal contact, joint resultants, tensile structures, active muscle, pressure-mediated support, sliding interfaces, or several carriers at once.
 
-A defensible path must therefore begin and end. It begins with a stated demand or interaction crossing a boundary. It ends in balancing reactions, inertia, stored or dissipated energy where those accounts are relevant, or another explicitly bounded transfer. Between them, the path must preserve the mechanical object it claims to trace. A force cannot silently become pressure, then sensation, then health merely because arrows connect the words. Each change of description needs its own relation and evidence.
+A defensible path must therefore begin and end. A force-and-moment route begins with a stated interaction crossing a boundary and ends in reactions, momentum-rate or inertial terms, or another explicitly bounded mechanical interaction. A separate work-and-energy account can track transfer, storage, return, and dissipation through the same task. The two accounts can inform one another, but they do not conserve or trace the same object. Between endpoints, any path must preserve the mechanical object it claims to follow. A force cannot silently become pressure, then sensation, then health merely because arrows connect the words. Each change of description needs its own relation and evidence.
 
 The path need not be a single line. It may be a branching graph, a contact network, a distributed stress field, or a time-varying relation. It has no unit of its own. Each edge, arrow, or region must say what it represents: force, moment, pressure, traction, stress, deformation, or another defined quantity. It must also say whether that quantity was measured, calculated, inferred, modeled, hypothesized, or reported as an embodied experience.
 

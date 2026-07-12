@@ -18,7 +18,7 @@ The draft is a clean-sheet synthesis. No legacy or generated sentence, equation,
 
 | Measure | Result | Control |
 |---|---:|---|
-| Body words, excluding notes, headings, and figure material | 3,555 | Within the 3,500–4,500 target |
+| Canonical body words | 3,591 | Within the 3,500–4,500 target |
 | Substantive reader sections after the opening | 6 | Five argumentative moves plus synthesis and handoff |
 | Text-native figures | 2 | Ordinary-event integration and multiscale audit path |
 | Source notes | 6 | Every marker resolves; one note is reused for the later fracture callback |
@@ -26,7 +26,7 @@ The draft is a clean-sheet synthesis. No legacy or generated sentence, equation,
 | Reader-facing control IDs | 0 | Pass |
 | Placeholder citations, raw archive locators, or editorial instructions | 0 | Pass |
 
-The body count excludes the chapter title, section headings, the `## Notes` section, and all blockquoted figure internals, captions, and text alternatives. It retains reader prose, ordinary lists, and any nonfigure displayed material, matching the drafting guide's body-prose convention.
+The count comes from `manuscript/count-body-words.rb`, using the canonical drafting-guide method: exclude the chapter title, Notes section, and complete figure blocks; retain subsection headings, ordinary lists, and nonfigure displayed material.
 
 ## Argument and evidence audit
 

@@ -10,7 +10,7 @@
 
 ## Drafting decision
 
-Chapter 24 will use one explicitly source-grounded composite built around **objective arterial thoracic outlet syndrome associated with a focal bony relation, objective subclavian-artery pathology, and a distal embolic or ischemic consequence**. The composite is a teaching construction, not a purportedly complete patient history and not a representative account of every thoracic-outlet presentation.
+Chapter 24 will use one explicitly source-grounded composite built around **objective arterial thoracic outlet syndrome associated with a focal bony relation, objective subclavian-artery imaging abnormalities, and a distal embolic or ischemic consequence**. The composite is a teaching construction, not a purportedly complete patient history and not a representative account of every thoracic-outlet presentation.
 
 The principal image-complete anchor is the 2026 open-access case, [*Arterial thoracic outlet syndrome due to a first-rib anomaly causing brachial artery embolic occlusion*](https://doi.org/10.1016/j.radcr.2026.02.020). It offers:
 
@@ -18,9 +18,9 @@ The principal image-complete anchor is the 2026 open-access case, [*Arterial tho
 - right subclavian stenosis and post-stenotic dilation;
 - local thrombus and distal axillary-to-brachial occlusion;
 - collateral circulation and an objective side-to-side pressure difference; and
-- a useful internal noncorrespondence: the presence of bilateral anatomical variation does not imply bilateral arterial pathology.
+- an internal resolution check: bilateral rib-like variation did not specify the focal right first/second-rib geometry, while technical limits prevented a detailed left-subclavian evaluation.
 
-The 2023 [cervical-rib imaging case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10371763/) remains a secondary anatomy–lesion–embolus anchor. The Pitcher and Vemuri operative cohorts provide selected-population context. None directly observes years of repeated contact becoming a wall lesion. The arrow
+The 2023 [cervical-rib imaging case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10371763/) remains a secondary anatomy–lesion–embolus anchor. The Pitcher and Vemuri operative cohorts provide selected-population context. The [Henry et al. meta-analysis](https://pubmed.ncbi.nlm.nih.gov/29203316/) supplies the independent comparison showing that cervical ribs also occur in healthy populations. None of these sources directly observes years of repeated contact becoming a wall lesion. The arrow
 
 > focal surrounding relation and repeated exposure → cumulative arterial deformation or contact → wall injury
 
@@ -44,8 +44,9 @@ This disposition does not pretend that an external specialist review has occurre
 
 | Proposed use | Evidence state | Source | Drafting limit |
 |---|---|---|---|
-| Bilateral anomalous first-rib anatomy with a consequential focal relation on one side | Observed in one case | [2026 Radiology Case Reports case](https://doi.org/10.1016/j.radcr.2026.02.020) | One case supplies anatomy and within-person contrast, not prevalence or sufficiency |
+| Bilateral anomalous first-rib anatomy with a consequential focal relation on one side | Observed in one case | [2026 Radiology Case Reports case](https://doi.org/10.1016/j.radcr.2026.02.020) | One case distinguishes a broad bilateral category from the focal right geometry; incomplete left-vessel evaluation prevents its use as an anatomy-without-disease null |
 | Right subclavian stenosis, post-stenotic dilation, local thrombus, and distal occlusion | Observed in the same case | [2026 case](https://doi.org/10.1016/j.radcr.2026.02.020) | Co-observation does not directly measure the cumulative injury history |
+| Cervical ribs occur in healthy comparison populations as well as TOS populations | Pooled association plus nonsufficiency comparison | [Henry et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29203316/) | Broad cervical-rib prevalence does not test the anchor case's exact first-rib fusion, arterial state, or causal history |
 | Cervical-rib/first-rib fusion, subclavian pseudoaneurysm, and brachial thromboembolus | Observed in one case | [2023 open-access case](https://pmc.ncbi.nlm.nih.gov/articles/PMC10371763/) | Sparse exposure history and loss to follow-up make it a secondary anchor |
 | Recurring co-location of focal bone anatomy, objective artery pathology, and ischemic or embolic presentations in specialist practice | Co-observed and definitionally selected | [Pitcher et al., 2022](https://pubmed.ncbi.nlm.nih.gov/35378247/); [Vemuri et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28189360/) | Rare, retrospective, operative referral cohorts; not an unselected natural history |
 | Repeated contact or deformation produces the wall lesion | Reconstructed | Convergent anatomy, lesion location, pathology, task history, and ordinary arterial mechanics | This is the weakest load-bearing arrow and must never be rendered as directly observed |
@@ -94,9 +95,9 @@ The chapter should proceed in this order:
 1. Declare the composite and its provenance limits.
 2. Define the bounded system: the selected focal anatomy, artery, task or state, time, and distal endpoint.
 3. Assign the relative hard and soft roles without turning them into fixed tissue classes.
-4. Show the observed anatomy, wall/luminal pathology, and distal consequence.
+4. Show the observed anatomy, stenosis, post-stenotic dilation, filling defect interpreted as thrombus, distal occlusion, and distal consequence; keep wall injury in the reconstructed interval.
 5. Insert the reconstructed cumulative-exposure arrow explicitly rather than allowing co-location to complete it silently.
-6. Put the bilateral anomaly and healthy provocative-waveform findings beside the case as noncorrespondence.
+6. Use the bilateral category only as a resolution check, and put independent cervical-rib prevalence and healthy provocative-waveform findings beside the case as noncorrespondence.
 7. Distinguish geometry, wall state, pressure-flow behavior, collateralization, distal perfusion, and symptoms.
 8. Test intrinsic, extrinsic, mixed, reverse, and non-target alternatives.
 9. Use the venous mini-timeline to show how an event can create a retained state that present geometry cannot date.
@@ -117,7 +118,7 @@ Reader-facing first-draft prose is authorized for:
 - the declared source-grounded composite;
 - the bounded anatomy–pathology–distal-consequence chain;
 - the reconstructed cumulative-exposure hypothesis;
-- the healthy, bilateral-anomaly, and treated-cohort noncorrespondence;
+- independent healthy-anatomy and healthy-waveform noncorrespondence, the bilateral-category resolution check, and treated-cohort noncorrespondence;
 - intrinsic/extrinsic/mixed alternatives;
 - the compact venous retained-state timeline;
 - the neural variable-separation boundary; and

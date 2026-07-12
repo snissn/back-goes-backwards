@@ -62,7 +62,7 @@ The same structure can change roles. Muscle that deforms easily when inactive ma
 
 The hard/soft proposition becomes testable only when it predicts more than a relabeling of stiffness. In a bounded task, we can identify a candidate shape-preserving assembly, measure the relevant freedom of a form-receiving structure, alter or compare the surrounding relation, and ask whether that freedom changes beyond ordinary variation and method error. We can then ask whether the change reverses when the relation changes and whether a separately defined function changes with it. If the same observations are explained just as well without the role distinction, the distinction has added organization to the language but not yet explanatory power.
 
-> **Figure 13.1 — Relational roles, not tissue identities**
+> **Figure 13.1 — Relational roles, not tissue identities [text-native first-draft figure]**
 >
 > | Question in a declared task | Shape-preserving role | Form-receiving role | What remains to be tested |
 > |---|---|---|---|
@@ -75,8 +75,8 @@ The hard/soft proposition becomes testable only when it predicts more than a rel
 > EXCURSION WITHOUT A LUMEN: finger movement at the wrist
 >
 > middle-finger flexor tendon excursion  ───────────► measured displacement
-> adjacent SSCT excursion               ───────►     measured displacement
-> relative tendon–SSCT motion           ───►         calculated comparison
+> adjacent subsynovial connective tissue (SSCT) excursion ─► measured displacement
+> relative tendon–SSCT motion                              ─► calculated comparison
 >
 > observed in reviewed studies: ordinary task dependence and co-motion
 > unresolved here: adverse loss, maintaining constraint, recovery, and consequence
@@ -100,7 +100,7 @@ This separation preserves the important intuition behind the hose. If an elastic
 
 The downstream direction is not guaranteed. In one small experiment in healthy young men, mild distributed pressure around the forearm increased measured arterial inflow under the studied conditions, while higher pressures reduced it in limited observations.[^13-03] That study is not a model of a focal kink, venous obstruction, or any named disorder. Its narrow value here is methodological: external compression does not have a single monotonic effect on living perfusion. Geometry, regulation, pressure, and network response must be measured in the system being discussed.
 
-> **Figure 13.2 — What holds the hose kinked?**
+> **Figure 13.2 — What holds the hose kinked? [text-native first-draft figure]**
 >
 > | State | What maintains the observed shape? | What a change in surroundings could show | What the shape alone cannot establish |
 > |---|---|---|---|
@@ -121,7 +121,9 @@ The analogy stops early. A garden hose is passive, manufactured, and simple. Liv
 
 The same reasoning applies to structures whose relevant freedom is not cross-sectional area. A nerve may change course relative to surrounding tissues. An airway or cavity may change shape across a phase. Adjacent tissue layers may slide. A tendon must move through a bounded anatomical region while surrounding tissues move with it to some degree. The shared question is modest: what freedom does this system require for the declared task, and what maintains any observed change in that freedom?
 
-To make that question measurable without importing flow, consider the middle-finger flexor digitorum superficialis tendon and adjacent subsynovial connective tissue at the wrist during controlled finger flexion and extension. Longitudinal ultrasound can track displacement of the tendon and a neighboring layer of subsynovial connective tissue. The two move together to a degree and also move relative to one another. Studies in healthy participants show that their absolute and relative movements change with the declared task, including grip diameter, active or passive drive, and neighboring finger configuration.[^13-04][^13-05]
+To make that question measurable without importing flow, consider the middle-finger flexor digitorum superficialis tendon and adjacent subsynovial connective tissue at the wrist during controlled finger flexion and extension. Longitudinal ultrasound can track displacement of the tendon and a neighboring layer of subsynovial connective tissue. The two move together to a degree and also move relative to one another. In healthy participants, changing grip diameter changed the absolute and relative movements measured in this selected wrist system.[^13-04]
+
+A separate experiment varied active versus passive drive and neighboring-finger configuration while measuring a flexor digitorum profundus tendon and broadly defined surrounding tissue in zone V of the forearm.[^13-05] It supports the general point that measured excursion depends on task and protocol. It does not supply those specific findings to the selected middle-finger tendon–SSCT system; the anatomy, location, target tissue, and protocol differ.
 
 Three quantities must remain separate. First is the tendon's absolute excursion relative to the image or another declared reference. Second is excursion of the selected subsynovial connective tissue region. Third is their relative displacement, sometimes summarized as a calculated ratio or index. A difference between the first two is not direct measurement of local shear stress, friction, tissue injury, or capacity.
 
@@ -154,7 +156,7 @@ In an *intrinsic* account, the structure's own material, contents, active state,
 
 In a *mixed* account, current surroundings and retained internal state interact. A structure may respond differently to an ordinary external demand because its present material state differs, while the surrounding relation still contributes. Neither branch alone predicts the observed behavior.
 
-> **Figure 13.3 — Three maintaining accounts**
+> **Figure 13.3 — Three maintaining accounts [text-native first-draft figure]**
 >
 > | Account | Necessary current term | Informative observation | Required alternative |
 > |---|---|---|---|
