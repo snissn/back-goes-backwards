@@ -105,7 +105,7 @@ Apply roles to relations, directions, phases, and timescales rather than permane
 
 **Exit:** The division of mechanical labor is explicit enough to generate a testable distribution question without assuming that hard, posterior, or Yang are synonyms.
 
-### 27.4 Where might local exposure have accumulated?
+### 27.4 Where, if anywhere, might local exposure have accumulated?
 
 **Job:** Translate history and configuration into tissue-specific quantities and dose questions.
 
@@ -113,13 +113,13 @@ Ask about force, moment, contact, pressure, stress, strain, deformation, excursi
 
 **Exit:** A broad mechanical concern has become a challengeable exposure hypothesis—or has stopped because the needed object cannot yet be specified.
 
-### 27.5 What compensation preserved function?
+### 27.5 What, if anything, did the changed strategy preserve?
 
-**Job:** Identify what the system protected and whether the changed strategy altered later demand.
+**Job:** Determine whether a changed strategy preserved anything and whether it altered later demand before interpreting it as compensation.
 
-Ask about tone, bracing, gait, balance, timing, side-to-side transfer, range, effort, breathing, external assistance, task choice, and avoidance. Distinguish immediate protection, successful adaptation, persistent substitution, and symptom-led behavior. Do not classify an observed change as costly until a relevant exposure or outcome is demonstrated.
+Ask first whether anything continued or was protected, then ask about tone, bracing, gait, balance, timing, side-to-side transfer, range, effort, breathing, external assistance, task choice, and avoidance. Distinguish immediate protection, successful adaptation, persistent substitution, symptom-led behavior, neutral change, and irrelevance. Use *compensation* only when the proposed preserved function and changed strategy are both specified. Do not classify an observed change as costly until a relevant exposure or outcome is demonstrated.
 
-**Exit:** Compensation is represented as capability and chronology before it becomes a candidate source of cost.
+**Exit:** A changed strategy has been described through capability and chronology before compensation or cost is inferred.
 
 ### 27.6 What changes with task, support, time, or state?
 

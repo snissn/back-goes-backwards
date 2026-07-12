@@ -2,7 +2,7 @@
 
 **Unit:** BGB-U-0027 — *Mechanical Questions and Observations in Clinical Reasoning*
 
-**Status:** controlled, inclusive recovery of the archive as of 2026-07-11; the seven-question portable scaffold is selected; suitable for evidence-packet development and independent review; not reader prose, a clinical instrument, a self-assessment, or an authorization to draft
+**Status:** controlled, inclusive recovery of the archive as of 2026-07-11; the seven-question portable scaffold is selected; its evidence packet has passed independent review and reader drafting is authorized within the recorded controls; not reader prose, a clinical instrument, a self-assessment, or publication approval
 
 **Companions:** [Chapter 27 brief](../chapter-briefs/BGB-U-0027-mechanical-questions-clinical-reasoning.md), [Book I contract](../book-contract.md), [causal-chain and evidence-state grammar](../planning/causal-chain-and-evidence-state-grammar.md), [recurring object-transfer specification](../planning/recurring-object-transfer-specification.md), [source-coverage ledger](../../series-synthesis/source-coverage.md), [new-JSON reconciliation](../../new-json-source-reconciliation.md), and [reversible quarantine](../../series-synthesis/quarantine.md)
 
@@ -15,8 +15,8 @@ Chapter 27 should recover the observational ambition without prematurely validat
 1. What demand entered the declared system?
 2. What configuration and paths were available?
 3. How were shape-preserving and form-receiving roles divided?
-4. Where might local exposure have accumulated?
-5. What compensation preserved function?
+4. Where, if anywhere, might local exposure have accumulated?
+5. What, if anything, did the changed strategy preserve?
 6. What changes with task, support, time, or state?
 7. What can actually be measured, and where should the inference stop?
 
@@ -94,7 +94,7 @@ Quarantine constrains a present publication move; it does not erase the underlyi
 
 **Preserved:** A changed strategy often protects something: task completion, balance, confidence, a painful region, exposure, participation, or recovery. Understanding that job precedes any judgment about cost.
 
-**Reconstruction:** Compensation may be useful, neutral, costly, symptom-led, transient, persistent, or unrelated. Cost requires a measured exposure or outcome, a denominator, a time course, and alternatives. Chapter 27 asks what was preserved and what changed; it does not tell the reader how to undo the strategy.
+**Reconstruction:** A changed strategy may be useful, neutral, costly, symptom-led, transient, persistent, or unrelated. Cost requires a measured exposure or outcome, a denominator, a time course, and alternatives. Chapter 27 asks whether anything was preserved and what changed before calling the strategy compensation; it does not tell the reader how to undo it.
 
 ## Clean conceptual recovery
 
@@ -109,7 +109,7 @@ Quarantine constrains a present publication move; it does not erase the underlyi
 - posterior structures are substantial anatomical contributors without being the expected answer to every task;
 - local exposure requires a tissue or interface, quantity, dose, and state;
 - measured, calculated, modeled, inferred, reconstructed, hypothesized, and embodied information are different;
-- compensation begins with what it preserves;
+- the term *compensation* is earned by first establishing what, if anything, a changed strategy preserved;
 - modulation updates a particular hypothesis rather than proving origin;
 - alternatives and nulls enter before the conclusion;
 - uncertainty changes the next question;
@@ -128,7 +128,7 @@ Quarantine constrains a present publication move; it does not erase the underlyi
 - “the symptom changes with posture, so it is mechanical” becomes task or state modulation with simultaneous variables and alternatives;
 - “the scan missed the mechanism” becomes a limit of the available measurement and a possible research question;
 - “clinical test” becomes candidate observation until reliability, validity, utility, population, and purpose are established;
-- “correct the compensation” becomes determine what it preserves, whether cost is demonstrated, and what evidence an intervention would require; and
+- “correct the compensation” becomes determine what, if anything, the changed strategy preserves, whether cost is demonstrated, and what evidence an intervention would require; and
 - “root cause” becomes a ranked contribution to a specified endpoint and period.
 
 ### Protect forward
@@ -187,15 +187,15 @@ Ask what established shape, actuated, restrained, transmitted, redirected, yield
 
 **Stop:** If roles cannot be operationalized, retain the vocabulary as an organizing analogy rather than a measured claim.
 
-### 4. Where might local exposure have accumulated?
+### 4. Where, if anywhere, might local exposure have accumulated?
 
 Name the tissue or interface and the possible force, moment, contact, pressure, stress, strain, deformation, excursion, friction, rate, repetition, and recovery. Add material state, development, fatigue, inflammation, prior injury, health, and capacity. State whether the quantity is measured, calculated, modeled, inferred, or unknown.
 
 **Stop:** If no valid bridge connects configuration to the local quantity, do not infer response, symptom, or disease.
 
-### 5. What compensation preserved function?
+### 5. What, if anything, did the changed strategy preserve?
 
-Ask what the system protected and what changed: tone, bracing, range, timing, balance, side-to-side transfer, effort, breathing, external assistance, task choice, or avoidance. Compare immediate protection, successful adaptation, persistent substitution, symptom-led behavior, and irrelevance.
+Ask first whether anything continued or was protected, then what changed: tone, bracing, range, timing, balance, side-to-side transfer, effort, breathing, external assistance, task choice, or avoidance. Compare immediate protection, successful adaptation, persistent substitution, symptom-led behavior, neutral change, and irrelevance. Use *compensation* only when the proposed preserved function and changed strategy are both specified.
 
 **Stop:** Do not call the change costly without a relevant exposure or outcome across a declared time.
 
@@ -275,9 +275,9 @@ Chapter 27 inherits the full Book I causal grammar and returns it as a memorable
 
 Book V inherits the richer practice inventory, including observation, embodied report, posterior and hard/soft distinctions, breath, individualized testing, correction, and progression. Nothing in this chapter authorizes those practices before their validation and safety work.
 
-## Drafting authorization gate
+## Reader-drafting boundary
 
-Reader drafting is not authorized by this salvage packet alone. Authorization requires:
+The independently reviewed evidence packet satisfies the internal authorization requirements below. Reader drafting is authorized within its controlled chapter shape and language constraints; publication approval remains subject to the open specialist, medical-coauthor, accessibility, figure, current-source, and bibliography gates.
 
 - a reviewed method-centered evidence packet;
 - exact reuse limits for all four Part V callbacks;
@@ -300,7 +300,6 @@ Reader drafting is not authorized by this salvage packet alone. Authorization re
 - [x] The four Part V cases are required to produce different outcomes.
 - [x] Practice, correction, and stronger later-book hypotheses remain protected forward.
 - [x] Self-tests, scores, diagnoses, and protocols are excluded from reader prose.
-- [ ] Chapter 27 evidence packet has been created and independently reviewed.
-- [ ] Reuse and source-bijection audits have passed.
-- [ ] Reader drafting has been authorized.
-
+- [x] Chapter 27 evidence packet has been created and independently reviewed.
+- [x] Reuse and source-bijection audits have passed.
+- [x] Reader drafting has been authorized.
