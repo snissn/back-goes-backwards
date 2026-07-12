@@ -52,7 +52,7 @@ Open with the recurring task, state the book's thesis, locate load routing withi
 ### I.5 Mechanical history becomes medically meaningful through intermediate links
 
 - **Proposition:** Task and environment become clinical meaning through configuration, distribution, receiver exposure, tissue or system response, function, finding, symptom, and interpretation over time.
-- **Develop:** Present the recurring chain; place capacity, recovery, compensation, biology, development, behavior, and social context at named points; introduce the six load-management families as ways to make exposure specific.
+- **Develop:** Present the recurring chain; place capacity, recovery, compensation, biology, development, behavior, and social context at named points; introduce the six load-management families as changes in organization that may alter exposure.
 - **Evidence/example:** The book's full explanatory-chain figure.
 - **Continuity:** States the burden of the argument and hands I.6 the case method.
 - **Target:** 450–600 words.

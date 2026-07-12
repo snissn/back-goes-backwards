@@ -421,7 +421,7 @@ Begin with the causal question, place mechanical relations through time, build r
 ### 21.7 The causal contract records supported, narrowed, disfavored, and unresolved relations
 
 - **Proposition:** A disciplined account states which links are supported within domain, which have narrowed, which are disfavored, and which remain unresolved.
-- **Develop:** Define the four result states; state the stronger evidence each open link requires; preserve useful local results after broader chains fail.
+- **Develop:** Define the four inferential dispositions; state the stronger evidence each open link requires; preserve useful local results after broader chains fail.
 - **Evidence/example:** One completed causal-contract record.
 - **Continuity:** Completes causal scope and hands Chapter 22 a workflow.
 - **Target:** 400–550 words.
@@ -429,7 +429,7 @@ Begin with the causal question, place mechanical relations through time, build r
 ### 21.8 Conclusion — A causal contract becomes a clinical question
 
 - **Proposition:** Whole-person causal reasoning allows a mechanical history to contribute at the level its evidence supports.
-- **Develop:** Summarize the declared question, time-dependent causal position, reciprocal loops, whole-person nodes, and supported/narrowed/disfavored/unresolved result states.
+- **Develop:** Summarize the declared question, time-dependent causal position, reciprocal loops, whole-person nodes, and supported/narrowed/disfavored/unresolved inferential dispositions.
 - **Evidence/example:** Reuse the completed causal-contract record from 21.7.
 - **Continuity:** Hands Chapter 22 selective integration into care.
 - **Target:** 220–300 words.
@@ -500,11 +500,11 @@ Begin with the person's problem and current care, declare one mechanical questio
 - **Continuity:** Gives the workflow a positive endpoint and hands 22.7 the case method.
 - **Target:** 400–550 words.
 
-### 22.7 Worked narratives inherit one comparison record
+### 22.7 Worked narratives inherit one complete case record
 
-- **Proposition:** Each worked narrative will declare system, chronology, paths, receiver, exposure, response, alternatives, evidence state, and bounded result in the same order.
-- **Develop:** Introduce the case ledger; explain increasing incompleteness across Chapters 23–26; make the record a reader tool rather than visible editorial scaffolding.
-- **Evidence/example:** Blank case-comparison template.
+- **Proposition:** Each worked narrative uses one composite record that keeps the substantive mechanical chain and its epistemic status visible without confusing one for the other.
+- **Develop:** Define the substantive layer in a stable sequence: system and chronology; task and environment; configuration; candidate paths and distribution; receiver and exposure; response and later function, finding, symptom, or interpretation; and alternatives. Wrap that chain in the five-field epistemic envelope: case-wide scenario construction and bounded output, plus exact I.8 provenance and, where relevant, empirical comparison result and inferential disposition for each link. Explain the cases' increasing incompleteness and make the template a reader tool rather than visible editorial administration.
+- **Evidence/example:** Blank composite template with substantive-chain rows and separate scenario, provenance, comparison-result, inferential-disposition, and bounded-output fields.
 - **Continuity:** Hands Part V a complete reasoning method.
 - **Target:** 300–450 words.
 

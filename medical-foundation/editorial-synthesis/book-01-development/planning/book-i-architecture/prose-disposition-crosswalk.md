@@ -255,7 +255,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 21: The whole person enters at named nodes | 21.3 | retain | Preserve node-specific integration; shorten ceremonial lists. |
 | Chapter 21: Modulation does not recover origin | 21.5 | rewrite constructively | Define the information intervention and present change provide. |
 | Chapter 21: Evidence belongs to arrows, and stopping is a result | 21.6–21.7 | retain and split | Separate evidence-to-arrow matching from the causal contract. |
-| Chapter 21: A causal contract strong enough for a larger project | 21.7–21.8 | retain and compress | Keep supported/narrowed/disfavored/unresolved states and direct workflow handoff. |
+| Chapter 21: A causal contract strong enough for a larger project | 21.7–21.8 | retain and compress | Keep supported/narrowed/disfavored/unresolved inferential dispositions and the direct workflow handoff. |
 | Chapter 21 notes | Chapter 21 evidence anchors; Chapter 29 | retain and split | Preserve causal-method and whole-person sources; move detailed validation standards to Chapter 29. |
 | Chapter 22: The extra question comes second | 22.0–22.1 | rewrite constructively | Begin with the person's present problem, then select one mechanical-context question. |
 | Chapter 22: One declared question sets the boundary | 22.1–22.2 | retain and split | Separate question selection from selective record construction. |
@@ -264,7 +264,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 22: Findings have local jobs | 22.4 | rewrite constructively | Define what imaging, examination, observation, and modulation each contribute. |
 | Chapter 22: The surrounding fields are not empty | 22.5 | rewrite constructively | Present complementary professional contributions and jurisdictions. |
 | Chapter 22: A stop is an informative result | 22.6; Chapter 29 | rewrite constructively | Define three bounded outputs; move instrument-development standards to Chapter 29. |
-| Chapter 22: The record the worked narratives inherit | 22.7–22.8 | retain and split | Introduce the common case ledger and close on improving the next question. |
+| Chapter 22: The record the worked narratives inherit | 22.7–22.8 | retain and split | Make 22.7 the sole owner of the complete case record: substantive-chain rows plus the five-field epistemic envelope; close on improving the next question. |
 | Chapter 22 notes | Chapter 22 evidence anchors; Chapter 29 | retain and split | Preserve workflow and interdisciplinary sources; move validation frameworks forward. |
 | Part IV synthesis | Part IV synthesis | rewrite constructively | Summarize the medically interpretable object now available; remove the repeated exclusion inventory. |
 
@@ -272,7 +272,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 
 | Current source block | Destination | Disposition | Editorial action |
 |---|---|---|---|
-| Part V opening | Part V opening | rewrite constructively | Present the common five-field ledger and reproduce the four canonical outputs exactly: **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**; **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**; **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**; and **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**. |
+| Part V opening | Part V opening | rewrite constructively | Apply Chapter 22.7's complete record and reproduce the four canonical outputs exactly: **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**; **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**; **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**; and **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**. |
 | Chapter 23: One step, several meanings of load | 23.0 | retain and compress | Declare the example a multistudy reconstruction, use it as the case-specific scale stack, and remove generic mechanics re-teaching. |
 | Chapter 23: Define the knee before solving it | 23.1 | retain | Preserve system, task, phase, receiver, and evidence boundary. |
 | Chapter 23: Geometry changes the internal question | 23.2 | retain | Preserve moment arms, alignment, contact, and distribution changes. |
@@ -337,7 +337,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 28 notes | Chapter 28 evidence anchors; Chapter 29 | retain and split | Keep literacy, design, prevention, and access evidence; move development frameworks forward. |
 | Chapter 29: One pathway, six different questions | 29.0 | retain and compress | Introduce six tracks once around a common candidate relation. |
 | Chapter 29: A portfolio, not a staircase | 29.1 | rewrite constructively | Define use-specific maturity and networked development. |
-| Chapter 29: Track 1: Research | 29.2 | retain and rename | Rename to mechanism and causal research; preserve exact-relation design and result states. |
+| Chapter 29: Track 1: Research | 29.2 | retain and rename | Rename to mechanism and causal research; preserve exact-relation design and bounded positive, null, mixed, and nonunique findings. |
 | Chapter 29: Track 2: Measurement | 29.3 | retain | Preserve construct, acquisition, uncertainty, validation, burden, and context of use. |
 | Chapter 29: Track 3: Education | 29.4 | retain | Preserve audience-specific outcomes and adverse effects. |
 | Chapter 29: Track 4: Therapeutic development | 29.5 | retain | Preserve independent benefit, harm, mechanism, safety, and access evaluation. |

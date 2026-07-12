@@ -108,6 +108,8 @@ Worked-case records and comparison tables keep five fields distinct:
 
 A case record contains all five fields. Scenario construction and bounded output describe the case as a whole; individual links carry provenance and, where relevant, an empirical comparison result and an inferential disposition. A comparison may be not applicable. None of these labels substitutes for another: a reconstructed relation is not automatically supported or disfavored, a null comparison is not an evidence-provenance state, and a stipulated scenario is not an observation.
 
+Chapter 22.7 owns the complete case record. Its substantive layer follows system, chronology, task and environment, configuration, candidate paths and distribution, receiver and exposure, response and later function or finding, and alternatives. Its epistemic envelope contains the five fields above. Part V applies this record rather than defining a second case method.
+
 Sources remain assigned by exact job:
 
 - anatomy establishes structures and relations;

@@ -233,6 +233,34 @@ Round 4 therefore cannot count as a no-change stabilization round. Round 5 begin
 
 These two wording corrections preserve ownership, sequence, scope, disposition, and target lengths. They do not reset stabilization. Round 5 is the first consecutive no-change round; Round 6 must independently confirm the same architecture.
 
+## Round 6 — Adversarial confirmation reread
+
+**Status:** complete; one bounded ownership revision required and applied.
+
+**Independent review lenses:**
+
+1. reverse developmental tracing from conclusions and payoffs back to their premises;
+2. adversarial claim tracing across ontology, evidence, case method, causal scope, and later-series seams; and
+3. freshly recomputed production and source-integrity validation.
+
+### Architecture that survived
+
+- Reverse tracing found no missing premise from Part VI through Parts I–V. The difficult chapter seams, finite unit jobs, case escalation, Part VI proportion, and non-load-bearing Book I/II boundary remain intact.
+- The six organization-change families, scale ownership, hard/form-receiving model, posterior proposition ladder, causal and whole-person boundaries, four case outputs, and Books II–V ownership all remained stable.
+- Fresh production validation again found a clean worktree, unchanged manuscript blob, 317 exact source rows, 293 contiguous IDs, 304 complete drafting units, 116 figures, 72 tables, 384 bibliography records, 464 resolved footnote definitions, zero unresolved cross-references or paths, and ten parseable Markdown files.
+
+### Material correction applied
+
+- Resolved a two-owner seam between Chapter 22.7 and the Part V opening. Chapter 22.7 now solely defines the complete composite case record: the substantive mechanical chain plus a five-field epistemic envelope. Part V applies that record, populates it for four scenarios, and no longer introduces a second ledger.
+- Updated the README and prose-disposition crosswalk to make that ownership explicit.
+
+### Nonstructural terminology corrections
+
+- Aligned I.5's six-family preview with the organization-change ontology.
+- Standardized supported, narrowed, disfavored, and unresolved as *inferential dispositions* in Chapter 21 and its crosswalk rows, keeping those labels distinct from empirical comparison results.
+
+Round 6 therefore cannot be the second clean stabilization round. The count resets; Rounds 7 and 8 must both require no structural revision.
+
 ## Stabilization log
 
 | Round | Structural changes required? | Result |
@@ -243,4 +271,6 @@ These two wording corrections preserve ownership, sequence, scope, disposition, 
 | 3 — developmental, claim-architecture, and source-integrity review | yes | Family ordering, scale ownership, five-field case logic, and layered bandha ownership revised. |
 | 4 — post-revision reread | yes | Family ontology, canonical case outputs, and five-field closure revised; macrostructure retained. |
 | 5 — first post-revision reread | no | First consecutive clean round; only two nonstructural wording corrections applied. |
-| 6 — independent confirmation reread | pending | — |
+| 6 — adversarial confirmation reread | yes | Complete case-record ownership moved to 22.7; Part V now applies the inherited method. |
+| 7 — first post-revision reread | pending | — |
+| 8 — independent confirmation reread | pending | — |
