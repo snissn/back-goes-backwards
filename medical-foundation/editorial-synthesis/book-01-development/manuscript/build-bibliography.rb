@@ -15,8 +15,8 @@ chapter_paths = (1..30).map do |number|
 end
 
 def source_key(entry)
-  doi = entry[/https:\/\/doi\.org\/[^)\s]+/i]
-  return "doi:#{doi.downcase}" if doi
+  dois = entry.scan(/https:\/\/doi\.org\/[^)\s]+/i).map(&:downcase).uniq.sort
+  return "doi:#{dois.join('|')}" unless dois.empty?
 
   urls = entry.scan(/\]\((https?:\/\/[^)]+)\)/i).flatten
   return "url:#{urls.join('|').downcase}" unless urls.empty?
