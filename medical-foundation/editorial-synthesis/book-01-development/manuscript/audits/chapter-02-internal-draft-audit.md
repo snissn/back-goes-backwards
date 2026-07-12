@@ -18,7 +18,7 @@ The draft is a clean-sheet reconstruction. No legacy or generated sentence, equa
 
 | Measure | Result | Control |
 |---|---:|---|
-| Body words, excluding notes and figure material | 4,138 | Within the 3,500–4,500 target |
+| Body words, excluding notes and figure material | 4,143 | Within the 3,500–4,500 target |
 | Text-native figures | 5 | All required Chapter 2 teaching jobs represented |
 | Source notes | 9 | Every note marker has one definition; no unused definitions |
 | Persistent source links | 13 | All identities checked; automated retrieval returned 200 for 11 and publisher bot-denial 403 for 2 DOI routes independently verified through their primary records |
@@ -36,7 +36,7 @@ The word count is calculated from reader body prose before `## Notes`, excluding
 | Internal/external status is boundary-relative | Hand–object and joint interactions change category only when the selected system changes | Pass | None for controlled draft |
 | Dynamics is not collapsed into statics | Hold is separated from lift, carry, braking, and placement; momentum-rate language controls the balance | Pass | Review final arrows and any later numerical calculation |
 | Force and distributed resultant remain different | Equivalent force-and-moment pair is distinguished from local contact distribution | Pass | Final mechanics review |
-| Moment is specified about a point | `M_O = r × F` defines `O`, `r`, and `F` in adjacent prose; moment arm is perpendicular to the line of action | Pass | Final typography and sign-convention review |
+| Moment is specified about a point | The angular-momentum balance is explicitly about a fixed point `O` in an inertial frame; `M_O = r × F` defines `O`, `r`, and `F` in adjacent prose; moment arm is perpendicular to the line of action | Pass | Final typography and sign-convention review |
 | Moment and energy remain different | Shared `N m` dimensions are acknowledged without object-type collapse | Pass | None for controlled draft |
 | Contact pressure and fluid pressure remain different | Solid normal contact, fluid scalar field, area, pressure difference, wall state, and flow are separated | Pass | Biomechanics review where later anatomy replaces the generic tube |
 | Stress, deformation, displacement, and strain remain different | Local tensor, reference state, rigid translation/rotation countercase, and nonuniform field are explicit | Pass | External continuum/biomechanics review |
@@ -73,9 +73,9 @@ The chapter deliberately does not stand alone as a mechanics textbook. It assume
 |---|---|---|---|---|
 | 2.1 — One task, several boundaries | Make boundary-relative force accounting visible | Declared qualitative `MOD`; values are not presented as measured | Pass | Mechanics and accessibility review of final free-body art |
 | 2.2 — External demand to local exposure | Expose every scale transition and the separate biological layer | `OBS`, `MEAS`, `CALC`, `INF`, and `MOD` shown redundantly in text | Pass | Mechanics, biomechanics, and accessibility review |
-| 2.3 — Quantity comparison | Keep vector, axial vector, scalar field, tensor field, displacement, and strain distinct | Definition table rather than empirical display | Pass | Tensor/vector/scalar and final notation review |
+| 2.3 — Quantity comparison | Keep vector, axial vector, scalar field, tensor field, displacement, and strain distinct; show the same specified force producing different moments at different moment arms | Definition table plus a constructed, unit-bearing `CALC` panel rather than an empirical display | Pass | Tensor/vector/scalar and final notation review |
 | 2.4 — Exposure through time | Show non-equivalent histories without a universal score | Explicit constructed `MOD`, not measured traces | Pass | Technical review of final curves and accessibility |
-| 2.5 — Three force-line senses | Prevent similar language from creating one evidentiary object | Known/open columns plus distinct representation descriptions | Pass | Mechanics, authorial-intent, accessibility, and final visual review |
+| 2.5 — Three force-line senses | Prevent similar language from creating one evidentiary object | Explicit `MEAS`, `CALC`, `INF`, `MOD`, `HYP`, `EMB`, and bounded `OBS` statuses plus known/open columns | Pass | Mechanics, authorial-intent, accessibility, and final visual review |
 
 All five figures have a provisional reader number and title, one captioned teaching claim, one explicit limit, and a substantive text alternative. They do not rely on color or imported anatomy. Figure 2.1 remains a storyboard rather than a solved free-body calculation; Figure 2.4 is a comparison of constructed histories rather than empirical traces. Final visual design may replace the text-native forms without changing their inference limits.
 

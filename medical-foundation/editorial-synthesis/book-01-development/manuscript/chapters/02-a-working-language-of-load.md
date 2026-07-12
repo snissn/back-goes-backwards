@@ -20,7 +20,7 @@ The boundary need not follow the skin or the edge of an anatomical structure. It
 
 Every boundary also creates a responsibility. We must account for what crosses it. A diagram that shows gravity but omits the supporting contact cannot balance. A segment diagram that includes a joint reaction but silently omits muscle and other soft-tissue actions may be a useful simplification only if those omitted actions are represented in the resultant or explicitly left unknown. Drawing a smaller boundary does not automatically make the description more accurate; it creates a more detailed question with more unknowns.
 
-The time and phase matter as well. During a quiet hold, the object's acceleration may be negligible, so a quasi-static approximation can be useful. During lift-off, carrying, braking, or placement, momentum changes. The general balance is not “all forces cancel,” but that the sum of external forces equals the rate of change of linear momentum. Likewise, the sum of external moments about a stated point equals the rate of change of angular momentum about that point. Static equilibrium is one case of those balances, not the definition of a free-body diagram.[^02-02]
+The time and phase matter as well. During a quiet hold, the object's acceleration may be negligible, so a quasi-static approximation can be useful. During lift-off, carrying, braking, or placement, momentum changes. The general balance is not “all forces cancel,” but that the sum of external forces equals the rate of change of linear momentum. Likewise, when the moment is taken about a fixed point *O* in an inertial frame, the sum of external moments about *O* equals the rate of change of angular momentum about *O*. Static equilibrium is one case of those balances, not the definition of a free-body diagram.[^02-02]
 
 This method immediately exposes a common shortcut. Knowing the object's weight and the ground reaction does not tell us the force in a particular muscle, the contact distribution within a joint, or the stress in a tendon. Whole-body balance constrains the possibilities. Moving inward requires geometry, segment dynamics, active-force estimates, contact assumptions, material behavior, and sometimes an inverse model. In human movement analysis, many useful internal quantities are inferred from measured motion and external forces rather than observed directly.[^02-03]
 
@@ -124,6 +124,19 @@ The figures will use a compact provenance key. **OBS** marks a direct observatio
 > | Displacement | How did a point move from the reference? | Vector field | m | reference, frame, time |
 > | Strain | How did relative material geometry change? | Tensor or declared scalar measure | 1 or % | reference configuration, measure, direction, rate |
 >
+> ```text
+> SAME SPECIFIED FORCE, DIFFERENT MOMENT ARM (planar constructed example)
+>
+>                 F = 100 N downward             F = 100 N downward
+>                         ↓                              ↓
+> O ●─────────────┬      r_perp = 0.10 m   O ●─────────────────┬  r_perp = 0.30 m
+>
+> |M_O| = F r_perp = 100 N × 0.10 m = 10 N m
+> |M_O| = F r_perp = 100 N × 0.30 m = 30 N m
+>
+> STATUS: specified model values with calculated moments (CALC); not a human measurement
+> ```
+>
 > **Caption.** Related quantities remain different objects. The same resultant force can coexist with different moments, contact distributions, stress fields, and strains when geometry, constraints, or material behavior changes.
 >
 > **Text alternative.** A six-row table contrasts the question, mathematical object, unit, and minimum qualifier for force, moment, contact pressure, stress, displacement, and strain.
@@ -205,11 +218,11 @@ The three meanings can refer to aspects of the same event. They cannot inherit o
 
 > **Figure 2.5 — Three meanings of force line [text-native first-draft figure]**
 >
-> | Sense | Representation | What is known | What remains open |
-> |---|---|---|---|
-> | External line of action | Solid force arrow with a thin geometric extension | Specified force, application point or region, frame; measured or calculated status | Internal distribution |
-> | Inferred internal relation | Dashed branching network among named carriers | Declared model, task, boundary, quantities, and balance assumptions | Uniqueness, exact carriers, validation, alternatives |
-> | Embodied continuity | Distinct perceptual annotation tied to reporter and phase | Reported experience and its repeatability | Mechanical quantity, anatomical correlate, causal role |
+> | Sense | Representation | Provenance status | What is known | What remains open |
+> |---|---|---|---|---|
+> | External line of action | Solid force arrow with a thin geometric extension | `MEAS` when instrumentally measured; `CALC` when derived from stated inputs | Specified force, application point or region, and frame | Internal distribution |
+> | Inferred internal relation | Dashed branching network among named carriers | `INF` for an inference from observations; `MOD` for a declared model; `HYP` while proposed for testing | Task, boundary, quantities, assumptions, and evidence used | Uniqueness, exact carriers, validation, alternatives |
+> | Embodied continuity | Distinct perceptual annotation tied to reporter and phase | `EMB` for the report; `OBS` only for separately observed task features | Reported experience, context, and repeatability | Mechanical quantity, anatomical correlate, causal role |
 >
 > **Caption.** Similar language does not make these objects identical. The embodied sense may generate a mechanical question; the inferred sense may organize a model; only the external sense is the ordinary geometric line of a stated force.
 >
