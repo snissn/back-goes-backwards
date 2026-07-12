@@ -10,7 +10,7 @@ Chapter 10 establishes the conditions of mechanical viability. Chapter 11 suppli
 
 ## Part opening — A vocabulary for load mismanagement
 
-- **Proposition:** “Bad load” becomes useful only when translated into a named change in organization, exposure, receiver, and time.
+- **Proposition:** Load mismanagement becomes mechanically specific through a named change in organization, exposure, receiver, and time.
 - **Develop:** Introduce the viable baseline; present geometric redistribution, local concentration, task/segment instability, discoordination or mistimed handoff, maintained deformation/lost excursion, and compensatory rerouting in one map; show that several can coexist or remain inconsequential; state which chapter owns each family; identify scale transition as an analytical operation rather than a seventh family.
 - **Evidence/example:** One family map with viable, altered, and null branches.
 - **Continuity:** Inherits Part II's cooperative architecture and hands Chapter 10 the changing demand–capacity relation.
@@ -195,7 +195,7 @@ Separate regional redistribution from local concentration, trace geometry into r
 ### 12.0 Opening — Redistribution and concentration occupy different scales
 
 - **Proposition:** A regional change in demand and a local concentration are linked but distinct mechanical objects.
-- **Develop:** Define the system boundary for each; show the missing translation; introduce the chapter's global-to-local sequence.
+- **Develop:** Define the system boundary for each; show the missing translation; introduce the chapter's regional-to-local sequence.
 - **Evidence/example:** One two-scale diagram.
 - **Continuity:** Inherits route states and provides the first two organization-change families.
 - **Target:** 280–400 words.
@@ -237,7 +237,7 @@ Separate regional redistribution from local concentration, trace geometry into r
 - **Proposition:** A local concentration enters a biological or clinical history through its mode, magnitude, timing, receiver state, capacity, and recovery.
 - **Develop:** Apply Chapter 10; compare ordinary concentration, adaptation, tolerance, and adverse change; state a null in which concentration is measurable but irrelevant to the selected outcome.
 - **Evidence/example:** One local field followed across repeated exposure.
-- **Continuity:** Completes the global-to-local chain and hands 12.6 a worked synthesis.
+- **Continuity:** Completes the regional-to-local chain and hands 12.6 a worked synthesis.
 - **Target:** 450–600 words.
 
 ### 12.6 One joint example completes the two-scale sequence
@@ -457,7 +457,7 @@ Name the protected function, trace changed allocation and immediate benefit, def
 ### 15.3 Continued function can conceal a changed allocation
 
 - **Proposition:** A changed allocation can preserve the valued function while its mechanical history remains unobserved, unreported, inferred, or unknown.
-- **Develop:** Apply I.8's observed, reported, inferred, and unknown evidence states to strategy change; state what “silent” refers to; preserve asymptomatic and harmless possibilities.
+- **Develop:** Apply the exact I.8 evidence-state labels relevant to the strategy change without redefining the legend; state what “silent” refers to; preserve asymptomatic and harmless possibilities.
 - **Evidence/example:** A subtle support or timing change across repeated trials.
 - **Continuity:** Introduces hidden chronology and hands 15.4 retention.
 - **Target:** 400–550 words.
@@ -546,7 +546,7 @@ Define scale-specific variables; trace local-to-regional, regional-to-whole, and
 
 ### 16.3 Whole-task organization redistributes local exposure
 
-- **Proposition:** The global strategy changes the forces, moments, contact, pressure, strain, and excursion encountered by local receivers.
+- **Proposition:** The whole-task strategy changes the forces, moments, contact, pressure, strain, and excursion encountered by local receivers.
 - **Develop:** Close the bidirectional loop; compare two whole-task strategies; identify a local output and a null; connect to compensation.
 - **Evidence/example:** One whole-to-local sensitivity comparison.
 - **Continuity:** Completes multiscale reciprocity and hands 16.4 transition hypothesis.
@@ -589,7 +589,7 @@ Define scale-specific variables; trace local-to-regional, regional-to-whole, and
 ## Part III synthesis — From viability to candidate consequence
 
 - **Proposition:** Changing demand and capacity act through six canonical families: geometric redistribution; local concentration; task/segment instability; discoordination or mistimed handoff; maintained deformation/lost excursion; and compensatory rerouting.
-- **Develop:** Reassemble the six families in causal order; state that Chapter 11 supplies handoff mechanics and route-state qualifiers while Chapter 14 owns adverse discoordination and Chapter 15 owns function-preserving compensatory rerouting; show how compensation and recovery feed back; place scale transition above the map; name the exact receiver-and-response bridge that remains.
+- **Develop:** Reassemble the six families in the book's analytical sequence while showing that actual histories may combine them, recur, feed back, or place them in different causal orders; state that Chapter 11 supplies handoff mechanics and route-state qualifiers while Chapter 14 owns adverse discoordination and Chapter 15 owns function-preserving compensatory rerouting; place scale transition above the map; name the exact receiver-and-response bridge that remains.
 - **Evidence/example:** The final family map populated with one example per family and clear ownership.
 - **Continuity:** Hands Part IV candidate mechanical histories rather than foregone medical conclusions.
 - **Target:** 350–500 words.

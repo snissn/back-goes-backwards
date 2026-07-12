@@ -154,6 +154,33 @@ Round 1 therefore changes the architecture materially and cannot count as a no-c
 
 Round 2 therefore cannot count as a no-change stabilization round. The next independent reread begins a new two-round stabilization attempt.
 
+## Round 3 — Developmental, claim-architecture, and source-integrity review
+
+**Status:** complete; bounded structural revision required and applied.
+
+**Independent review lenses:**
+
+1. whole-book developmental progression, finite unit jobs, constructive framing, continuity, and payoff;
+2. scientific claim architecture, evidence-state use, worked-case logic, and Books I–V ownership; and
+3. source disposition, drafting sufficiency, target/ID/cross-reference integrity, and production readiness.
+
+### Architecture that survived
+
+- The developmental lens found no material change to the six-Part, thirty-chapter reader journey, unit ownership, hard/form-receiving progression, posterior proposition ladder, four-case escalation, or Chapter 30 payoff.
+- The source-integrity lens found an exact one-to-one inventory of 317 source objects and crosswalk rows, 116 unique source figures, 293 contiguous numbered units, 304 complete target-bearing units, and no unresolved destination, cross-reference, unnamed deferred packet, malformed Markdown file, or source-manuscript mutation.
+- The macrostructure required no reorder, new chapter, split, deletion, or change to any canonical worked-case output.
+
+### Material corrections applied
+
+- Replaced the Part III synthesis's universal-sounding “causal order” with the book's analytical sequence while explicitly permitting coexistence, recurrence, feedback, and different causal orders among the six organization-change families.
+- Restored Chapter 12's regional-to-local scope in both affected labels so Chapter 16 remains the owner of local, regional, and whole-task transformations.
+- Established a five-field case ledger that keeps evidence provenance, scenario construction, empirical comparison result, inferential disposition, and bounded output distinct. Chapters 23 and 25 are identified as multistudy reconstructions, Chapter 24 as a teaching composite, and Chapter 26 as a stipulated hypothetical.
+- Applied that five-field separation to the Part V opening and synthesis, Chapters 25–26, Chapter 27's four-case comparison, and the prose-disposition crosswalk without changing the four canonical case conclusions.
+- Completed layered bandha ownership: Book III owns traditional provenance, correspondence, and subtle/structural maps; Book IV owns candidate breath/pressure/phase/geometry mechanics; Book V owns instruction, dosing, safety, and application.
+- Applied nonstructural wording corrections identified during the same review: neutralized the Part II handoff, made the Part III opening affirmative, distinguished temporal *longitudinal* usage from anatomical axial direction, replaced “longitudinal capacity” with “time-dependent capacity,” and named Books III–V as the deferred homes of embodied-force-line development.
+
+Round 3 therefore cannot count as a no-change stabilization round. Round 4 begins the next two-round stabilization attempt.
+
 ## Stabilization log
 
 | Round | Structural changes required? | Result |
@@ -161,5 +188,6 @@ Round 2 therefore cannot count as a no-change stabilization round. The next inde
 | 0 — source diagnosis | yes | First complete strict architecture produced. |
 | 1 — architecture review | yes | Macrostructure retained; source accounting, unit contract, ownership, case outputs, and later-book seams revised. |
 | 2 — post-revision developmental and integrity review | yes | Provenance, case outputs, scaffold chronology, topology ownership, bibliography disposition, and control grammar revised. |
-| 3 — second post-revision reread | pending | — |
-| 4 — independent confirmation reread | pending | — |
+| 3 — developmental, claim-architecture, and source-integrity review | yes | Family ordering, scale ownership, five-field case logic, and layered bandha ownership revised. |
+| 4 — post-revision reread | pending | — |
+| 5 — independent confirmation reread | pending | — |

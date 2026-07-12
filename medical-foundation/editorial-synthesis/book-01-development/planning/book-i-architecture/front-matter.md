@@ -27,7 +27,7 @@ Open with the recurring task, state the book's thesis, locate load routing withi
 ### I.2 Longitudinal load routing is the book's organizing question
 
 - **Proposition:** Load routing traces how a defined demand is partitioned among candidate carriers through a declared task, state, and period.
-- **Develop:** Define demand, path, branching, phase, external support, and indeterminacy at a high level; distinguish local endpoint expertise from the longer history this book assembles; name force, moment, pressure, stress, strain, deformation, excursion, repetition, and recovery as the quantities later chapters will separate.
+- **Develop:** Define demand, path, branching, phase, external support, and indeterminacy at a high level; state that *longitudinal* here means across dated events and intervals rather than along the anatomical axial direction; distinguish local endpoint expertise from the longer history this book assembles; name force, moment, pressure, stress, strain, deformation, excursion, repetition, and recovery as the quantities later chapters will separate.
 - **Evidence/example:** One compact path diagram for the opening task.
 - **Continuity:** Names the book's object and hands I.3 the division of labor.
 - **Editorial boundary:** State once that a path is a bounded model, not a literal hidden pipe.

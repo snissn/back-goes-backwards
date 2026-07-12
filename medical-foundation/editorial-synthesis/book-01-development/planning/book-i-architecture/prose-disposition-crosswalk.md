@@ -39,9 +39,9 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 2: Choose the system before describing the force | 2.1 | retain | Preserve boundary and free-body reasoning. |
 | Chapter 2: Force, moment, and pressure answer different questions | 2.2–2.3 | retain and split | Give force/moment and pressure/contact separate units and examples. |
 | Chapter 2: Stress, strain, and deformation move the question inside the material | 2.4 | retain | Preserve definitions and internal-exposure move; compress repeated analogy limits. |
-| Chapter 2: Stiffness is not strength, and neither is capacity | 2.5 | rewrite constructively | Define stiffness, compliance, strength, and provisional capacity positively; leave the longitudinal capacity model to Chapter 10. |
+| Chapter 2: Stiffness is not strength, and neither is capacity | 2.5 | rewrite constructively | Define stiffness, compliance, strength, and provisional capacity positively; leave the time-dependent capacity model to Chapter 10. |
 | Chapter 2: Mechanical exposure has a history | 2.6 | retain | Preserve dose dimensions and paired timelines. |
-| Chapter 2: Work, energy, and the paths of transfer | 2.7–2.9 | retain and split | Separate work/energy, bounded path definition, and the three meanings of force line; defer embodied force-line development beyond its definition. |
+| Chapter 2: Work, energy, and the paths of transfer | 2.7–2.9; Books III–V source packets | retain, split, and defer | Separate work/energy, bounded path definition, and the three meanings of force line; preserve the concise embodied-force-line definition in 2.9 and defer its traditional, mechanistic, and practice development to Books III–V respectively. |
 | Chapter 2: From an object in the hands to mechanical organization | 2.10 | merge and compress | Use as the chapter's concise reconstruction and handoff. |
 | Chapter 2 notes | Chapter 2 evidence anchors | retain and split | Assign definitions, models, and analogies to their owning units. |
 | Chapter 3 opening before first H2 | 3.0–3.1 | retain and compress | Preserve the unsupported midpoint of the object transfer, the need for persistence and change, and the TCM-motivated origin of the proposed role distinction. |
@@ -272,8 +272,8 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 
 | Current source block | Destination | Disposition | Editorial action |
 |---|---|---|---|
-| Part V opening | Part V opening | rewrite constructively | Present the exact progression—bounded mechanical relation, reconstructed cumulative interval, measured state relations with incomplete transition mechanism, and transparent hypothetical with unresolved causal plurality—through one common ledger that retains every exact I.8 state and distinguishes stipulated scenario status; consolidate case-wide boundaries once. |
-| Chapter 23: One step, several meanings of load | 23.0 | retain and compress | Use as the case-specific scale stack; remove generic mechanics re-teaching. |
+| Part V opening | Part V opening | rewrite constructively | Present the exact progression through a common five-field ledger that separates scenario construction, exact I.8 provenance, empirical comparison result, inferential disposition, and bounded output; consolidate case-wide boundaries once. |
+| Chapter 23: One step, several meanings of load | 23.0 | retain and compress | Declare the example a multistudy reconstruction, use it as the case-specific scale stack, and remove generic mechanics re-teaching. |
 | Chapter 23: Define the knee before solving it | 23.1 | retain | Preserve system, task, phase, receiver, and evidence boundary. |
 | Chapter 23: Geometry changes the internal question | 23.2 | retain | Preserve moment arms, alignment, contact, and distribution changes. |
 | Chapter 23: From joint demand to a local cartilage field | 23.3 | retain | Preserve heterogeneous local field, human evidence, model evidence, and counterexamples. |
@@ -290,15 +290,15 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 24: Transfer beyond a lumen | 24.7 | retain and compress | Keep one tendon-glide comparison; let Chapter 20 own the general grammar. |
 | Chapter 24: What this lens contributes | 24.8–24.9 | rewrite constructively | Produce the canonical case result—a substantive focal arterial account with a reconstructed cumulative wall-exposure interval—and identify that interval as the researchable middle without upgrading it to observation. |
 | Chapter 24 notes | Chapter 24 arterial case anchors; Chapter 20 comparisons | retain and split | Keep arterial sources with the case; move general venous, neural, and glide evidence to Chapter 20 where duplicated. |
-| Chapter 25: The same event does not happen to the same ankle twice | 25.0 | rewrite constructively | Lead with recurrence as a sequence of changing states. |
+| Chapter 25: The same event does not happen to the same ankle twice | 25.0 | rewrite constructively | Declare the example a multistudy reconstruction and lead with recurrence as a sequence of changing states. |
 | Chapter 25: Three different objects inside one word | 25.1 | rewrite constructively | Define passive restraint, task-level relation maintenance, and perceived instability positively. |
 | Chapter 25: One task unfolds on several clocks | 25.2; 25.4 | retain and split | Separate phase-resolved task stability from exposure opportunity and recovery. |
 | Chapter 25: Repetition changes the next starting state | 25.3–25.5 | retain and split | Preserve residual-state logic and use copers to demonstrate alternative trajectories. |
 | Chapter 25: Protection comes before cost | 25.6 | retain | Preserve compensation-first-as-solution framing. |
 | Chapter 25: The axial transfer: lumbar motion and control | 25.8 | retain and compress | Apply the state grammar to lumbar recurrence without importing ankle evidence as proof. |
-| Chapter 25: A state-transition account of recurrence | 25.7; 25.9–25.10 | retain and split | Complete several measured state relations, state that the transition mechanism remains incomplete, and narrow or null the regional bridges where the evidence requires it. |
+| Chapter 25: A state-transition account of recurrence | 25.7; 25.9–25.10 | retain and split | Complete several measured state relations, state that the transition mechanism remains incomplete, and report regional comparison results separately from the inferential disposition of each bridge. |
 | Chapter 25 notes | Chapter 25 case evidence anchors | retain and split | Assign sources to ankle state, coper, exposure-opportunity, compensation, proximal/null, and lumbar jobs. |
-| Chapter 26: A history with no declared cause | 26.0 | retain | Preserve the sparse hypothetical and explicit lack of predetermined cause. |
+| Chapter 26: A history with no declared cause | 26.0 | retain | Preserve stipulated hypothetical as the scenario-construction status, the sparse chronology, and the explicit lack of predetermined cause. |
 | Chapter 26: Put time on the page before mechanism | 26.0 | merge | Absorb chronology fields into the case opening. |
 | Chapter 26: Office work is context, not exposure | 26.1; Chapter 28 | retain and split | Keep case-specific translation from context to exposure; move broad work/design development to Chapter 28. |
 | Chapter 26: What silent compensation would have to mean | 26.2 | rewrite constructively | Define preserved function, changed allocation, and evidence state positively. |
@@ -306,9 +306,9 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 26: The regional bridge that is not there | 26.4 | rewrite constructively | Specify the fields a regional bridge requires and the observations that update it. |
 | Chapter 26: Findings, symptoms, and mechanism do not collapse | 26.5 | rewrite constructively | Define findings, function, symptoms, tissue response, and mechanism as separate chronology nodes. |
 | Chapter 26: Six legitimate endings | 26.6; 27.8–27.9 | retain and split | Keep competing histories inside the case; move the general endpoint taxonomy to Chapter 27. |
-| Chapter 26: What the lens added | 26.7–26.8 | rewrite constructively | Preserve the case as a transparent hypothetical with no established regional carrier and present unresolved causal plurality as its positive methodological output. |
+| Chapter 26: What the lens added | 26.7–26.8 | rewrite constructively | Preserve the case as a transparent stipulated hypothetical with no established regional carrier; keep provenance, comparison result, and inference in separate fields; present unresolved causal plurality as its positive bounded output. |
 | Chapter 26 notes | Chapter 26 case anchors; Chapter 28 | retain and split | Keep mixed-history and low-back sources with the case; move broad occupational/design sources where they become general. |
-| Part V synthesis | Part V synthesis | rewrite constructively | Compare the four distinct outputs through exact evidence states and stipulated scenario status; remove repeated protocol and diagnosis boundaries. |
+| Part V synthesis | Part V synthesis | rewrite constructively | Compare the four cases through separate scenario-construction, exact-provenance, comparison-result, inferential-disposition, and bounded-output fields; remove repeated protocol and diagnosis boundaries. |
 
 ## Part VI source blocks
 
@@ -323,8 +323,8 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 27: 5. What, if anything, did the changed strategy preserve? | 27.5 | rewrite constructively | Broaden the question to function preserved, changed, or constrained; treat compensation as one possible explanation rather than a premise. |
 | Chapter 27: 6. What changes with task, support, time, or state? | 27.6 | retain and expand | Preserve purposeful comparison while making dated events and intervals, present modulation, longitudinal transition, and retrospective reconstruction explicit. |
 | Chapter 27: 7. What can actually be measured, and what remains uncertain? | 27.7 | retain | Apply the exact I.8 evidence-state labels relevant to the task without redefining the legend, while preserving uncertainty, alternatives, and the stopping point. |
-| Chapter 27: Four narratives, four different endings | 27.8 | rewrite constructively | Compare the exact four case outputs through their exact I.8 evidence states and separate stipulated scenario status. |
-| Chapter 27: A scaffold that is allowed to stop | 27.9–27.10 | rewrite constructively | Define four positive endpoints and close on portable inquiry. |
+| Chapter 27: Four narratives, four different endings | 27.8 | rewrite constructively | Compare the four cases through the five non-interchangeable fields: scenario construction, exact I.8 provenance, empirical comparison result, inferential disposition, and bounded output. |
+| Chapter 27: A scaffold that is allowed to stop | 27.9–27.10 | rewrite constructively | Define four valid endpoints and close on portable inquiry. |
 | Chapter 27 notes | Chapter 27 evidence anchors; Chapter 29 | retain and split | Keep reasoning-scaffold sources; move full validation methods to Chapter 29. |
 | Chapter 28: Beyond “sit correctly” | 28.0–28.1 | rewrite constructively | Open with language expanding what people and systems can recognize and redesign. |
 | Chapter 28: A public language for demand and options | 28.2 | retain and compress | Preserve the public vocabulary; reduce trial catalog and repeated posture defense. |
@@ -353,7 +353,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 30: The posterior system in its earned sense | 30.2 | retain | Preserve the large posterior structures, ordinary functions, and first meaning of the title. |
 | Chapter 30: The stronger proposition the series investigates | 30.3–30.4 | retain and split | Separate preferred-organization hypothesis from necessary-but-insufficient posterior expectation. |
 | Chapter 30: Three modes, not three Cartesian arrows | 30.5; Book II | retain, merge, and defer | Keep a precise preview inside the Book I/II seam contract; move formal transformations, conjugate loads, and derivations to Book II. |
-| Chapter 30: Traditional coordinates, breath, geometry, and practice | 30.6; Books III–V source packets | retain, merge, and defer | Keep only the concise horizon in Book I while preserving the detailed TCM channel map, K1–PC8/force-line observation, breath/pressure/torus program, and practice inventory in their named Books III–V assets. |
+| Chapter 30: Traditional coordinates, breath, geometry, and practice | 30.6; Books III–V source packets | retain, merge, and defer | Keep only the concise horizon in Book I; preserve bandha provenance, correspondence, and subtle/structural maps in Book III, candidate breath/pressure/phase mechanics in Book IV, and instruction, dosing, safety, and application in Book V alongside the detailed channel, K1–PC8/force-line, breath/geometry, and practice programs. |
 | Chapter 30: A hypothesis that is allowed to fail | 30.7 | rewrite constructively | Apply Chapter 29's result-routing architecture once to favorable, mixed, disfavoring, and nonunique later-series results. |
 | Chapter 30: What Book II inherits—and what it must earn | 30.5 | retain and merge | Preserve the seam contract and first-order assumptions, with orthotropy optional and regional. |
 | Chapter 30: The mechanical history remains | 30.8 | retain and merge | End on the original task, Book I's lens, Book II's exact question, and the unique movement formerly assigned to a conditional standalone Part VI synthesis. |

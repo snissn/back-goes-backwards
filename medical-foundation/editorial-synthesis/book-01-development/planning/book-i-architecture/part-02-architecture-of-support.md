@@ -458,5 +458,5 @@ Integrate other support domains, trace developmental and contextual variation, d
 - **Proposition:** Living support emerges through coordinated skeletal, active, tensile, form-receiving, sliding, pressure-mediated, sensory, environmental, and assistive relations.
 - **Develop:** Reconstruct the Part from shape-preserving routes through adaptive support to posterior anatomy and whole-body variation; restate the posterior proposition ladder; ask how a viable division of labor changes under demand, fatigue, constraint, mistimed handoff, and compensation.
 - **Evidence/example:** A completed cooperative-architecture figure with posterior participation highlighted but not isolated.
-- **Continuity:** Hands Part III a clear baseline from which adverse organization can be described.
+- **Continuity:** Hands Part III a clear baseline from which changes in organization, constraint, and compensation can be described.
 - **Target:** 320–450 words.

@@ -98,6 +98,16 @@ Every explanatory chain uses the same inspectable sequence:
 
 The chain is a scaffold, not a requirement that every chapter reach the final node. Units must name where their evidence begins and ends. Worked examples must also include chronology, competing explanations, and a result that would narrow or stop the proposed account.
 
+Worked-case records and comparison tables keep five fields distinct:
+
+1. **evidence provenance:** the exact I.8 state—observed, reported, measured, calculated, modeled, inferred, reconstructed, embodied, hypothesized, or unknown;
+2. **scenario construction:** for example, a multistudy reconstruction, teaching composite, or stipulated hypothetical;
+3. **empirical comparison result:** positive, null, mixed, or not applicable under a declared comparison;
+4. **inferential disposition:** supported, narrowed, disfavored, or unresolved within the declared domain; and
+5. **bounded output:** the mechanical relation, researchable interval, structured uncertainty, or stopping decision the case earns.
+
+A single link may have entries in several fields. None of these labels substitutes for another: a reconstructed relation is not automatically supported or disfavored, a null comparison is not an evidence-provenance state, and a stipulated scenario is not an observation.
+
 Sources remain assigned by exact job:
 
 - anatomy establishes structures and relations;

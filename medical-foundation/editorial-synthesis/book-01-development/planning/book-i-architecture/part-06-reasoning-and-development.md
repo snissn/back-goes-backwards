@@ -93,12 +93,12 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 ### 27.8 The four narratives demonstrate four outputs
 
 - **Proposition:** The same scaffold can yield a strong bounded geometry-to-field relation, a substantive focal account with a reconstructed cumulative interval, several measured state relations with an incomplete transition mechanism, or a transparent hypothetical ending in unresolved causal plurality.
-- **Develop:** Compare Chapters 23–26 by strongest supported relation, exact evidence states, scenario status where applicable, and bounded output rather than retelling each case; show which question carried the decisive information; preserve measured, modeled, reconstructed, hypothesized, unknown, narrowed, null, and unresolved links without collapsing their labels.
-- **Evidence/example:** A seven-questions-by-four-cases matrix keyed to exact Part V provenance and outcomes.
+- **Develop:** Compare Chapters 23–26 without retelling them by keeping five fields separate: scenario construction, exact I.8 provenance, empirical comparison result, inferential disposition, and bounded output; show which question carried the decisive information and how a value in one field changes the next inquiry without replacing another field's label.
+- **Evidence/example:** A seven-questions-by-four-cases matrix with distinct scenario, provenance, comparison-result, inference, and output columns.
 - **Continuity:** Demonstrates portability and hands 27.9 endpoint.
 - **Target:** 350–500 words.
 
-### 27.9 The scaffold has four positive endpoints
+### 27.9 The scaffold has four valid endpoints
 
 - **Proposition:** A mechanical inquiry can produce a bounded relation, a testable question, an explicit unknown, or a justified decision to stop.
 - **Develop:** Define each output; connect it to communication and next action; state the higher evidence burden for tools or intervention.
@@ -379,7 +379,7 @@ Return to the original task, state Book I's complete contribution, give the post
 ### 30.6 Books III–V preserve the wider research horizon
 
 - **Proposition:** The traditional-coordinate, breath-and-geometry, and embodiment-and-practice programs remain explicit later layers whose claims do not carry Book I or define Book II's mechanical regime.
-- **Develop:** Name Book III as the detailed home for the Six-Division and paired-channel map—axial Kidney/Bladder and Heart/Small Intestine; opening/rotational Lung/Large Intestine and Spleen/Stomach; expansive/lateral Pericardium/Triple Warmer and Liver/Gallbladder—the gross limb projection, K1–PC8 coordination, and internal force-line observations; name Book IV as the home for diaphragm, rib cage, abdomen, pelvic floor, hyoid, respiratory phase, pressure, tensegrity, toroidal, restricted-topology, and alternative whole-system geometries, and breath/pressure-linked transition mechanisms; name Book V as the home for embodied observation, assessment, cues, drills, strength and coordination work, breathing practices, bandhas, yoga, Tai Chi, teaching, safety, and professional application.
+- **Develop:** Name Book III as the detailed home for the Six-Division and paired-channel map—axial Kidney/Bladder and Heart/Small Intestine; opening/rotational Lung/Large Intestine and Spleen/Stomach; expansive/lateral Pericardium/Triple Warmer and Liver/Gallbladder—the gross limb projection, K1–PC8 coordination, internal force-line observations, traditional provenance, cross-tradition correspondences, and subtle/internal or structural bandha maps; name Book IV as the home for diaphragm, rib cage, abdomen, pelvic floor, hyoid, respiratory phase, pressure, tensegrity, toroidal, restricted-topology, and alternative whole-system geometries, breath/pressure-linked transition mechanisms, and bandhas as candidate boundary, pressure, phase, or sequencing mechanics; name Book V as the home for embodied observation, assessment, cues, drills, strength and coordination work, breathing practices, bandha instruction and dosing, yoga, Tai Chi, teaching, safety, and professional application.
 - **Evidence/example:** One series dependency map naming each later book's object and evidence burden.
 - **Continuity:** Keeps the full program visible at non-load-bearing preview resolution and hands 30.7 Chapter 29's learning architecture.
 - **Target:** 450–600 words.
