@@ -2,9 +2,9 @@
 
 **Unit:** BGB-U-0025 — *Instability, Repeated Demand, and Changing Capacity*
 
-**Status:** controlled, inclusive recovery of the archive as of 2026-07-11; recurrent lateral ankle instability is selected as the lead state-transition narrative, with spinal segmental control retained as the axial transfer question; suitable for evidence-packet development and independent source review; not reader prose, a diagnosis, a case history, or an authorization to draft
+**Status:** controlled, inclusive recovery of the archive as of 2026-07-11; recurrent lateral ankle instability is selected as the lead state-transition narrative, with spinal segmental control retained as the axial transfer question; companion evidence packet completed and independently reviewed; reader drafting is authorized under the final section; not reader prose, a diagnosis, or a case history
 
-**Companions:** [Chapter 25 brief](../chapter-briefs/BGB-U-0025-instability-repeated-demand.md), [Book I contract](../book-contract.md), [source-coverage ledger](../../series-synthesis/source-coverage.md), [new-JSON reconciliation](../../new-json-source-reconciliation.md), [reversible quarantine](../../series-synthesis/quarantine.md), [Chapter 14 evidence packet](../evidence/chapter-14-instability-discoordination.md), [Chapter 15 evidence packet](../evidence/chapter-15-compensation-rerouting.md), and [causal-chain and evidence-state grammar](../planning/causal-chain-and-evidence-state-grammar.md)
+**Companions:** [Chapter 25 brief](../chapter-briefs/BGB-U-0025-instability-repeated-demand.md), [Book I contract](../book-contract.md), [Chapter 25 evidence packet](../evidence/chapter-25-instability-repeated-demand.md), [source-coverage ledger](../../series-synthesis/source-coverage.md), [new-JSON reconciliation](../../new-json-source-reconciliation.md), [reversible quarantine](../../series-synthesis/quarantine.md), [Chapter 14 evidence packet](../evidence/chapter-14-instability-discoordination.md), [Chapter 15 evidence packet](../evidence/chapter-15-compensation-rerouting.md), and [causal-chain and evidence-state grammar](../planning/causal-chain-and-evidence-state-grammar.md)
 
 ## Recovery decision
 
@@ -61,9 +61,10 @@ Quarantine applies to a publication move, not to the author's right to continue 
 | Same JSON :150–163; path `3.6 Kinetic Chain Failure and Compensatory Load Redistribution`; `BGB-S-1120` | local limitation can alter proximal, contralateral, or global contribution and possibly create delayed cost | D/R/P/Q | preserve the scale question; require a named carrier, task, contact, segment, force, moment, work, exposure, timeframe, and null before moving beyond the ankle |
 | Same JSON :37–50; `BGB-S-1108` and adjacent mechanical-condition material | mechanically intelligible contexts were meant to provide strong examples rather than generic caveats | D/R | allow a substantial local mechanical account where chronology and measurement support it; do not classify the whole presentation mechanically primary from a diagnosis or cross-sectional difference |
 | [12-section-02.json](../../../new/inputs/outlines/12-section-02.json):67–102; especially `3.2 Mechanisms of Load Transfer` and `3.3 Failure Modes`; `BGB-S-1216`, `BGB-S-1218` | continuity, congruence, timing, fatigue, injury, habit, repetition, capacity, and compensation change how demand is shared | D/R/P/Q | translate into restraint, contact, active response, task timing, exposure, capacity, and state transition; protect directional, ventral/posterior, breath, and clinical implications for later books |
+| [source-coverage ledger](../../series-synthesis/source-coverage.md):86 and :88; `BGB-S-1210`, `BGB-S-1212` | posterior capacity, performance, fatigue, stability, injury exposure, and observable markers of capacity and transition | R/P | retain general capacity, fatigue, exposure, and source-specific observation variables; do not use posterior interpretation to explain ankle recurrence or turn selected measures into a screen; route the stronger posterior claim and measurement-development program forward |
 | [13-section-03.json](../../../new/inputs/outlines/13-section-03.json):4–18 and :40–59; `BGB-S-1301`, `BGB-S-1305`, `BGB-S-1306` | mechanism-first medical framing, tiered claims, no protocols, cumulative demand, and instability as a core failure signature | D/X | retain the method and instability family; render none of the planning keys or acceptance criteria as prose; keep the chapter explanatory and comparative rather than prescriptive |
 | Same JSON :101–122; `BGB-S-1311` and `BGB-S-1312` | silent compensation, changed state, cumulative demand, delayed or distal consequence, and a generated office-worker vignette | R/P/Q/X | recover changing state, compensation, delayed possibility, and missing-history discipline; Chapter 26 owns the mixed chronic case; exclude the generated vignette and its inferred diagnosis |
-| [source-coverage ledger](../../series-synthesis/source-coverage.md):49, :57, :59, :61–62, and :113–123 | named archive obligations must be represented, routed, or protected rather than disappearing during example selection | D | use the ledger for completeness, not evidence; ankle selection leaves spinal, SI, rib, gait, and whole-body questions visible in the inventory |
+| [source-coverage ledger](../../series-synthesis/source-coverage.md):49, :57, :59, :61–62, :86, :88, :92, :94, and :113–124 | named archive obligations must be represented, routed, or protected rather than disappearing during example selection | D | use the ledger for completeness, not evidence; ankle selection leaves spinal, SI, rib, gait, and whole-body questions visible in the inventory |
 
 ## Source-obligation reconciliation
 
@@ -101,17 +102,25 @@ Quarantine applies to a publication move, not to the author's right to continue 
 
 **Hard/soft allocation:** The distinction is motivated by TCM hard/soft and Yin/Yang concepts but is not definitionally identical to either. Bone, articular geometry, ligament, muscle, tendon, ground, footwear, and brace can take more shape-preserving roles in a selected direction and phase; cartilage, synovial structures, skin, vessel, nerve, and other structures can take more form-receiving roles. Roles are relational. A ligament can preserve a relation while deforming; a muscle can yield while controlling motion; cartilage receives and redistributes contact while bearing load. No tissue is classified permanently as hard or soft.
 
+### BGB-S-1210 and BGB-S-1212 — posterior capacity and observable markers
+
+**Preserved:** Capacity, performance, fatigue, stability, injury exposure, pain, balance, compensation, and transitions can be represented as distinct variables when a source supplies a defined observation. Chapter 25 uses source-specific passive, task, waveform, report, recurrence, and recovery measures to compare selected states.
+
+**Protected future:** The posterior-specific interpretation remains an active later-book proposition rather than an explanation imposed on the ankle evidence. Chapter 25 does not convert its selected measures into a self-screen or general marker set; Chapters 27 and 29 own the reusable measurement scaffold and measurement-development program.
+
 ### BGB-S-1301 and BGB-S-1305 — mechanism-first, cumulative, bounded medical framing
 
 **Preserved:** Build the episode sequence before discussing diagnosis or care. Keep external demand, internal distribution, local exposure, response, finding, symptom, and function distinguishable. Let repetition matter through changing state, dose, and recovery.
 
 **Boundary:** The chapter can explain a mechanical state-transition model and compare observations. It cannot supply diagnostic criteria, a recurrence score, return-to-activity rule, prognosis, brace recommendation, exercise, neuromuscular program, posterior correction, breath cue, or clinical protocol.
 
-### BGB-S-1121 and BGB-S-1311 — candidate inventory and delayed consequence
+### BGB-S-1121, BGB-S-1311, and BGB-S-1312 — candidate inventory, delayed consequence, and generated vignette
 
 **Preserved:** Spinal, SI, costovertebral, rib, gait, knee, hip, shoulder, craniofacial, and other recurrent-control settings remain candidates for later development. A changed strategy can persist between events and can alter a future starting state without one dramatic new injury.
 
 **Reconstruction:** “Delayed” means that the proposed exposure and outcome are separated in time; it does not prove that the earlier event caused the later one. “Silent” means the selected change was not captured by the chosen observation or ordinary function continued; it does not mean occult damage. Delayed, distal, and systemic claims require a dated chain, intermediate measures, alternatives, and a disfavoring result.
+
+**Protected/quarantined:** The generated office-worker micro-vignette remains assigned to Chapter 26 and cannot serve as a source-grounded Chapter 25 case. Chapter 25 preserves only its missing-history and competing-explanation discipline.
 
 ## Structural recovery from the archive
 
@@ -313,9 +322,9 @@ The eventual first-draft audit must verify that:
 
 ## Authorization
 
-This packet authorizes an evidence-led recurrent lateral ankle instability construction and a bounded spinal transfer. It does not yet authorize the reader draft.
+This packet, together with the independently reviewed evidence packet, authorizes a reader draft built around an evidence-led recurrent lateral ankle instability construction and a bounded spinal transfer.
 
-The evidence pass may:
+The reader draft may:
 
 - affirm that an injury or state change can alter later restraint, control, strategy, exposure, and capacity;
 - show substantial local mechanical contribution where chronology and measurement support it;
@@ -325,6 +334,6 @@ The evidence pass may:
 - preserve spinal, SI, rib, gait, energetic, systemic, posterior, TCM, breath, and practice hypotheses in their assigned development layers; and
 - allow the routing account to stop locally or add little for a selected endpoint.
 
-A reader draft becomes authorized only after the evidence packet verifies the definitions and measures used, supplies at least one prospective or repeated-state bridge, includes real noncorresponding groups and nulls, bounds every multiscale inference, and passes independent source and provenance review.
+The reader draft is authorized because the evidence packet verifies the definitions and measures used, supplies prospective and repeated-state bridges, includes real noncorresponding groups and nulls, bounds multiscale inference, and has passed independent source and provenance review. This authorization does not close any publication gate.
 
 Publication will still require foot-and-ankle clinical and biomechanical review; sensorimotor and measurement review; spinal review for the transfer; causal-method, pain-science, rehabilitation, and medical-coauthor review; disability and patient-centered-language review; source refresh and bibliography normalization; and figure, rights, caption, accessibility, and final-art review.
