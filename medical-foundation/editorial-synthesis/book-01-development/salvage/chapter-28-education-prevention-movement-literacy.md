@@ -2,7 +2,7 @@
 
 **Unit:** BGB-U-0028 — *Education, Prevention, Movement Literacy, and Environmental Design*
 
-**Status:** controlled, inclusive recovery of the archive as of 2026-07-11; a layered literacy–environment–prevention model is selected; suitable for evidence-packet development and independent review; not reader prose, individualized instruction, an ergonomic prescription, or an authorization to draft
+**Status:** controlled, inclusive recovery of the archive as of 2026-07-11; a layered literacy–environment–prevention model is selected; its evidence packet has passed independent review and reader drafting is authorized within the recorded controls; not reader prose, individualized instruction, an ergonomic prescription, or publication approval
 
 **Companions:** [Chapter 28 brief](../chapter-briefs/BGB-U-0028-education-prevention-movement-literacy.md), [Book I contract](../book-contract.md), [Chapter 27 salvage packet](chapter-27-mechanical-questions-clinical-reasoning.md), [source-coverage ledger](../../series-synthesis/source-coverage.md), [new-JSON reconciliation](../../new-json-source-reconciliation.md), and [reversible quarantine](../../series-synthesis/quarantine.md)
 
@@ -327,9 +327,9 @@ Chapter 28 inherits Chapter 27's disciplined vocabulary but does not reproduce i
 
 Chapter 30 inherits the claim that the series' wider hypothesis may eventually influence educational content and design questions, but Book I's current public language does not depend on that hypothesis being correct.
 
-## Drafting authorization gate
+## Reader-drafting boundary
 
-Reader drafting is not authorized by this salvage packet alone. Authorization requires:
+The independently reviewed evidence packet satisfies the internal authorization requirements below. Reader drafting is authorized within its controlled chapter shape and language constraints; publication approval remains subject to the open pedagogy, ergonomics/HFE, occupational-health, public-health, medical-coauthor, ethics, disability-led accessibility, figure, current-source, and bibliography gates.
 
 - a reviewed evidence packet with at least one positive, one null or heterogeneous, and one adverse or tradeoff example;
 - exact definition of the primary audience and first educational outcome;
@@ -352,6 +352,6 @@ Reader drafting is not authorized by this salvage packet alone. Authorization re
 - [x] The larger cultural program is staged rather than ablated.
 - [x] Individual tests, corrections, posterior strategy, breath, TCM, and practice remain protected for later books.
 - [x] Universal posture and ergonomic prescriptions are excluded from reader prose.
-- [ ] Chapter 28 evidence packet has been created and independently reviewed.
-- [ ] Reuse and source-bijection audits have passed.
-- [ ] Reader drafting has been authorized.
+- [x] Chapter 28 evidence packet has been created and independently reviewed.
+- [x] Reuse and source-bijection audits have passed.
+- [x] Reader drafting has been authorized.
