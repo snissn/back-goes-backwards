@@ -2,7 +2,7 @@
 
 **Unit:** BGB-U-0030 — *The Wider Series Hypothesis: The Back Goes Backwards*
 
-**Status:** controlled, inclusive recovery of the archive and aligned authorial model as of 2026-07-11; a three-level closing and explicit rejection test are selected; suitable for evidence-packet development and Book I/II seam review; not reader prose, a derivation of preferred configuration, a traditional validation, or an authorization to draft
+**Status:** controlled, inclusive recovery of the archive and aligned authorial model as of 2026-07-11; the three-level closing, explicit rejection test, evidence packet, and Book I/II seam have passed independent review; controlled reader drafting is authorized; this remains development material rather than reader prose, a derivation of preferred configuration, or a traditional validation
 
 **Companions:** [Chapter 30 brief](../chapter-briefs/BGB-U-0030-wider-series-hypothesis.md), [Book I contract](../book-contract.md), [project-model memo](../../project-model-memo.md), [series outline](../../series-synthesis/series-outline.md), [source-coverage ledger](../../series-synthesis/source-coverage.md), [new-JSON reconciliation](../../new-json-source-reconciliation.md), and [reversible quarantine](../../series-synthesis/quarantine.md)
 
@@ -47,8 +47,8 @@ Quarantine applies to a present inference, not to the author's freedom to state 
 
 | Archive locator | Intended contribution | Disposition | Controlled recovery and destination |
 |---|---|---|---|
-| [12-section-02.json](../../../new/inputs/outlines/12-section-02.json), especially posterior-system synthesis; `BGB-S-1203`, `BGB-S-1207` | posterior chain as a major anatomical and functional system and a title-facing basis | D/R/P/Q/X | retain region- and task-specific anatomy and function; remove universal priority, ideal posture, systemic-health certainty, and correction; give stronger posterior necessity to Book II |
-| Same JSON, hard/soft and closing synthesis; `BGB-S-1226`, `BGB-S-1227` | relation among hard/soft resolution, posterior support, Yang, dimensions, tensegrity, meridians, and traditional models | D/R/P/Q | keep the categories nonidentical; preserve their proposed relation as a later research program; route formal and traditional work to Books II–IV |
+| [12-section-02.json](../../../new/inputs/outlines/12-section-02.json), especially posterior-system synthesis; `BGB-S-1203` | posterior anatomy as a major support and transfer system and a title-facing basis | D/R/P/Q/X | retain region- and task-specific anatomy and function; remove universal priority, ideal posture, systemic-health certainty, and correction; give stronger posterior necessity to Book II |
+| Same JSON, hard/soft and closing synthesis; `BGB-S-1207`, `BGB-S-1226`, `BGB-S-1227` | proposed relations among posterior/anterior, exterior/interior, hard/soft, Yang/Yin, dimensions, tensegrity, meridians, and traditional models | D/R/P/Q | keep the categories nonidentical; preserve their proposed relations as a later research program; route formal and traditional work to Books II–IV |
 | [14-section-04.json](../../../new/inputs/outlines/14-section-04.json) | dimensional structure, Six Divisions, paired channels, force directions, and bandha-related geometry | R/P/Q/X | preserve axial, opening/rotational, and expansive families and provisional mappings; exclude planning residue, generated certainty, disease claims, and practice instructions |
 | [15-section-05.json](../../../new/inputs/outlines/15-section-05.json) | hyoid, breath, pressure, tensegrity, toroidal geometry, and whole-system state | R/P/Q/X | preserve competing whole-system models in Book IV; do not call the hyoid a fourth dimension or let breath become a master cause |
 | [16-section-06.json](../../../new/inputs/outlines/16-section-06.json) | embodied practice, tests, cues, drills, teaching, culture, clinical use, and contribution | R/P/Q/X | preserve all practice and cultural ambitions in Book V and Chapter 29 development tracks; publish no corrective routine here |
@@ -286,17 +286,25 @@ All figures remain text-native for the first draft. Book I/II seam, mechanics, T
 
 ## Drafting authorization gate
 
-Reader drafting is not authorized by this salvage packet alone. Authorization requires:
+This salvage packet and its independently reviewed companion evidence packet authorize controlled reader drafting. The completed authorization review confirms:
 
 - a reviewed synthesis and dependency-audit evidence packet;
 - confirmation that all durable claims are already supported within Book I;
 - a posterior-anatomy summary checked against Chapters 7–9;
 - a mathematical-language review of generalized modes, efficiency, sign, transformation, orthotropy, state, and rejection language;
-- a TCM-history and authorial-mapping review that preserves current corrections without treating them as external validation;
+- an internal traditional-provenance and authorial-mapping review that preserves current corrections without treating them as external validation;
 - a complete Book I/II seam audit;
 - a source-bijection and control-residue plan;
-- medical-coauthor confirmation that no later hypothesis strengthens Book I medical claims; and
-- all specialist, figure, rights, accessibility, bibliography, and source-refresh gates recorded as open publication tasks.
+- no later hypothesis strengthens Book I medical claims in the development draft; medical-coauthor confirmation remains a publication gate; and
+- all specialist, figure, rights, accessibility, bibliography, and source-refresh gates remain recorded as open publication tasks.
+
+## Independent audit record and drafting decision
+
+**Decision: AUTHORIZE controlled reader drafting.** Independent review confirmed that the salvage packet preserves the authorial hypothesis generously while preventing it from carrying evidentiary weight backward into Book I.
+
+The review verified the three nested propositions and one-way rejection test; the title's anatomical, organizing, and preferred-direction senses; the distinction among posterior, exterior, hard, Yang, generalized mode, and preferred; the current channel-family mapping and Kidney 1–Pericardium 8 provenance; the additive torus framing; the hyoid, topology, orthotropy, breath, and practice boundaries; and Book II's explicit assumption and formalization burden. It also corrected the archive crosswalk so `BGB-S-1203`, `BGB-S-1207`, `BGB-S-1226`, and `BGB-S-1227` match the source-coverage ledger rather than inheriting nearby generated-outline wording.
+
+Reader drafting is authorized only inside the evidence packet's affirmative and prohibited-claim controls. External anatomy, biomechanics, mathematics, TCM-history, medical-coauthor, accessibility, rights, bibliography, final-art, and whole-book continuity review remain publication gates rather than drafting blockers.
 
 ## Salvage completeness checklist
 
@@ -314,6 +322,5 @@ Reader drafting is not authorized by this salvage packet alone. Authorization re
 - [x] Practice remains preserved but non-prescriptive.
 - [x] Rejection leaves a substantial Book I intact.
 - [x] Book II receives exact inheritance and obligation lists without recapitulation.
-- [ ] Chapter 30 synthesis evidence packet and dependency audit have been created and independently reviewed.
-- [ ] Reader drafting has been authorized.
-
+- [x] Chapter 30 synthesis evidence packet and dependency audit have been created and independently reviewed.
+- [x] Reader drafting has been authorized.
