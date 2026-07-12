@@ -580,7 +580,7 @@ Define scale-specific variables; trace local-to-regional, regional-to-whole, and
 
 ### 16.7 Conclusion — Mechanics supplies candidate pathways
 
-- **Proposition:** Part III has made load mismanagement mechanically specific enough for biological and medical evaluation.
+- **Proposition:** Part III has made changes in load organization specific enough for biological and medical evaluation.
 - **Develop:** Gather the bidirectional scale map, bounded configuration-regime hypothesis, four downstream branches, and receiver-and-outcome bridge; state what Part IV must add for medical interpretation.
 - **Evidence/example:** Reuse the three-scale systems diagram with the four-branch map attached at the receiver level.
 - **Continuity:** Opens Part IV with mechanics already present in medicine.

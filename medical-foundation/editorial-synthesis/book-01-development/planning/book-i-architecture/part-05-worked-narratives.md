@@ -100,7 +100,7 @@ This multistudy reconstruction demonstrates the geometric-redistribution and loc
 ### 23.8 Conclusion — Geometry creates local exposure questions
 
 - **Proposition:** The first narrative establishes **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**.
-- **Develop:** State the strongest supported relation, the surrogate or null findings that narrow it, and the exact downstream arrows the case does not complete.
+- **Develop:** State the strongest supported relation. Report surrogate or null comparison results; state separately how the full record narrows or leaves open the candidate relation. Name the exact downstream arrows the case does not complete.
 - **Evidence/example:** Reuse the completed evidence-state chain from 23.7.
 - **Continuity:** Opens maintained constraint in Chapter 24.
 - **Target:** 200–280 words.

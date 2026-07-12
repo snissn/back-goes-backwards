@@ -208,6 +208,31 @@ Round 3 therefore cannot count as a no-change stabilization round. Round 4 begin
 
 Round 4 therefore cannot count as a no-change stabilization round. Round 5 begins a new two-round stabilization attempt.
 
+## Round 5 — First post-revision stabilization reread
+
+**Status:** complete; no structural revision required.
+
+**Independent review lenses:**
+
+1. whole-book developmental progression, finite unit jobs, constructive framing, case pacing, Part VI payoff, and Book I/II seam;
+2. organization-family ontology, scale and evidence ownership, five-field case logic, canonical outputs, posterior proposition ladder, and later-series boundaries; and
+3. exact source disposition, manuscript integrity, drafting-contract completeness, ranges, figures, tables, bibliography, footnotes, paths, cross-references, and Markdown production integrity.
+
+### Stable findings
+
+- The six-Part reader arc remains cumulative, and the previously difficult ownership seams remain distinct: Chapters 11/14/15, 12/16, 13/20/24, 17/18, and 21/22 perform different jobs.
+- Part III now moves constructively from viable organization to six organization-change families and downstream evaluation without classifying those families as exposures, defects, or a universal causal order.
+- The four worked cases retain distinct scenario constructions, degrees of completion, comparison burdens, inferential dispositions, and bounded outputs. Exact output repetition performs four different jobs: promise, case delivery, Part comparison, and portable-scaffold demonstration.
+- Part VI remains an earned payoff, and Book I's mechanical-history argument is complete before the stronger configuration program appears. Book II retains an independent burden to define and discriminate regimes; Book IV retains breath-coupled dynamics.
+- Production and source integrity remain exact: 317 source objects and rows, 116 figures, 72 tables, 384 bibliography records, 464 resolved footnote definitions, 293 contiguous numbered units, 304 complete target-bearing units, no unresolved destinations or cross-references, and an unchanged source-manuscript blob.
+
+### Nonstructural wording corrections
+
+- Replaced the remaining “load mismanagement” phrase in 16.7 with “changes in load organization.”
+- In 23.8, separated the reporting of surrogate or null comparison results from the inferential disposition assigned by the full record.
+
+These two wording corrections preserve ownership, sequence, scope, disposition, and target lengths. They do not reset stabilization. Round 5 is the first consecutive no-change round; Round 6 must independently confirm the same architecture.
+
 ## Stabilization log
 
 | Round | Structural changes required? | Result |
@@ -217,5 +242,5 @@ Round 4 therefore cannot count as a no-change stabilization round. Round 5 begin
 | 2 — post-revision developmental and integrity review | yes | Provenance, case outputs, scaffold chronology, topology ownership, bibliography disposition, and control grammar revised. |
 | 3 — developmental, claim-architecture, and source-integrity review | yes | Family ordering, scale ownership, five-field case logic, and layered bandha ownership revised. |
 | 4 — post-revision reread | yes | Family ontology, canonical case outputs, and five-field closure revised; macrostructure retained. |
-| 5 — first post-revision reread | pending | — |
+| 5 — first post-revision reread | no | First consecutive clean round; only two nonstructural wording corrections applied. |
 | 6 — independent confirmation reread | pending | — |
