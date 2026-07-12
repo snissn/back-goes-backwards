@@ -1,0 +1,66 @@
+Header
+  CHECK KEYWORDS Warn
+  Mesh DB "." "diaphragm_saddle_elmer"
+  Include Path ""
+  Results Directory "results"
+End
+
+Simulation
+  Max Output Level = 5
+  Coordinate System = Cartesian
+  Coordinate Mapping(3) = 1 2 3
+  Simulation Type = Steady State
+  Steady State Max Iterations = 1
+  Output Intervals = 1
+  Solver Input File = diaphragm_saddle.sif
+  Post File = diaphragm_saddle.vtu
+End
+
+Constants
+  Gravity(4) = 0 0 -9.81 9.81
+End
+
+Body 1
+  Target Bodies(1) = 1
+  Name = "Diaphragm"
+  Equation = 1
+  Material = 1
+  Body Force = 1
+End
+
+Equation 1
+  Name = "DiaphragmEquation"
+  Active Solvers(1) = 1
+End
+
+Material 1
+  Name = "ElasticMembrane"
+  Youngs modulus = 1000.0
+  Poisson ratio = 0.3
+End
+
+Body Force 1
+  Name = "PressureLoad"
+  Stress Bodyforce 3 = -30000.0  ! 30 kPa down
+End
+
+Boundary Condition 1
+  Name = "FixedOuterRing"
+  Target Boundaries(4) = 1 2 3 4
+  Displacement 1 = 0
+  Displacement 2 = 0
+  Displacement 3 = 0
+End
+
+Solver 1
+  Equation = "Stress Analysis"
+  Procedure = "StressSolve" "StressSolver"
+  Variable = "Displacement"
+  Variable DOFs = 3
+  Linear System Solver = Direct
+  Linear System Direct Method = UMFPACK
+  Steady State Convergence Tolerance = 1.0e-8
+  Optimize Bandwidth = True
+End
+
+

@@ -1,0 +1,11 @@
+# Part IV — From mechanical organization to medical meaning
+
+Mechanical reasoning is already medical reasoning. Pressure must be generated, regulated, relieved, or maintained. Fractures require continuity and stability. Ventilation depends on pressure and deformable boundaries. Nerves, vessels, and tendons need adequate course, excursion, and interface behavior. Prostheses, orthoses, implants, beds, tools, and assistive devices redistribute demand through living tissues.
+
+Part IV therefore does not introduce mechanics into a supposedly mechanics-free field. It begins with established uses and asks what a more longitudinal routing history could add.
+
+Chapter 17 maps the common ground. Chapter 18 defines the proposed addition: follow a declared demand across regions and time rather than stopping at the present local endpoint. Chapter 19 supplies the biological bridge from mechanical exposure to tissue response. Chapter 20 compares that bridge across conduits, nerves, sliding interfaces, and pressure-bearing systems without pretending they share one material law. Chapter 21 makes the causal boundary explicit and restores biological, psychological, behavioral, environmental, and social alternatives at every stage. Chapter 22 asks how this lens could enter clinical workflow and interdisciplinary care without becoming a diagnosis, profession, or protocol of its own.
+
+The sequence is intentionally demanding. A mechanical history is not established because a narrative sounds continuous. An exposure must be defined. The receiving structure must be named. The response must be appropriate to that structure and time. A finding, symptom, functional change, diagnosis, and outcome remain different objects. Reverse causation and feedback remain active: pain, inflammation, fear, fatigue, and illness can change movement and distribution.
+
+The proposed lens succeeds at this stage if it improves the next question. It can identify a missing history, a candidate mediator, a comparison, or a measurement without claiming causal priority. It can also succeed by showing where a mechanical account stops. The worked narratives in Part V will test whether that discipline survives when the examples become concrete.

@@ -1,0 +1,11 @@
+# Part III — Load management, failure, and compensation
+
+The same movement can be useful training, ordinary work, temporary protection, or an exposure a tissue cannot presently recover from. The difference is not contained in posture or force alone. It depends on direction, rate, repetition, duration, variability, sequence, material state, capacity, recovery, environment, and what the system is trying to preserve.
+
+Part III studies what changes when mechanical demand loses a viable distribution. It does not begin with a list of conditions. It begins with six families of organization that can be described and challenged before a medical conclusion is drawn.
+
+Chapter 10 establishes the baseline: mechanical homeostasis as viable changing ranges rather than one fixed pose, and capacity as a present relation between a system and a defined exposure. Chapter 11 asks whether a demand crossed an interface, was handed off, leaked, was interrupted, or was carried by a substitute. Chapter 12 separates global geometry from the local concentrations it may or may not produce. Chapter 13 examines deformation or lost excursion maintained by an ongoing constraint. Chapter 14 distinguishes instability, discoordination, bracing, and repeated demand. Chapter 15 follows compensation and rerouting through time. Chapter 16 asks what evidence would be required for a local change to matter at a larger scale.
+
+The families overlap, but they are not synonyms. A narrowing is not the same thing as the load that maintains it. Instability is not simply excess movement. Bracing can be successful protection. A substitute route can preserve the task without being costly, or incur a cost that appears only after repetition. A global shift can coexist with no meaningful local change. A plausible regional chain can stop when its intermediate quantities remain unmeasured.
+
+The reader's task is to keep capability and consequence together. A changed strategy deserves to be understood for what it preserved before it is judged for what it may have cost. Every adverse account also needs a null: a condition under which the proposed carrier, exposure, or downstream effect is absent. Part III supplies that grammar so that the medical chapters do not inherit a foregone mechanical cause.
