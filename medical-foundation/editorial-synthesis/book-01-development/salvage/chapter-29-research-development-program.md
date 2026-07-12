@@ -2,7 +2,7 @@
 
 **Unit:** BGB-U-0029 — *Building the Research and Development Program*
 
-**Status:** controlled, inclusive recovery of the archive as of 2026-07-11; six coordinated but independently gated development tracks are selected; suitable for evidence-packet development and independent review; not reader prose, a grant plan, a clinical recommendation, or an authorization to draft
+**Status:** independently audited controlled, inclusive recovery of the archive as of 2026-07-11; six coordinated but independently gated development tracks are selected; reader drafting is authorized from the reviewed evidence-and-salvage pair within the boundaries below; not reader prose, a grant plan, a clinical recommendation, or publication approval
 
 **Companions:** [Chapter 29 brief](../chapter-briefs/BGB-U-0029-research-development-program.md), [Book I contract](../book-contract.md), [Chapter 27 salvage packet](chapter-27-mechanical-questions-clinical-reasoning.md), [Chapter 28 salvage packet](chapter-28-education-prevention-movement-literacy.md), [source-coverage ledger](../../series-synthesis/source-coverage.md), [new-JSON reconciliation](../../new-json-source-reconciliation.md), and [reversible quarantine](../../series-synthesis/quarantine.md)
 
@@ -27,7 +27,7 @@ This architecture is not a retreat from the medical-overhaul ambition. It is the
 
 1. direct authorial clarifications and the project-model memo;
 2. the Book I contract, accepted Book I outline, and Chapter 29 brief;
-3. the reviewed Chapter 29 evidence packet once complete;
+3. the independently reviewed Chapter 29 evidence packet;
 4. accepted Book I causal, measurement, clinical, and worked-narrative controls;
 5. current claim, model, example, figure, and source controls;
 6. the series synthesis, source-coverage ledger, and new-JSON reconciliation;
@@ -273,9 +273,9 @@ Chapter 29 inherits the full Book I framework as a set of developed questions, n
 
 Books II–V inherit development pathways rather than implied validation. Book II receives preferred-state mechanics and measurement. Book III receives traditional-correspondence construct development. Book IV receives breath, pressure, and state-transition studies. Book V receives observation, teaching, practice, assessment, safety, and therapeutic development.
 
-## Drafting authorization gate
+## Independent review and drafting authorization
 
-Reader drafting is not authorized by this salvage packet alone. Authorization requires:
+The companion evidence packet and this salvage packet passed independent source-and-salvage review on 2026-07-11. Reader drafting is authorized from the reviewed pair because the following controls are now present:
 
 - a reviewed methods evidence packet;
 - exact definitions and noncollapse rules for all six tracks;
@@ -285,6 +285,17 @@ Reader drafting is not authorized by this salvage packet alone. Authorization re
 - a source-bijection and control-residue plan;
 - research-methods, measurement, pedagogy, clinical-development, implementation, health-system, medical, safety, ethics, disability, and figure gates recorded as open publication tasks; and
 - confirmation that program inclusion cannot be read as validation or recommendation.
+
+### Independent-audit record
+
+- Every required archive unit—`BGB-S-1126`, `BGB-S-1316`, and `BGB-S-1616` through `BGB-S-1621`—was checked against its named JSON locator, this packet, and the source-coverage ledger.
+- The audit confirmed exactly six tracks and retained legitimate multi-track projects only when their aims, methods, outputs, evidence states, and prohibited inferences remain distinct.
+- Negative, mixed, inconclusive, nonunique, mechanism-discordant, no-added-value, implementation-failure, retirement, and evidence-based re-entry routes were checked for distinct program destinations.
+- The Chapter 24 maintained-deformation pathway retains its weakest reconstructed arrow and does not turn position, narrowing, deformation, or measurement into diagnosis or a universal body-wide route.
+- Cross-track handoffs retain provenance and prohibited inference. The evidence packet establishes a one-to-one chapter-scoped source plan and records residue, specialist, and publication review as open gates.
+- Later preferred-configuration, TCM-coordinate, breath, torus, and practice programs remain preserved but unvalidated. No protocol, assessment, diagnosis, treatment, prevention promise, or institutional recommendation is authorized.
+
+**Decision:** reader drafting is **authorized** from the independently reviewed evidence-and-salvage pair. Publication approval is not granted, and all specialist and publication gates remain open.
 
 ## Salvage completeness checklist
 
@@ -298,7 +309,6 @@ Reader drafting is not authorized by this salvage packet alone. Authorization re
 - [x] The medical-overhaul ambition remains explicit and incremental.
 - [x] Later-book models and practices remain preserved but unvalidated.
 - [x] No assessment, protocol, therapy, or institutional reform is recommended.
-- [ ] Chapter 29 evidence packet has been created and independently reviewed.
-- [ ] Reuse and source-bijection audits have passed.
-- [ ] Reader drafting has been authorized.
-
+- [x] Chapter 29 evidence packet has been created and independently reviewed.
+- [x] Reuse and source-bijection audits have passed.
+- [x] Reader drafting has been authorized from the reviewed evidence-and-salvage pair.
