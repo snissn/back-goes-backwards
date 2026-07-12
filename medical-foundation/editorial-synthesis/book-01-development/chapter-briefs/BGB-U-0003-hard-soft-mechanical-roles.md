@@ -299,7 +299,7 @@ Salvage the archive's functional intuition, traditional motivation, tissue hando
 
 ## Drafting constraints
 
-- Target approximately 4,000–5,000 words before notes and captions.
+- Target approximately 3,500–4,500 words before notes and captions.
 - Use *motivated by TCM concepts* while avoiding language that implies exact definitional identity.
 - Introduce the traditional motivation in the opening pages and give it one bounded provenance section; do not make the reader wait until a disclaimer.
 - Make *form-receiving*, *shape-conforming*, and *yielding rather than imposing geometry* the core soft-role language.
