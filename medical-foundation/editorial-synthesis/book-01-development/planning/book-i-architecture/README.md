@@ -11,7 +11,7 @@ This package converts the accepted Book I structure into units small and definit
 The architectural outline and the prose-disposition crosswalk solve different problems:
 
 - the Part files state what the next manuscript is meant to teach, in what order, and through which finite units;
-- `prose-disposition-crosswalk.md` accounts for every reader-facing content block in the current first draft and records whether its substance stays, moves, merges, is rewritten, is deferred, or leaves the manuscript;
+- `prose-disposition-crosswalk.md` accounts for every reader-facing content block and the assembled bibliography in the current first draft and records whether each source object stays, moves, merges, is rewritten, is deferred, is rebuilt, or leaves the manuscript;
 - `editorial-stabilization-record.md` records the review rounds that this architecture survives before redrafting begins.
 
 No prose in the source draft is deleted by this work. A disposition is an editorial decision about the next manuscript, not a mutation of the archive.
@@ -44,7 +44,7 @@ Negative or contrastive prose is warranted when it performs one of four jobs: co
 
 ## Drafting-unit contract
 
-Every numbered unit in the Part files is an independently draftable assignment. A unit should normally contain 300–650 reader-body words. Openings and conclusions may be 180–350 words. A longer treatment must be split before drafting rather than allowed to accumulate several hidden jobs.
+Every numbered unit in the Part files is an independently draftable assignment. Most explanatory units should contain 300–650 reader-body words. Compact orientation or application bridges may contain 250–450 words; openings, conclusions, and short Part bridges may contain 180–450 words. No unit may exceed 650 words without an explicit architectural exception; otherwise a longer treatment must be split before drafting rather than allowed to accumulate several hidden jobs.
 
 Each unit must provide:
 
@@ -70,6 +70,8 @@ The crosswalk uses the following controlled dispositions:
 - **defer:** the material belongs in a later book or later development layer;
 - **quarantine:** the idea remains in the project archive but has no present Book I destination pending definition, research, or author review;
 - **retire duplicate:** no unique content remains after the named destination absorbs it.
+
+The disposition column may join base decisions when one source block has several destinations. Treatment modifiers such as **split**, **compress**, **expand**, **rename**, **rebuild**, or **as hypothesis** describe how the retained material changes; they do not create an unnamed destination or a new epistemic state.
 
 No unit is dispositioned merely because it is speculative. Speculation can remain when Book I needs to name the research program; its label, dependency, and evidentiary burden must be explicit.
 

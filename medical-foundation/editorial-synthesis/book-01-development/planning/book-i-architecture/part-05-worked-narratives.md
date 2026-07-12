@@ -17,9 +17,9 @@ Each chapter has one lead mechanical family and one distinct output. The case le
 
 ## Part opening — Complete narratives expose missing links
 
-- **Proposition:** A worked case becomes informative when it declares what is observed, what is inferred, where the mechanical chain changes scale, and which competing histories remain live.
-- **Develop:** Introduce the common ledger and its observed/inferred/unknown status; state the exact progression from bounded geometry relation, to focal account with reconstructed interval, to measured state relations with incomplete transition, to hypothetical unresolved plurality.
-- **Evidence/example:** One overview table comparing the four cases by strongest supported relation, open interval or link, and exact bounded output.
+- **Proposition:** A worked case becomes informative when every link retains its exact evidence state, each scale transition remains visible, and competing histories remain available for comparison.
+- **Develop:** Introduce the common ledger using the full I.8 legend; group direct anchors, derived or reconstructed links, and unknown links for comparison without replacing their exact labels; state the progression from bounded geometry relation, to focal account with reconstructed interval, to measured state relations with incomplete transition, to hypothetical unresolved plurality.
+- **Evidence/example:** One overview table comparing the four cases by exact evidence states, strongest supported relation, open interval or link, and bounded output.
 - **Continuity:** Inherits Chapter 22's record and hands Chapter 23 the most measurable case.
 - **Target:** 320–450 words.
 
@@ -31,13 +31,13 @@ Geometry organizes internal distribution by changing moment arms, contact, load 
 
 ### Case function
 
-This chapter demonstrates the global-redistribution and local-concentration families with the knee as the primary system. A shorter lumbar comparison tests whether the same grammar transfers to a different anatomy.
+This chapter demonstrates the geometric-redistribution and local-concentration families with the knee as the primary system. A shorter lumbar comparison tests whether the same grammar transfers to a different anatomy.
 
 ### 23.0 Case opening — One step contains several mechanical quantities
 
 - **Proposition:** A walking step can be described through ground reaction, segment motion, joint moment, contact force, pressure, and local tissue strain, each at a different scale.
-- **Develop:** Present the task and system boundaries; distinguish the quantities positively; identify the cartilage receiver; state the chapter's exact geometry-to-field question; complete the standard status line using the I.8 subset—**observed** for direct or measured relations, **inferred** for modeled internal relations, and **unknown** for downstream biological or clinical links.
-- **Evidence/example:** One stance-phase scale stack annotated with the standard observed/inferred/unknown status.
+- **Develop:** Present the task and system boundaries; distinguish the quantities positively; identify the cartilage receiver; state the chapter's exact geometry-to-field question; label reported task details, observed or measured motion and external demand, calculated joint quantities, modeled internal fields, inferred bridges, and unknown downstream biological or clinical links without collapsing one state into another.
+- **Evidence/example:** One stance-phase scale stack annotated with the exact applicable I.8 evidence state at every link.
 - **Continuity:** Applies Chapters 2, 12, 19, and 22 without redefining them.
 - **Target:** 300–420 words.
 
@@ -118,8 +118,8 @@ The arterial composite is the focal case for constraint-maintained deformation. 
 ### 24.0 Case opening — A strong endpoint with a missing middle
 
 - **Proposition:** Present anatomy, arterial deformation, and distal consequence can be well documented even when the repeated exposure connecting them through time was not directly observed.
-- **Develop:** State the teaching-composite status; introduce the corridor, receiver, present endpoint, and missing interval; complete the standard status line using the I.8 subset—**observed** for present anatomy and endpoints, **inferred** for the reconstructed cumulative relation, and **unknown** for the unobserved intervals; pose the maintaining-relation question.
-- **Evidence/example:** A concise case timeline annotated with the standard observed/inferred/unknown status.
+- **Develop:** State that the chapter is a teaching composite assembled from source-case observations and measurements rather than one observed person's record; introduce the corridor, receiver, present endpoint, and missing interval; label present source anchors by their exact I.8 states, the cumulative wall-exposure interval as reconstructed, any proposed connecting mechanism as inferred or hypothesized according to its source, and genuinely absent intervals as unknown; pose the maintaining-relation question.
+- **Evidence/example:** A concise composite timeline annotated with exact I.8 evidence states and a separate teaching-composite status banner.
 - **Continuity:** Applies Chapters 13, 18, 20, and 22.
 - **Target:** 300–420 words.
 
@@ -182,7 +182,7 @@ The arterial composite is the focal case for constraint-maintained deformation. 
 ### 24.8 The case identifies an observable pathway and a researchable middle
 
 - **Proposition:** The maintained-deformation lens clarifies the boundary, receiver, present exposure, retained state, and endpoints while leaving the cumulative history visible as a measurement target.
-- **Develop:** Complete the ledger; distinguish observed present relations from reconstructed repeated exposure; state alternatives and the next decisive measurement; name the output as mixed support with an explicit missing middle.
+- **Develop:** Complete the ledger; identify which present links are observed, measured, calculated, or modeled; label the cumulative wall-exposure interval as reconstructed; state alternatives and the next decisive measurement; name the canonical output as a substantive focal arterial account with a reconstructed cumulative wall-exposure interval.
 - **Evidence/example:** Final case chain with gap notation.
 - **Continuity:** Hands Chapter 25 a history in which each event changes the next starting state.
 - **Target:** 350–500 words.
@@ -208,8 +208,8 @@ The ankle is the primary case for task-specific instability and state transition
 ### 25.0 Case opening — Recurrence is a sequence of changing states
 
 - **Proposition:** A later event occurs in the material, sensorimotor, perceptual, and environmental state left by earlier events and recovery.
-- **Develop:** Introduce the recurring ankle event; show event → residual state → next exposure → response; complete the standard status line using the I.8 subset—**observed** for measured state relations, **inferred** for transition mechanisms, and **unknown** for unmeasured regional bridges; define the case question.
-- **Evidence/example:** A state-transition timeline annotated with the standard observed/inferred/unknown status.
+- **Develop:** Introduce the recurring ankle event; show event → residual state → next exposure → response; label measured state relations, reported experience, modeled or inferred transition relations, and unknown regional bridges separately under I.8; define the case question.
+- **Evidence/example:** A state-transition timeline annotated with the exact applicable I.8 evidence states.
 - **Continuity:** Applies Chapters 10, 14, 15, 18, and 22.
 - **Target:** 300–420 words.
 
@@ -303,11 +303,11 @@ In an ambiguous chronic presentation, a mechanical history adds value by making 
 
 This is the book's methodological null and ambiguity case. The framework must improve the structure of the question without selecting a preferred history unsupported by the record.
 
-### 26.0 Case opening — Begin with a sparse chronology
+### 26.0 Case opening — Begin with a stipulated chronology
 
-- **Proposition:** A chronic history should begin with dated intervals and observed changes rather than a cause assigned from the present endpoint.
-- **Develop:** Introduce the hypothetical person; mark baseline, life or work change, first functional change, symptom onset, later findings, care, and missing intervals; complete the standard status line using the I.8 subset—**observed:** none, because the case inputs are transparently stipulated; **inferred:** candidate relations constructed for comparison; **unknown:** carrier and causal order; state no declared cause.
-- **Evidence/example:** The opening chronology table annotated with the standard observed/inferred/unknown status.
+- **Proposition:** A transparent hypothetical begins with stipulated dated intervals and changes before it introduces candidate causes.
+- **Develop:** Introduce the hypothetical person; mark the scenario inputs—baseline, life or work change, first functional change, symptom onset, later findings, care, and missing intervals—as stipulated rather than observed; label candidate mechanical relations as hypothesized and leave carrier, transition, and causal order unknown; state no declared cause.
+- **Evidence/example:** An opening chronology table with a stipulated-scenario banner and exact hypothesized or unknown states on candidate links.
 - **Continuity:** Applies the complete Part IV ledger under maximal uncertainty.
 - **Target:** 300–420 words.
 
@@ -378,7 +378,7 @@ This is the book's methodological null and ambiguity case. The framework must im
 ## Part V synthesis — Four narratives, four distinct outputs
 
 - **Proposition:** The cases yield a bounded geometry-to-field relation, a focal arterial account with a reconstructed cumulative interval, measured recurrence-state relations with an incomplete transition mechanism, and a hypothetical ending in unresolved causal plurality.
-- **Develop:** Compare the strongest supported relation, evidence-state boundary, and exact output of each chapter; identify where each chain stops; show how narrowed, null, reconstructed, and unresolved links improve the framework; prepare the move from case analysis to portable questions.
-- **Evidence/example:** A final four-case matrix keyed to observed/inferred/unknown status and bounded result.
+- **Develop:** Compare the strongest supported relation, exact I.8 evidence states, separate stipulated-scenario status, and bounded output of each chapter; distinguish source anchors from calculated, modeled, inferred, reconstructed, hypothesized, and unknown links; identify where each chain stops; show how narrowed, null, reconstructed, and unresolved links improve the framework; prepare the move from case analysis to portable questions.
+- **Evidence/example:** A final four-case matrix keyed to exact provenance labels and bounded result.
 - **Continuity:** Hands Part VI a tested reasoning scaffold and development agenda.
 - **Target:** 350–500 words.

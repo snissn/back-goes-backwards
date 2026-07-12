@@ -124,11 +124,42 @@ The architecture is ready for redrafting when:
 
 Round 1 therefore changes the architecture materially and cannot count as a no-change stabilization round.
 
+## Round 2 — Post-revision developmental and integrity review
+
+**Status:** complete; bounded structural revision required and applied.
+
+**Independent review lenses:**
+
+1. whole-book developmental progression and constructive framing;
+2. medical-meaning, worked-narrative, and later-series seam review; and
+3. source-disposition, drafting-contract, cross-reference, and production-integrity audit.
+
+### Architecture that survived
+
+- The first lens found no material change to the six-Part, thirty-chapter arc, unit ownership, hard/form-receiving progression, posterior proposition ladder, object-transfer continuity, or Book I/II handoff.
+- Chapters 17 and 18 remain distinct; Chapter 28 remains one available-options chapter; Chapter 29's use-specific gates remain coherent; Chapter 30 remains the direct Book I conclusion.
+- The four-case progression remains structurally sound, and all 293 numbered IDs and 304 target-bearing units remain unique, contiguous, and complete.
+
+### Material corrections applied
+
+- Replaced the coarse observed/inferred/unknown case shorthand with exact I.8 evidence states. Measured, calculated, modeled, inferred, reconstructed, reported, hypothesized, and unknown relations now remain distinct, while a stipulated hypothetical is identified as scenario status rather than misclassified as observation.
+- Gave Chapter 24 one canonical result: a substantive focal arterial account with a reconstructed cumulative wall-exposure interval.
+- Broadened Question 5 of the seven-question scaffold to function preserved, changed, or constrained, so compensation remains one possible explanation rather than a premise.
+- Made Question 6 explicitly longitudinal through comparisons across dated events and intervals, separating present modulation, observed transition, and retrospective reconstruction.
+- Sharpened the topology boundary: Book II owns mechanically independent regime definition and discriminating order parameters or invariants; Book IV owns breath-coupled dynamics and comparison of toroidal, restricted-topology, and alternative whole-system geometries. Ordinary pressure-mediated support remains available in Books I–II.
+- Added an explicit disposition for the assembled bibliography: preserve it as a source archive, reconcile it against revised notes and the evidence ledger, normalize and deduplicate it, and regenerate cited Book I back matter. The bibliography builder remains a separate control asset.
+- Named Book IV as the owner of deferred tensegrity and competing whole-system network/model development.
+- Brought the documented word-range contract into agreement with the intentional range classes and defined the crosswalk's compound treatment modifiers.
+- Applied small continuity corrections without changing structure: a fresh assistance example in 9.5, neutral organization-change language in 12.0, canonical geometric-redistribution wording in Chapter 23, and a table-led drafting instruction for the dense 30.5 seam contract.
+
+Round 2 therefore cannot count as a no-change stabilization round. The next independent reread begins a new two-round stabilization attempt.
+
 ## Stabilization log
 
 | Round | Structural changes required? | Result |
 |---|---:|---|
 | 0 — source diagnosis | yes | First complete strict architecture produced. |
 | 1 — architecture review | yes | Macrostructure retained; source accounting, unit contract, ownership, case outputs, and later-book seams revised. |
-| 2 — post-revision developmental reread | pending | — |
-| 3 — confirmation reread if needed | pending | — |
+| 2 — post-revision developmental and integrity review | yes | Provenance, case outputs, scaffold chronology, topology ownership, bibliography disposition, and control grammar revised. |
+| 3 — second post-revision reread | pending | — |
+| 4 — independent confirmation reread | pending | — |

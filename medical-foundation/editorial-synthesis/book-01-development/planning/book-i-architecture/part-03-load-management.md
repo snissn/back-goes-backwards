@@ -197,7 +197,7 @@ Separate regional redistribution from local concentration, trace geometry into r
 - **Proposition:** A regional change in demand and a local concentration are linked but distinct mechanical objects.
 - **Develop:** Define the system boundary for each; show the missing translation; introduce the chapter's global-to-local sequence.
 - **Evidence/example:** One two-scale diagram.
-- **Continuity:** Inherits route states and provides the first two adverse-organization families.
+- **Continuity:** Inherits route states and provides the first two organization-change families.
 - **Target:** 280–400 words.
 
 ### 12.1 Geometry changes regional forces and moments
@@ -555,10 +555,10 @@ Define scale-specific variables; trace local-to-regional, regional-to-whole, and
 ### 16.4 Configuration transitions are a bounded research hypothesis
 
 - **Proposition:** Coordinated changes across several relations may sometimes produce a qualitatively different routing regime rather than a small movement within the same organization.
-- **Develop:** Define a provisional state-transition criterion through continuity, carrier set, coupling, return behavior, or field organization; specify observables that could distinguish regimes; preserve ordinary continuous variation as an alternative; state that Book II must define and discriminate mechanical configuration regimes independently of any breath mechanism.
+- **Develop:** Define a provisional state-transition criterion through continuity, carrier set, coupling, return behavior, or field organization; specify observables that could distinguish regimes; preserve ordinary continuous variation as an alternative; state that Book II must define and discriminate mechanical configuration regimes—including provisional order parameters or invariants needed to distinguish them—independently of any breath mechanism.
 - **Evidence/example:** A conceptual before/after routing-field model.
 - **Continuity:** Preserves the author's whole-system intuition, hands regime definition and discrimination to Book II, and hands the downstream synthesis to 16.5.
-- **Editorial boundary:** Topology, invariants, and a preferred state remain Book II formal work; breath- and pressure-linked transition mechanisms belong to Book IV and are not required to establish a mechanical regime distinction.
+- **Editorial boundary:** Book II owns the mechanically independent regime definition, discriminating order parameters or invariants, and preferred-state formalism. Book IV owns breath-coupled dynamics and comparison of toroidal, restricted-topology, and alternative whole-system geometries. Ordinary pressure-mediated support remains available in Books I–II; respiratory-phase and breath/pressure-linked transition mechanisms belong to Book IV.
 - **Target:** 450–600 words.
 
 ### 16.5 Downstream consequences separate into four receiver-specific branches
@@ -567,7 +567,7 @@ Define scale-specific variables; trace local-to-regional, regional-to-whole, and
 - **Develop:** Compare the receiver, quantity, timescale, measure, and feedback relation for each branch; preserve tone, proprioception, interoception, and neural signaling under sensation/control; preserve caliber, flow, pressure, glide, course, and excursion under form-receiving systems; preserve adaptation, repair, sensitization, injury, and remodeling under tissue response; preserve ongoing effort, autonomic regulation, recovery demand, fatigue, adaptability, and resilience under energetic/regulatory cost; assign detailed evidence to Chapters 14 and 19–21; include a null or divergent result in each row.
 - **Evidence/example:** One four-row branch map populated only with examples already introduced in Chapters 10–15.
 - **Continuity:** Synthesizes the possible downstream programs without forming one cascade and hands 16.6 the common receiver-and-outcome bridge.
-- **Editorial boundary:** Book IV owns breath- and pressure-linked regulatory or transition mechanisms; this unit preserves them as later hypotheses rather than using them to connect the four branches.
+- **Editorial boundary:** Ordinary pressure-mediated support and the pressure/flow/excursion branch remain available in Books I–II. Book IV owns respiratory-phase and breath/pressure-linked regulatory or transition mechanisms and the candidate whole-system geometries used to model them; this unit does not use those hypotheses to connect the four branches.
 - **Target:** 550–650 words.
 
 ### 16.6 A mechanical relation becomes medical through a receiver and outcome

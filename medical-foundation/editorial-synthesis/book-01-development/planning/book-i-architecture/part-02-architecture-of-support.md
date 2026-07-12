@@ -179,6 +179,7 @@ Add each capability as one job in the same transfer, then synthesize the systems
 - **Develop:** Reconstruct the object transfer from ground/support to object; identify carrier and role changes; introduce tensegrity as one illustrative model of distributed tension and compression; state what the model clarifies and what requires direct anatomy and measurement.
 - **Evidence/example:** A layered handoff diagram plus a bounded tensegrity comparison.
 - **Continuity:** Completes general support and hands Chapter 7 a specific large anatomical system.
+- **Editorial boundary:** Book IV owns the detailed comparison and formal development of tensegrity, network, toroidal, restricted-topology, and alternative whole-system models.
 - **Target:** 550–650 words.
 
 ### 6.9 Conclusion — Cooperation creates adaptable support
@@ -423,7 +424,7 @@ Integrate other support domains, trace developmental and contextual variation, d
 
 - **Proposition:** Bodies, devices, helpers, built environments, and learned strategies form legitimate mechanical systems with their own viable organizations.
 - **Develop:** Include wheelchair, cane, rail, orthosis, seating, or human assistance examples; describe demand redistribution and agency; treat participation and control as outcomes.
-- **Evidence/example:** One assisted version of the recurring task.
+- **Evidence/example:** One fresh assisted-mobility, access, or participation example that does not reopen the recurring object transfer.
 - **Continuity:** Broadens the range of valid support and hands 9.6 aging and reserve.
 - **Target:** 400–550 words.
 

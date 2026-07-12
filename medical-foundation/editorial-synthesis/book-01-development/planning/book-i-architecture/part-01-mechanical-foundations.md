@@ -15,7 +15,7 @@ The reader enters with an ordinary, mostly external idea of load. The Part moves
 - **Evidence/example:** A four-question orientation keyed to the opening task, without a second scene or new illustration.
 - **Continuity:** Inherits I.0–I.9 and hands Chapter 1 the first comparison inside the event.
 - **Editorial boundary:** Do not relaunch the object-transfer narrative or preview the later taxonomy.
-- **Target:** 150–220 words.
+- **Target:** 180–220 words.
 
 ## Chapter 1 — The mechanical dimension of life
 

@@ -4,7 +4,7 @@
 
 **Destination architecture:** this directory's front-matter and six Part files
 
-**Accounting unit:** the title and introduction lead, every Part opening and synthesis, every nonempty chapter lead before the first H2, every H2 reader-facing prose block, and every chapter notes block in the current first draft. Nested H3 material travels with its parent unless a row explicitly separates it. Notes remain preserved as evidence-source material and must be reassigned claim by claim before redrafting. Text-native figures and tables travel with their source block until the figure registry pass assigns a final destination.
+**Accounting unit:** the title and introduction lead, every Part opening and synthesis, every nonempty chapter lead before the first H2, every H2 reader-facing prose block, every chapter notes block, and the assembled bibliography in the current first draft. Nested H3 material travels with its parent unless a row explicitly separates it. Notes and bibliography entries remain preserved as evidence-source material and must be reconciled claim by claim before redrafting. Text-native figures and tables travel with their source block until the figure registry pass assigns a final destination.
 
 This is a disposition of source material, not a copyediting plan. “Rewrite constructively” preserves the underlying idea while rebuilding its reader-facing logic around the destination unit's affirmative proposition.
 
@@ -87,9 +87,9 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 6: Pressure supports only through a boundary | 6.5 | rewrite constructively | Lead with containment making pressure useful; preserve boundary, contents, source, and phase. |
 | Chapter 6: Fascia belongs in the model at named scales | 6.6 | rewrite constructively | Organize around local attachment, enclosure, separation, sharing, and glide; move repeated anti-universalism to one boundary. |
 | Chapter 6: The task begins before visible movement | 6.7 | retain | Preserve prestress, tone, anticipatory activation, pressure, and starting state. |
-| Chapter 6: From a tissue handoff to a network model | 6.8; later-series source packet | retain and split | Keep the layered handoff and a bounded model comparison; defer full tensegrity and network derivations. |
+| Chapter 6: From a tissue handoff to a network model | 6.8; Book IV model-comparison source packet | retain and split | Keep the layered handoff and a bounded model comparison; defer full tensegrity, network, toroidal, restricted-topology, and alternative whole-system model development to Book IV. |
 | Chapter 6: A cooperative architecture | 6.9 | retain and compress | Use as the chapter synthesis and posterior handoff. |
-| Chapter 6 notes | Chapter 6 evidence anchors; later-series source packet | retain and split | Separate direct tissue evidence from illustrative network models. |
+| Chapter 6 notes | Chapter 6 evidence anchors; Book IV model-comparison source packet | retain and split | Separate direct tissue evidence from illustrative network models; preserve the latter for Book IV's explicit comparison. |
 | Chapter 7 opening before first H2 | 7.0 | retain | Preserve the competing legitimate scopes of “posterior chain” and declare the anatomical scope used in this chapter. |
 | Chapter 7: Three scopes for one useful term | 7.0 | retain | Preserve narrow, regional, and whole-support scopes. |
 | Chapter 7: Ground, foot, calf, and the first change of carrier | 7.1 | retain | Preserve distal junction anatomy. |
@@ -190,7 +190,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 16: Scale is not a zoom control | 16.0 | rewrite constructively | Define local, regional, and whole-task variables positively. |
 | Chapter 16: Regional participation can become whole-task organization | 16.1–16.2 | retain and split | Separate local-to-regional recruitment from regional composition of the whole task. |
 | Chapter 16: The arrow also runs back toward the local | 16.3 | rewrite constructively | Lead with whole-task organization redistributing local exposure. |
-| Chapter 16: A whole-body transition remains a research question | 16.4; Chapter 30; Book II | retain and defer | Preserve a bounded configuration-transition hypothesis in Book I; move topology, invariants, and formal preferred-state work forward. |
+| Chapter 16: A whole-body transition remains a research question | 16.4; 30.5–30.6; Books II and IV | retain, split, and defer | Preserve a bounded configuration-transition hypothesis in Book I; move mechanically independent regime definition, discriminating order parameters or invariants, and preferred-state formalism to Book II; move breath-coupled dynamics and toroidal, restricted-topology, and alternative whole-system geometries to Book IV. |
 | Chapter 16: Sensation and control form one branch | 16.5; 14.6 | move and merge | Keep sensation/control as one row in the comparative downstream-branch unit; move detailed feedback evidence to Chapter 14. |
 | Chapter 16: Pressure, flow, and excursion divide into different objects | 16.5; Chapter 20 | move and merge | Keep pressure/flow/excursion as one row in the comparative downstream-branch unit; move system-specific comparison evidence to Chapter 20. |
 | Chapter 16: Response and cost need their own denominators | 16.5; Chapters 19 and 21 | move and merge | Keep tissue response and energetic/regulatory cost as two distinct rows in the comparative branch unit; move their evidence and causal evaluation to owning chapters. |
@@ -272,7 +272,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 
 | Current source block | Destination | Disposition | Editorial action |
 |---|---|---|---|
-| Part V opening | Part V opening | rewrite constructively | Present the exact progression—bounded mechanical relation, reconstructed cumulative interval, measured state relations with incomplete transition mechanism, and transparent hypothetical with unresolved causal plurality—and one common ledger; consolidate case-wide boundaries once. |
+| Part V opening | Part V opening | rewrite constructively | Present the exact progression—bounded mechanical relation, reconstructed cumulative interval, measured state relations with incomplete transition mechanism, and transparent hypothetical with unresolved causal plurality—through one common ledger that retains every exact I.8 state and distinguishes stipulated scenario status; consolidate case-wide boundaries once. |
 | Chapter 23: One step, several meanings of load | 23.0 | retain and compress | Use as the case-specific scale stack; remove generic mechanics re-teaching. |
 | Chapter 23: Define the knee before solving it | 23.1 | retain | Preserve system, task, phase, receiver, and evidence boundary. |
 | Chapter 23: Geometry changes the internal question | 23.2 | retain | Preserve moment arms, alignment, contact, and distribution changes. |
@@ -288,7 +288,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 24: What the record shows—and what it does not | 24.4–24.5 | rewrite constructively | Build the retained-state timeline and current arterial endpoint chain with evidence states. |
 | Chapter 24: Venous and neural boundaries | 24.6 | retain and compress | Preserve receiver-specific variables without expanding into a full TOS taxonomy. |
 | Chapter 24: Transfer beyond a lumen | 24.7 | retain and compress | Keep one tendon-glide comparison; let Chapter 20 own the general grammar. |
-| Chapter 24: What this lens contributes | 24.8–24.9 | rewrite constructively | State the focal mechanical account, reconstruct the cumulative wall-exposure interval without upgrading it to observation, and identify the researchable middle. |
+| Chapter 24: What this lens contributes | 24.8–24.9 | rewrite constructively | Produce the canonical case result—a substantive focal arterial account with a reconstructed cumulative wall-exposure interval—and identify that interval as the researchable middle without upgrading it to observation. |
 | Chapter 24 notes | Chapter 24 arterial case anchors; Chapter 20 comparisons | retain and split | Keep arterial sources with the case; move general venous, neural, and glide evidence to Chapter 20 where duplicated. |
 | Chapter 25: The same event does not happen to the same ankle twice | 25.0 | rewrite constructively | Lead with recurrence as a sequence of changing states. |
 | Chapter 25: Three different objects inside one word | 25.1 | rewrite constructively | Define passive restraint, task-level relation maintenance, and perceived instability positively. |
@@ -308,7 +308,7 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 26: Six legitimate endings | 26.6; 27.8–27.9 | retain and split | Keep competing histories inside the case; move the general endpoint taxonomy to Chapter 27. |
 | Chapter 26: What the lens added | 26.7–26.8 | rewrite constructively | Preserve the case as a transparent hypothetical with no established regional carrier and present unresolved causal plurality as its positive methodological output. |
 | Chapter 26 notes | Chapter 26 case anchors; Chapter 28 | retain and split | Keep mixed-history and low-back sources with the case; move broad occupational/design sources where they become general. |
-| Part V synthesis | Part V synthesis | rewrite constructively | Compare the four distinct outputs and their evidence completeness; remove repeated protocol and diagnosis boundaries. |
+| Part V synthesis | Part V synthesis | rewrite constructively | Compare the four distinct outputs through exact evidence states and stipulated scenario status; remove repeated protocol and diagnosis boundaries. |
 
 ## Part VI source blocks
 
@@ -320,10 +320,10 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 27: 2. What configuration and paths were available? | 27.2 | retain | Preserve geometry, contact, carrier, support, and phase fields; include posterior participation as one candidate path rather than a default. |
 | Chapter 27: 3. How were hard and soft roles divided? | 27.3 | retain | Preserve role division, conditions, exchange, and TCM-motivation signpost. |
 | Chapter 27: 4. Where, if anywhere, might local exposure have accumulated? | 27.4 | rewrite constructively | Lead with the named receiver, local exposure history, receiver state, and the specific response being proposed or observed. |
-| Chapter 27: 5. What, if anything, did the changed strategy preserve? | 27.5 | rewrite constructively | Lead with protected function, value, and immediate outcome. |
-| Chapter 27: 6. What changes with task, support, time, or state? | 27.6 | retain | Preserve purposeful comparison and current modulation. |
-| Chapter 27: 7. What can actually be measured, and what remains uncertain? | 27.7 | retain | Apply the I.8 evidence-state legend—or an explicitly named task-specific subset—while preserving uncertainty, alternatives, and the stopping point. |
-| Chapter 27: Four narratives, four different endings | 27.8 | rewrite constructively | Compare the exact four case outputs and their observed, inferred, and unknown fields. |
+| Chapter 27: 5. What, if anything, did the changed strategy preserve? | 27.5 | rewrite constructively | Broaden the question to function preserved, changed, or constrained; treat compensation as one possible explanation rather than a premise. |
+| Chapter 27: 6. What changes with task, support, time, or state? | 27.6 | retain and expand | Preserve purposeful comparison while making dated events and intervals, present modulation, longitudinal transition, and retrospective reconstruction explicit. |
+| Chapter 27: 7. What can actually be measured, and what remains uncertain? | 27.7 | retain | Apply the exact I.8 evidence-state labels relevant to the task without redefining the legend, while preserving uncertainty, alternatives, and the stopping point. |
+| Chapter 27: Four narratives, four different endings | 27.8 | rewrite constructively | Compare the exact four case outputs through their exact I.8 evidence states and separate stipulated scenario status. |
 | Chapter 27: A scaffold that is allowed to stop | 27.9–27.10 | rewrite constructively | Define four positive endpoints and close on portable inquiry. |
 | Chapter 27 notes | Chapter 27 evidence anchors; Chapter 29 | retain and split | Keep reasoning-scaffold sources; move full validation methods to Chapter 29. |
 | Chapter 28: Beyond “sit correctly” | 28.0–28.1 | rewrite constructively | Open with language expanding what people and systems can recognize and redesign. |
@@ -359,10 +359,16 @@ This is a disposition of source material, not a copyediting plan. “Rewrite con
 | Chapter 30: The mechanical history remains | 30.8 | retain and merge | End on the original task, Book I's lens, Book II's exact question, and the unique movement formerly assigned to a conditional standalone Part VI synthesis. |
 | Chapter 30 notes | Chapter 30 evidence anchors; Books II–V source packets | retain and split | Keep Book I synthesis sources here and transfer technical later-series sources without deletion. |
 
+## Back matter
+
+| Current source block | Destination | Disposition | Editorial action |
+|---|---|---|---|
+| Assembled bibliography | Book I bibliography source archive; regenerated Book I back matter | retain and rebuild | Reconcile every entry against the revised chapter notes and evidence ledger; retain unused-but-potentially-relevant entries in the source archive; deduplicate genuine duplicates, normalize metadata and house style, and regenerate only cited Book I sources as publication back matter. |
+
 ## Crosswalk completeness and secondary assets
 
-- The introduction lead, all six Part openings, all five extant Part syntheses, the nonempty opening prose before the first H2 in Chapters 1–21, and every H2 reader-facing prose block in Chapters 1–30 appear above. Chapters 22–30 begin directly at their first H2 and therefore have no separate unheaded chapter lead.
+- The title and introduction lead, all six Part openings, all five extant Part syntheses, the nonempty opening prose before the first H2 in Chapters 1–21, every H2 reader-facing prose block in Chapters 1–30, all chapter notes blocks, and the assembled bibliography appear above. Chapters 22–30 begin directly at their first H2 and therefore have no separate unheaded chapter lead.
 - Every chapter's notes block is preserved and assigned to evidence reconciliation before new prose drafting.
 - Existing figures and tables, including those embedded in chapter leads, remain attached to their source blocks for the first rewrite. The figure-registry pass must assign each one to retain, redraw, merge, move, defer, or retire before production drafting.
-- The assembly script, bibliography builder, chapter audits, evidence packets, salvage files, model registry, example registry, claim ledger, and book contract remain source and control assets. They are not reader prose and therefore do not receive prose dispositions here.
-- Deferred material has a named destination—Book II, III, IV, V, Chapter 29, or a later-series source packet. No substantive project hypothesis is silently deleted.
+- The bibliography builder remains a control asset distinct from the assembled bibliography disposition above. The assembly script, chapter audits, evidence packets, salvage files, model registry, example registry, claim ledger, and book contract likewise remain source and control assets rather than reader prose.
+- Deferred material has a named destination—Book II, III, IV, V, or Chapter 29. No substantive project hypothesis is silently deleted.

@@ -29,7 +29,7 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 ### 27.0 Opening — A reasoning scaffold organizes inquiry
 
 - **Proposition:** The seven questions provide a shared sequence for clinical reasoning, research, education, design, and interdisciplinary communication.
-- **Develop:** State the seven-question arc; define its output as a bounded mechanical proposition; note once that order does not create a score, examination, or protocol.
+- **Develop:** State the seven-question arc from demand and available paths through role division, receiver-specific exposure and response, preserved/changed/constrained function, dated comparison, and evidence state; define its output as a bounded mechanical proposition; note once that order does not create a score, examination, or protocol.
 - **Evidence/example:** The complete scaffold on one page.
 - **Continuity:** Generalizes Chapter 22's workflow and Part V's ledger.
 - **Target:** 280–400 words.
@@ -63,29 +63,29 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 - **Proposition:** A receiver-specific exposure–response junction connects a defined force, moment, pressure, stress, strain, deformation, excursion, or contact history to an observed or hypothesized change in the receiver and its next state.
 - **Develop:** Move through regional distribution to local field; state dose, capacity, recovery, and receiver state; identify the tissue or system response and whether it was observed, measured, modeled, inferred, or unknown; distinguish response from symptom, diagnosis, and outcome; identify missing scale or causal transitions.
 - **Evidence/example:** One receiver-specific exposure–response record ending at a declared evidence boundary.
-- **Continuity:** Localizes the inquiry, restores Chapter 19's biological bridge, and hands 27.5 preserved function and compensation.
+- **Continuity:** Localizes the inquiry, restores Chapter 19's biological bridge, and hands 27.5 the functional result.
 - **Target:** 400–550 words.
 
-### 27.5 What did the strategy preserve?
+### 27.5 What function was preserved, changed, or constrained?
 
-- **Proposition:** A changed organization is first evaluated by the task, stability, comfort, safety, participation, confidence, or reserve it protected.
-- **Develop:** Define the valued endpoint; identify changed allocation; separate immediate benefit from later tradeoff; include external support and agency.
-- **Evidence/example:** One compensation record.
-- **Continuity:** Gives change a functional meaning and hands 27.6 modulation.
+- **Proposition:** A mechanical history becomes functionally specific by identifying what task, stability, comfort, safety, participation, confidence, or reserve continued, changed, or became constrained.
+- **Develop:** Define the valued function and its trajectory; distinguish preservation, improvement, limitation, and loss; treat changed allocation or compensation as one possible explanation rather than a premise; include external support, assistance, and agency.
+- **Evidence/example:** One functional-state record containing both a compensatory and a non-compensatory branch.
+- **Continuity:** Gives the history a functional result and hands 27.6 dated comparison.
 - **Target:** 300–450 words.
 
-### 27.6 What changes with task, support, time, or state?
+### 27.6 What changes across dated events, intervals, tasks, or states?
 
-- **Proposition:** Comparisons across task, environment, assistance, repetition, fatigue, recovery, biological state, expectation, and care reveal which relations are variable and potentially consequential.
-- **Develop:** Select one purposeful contrast; distinguish present modulation from chronology; identify stable and changing variables; preserve null results.
-- **Evidence/example:** One within-person or matched comparison.
-- **Continuity:** Creates a discriminating observation and hands 27.7 measurement.
+- **Proposition:** Comparisons across dated events or intervals reveal which relations persist, transition, recur, recover, or change with task, environment, assistance, fatigue, biological state, expectation, and care.
+- **Develop:** Build one purposeful contrast inside Chapter 18's dated-history object; distinguish present modulation, observed longitudinal transition, and retrospective reconstruction; identify stable and changing variables, interval length, and missing observations; preserve null results.
+- **Evidence/example:** One dated within-person or matched history with present, longitudinal, and reconstructed relations marked separately.
+- **Continuity:** Makes chronology discriminating and hands 27.7 measurement and evidence state.
 - **Target:** 300–450 words.
 
 ### 27.7 What can be measured, and what remains unknown?
 
 - **Proposition:** The final question assigns evidence state, method, uncertainty, alternative, and stopping point to every preceding relation.
-- **Develop:** Apply the relevant subset of I.8's evidence-state legend rather than redefining it; name method, uncertainty, alternative, and context of use for each link; identify a next measurement or an accepted unknown.
+- **Develop:** Apply I.8's evidence-state legend without redefining it, using only the exact labels relevant to the task; name method, uncertainty, alternative, and context of use for each link; identify a next measurement or an accepted unknown.
 - **Evidence/example:** One completed evidence ledger.
 - **Continuity:** Completes the reasoning sequence and hands 27.8 case outputs.
 - **Target:** 350–500 words.
@@ -93,8 +93,8 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 ### 27.8 The four narratives demonstrate four outputs
 
 - **Proposition:** The same scaffold can yield a strong bounded geometry-to-field relation, a substantive focal account with a reconstructed cumulative interval, several measured state relations with an incomplete transition mechanism, or a transparent hypothetical ending in unresolved causal plurality.
-- **Develop:** Compare Chapters 23–26 by strongest supported relation, evidence-state boundary, and exact output rather than retelling each case; show which question carried the decisive information; preserve narrowed, null, reconstructed, and unresolved links as informative results.
-- **Evidence/example:** A seven-questions-by-four-cases matrix keyed to the exact Part V outcomes.
+- **Develop:** Compare Chapters 23–26 by strongest supported relation, exact evidence states, scenario status where applicable, and bounded output rather than retelling each case; show which question carried the decisive information; preserve measured, modeled, reconstructed, hypothesized, unknown, narrowed, null, and unresolved links without collapsing their labels.
+- **Evidence/example:** A seven-questions-by-four-cases matrix keyed to exact Part V provenance and outcomes.
 - **Continuity:** Demonstrates portability and hands 27.9 endpoint.
 - **Target:** 350–500 words.
 
@@ -109,7 +109,7 @@ Introduce the scaffold, devote one finite unit to each question, compare its fou
 ### 27.10 Conclusion — A mechanical history becomes portable
 
 - **Proposition:** The seven questions preserve the book's depth while allowing a reader to use one relevant part at a time.
-- **Develop:** Recap the ordered movement from demand through paths, role division, receiver-specific exposure and response, preserved function, purposeful comparison, and evidence state; state the four bounded endpoints once.
+- **Develop:** Recap the ordered movement from demand through paths, role division, receiver-specific exposure and response, preserved/changed/constrained function, comparison across dated events or intervals, and exact evidence state; state the four bounded endpoints once.
 - **Evidence/example:** Reuse the one-page scaffold from 27.0 with its completed output branch.
 - **Continuity:** Opens mechanical literacy and collective action.
 - **Target:** 200–280 words.
@@ -230,7 +230,7 @@ Define the six-track network, make maturity use-specific, develop each track, pr
 - **Continuity:** Sets the gate logic and hands 29.2 research.
 - **Target:** 400–550 words.
 
-### 29.2 Mechanism and causal research earns bounded relations
+### 29.2 Mechanism and causal research earn bounded relations
 
 - **Proposition:** Research tests a declared physical, biological, causal, historical, or comparative relation using a design matched to that relation.
 - **Develop:** Define object, domain, population or system, comparator, measure, alternative, and disfavoring result; separate exploratory and confirmatory work; include prospective comparison design for the division-of-labor prediction from 20.8; retain local, mixed, negative, and nonunique findings.
@@ -371,16 +371,16 @@ Return to the original task, state Book I's complete contribution, give the post
 ### 30.5 The Book I/II seam names a candidate model and its burden
 
 - **Proposition:** Book II inherits a candidate reduction—axial, opening/rotational, and expansive modes with two signs each—and must independently define, derive, and discriminate the preferred-configuration model built from it.
-- **Develop:** State the proposed Yang signs as downward axial resolution, external or opening rotation, and outward expansion; distinguish configuration, motion, force, pressure, and moment; name bilateral reference symmetry and skeletal-primary routing as first-order assumptions and local orthotropy as an optional regional approximation; require Book II to define the preferred object, domain, efficiency or viability relation, reference configurations, generalized coordinates and conjugate loads, transformations, coupling, phase, posterior necessity, alternative reductions, multiple optima, and task dependence; make explicit that Book II's definition of a configuration or routing regime is mechanically independent of breath, even if Book IV later studies breath and pressure as possible drivers, organizers, modulators, indicators, or companions of transitions among regimes.
-- **Evidence/example:** One Book I/II seam contract combining the generalized-mode schematic, nonidentity matrix, and assumption register at preview resolution.
+- **Develop:** State the proposed Yang signs as downward axial resolution, external or opening rotation, and outward expansion; distinguish configuration, motion, force, pressure, and moment; name bilateral reference symmetry and skeletal-primary routing as first-order assumptions and local orthotropy as an optional regional approximation; require Book II to define the preferred object, domain, efficiency or viability relation, reference configurations, generalized coordinates and conjugate loads, transformations, coupling, phase, provisional order parameters or invariants, posterior necessity, alternative reductions, multiple optima, and task dependence; make explicit that Book II's definition of a configuration or routing regime is mechanically independent of breath and may use ordinary pressure-mediated support, while Book IV later studies respiratory phase and breath or pressure as possible drivers, organizers, modulators, indicators, or companions of transitions among regimes.
+- **Evidence/example:** One compact Book I/II seam table or figure carrying the generalized-mode schematic, nonidentity matrix, assumption register, and deferred obligations; prose interprets the contract rather than reciting it.
 - **Continuity:** Gives Book II a definite starting question without performing its derivation and hands 30.6 the later-series horizon.
 - **Target:** 550–650 words.
 
 ### 30.6 Books III–V preserve the wider research horizon
 
 - **Proposition:** The traditional-coordinate, breath-and-geometry, and embodiment-and-practice programs remain explicit later layers whose claims do not carry Book I or define Book II's mechanical regime.
-- **Develop:** Point to the existing Book III assets as the authoritative home for the detailed Six-Division and paired-channel map—axial Kidney/Bladder and Heart/Small Intestine; opening/rotational Lung/Large Intestine and Spleen/Stomach; expansive/lateral Pericardium/Triple Warmer and Liver/Gallbladder—the gross limb projection, K1–PC8 coordination, and internal force-line observations; point to Book IV for diaphragm, rib cage, abdomen, pelvic floor, hyoid, respiratory phase, pressure, tensegrity, toroidal and alternative geometries, and breath/pressure-linked transition mechanisms; point to Book V for embodied observation, assessment, cues, drills, strength and coordination work, breathing practices, bandhas, yoga, Tai Chi, teaching, safety, and professional application; preserve all detailed content in those accepted assets rather than rehearsing it here.
-- **Evidence/example:** One series dependency map naming each later book's object, evidence burden, and preserved source asset.
+- **Develop:** Name Book III as the detailed home for the Six-Division and paired-channel map—axial Kidney/Bladder and Heart/Small Intestine; opening/rotational Lung/Large Intestine and Spleen/Stomach; expansive/lateral Pericardium/Triple Warmer and Liver/Gallbladder—the gross limb projection, K1–PC8 coordination, and internal force-line observations; name Book IV as the home for diaphragm, rib cage, abdomen, pelvic floor, hyoid, respiratory phase, pressure, tensegrity, toroidal, restricted-topology, and alternative whole-system geometries, and breath/pressure-linked transition mechanisms; name Book V as the home for embodied observation, assessment, cues, drills, strength and coordination work, breathing practices, bandhas, yoga, Tai Chi, teaching, safety, and professional application.
+- **Evidence/example:** One series dependency map naming each later book's object and evidence burden.
 - **Continuity:** Keeps the full program visible at non-load-bearing preview resolution and hands 30.7 Chapter 29's learning architecture.
 - **Target:** 450–600 words.
 
