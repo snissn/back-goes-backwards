@@ -13,7 +13,7 @@ The four cases increase in historical and causal difficulty. Their canonical out
 3. Chapter 25: **several measured recurrence-state relations with an incomplete transition mechanism, with regional comparison results reported separately from bridge-specific inferential dispositions**.
 4. Chapter 26: **a transparent stipulated hypothetical with no established regional carrier, ending in unresolved causal plurality**.
 
-Each chapter has one lead mechanical family and one distinct output. The case ledger from Chapter 22 remains the shared method; the cases do not re-teach the full foundation.
+Each chapter has one declared lead mechanical problem and one distinct output. A case may connect more than one of Part III's families when the sequence is explicit. The case ledger from Chapter 22 remains the shared method; the cases do not re-teach the full foundation.
 
 ## Part opening — Complete narratives expose missing links
 
@@ -92,7 +92,7 @@ This multistudy reconstruction demonstrates the geometric-redistribution and loc
 ### 23.7 The case supports a distribution question
 
 - **Proposition:** Geometry can establish a plausible and measurable change in distribution while receiver state, dose, response, and clinical meaning remain separately evaluated.
-- **Develop:** Complete the five-field record by retaining multistudy reconstruction as the scenario construction and naming the bounded output as **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**. Assign exact I.8 provenance to each link; record each declared empirical comparison as positive, null, mixed, or not applicable in a separate field from its supported, narrowed, disfavored, or unresolved inferential disposition. Identify the next decisive observation.
+- **Develop:** Complete the five-field record by retaining multistudy reconstruction as the scenario construction and naming the bounded output as **a strong bounded mechanical relation from task geometry to a local field, with downstream biology and clinical meaning left open**. Assign exact I.8 provenance to each link. Record declared comparison results as positive, null, or mixed and enter *not applicable* when no comparison is declared; keep that result in a separate field from the supported, narrowed, disfavored, or unresolved inferential disposition. Identify the next decisive observation.
 - **Evidence/example:** One completed five-field case record containing the link-level evidence-state chain.
 - **Continuity:** Hands Chapter 24 a related local-field problem in which the boundary persists and maintains deformation.
 - **Target:** 350–500 words.
@@ -182,7 +182,7 @@ The arterial composite is the focal case for constraint-maintained deformation. 
 ### 24.8 The case identifies an observable pathway and a researchable middle
 
 - **Proposition:** The maintained-deformation lens clarifies the boundary, receiver, present exposure, retained state, and endpoints while leaving the cumulative history visible as a measurement target.
-- **Develop:** Complete the five-field record by retaining teaching composite as the scenario construction and naming the bounded output as **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**. Assign exact I.8 provenance to each link, including the reconstructed cumulative interval; record any declared comparison as positive, null, mixed, or not applicable in a separate field from its inferential disposition. State alternatives and the next decisive measurement.
+- **Develop:** Complete the five-field record by retaining teaching composite as the scenario construction and naming the bounded output as **a substantive focal arterial account with a reconstructed cumulative wall-exposure interval**. Assign exact I.8 provenance to each link, including the reconstructed cumulative interval. Record declared comparison results as positive, null, or mixed and enter *not applicable* when no comparison is declared; keep that result in a separate field from its inferential disposition. State alternatives and the next decisive measurement.
 - **Evidence/example:** Final five-field case record containing the case chain and gap notation.
 - **Continuity:** Hands Chapter 25 a history in which each event changes the next starting state.
 - **Target:** 350–500 words.

@@ -1,6 +1,6 @@
 # Book I strict architectural outline
 
-**Status:** architectural rewrite in editorial stabilization
+**Status:** stable for controlled redrafting
 
 **Authority:** this package governs the next rewrite of Book I. The accepted series boundary remains authoritative for the division among Books I–V. The current first draft remains a preserved source archive, not the prose authority for this outline.
 
@@ -142,3 +142,5 @@ Redrafting begins only after the package passes all of the following:
 6. **Production review:** unit IDs, target lengths, citations, figures, cross-references, and drafting inputs can be validated mechanically.
 
 Stabilization does not mean that every sentence or source is final. It means the manuscript can be redrafted without asking each local drafting pass to rediscover the book's structure.
+
+This gate passed on July 12, 2026, after Rounds 7 and 8 independently required no structural revision. Drafting may now proceed through the numbered units under the contract above; claim-by-claim source reconciliation, figure and table registration, and prose-level editorial review remain required in their designated phases.

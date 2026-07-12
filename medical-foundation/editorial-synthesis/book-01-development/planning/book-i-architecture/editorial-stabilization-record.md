@@ -1,6 +1,6 @@
 # Book I architecture editorial-stabilization record
 
-**Status:** active
+**Status:** stable for controlled redrafting
 
 This record tracks review rounds on the strict architecture. A round is structural only when it changes ownership, sequence, scope, or disposition. Wording and formatting corrections do not reset structural stabilization.
 
@@ -285,6 +285,32 @@ Round 6 therefore cannot be the second clean stabilization round. The count rese
 
 This label correction changes no ownership, sequence, scope, disposition, or target. Round 7 is the first consecutive no-change round after the unified-record revision; Round 8 must independently confirm the same package.
 
+## Round 8 — Independent final confirmation
+
+**Status:** complete; no structural revision required.
+
+**Independent review lenses:**
+
+1. new-reader developmental review of premise order, promises and payoffs, conceptual load, finite assignments, continuity, case pacing, and the ending;
+2. a freshly reconstructed owner map covering definitions, controlled labels, case method, causal scope, posterior claims, and Books II–V dependencies; and
+3. freshly recomputed source, disposition, drafting-contract, reference, asset, and production integrity.
+
+### Stable findings
+
+- The premise order remains reader-sound from precise mechanics through cooperative anatomy, changes in organization, medical interpretation, cases, portable reasoning, development, and the wider hypothesis.
+- Every chapter promise reaches a matching conclusion and provides the next chapter's premise. The object transfer, explanatory chain, six organization families, complete case record, and seven questions carry continuity without ritual repetition.
+- Chapter 22.7 remains the sole complete-record owner; Part V applies it; Chapter 27 makes it portable. The four cases retain distinct mechanical problems, evidence difficulty, pacing, and endings.
+- The owner map remains coherent across I.8 evidence provenance, Chapter 3 roles, Chapters 7–9 posterior propositions, Chapters 11–16 organization and scale, Chapter 21 causality and inferential dispositions, and the independent Books II–V burdens.
+- The package can now be redrafted one numbered unit at a time without asking local drafting passes to rediscover structure.
+- Final production recomputation confirmed a clean worktree at the reviewed commit, the unchanged manuscript blob, 317 source rows, 293 contiguous IDs, 304 complete drafting units, the unchanged aggregate target, 116 figures, 72 tables, 384 bibliography records, 464 resolved footnote definitions, zero unresolved references or paths, and ten parseable Markdown files.
+
+### Nonstructural terminology corrections
+
+- Made *not applicable* unambiguously mean that no empirical comparison was declared in 23.7 and 24.8.
+- Replaced the Part V shorthand “one lead mechanical family” with “one declared lead mechanical problem,” allowing Chapter 23's explicit redistribution-to-concentration sequence without implying a second case.
+
+These corrections change no ownership, sequence, scope, disposition, or target. Rounds 7 and 8 are consecutive independent no-change reviews. The stabilization gate is satisfied, and the package is stable for controlled redrafting.
+
 ## Stabilization log
 
 | Round | Structural changes required? | Result |
@@ -297,4 +323,4 @@ This label correction changes no ownership, sequence, scope, disposition, or tar
 | 5 — first post-revision reread | no | First consecutive clean round; only two nonstructural wording corrections applied. |
 | 6 — adversarial confirmation reread | yes | Complete case-record ownership moved to 22.7; Part V now applies the inherited method. |
 | 7 — first post-revision reread | no | First consecutive clean round; one controlled comparison-result label normalized. |
-| 8 — independent confirmation reread | pending | — |
+| 8 — independent confirmation reread | no | Second consecutive clean round; stabilization gate passed. |
