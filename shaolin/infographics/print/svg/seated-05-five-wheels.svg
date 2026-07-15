@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="2600" viewBox="0 0 1800 2600">
+  <rect width="1800" height="2600" fill="#FFFFFF"/>
+  <rect x="24" y="24" width="1752" height="2552" rx="28" fill="none" stroke="#000000" stroke-width="2"/>
+  <style>
+    text { font-family: "SF Pro Display", "Helvetica Neue", "PingFang SC", Arial, sans-serif; }
+  </style>
+
+  <text x="54" y="68" font-size="22" font-weight="800" letter-spacing="2.6" fill="#000000">SEATED-METHOD TU-NA · EXERCISE 5</text>
+  <text x="54" y="146" font-size="58" font-weight="780" fill="#000000">Circulation of the Five Wheels</text>
+  <text x="1747" y="86" text-anchor="end" font-family="Heiti-SC-Medium" font-size="40" font-weight="650" fill="#000000">五轮运转</text>
+  <text x="1747" y="137" text-anchor="end" font-size="20" font-weight="750" letter-spacing="1.3" fill="#000000">SOURCE FIGURES 2-44—2-46</text>
+  <line x1="52" y1="182" x2="1748" y2="182" stroke="#000000" stroke-width="2"/>
+
+  <rect x="52" y="230" width="1100" height="2025" rx="24" fill="#FFFFFF" stroke="#000000" stroke-width="3"/>
+  <image href="../base/seated-05-five-wheels.png" x="64" y="242" width="1076" height="2001" preserveAspectRatio="xMidYMid meet"/>
+  
+      <g>
+        <rect x="1190" y="230" width="558" height="666" rx="20" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+        <rect x="1190" y="230" width="9" height="666" rx="5" fill="#000000"/>
+        <circle cx="1233" cy="273" r="25" fill="#000000"/>
+        <text x="1233" y="281" text-anchor="middle" font-size="20" font-weight="800" fill="#fff">1</text>
+        <text x="1272" y="269" font-size="19" font-weight="800" fill="#000000" letter-spacing="0.2"><tspan x="1272" dy="0">DEEP NASAL INHALE BEGINS</tspan></text>
+        <text x="1220" y="332" font-size="23" font-weight="450" fill="#000000"><tspan x="1220" dy="0">Press sword fingers at Chengqi (ST1),</tspan><tspan x="1220" dy="28">directly below the eye sockets.</tspan></text>
+      </g>
+      <g>
+        <rect x="1190" y="909" width="558" height="666" rx="20" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+        <rect x="1190" y="909" width="9" height="666" rx="5" fill="#000000"/>
+        <circle cx="1233" cy="952" r="25" fill="#000000"/>
+        <text x="1233" y="960" text-anchor="middle" font-size="20" font-weight="800" fill="#fff">2</text>
+        <text x="1272" y="948" font-size="19" font-weight="800" fill="#000000" letter-spacing="0.2"><tspan x="1272" dy="0">CONTINUE INHALING UNTIL FULL</tspan></text>
+        <text x="1220" y="1011" font-size="23" font-weight="450" fill="#000000"><tspan x="1220" dy="0">Circle outward/up through GB1, Yuwei, TE23,</tspan><tspan x="1220" dy="28">EX-HN4, GB14 to Toulinqi (GB15).</tspan></text>
+      </g>
+      <g>
+        <rect x="1190" y="1588" width="558" height="666" rx="20" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+        <rect x="1190" y="1588" width="9" height="666" rx="5" fill="#000000"/>
+        <circle cx="1233" cy="1631" r="25" fill="#000000"/>
+        <text x="1233" y="1639" text-anchor="middle" font-size="20" font-weight="800" fill="#fff">3</text>
+        <text x="1272" y="1627" font-size="19" font-weight="800" fill="#000000" letter-spacing="0.2"><tspan x="1272" dy="0">NASAL EXHALE</tspan></text>
+        <text x="1220" y="1690" font-size="23" font-weight="450" fill="#000000"><tspan x="1220" dy="0">Move inward/down through BL3, BL4, BL2; rub</tspan><tspan x="1220" dy="28">inner eye corners, then descend nose</tspan><tspan x="1220" dy="28">bridge.</tspan></text>
+      </g>
+
+  <rect x="52" y="2295" width="1696" height="210" rx="22" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+  <rect x="52" y="2295" width="12" height="210" rx="6" fill="#000000"/>
+  <text x="91" y="2343" font-size="20" font-weight="850" letter-spacing="2" fill="#000000">EXACT BREATH TIMELINE</text>
+  <text x="91" y="2386" font-size="26" font-weight="620" fill="#000000"><tspan x="91" dy="0">1→2 one inhale to full · 3 one nasal exhale · one inhale + one exhale = one repetition</tspan></text>
+  <text x="91" y="2478" font-size="17" fill="#000000">Every breath phase is written explicitly in black; this edition does not require a color key.</text>
+  <text x="1740" y="2549" text-anchor="end" font-size="16" fill="#000000">MONOCHROME PRINT EDITION · Full bilingual wording: shaolin-exercises-translation.md</text>
+</svg>

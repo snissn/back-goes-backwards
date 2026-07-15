@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Standing-Method Tu-Na — Breath-Flow Layout (Page 1)</title>
+<style>
+  @page { size: Letter portrait; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; color: #141414; font-family: "Helvetica Neue", Arial, sans-serif; }
+
+  .page {
+    width: 8.5in; height: 11in; padding: .5in .55in .42in;
+    background: #fff; display: flex; flex-direction: column;
+  }
+
+  /* ---- masthead ---- */
+  header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    padding-bottom: .1in; border-bottom: 2pt solid #141414;
+  }
+  header .title { font-size: 15pt; font-weight: 800; letter-spacing: .02em; }
+  header .sub { font-size: 9.5pt; font-weight: 700; color: #777; letter-spacing: .06em; text-transform: uppercase; }
+
+  /* ---- how-to-read legend ---- */
+  .legend {
+    margin: .1in 0 .02in; font-size: 8.6pt; color: #555; font-weight: 600; white-space: nowrap;
+  }
+  .legend .swatch { margin-right: .32in; }
+  .legend .g { font-weight: 900; }
+  .legend .up { color: #1f6f3a; } .legend .down { color: #a4341f; }
+  .legend .flow { color: #b8860b; } .legend .hp { color: #c98a12; }
+
+  /* ---- stack of breath bands, evenly distributed ---- */
+  .bands { flex: 1; display: flex; flex-direction: column; justify-content: space-between; }
+  .band {
+    flex: 0 0 auto; display: flex; align-items: center; gap: .22in;
+    border-top: 1pt solid #e2e2e2; padding: .1in 0;
+  }
+  .band:first-child { border-top: none; }
+
+  /* ---- col 1 · the breath itself ---- */
+  .rail { flex: 0 0 1.35in; padding-right: .05in; }
+  .band-count { font-size: 8pt; font-weight: 700; color: #999; text-transform: uppercase; letter-spacing: .09em; margin-bottom: .05in; }
+  .breath-kind { font-size: 21pt; font-weight: 800; line-height: 1; letter-spacing: .01em; }
+  .breath-arrow { font-size: 27pt; line-height: .9; margin: .04in 0 .05in; }
+  .breath-dur { font-size: 9pt; font-weight: 700; color: #555; letter-spacing: .01em; line-height: 1.25; }
+  .inhale .breath-kind, .inhale .breath-arrow { color: #1f6f3a; }
+  .exhale .breath-kind, .exhale .breath-arrow { color: #a4341f; }
+  .prepare .breath-kind, .prepare .breath-arrow, .settle .breath-kind, .settle .breath-arrow { color: #333; }
+
+  /* ---- col 2 · the motion (figures) ---- */
+  .strip { flex: 0 0 auto; display: flex; align-items: flex-end; }
+  .pose { position: relative; height: 1.78in; flex: 0 0 auto; }
+  .pose img { width: 100%; height: 100%; object-fit: contain; display: block; }
+  .pose .num {
+    position: absolute; top: 0; left: 0;
+    font: 800 10.5pt/1 "Helvetica Neue", Arial, sans-serif; color: #141414;
+    background: #fff; border: 1.4pt solid #141414; border-radius: 50%;
+    width: .25in; height: .25in; display: flex; align-items: center; justify-content: center;
+    z-index: 2;
+  }
+  .pose svg.path { position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: visible; z-index: 1; }
+  .flow { align-self: center; color: #b8860b; font-size: 21pt; font-weight: 900; padding: 0 .04in; margin-bottom: .6in; }
+
+  /* ---- col 3 · the words ---- */
+  .caption { flex: 1 1 auto; min-width: 0; font: 10.7pt/1.4 Georgia, "Times New Roman", serif; color: #1c1c1c; padding-left: .04in; }
+  .caption .step { font-weight: 700; font-family: "Helvetica Neue", Arial, sans-serif; font-size: 9pt; color: #666; letter-spacing: .02em; }
+  .caption i { font-style: italic; }
+  .caption b.in { color: #1f6f3a; } .caption b.ex { color: #a4341f; }
+
+  footer {
+    margin-top: .1in; padding-top: .08in; border-top: 1pt solid #d6d6d6;
+    font-size: 8pt; color: #888; display: flex; justify-content: space-between;
+  }
+</style>
+</head>
+<body>
+<section class="page">
+  <header>
+    <span class="title">Standing-Method Tu&#8209;Na Practice</span>
+    <span class="sub">Read by the breath &middot; Page 1 &middot; Steps 1&ndash;6</span>
+  </header>
+
+  <div class="legend">
+    <span class="swatch"><span class="g up">&#9650;</span> inhale</span>
+    <span class="swatch"><span class="g down">&#9660;</span> exhale</span>
+    <span class="swatch"><span class="g flow">&#9656;</span> order of motion</span>
+    <span class="swatch"><span class="g hp">&#9656;</span> path the hands travel</span>
+  </div>
+
+  <div class="bands">
+
+    <!-- BAND 1 -->
+    <div class="band prepare">
+      <div class="rail">
+        <div class="band-count">Set the stance</div>
+        <div class="breath-kind">Prepare</div>
+        <div class="breath-arrow">&#8635;</div>
+        <div class="breath-dur">breathe naturally</div>
+      </div>
+      <div class="strip">
+        <div class="pose" style="width:.70in">
+          <span class="num">1</span>
+          <img src="../standing-sequence-dense-grid-ai/figures/figure-2-1.png" alt="Figure 2-1">
+        </div>
+        <div class="flow">&rarr;</div>
+        <div class="pose" style="width:1.08in">
+          <span class="num">2</span>
+          <img src="../standing-sequence-dense-grid-ai/figures/figure-2-2.png" alt="Figure 2-2">
+          <svg class="path" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M20 50 Q34 56 45 60" fill="none" stroke="#c98a12" stroke-width="2.4" stroke-linecap="round" marker-end="url(#ah)"/>
+            <path d="M80 50 Q66 56 55 60" fill="none" stroke="#c98a12" stroke-width="2.4" stroke-linecap="round" marker-end="url(#ah)"/>
+          </svg>
+        </div>
+      </div>
+      <div class="caption">
+        <span class="step">1&ndash;2 &middot;</span> Stand upright, feet together, open hands at the sides. Step the left foot out past shoulder&#8209;width and gather both hands to the <i>dantian</i> (lower abdomen), right palm outside. Settle here and breathe naturally &mdash; this is the resting breath the whole set returns to.
+      </div>
+    </div>
+
+    <!-- BAND 2 -->
+    <div class="band settle">
+      <div class="rail">
+        <div class="band-count">First breath</div>
+        <div class="breath-kind">In&#8202;&rarr;&#8202;Out</div>
+        <div class="breath-arrow" style="font-size:21pt;">&#9650;&nbsp;&#9660;</div>
+        <div class="breath-dur">deep in, then long out<br>&mdash; through the nose</div>
+      </div>
+      <div class="strip">
+        <div class="pose" style="width:1.29in">
+          <span class="num">3</span>
+          <img src="../standing-sequence-dense-grid-ai/figures/figure-2-3.png" alt="Figure 2-3">
+          <svg class="path" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M40 55 Q37 38 42 24" fill="none" stroke="#1f6f3a" stroke-width="2.4" stroke-linecap="round" marker-end="url(#ahg)"/>
+            <path d="M57 26 Q70 40 79 47" fill="none" stroke="#a4341f" stroke-width="2.4" stroke-linecap="round" marker-end="url(#ahr)"/>
+          </svg>
+        </div>
+      </div>
+      <div class="caption">
+        <span class="step">3 &middot;</span> On a deep <b class="in">inhale</b>, raise both hands up to ear height, palms down. Then on a long <b class="ex">exhale</b>, sweep the arms open and down to the hips, palms facing out. One breath in, one long breath out &mdash; this sets the rhythm for everything that follows.
+      </div>
+    </div>
+
+    <!-- BAND 3 -->
+    <div class="band inhale">
+      <div class="rail">
+        <div class="band-count">One inhalation</div>
+        <div class="breath-kind">Inhale</div>
+        <div class="breath-arrow">&#9650;</div>
+        <div class="breath-dur">deep, until full<br>&mdash; through the nose</div>
+      </div>
+      <div class="strip">
+        <div class="pose" style="width:.79in">
+          <span class="num">4</span>
+          <img src="../standing-sequence-dense-grid-ai/figures/figure-2-4.png" alt="Figure 2-4">
+          <svg class="path" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M24 54 Q9 45 7 31" fill="none" stroke="#c98a12" stroke-width="2.4" stroke-linecap="round" marker-end="url(#ah)"/>
+            <path d="M76 54 Q91 45 93 29" fill="none" stroke="#c98a12" stroke-width="2.4" stroke-linecap="round" marker-end="url(#ah)"/>
+          </svg>
+        </div>
+        <div class="flow">&rarr;</div>
+        <div class="pose" style="width:.84in">
+          <span class="num">5</span>
+          <img src="../standing-sequence-dense-grid-ai/figures/figure-2-5.png" alt="Figure 2-5">
+          <svg class="path" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M22 44 Q34 30 44 25" fill="none" stroke="#c98a12" stroke-width="2.4" stroke-linecap="round" marker-end="url(#ah)"/>
+            <path d="M78 44 Q66 30 56 25" fill="none" stroke="#c98a12" stroke-width="2.4" stroke-linecap="round" marker-end="url(#ah)"/>
+          </svg>
+        </div>
+      </div>
+      <div class="caption">
+        <span class="step">4&ndash;5 &middot;</span> Lift both open hands out and up to shoulder height, palms up. Without breaking the inhale, bend the elbows and draw the hands in toward the forehead, fingertips facing &mdash; keep drawing breath in until the lungs are full.
+      </div>
+    </div>
+
+    <!-- BAND 4 -->
+    <div class="band exhale">
+      <div class="rail">
+        <div class="band-count">One exhalation</div>
+        <div class="breath-kind">Exhale</div>
+        <div class="breath-arrow">&#9660;</div>
+        <div class="breath-dur">long and slow<br>&mdash; through the nose</div>
+      </div>
+      <div class="strip">
+        <div class="pose" style="width:.92in">
+          <span class="num">6</span>
+          <img src="../standing-sequence-dense-grid-ai/figures/figure-2-6.png" alt="Figure 2-6">
+          <svg class="path" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M50 26 Q50 46 50 66" fill="none" stroke="#a4341f" stroke-width="2.6" stroke-linecap="round" marker-end="url(#ahr)"/>
+          </svg>
+        </div>
+      </div>
+      <div class="caption">
+        <span class="step">6 &middot;</span> Press both open hands slowly down the front of the face, past the chest, all the way to the lower abdomen &mdash; letting the whole exhale empty out as the hands sink.
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    <span>Breath&#8209;flow layout &middot; prototype</span>
+    <span>&ldquo;Continue&rdquo; never means holding the breath &mdash; it is one unbroken inhale or exhale across the poses.</span>
+  </footer>
+
+  <svg width="0" height="0" style="position:absolute">
+    <defs>
+      <marker id="ah" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#c98a12"/></marker>
+      <marker id="ahg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#1f6f3a"/></marker>
+      <marker id="ahr" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#a4341f"/></marker>
+    </defs>
+  </svg>
+</section>
+</body>
+</html>

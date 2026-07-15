@@ -1,0 +1,22 @@
+@page { size: Letter portrait; margin: 0; }
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; color: #111; font-family: Arial, Helvetica, sans-serif; }
+.sheet { position: relative; width: 8.5in; height: 11in; padding: .38in .46in .34in; break-after: page; overflow: hidden; background: white; }
+.sheet:last-child { break-after: auto; }
+.topline { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1.1pt solid #111; padding-bottom: .07in; margin-bottom: .11in; }
+.series { font-size: 8.5pt; letter-spacing: .12em; font-weight: 700; text-transform: uppercase; }
+.source { font-size: 8pt; color: #333; }
+h1 { font-family: Georgia, 'Times New Roman', serif; font-size: 19pt; line-height: 1; margin: 0 0 .12in; font-weight: 600; }
+.instructions { display: block; }
+.step { display: flex; align-items: flex-start; gap: .1in; margin: 0 0 .09in; }
+.step > div:last-child { flex: 1 1 auto; min-width: 0; }
+.num { flex: 0 0 .35in; width: .35in; font-family: Georgia, 'Times New Roman', serif; font-size: 17pt; line-height: 1.12; }
+.step p { font-family: Georgia, 'Times New Roman', serif; font-size: 10.2pt; line-height: 1.27; margin: 0; overflow-wrap: break-word; }
+.breath { font-family: Arial, Helvetica, sans-serif; font-size: 7.6pt; line-height: 1.15; font-weight: 700; letter-spacing: .075em; text-transform: uppercase; margin-bottom: .025in; }
+.art { position: absolute; left: .46in; right: .46in; top: 3.35in; bottom: .62in; border-top: .6pt solid #aaa; padding-top: .08in; display: flex; justify-content: center; align-items: center; }
+.art img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.dense .art { top: 4.3in; }
+.final-page .art { top: 4.85in; }
+.footer { position: absolute; left: .46in; right: .46in; bottom: .34in; border-top: .5pt solid #aaa; padding-top: .045in; display: flex; justify-content: space-between; font-size: 7.2pt; color: #444; }
+.tight .step p { font-size: 9.7pt; line-height: 1.22; }
+.tight .step { margin-bottom: .065in; }

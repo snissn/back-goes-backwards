@@ -1,0 +1,174 @@
+:root {
+  color: #000;
+  background: #fff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background: #fff;
+  font-family: Arial, "Helvetica Neue", sans-serif;
+}
+
+#title-block-header {
+  display: none;
+}
+
+.sheet {
+  display: flex;
+  width: 100%;
+  break-after: page;
+  page-break-after: always;
+  overflow: hidden;
+}
+
+.sheet:last-child {
+  break-after: auto;
+  page-break-after: auto;
+}
+
+.source-column {
+  flex: 0 0 42%;
+  min-width: 0;
+  padding-right: 0.24in;
+  border-right: 1.2pt solid #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.source-label {
+  display: none;
+}
+
+.source-column figure,
+.source-column p {
+  flex: 1 1 auto;
+  width: 100%;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.source-column img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 7.27in;
+  margin: 0 auto;
+}
+
+.source-column figcaption {
+  display: none;
+}
+
+.text-column {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding-left: 0.27in;
+}
+
+.text-column h2 {
+  margin: 0 0 0.04in;
+  padding: 0 0 0.065in;
+  border-bottom: 1.2pt solid #000;
+  font-size: 16pt;
+  line-height: 1.12;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+
+.text-column h3 {
+  margin: 0.095in 0 0;
+  padding-top: 0.075in;
+  border-top: 0.75pt solid #000;
+  font-size: 11.5pt;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.text-column p {
+  margin: 0.045in 0 0.065in;
+  font-size: 8.9pt;
+  line-height: 1.42;
+  orphans: 2;
+  widows: 2;
+}
+
+.text-column > p:first-of-type {
+  margin-top: 0.035in;
+}
+
+.text-column strong {
+  font-weight: 700;
+}
+
+.text-column blockquote {
+  margin: 0.035in 0 0.13in;
+  padding: 0;
+  border: 0;
+  font-family: "Songti SC", "STSong", "Hiragino Sans GB", serif;
+  font-size: 10.8pt;
+  font-weight: 500;
+  line-height: 1.58;
+  text-align: justify;
+}
+
+.text-column blockquote p {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+.text-column em {
+  font-style: italic;
+}
+
+.text-column code {
+  padding: 0;
+  color: #000;
+  background: transparent;
+  font-family: "Songti SC", "STSong", "Hiragino Sans GB", serif;
+  font-size: 1em;
+}
+
+.text-column hr {
+  display: none;
+}
+
+.figure-index {
+  margin-top: 0.10in;
+  padding-top: 0.07in;
+  border-top: 0.75pt solid #000;
+}
+
+.figure-index p {
+  margin: 0;
+  font-size: 7.8pt;
+  line-height: 1.25;
+}
+
+.text-column > blockquote:last-child {
+  margin-top: 0.07in;
+  padding: 0.06in 0 0 0.1in;
+  border-top: 0.75pt solid #000;
+  border-left: 1.2pt solid #000;
+  font-family: Arial, "Helvetica Neue", sans-serif;
+  font-size: 7.5pt;
+  line-height: 1.25;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}

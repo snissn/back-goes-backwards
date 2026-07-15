@@ -4,6 +4,8 @@ This directory contains 16 final exercise infographics derived from the photogra
 
 There are 12 distinct exercises. The single 29-step standing exercise is split into five plates so its hand positions and breath phases remain readable. Each of the 11 seated exercises has its own plate.
 
+A separate [printer-friendly monochrome edition](print/README.md) provides white-page, black-line US Letter and A4 PDFs plus individual PNG and SVG pages.
+
 ## Final infographics
 
 ### Standing-method exercise
@@ -57,4 +59,3 @@ From the project root:
 ```sh
 node scripts/build_infographics.mjs
 ```
-
