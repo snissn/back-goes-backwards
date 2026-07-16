@@ -21,6 +21,15 @@ Rebuild cleaned figures:
 bash scripts/prep_basic_tuna_figures.sh
 ```
 
+Build all seven standalone practice packets:
+
+```sh
+node scripts/build_basic_tuna_packets.mjs
+```
+
+Final PDFs are written to `print/`; their per-page visual-QA renders are written
+under `preview/<packet-name>/`.
+
 The crop script intentionally uses generous source regions, gentle trimming, and
 restored white margins. Crop changes belong in the script, never in one-off edits.
 `preview/figures-contact-sheet.jpg` is the all-figure crop QA sheet.
