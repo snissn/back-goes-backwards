@@ -23,11 +23,18 @@ for n in $(seq -w 1 24); do
 done
 
 crop_figure() {
-  n=$1; page=$2; geometry=$3; angle=${4:-0}; mask_top=${5:-0}
+  n=$1; page=$2; geometry=$3; angle=${4:-0}; mask_top=${5:-0}; mask_left=${6:-0}; mask_right=${7:-0}
+  crop_width=${geometry%%x*}
   cmd=(magick "$PAGES/page-$page.jpg" -crop "$geometry" +repage
     -background white -virtual-pixel white -rotate "$angle" +repage)
   if (( mask_top > 0 )); then
     cmd+=(-fill white -draw "rectangle 0,0 9999,$mask_top")
+  fi
+  if (( mask_left > 0 )); then
+    cmd+=(-fill white -draw "rectangle 0,0 $mask_left,9999")
+  fi
+  if (( mask_right > 0 )); then
+    cmd+=(-fill white -draw "rectangle $((crop_width-mask_right)),0 9999,9999")
   fi
   cmd+=(-colorspace Gray -level 45%,94% -fuzz 3% -trim +repage
     -bordercolor white -border 9%x6% "$FIGS/figure-3-$n.png")
@@ -37,16 +44,16 @@ crop_figure() {
 # Opening and first eight linked movements: figures 3-1 through 3-30.
 crop_figure 1 02 250x480+290+830 -0.5
 crop_figure 2 02 300x430+620+830
-crop_figure 3 02 370x400+1060+320
+crop_figure 3 02 370x400+1060+320 0 0 30
 crop_figure 4 02 380x400+1430+320
 crop_figure 5 02 360x380+1450+820
 crop_figure 6 03 320x390+230+420
 crop_figure 7 03 350x360+550+790
-crop_figure 8 03 390x430+1060+410
+crop_figure 8 03 390x430+1060+410 0 0 30
 crop_figure 9 03 430x450+1380+720
 crop_figure 10 04 500x400+150+680
 crop_figure 11 04 330x430+620+850
-crop_figure 12 04 390x390+1050+480
+crop_figure 12 04 390x390+1050+480 0 0 30
 crop_figure 13 04 500x370+1340+850
 crop_figure 14 05 470x430+200+630
 crop_figure 15 05 340x430+560+830
@@ -95,7 +102,7 @@ crop_figure 56 15 480x440+1370+660
 crop_figure 57 16 500x350+270+280
 crop_figure 58 16 390x370+180+920 0 35
 crop_figure 59 16 380x380+520+900
-crop_figure 60 16 450x420+1020+760
+crop_figure 60 16 450x420+1020+760 0 0 40
 crop_figure 61 16 400x430+1430+740
 crop_figure 62 17 340x470+190+620
 crop_figure 62a 17 400x460+530+630
@@ -119,7 +126,7 @@ crop_figure 76 21 340x390+390+280
 crop_figure 77 21 380x430+190+760
 crop_figure 77a 21 320x430+590+780
 crop_figure 78 21 390x430+1060+360
-crop_figure 79 21 430x380+1030+880
+crop_figure 79 21 430x380+1030+880 0 0 18
 crop_figure 79a 21 300x400+1460+850
 crop_figure 80 22 300x310+570+200
 crop_figure 81 22 320x300+380+980

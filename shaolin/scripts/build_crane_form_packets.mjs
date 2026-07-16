@@ -146,32 +146,22 @@ const packets = [
 function fileFor(n) { return path.join(figDir, `figure-3-${n}.png`); }
 function pngRatio(n) { const b = fs.readFileSync(fileFor(n)); return b.readUInt32BE(16) / b.readUInt32BE(20); }
 function figureHtml(n, height) {
-  const width = Math.min(pngRatio(n) * height, 2.55).toFixed(3);
+  const width = Math.min(pngRatio(n) * height, 3.35).toFixed(3);
   return `<div class="pose"><div class="num">3-${n}</div><div class="frame" style="width:${width}in;height:${height}in"><img src="../figures/figure-3-${n}.png" alt="Source figure 3-${n}"></div></div>`;
 }
 function rowHtml(row, share) {
   const count = row.figs.length;
-  const h = count >= 4 ? Math.min(share - .85, 1.7) : count === 3 ? Math.min(share - .78, 1.9) : Math.min(share - .55, 2.25);
+  const ratioTotal = row.figs.reduce((sum, n) => sum + pngRatio(n), 0);
+  const widthFit = (4.55 - Math.max(0, count - 1) * .18) / ratioTotal;
+  const cap = count >= 4 ? 2.2 : count === 3 ? 2.7 : 3.35;
+  const h = Math.max(1.05, Math.min(share - .62, widthFit, cap));
   const arrow = `<div class="flow">&#9656;<span>&rarr;</span></div>`;
   return `${row.section ? `<div class="section-label">${row.section}</div>` : ''}<div class="row ${count >= 3 ? 'dense' : ''}"><div class="text"><div class="move-name">${row.name}</div><div class="cue">${row.cue}</div><div class="caption">${row.caption}</div></div><div class="strip">${row.figs.map(n => figureHtml(n, h)).join(arrow)}</div></div>`;
 }
 
 function buildPacket(packet) {
-  const perPage = 3;
   const pages = [];
-  // Avoid an isolated final panel: when the remainder would be one, balance
-  // the last four panels as two plus two while retaining the same page count.
-  let i = 0;
-  while (packet.rows.length - i > 4) {
-    pages.push(packet.rows.slice(i, i + perPage));
-    i += perPage;
-  }
-  const remaining = packet.rows.length - i;
-  if (remaining === 4) {
-    pages.push(packet.rows.slice(i, i + 2), packet.rows.slice(i + 2));
-  } else if (remaining > 0) {
-    pages.push(packet.rows.slice(i));
-  }
+  for (let i = 0; i < packet.rows.length; i += 2) pages.push(packet.rows.slice(i, i + 2));
   const pagesHtml = pages.map((rows, pageIndex) => {
     const share = (9.0 - (pageIndex === 0 ? .5 : 0) - rows.filter(x => x.section).length * .26) / rows.length;
     const first = rows[0].figs[0]; const last = rows.at(-1).figs.at(-1);
@@ -189,11 +179,11 @@ function buildPacket(packet) {
     .legend .natural { color:${GOLD}; } .legend span { margin-left:auto; max-width:3.25in; color:#555; font:9.3pt/1.25 Georgia,serif; }
     main { flex:1; min-height:0; display:flex; flex-direction:column; } .section-label { flex:0 0 auto; margin-top:.025in; padding:.04in .09in; border-left:5pt solid ${GOLD}; color:#5e4a1f; background:#f6f2e7; font-size:9.5pt; font-weight:800; letter-spacing:.045em; text-transform:uppercase; }
     .row { flex:1 1 0; min-height:0; display:flex; align-items:center; gap:.18in; padding:.075in 0; border-top:1.2pt solid #ddd; overflow:hidden; } main>.row:first-child,.section-label+.row { border-top:0; }
-    .text { flex:0 0 2.7in; } .move-name { color:${GOLD}; font-size:21pt; font-weight:800; line-height:.95; letter-spacing:-.01em; } .cue { margin-top:.045in; color:#68604e; font-size:9.5pt; font-weight:800; text-transform:uppercase; letter-spacing:.055em; }
-    .caption { margin-top:.085in; font:11.4pt/1.27 Georgia,"Times New Roman",serif; } .strip { flex:1 1 auto; min-width:0; display:flex; justify-content:center; align-items:flex-end; }
+    .text { flex:0 0 2.45in; } .move-name { color:${GOLD}; font-size:26pt; font-weight:800; line-height:.95; letter-spacing:-.01em; } .cue { margin-top:.055in; color:#68604e; font-size:10pt; font-weight:800; text-transform:uppercase; letter-spacing:.055em; }
+    .caption { margin-top:.1in; font:13.2pt/1.28 Georgia,"Times New Roman",serif; } .strip { flex:1 1 auto; min-width:0; display:flex; justify-content:center; align-items:flex-end; }
     .pose { min-width:0; display:flex; flex-direction:column; align-items:center; } .num { height:.25in; padding:0 .07in; margin-bottom:.025in; border:1.3pt solid ${INK}; border-radius:.15in; background:#fff; display:flex; align-items:center; justify-content:center; font-size:9pt; font-weight:800; }
     .frame img { width:100%; height:100%; object-fit:contain; display:block; } .flow { align-self:center; padding:0 .02in; color:${GOLD}; display:flex; flex-direction:column; align-items:center; font-size:10pt; font-weight:900; line-height:.65; } .flow span { font-size:19pt; }
-    .dense .text { flex-basis:2.45in; } .dense .caption { font-size:10.7pt; } footer { min-height:.28in; padding-top:.07in; border-top:1pt solid #d5d5d5; color:#777; text-align:center; font:8.8pt/1.2 Georgia,serif; }
+    .dense .text { flex-basis:2.3in; } .dense .caption { font-size:12.4pt; } footer { min-height:.28in; padding-top:.07in; border-top:1pt solid #d5d5d5; color:#777; text-align:center; font:8.8pt/1.2 Georgia,serif; }
   `;
   const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><title>${packet.title}</title><style>${css}</style></head><body>${pagesHtml}</body></html>`;
   const htmlPath = path.join(htmlDir, `${packet.id}.html`); const pdfPath = path.join(printDir, `${packet.id}.pdf`); const packetPreview = path.join(previewDir, packet.id);
