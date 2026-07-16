@@ -41,7 +41,11 @@ Requires: ImageMagick (`magick`), `weasyprint`, `pdftoppm`, `node`.
 - **Data model:** the `rows` array, one entry per breath:
   `{ kind, name, dur, caption, figs:[...], contd? }`. `kind` ∈ inhale|exhale|both|settle
   drives colour. Long breaths are split into ≤3-fig panels, the 2nd marked `contd:true`.
-- **2 panels per page** (`PER_PAGE`), each panel flex-grows to fill the page height.
+- **Exactly 2 panels per page** (`PER_PAGE = 2`), each panel flex-grows to fill the
+  page height. This is a hard template rule for every packet, including long forms.
+  Never switch to three rows to reduce page count. If the packet has an odd number
+  of panels, let the final panel occupy one half-page row; do not vertically center it
+  in a mostly empty page.
 - **Two panel shapes, chosen by figure count:**
   - **2 poses → text-left / images-right.** Breath label + duration + caption stacked
     in a ~2.55in left column; the two large figures fill the right.
@@ -57,9 +61,13 @@ Requires: ImageMagick (`magick`), `weasyprint`, `pdftoppm`, `node`.
 Source figures come from the book scans in `standing-sequence-dense-grid/figures/`;
 cleaned versions go to `figures-clean/` via `prep_standing_figures.sh`. Rules:
 
-1. **Never crop strangely / never cut a head, hand, foot, or arm.** Trim GENTLY
-   (`-fuzz 3%`, never 8% — the aggressive fuzz eats faint fingertip lines on
-   spread-arm poses). Add a white margin (`-border 9%x6%`) so nothing touches the edge.
+1. **Never crop strangely / never cut a head, hand, foot, arm, garment edge, or
+   source motion arrow.** Start from the full-resolution normalized source page, not
+   an already-tight derivative. Draw a deliberately generous crop around the complete
+   figure, inspect it at full size, then trim GENTLY (`-fuzz 3%`, never 8% — aggressive
+   fuzz eats faint fingertip and shoe lines). Add a white margin (`-border 9%x6%`) so
+   nothing touches the edge. A visible head, hand, or foot within roughly one border
+   width of the crop edge is a failed crop and must be widened.
 2. **If the tight scan already cut a segment, re-crop from the full page.** The
    per-figure `figures/` crops sometimes clip a hand (e.g. figure 9's left hand).
    Re-crop that figure from `standing-sequence-source-faithful/source-pages/page-NN.jpg`
@@ -75,6 +83,22 @@ cleaned versions go to `figures-clean/` via `prep_standing_figures.sh`. Rules:
    noticeably smaller than its neighbours (watch wide arms-spread poses).
 6. Chop the Chinese 图2-N caption off the bottom (`-chop 0x6%`); where an arc loop dips
    below the feet and blocks it, either accept the faint caption or re-crop from the page.
+7. **Exclude source prose, captions, page gutters, adjacent figures, and stray writing.**
+   Do not rely on whitespace trim to remove them: tighten the rectangular crop around
+   the complete illustration while retaining all anatomy and arrows. The only writing
+   allowed inside a figure asset is writing intrinsic to a required instructional inset
+   (for example, acupoint or footwork labels). If prose cannot be removed without losing
+   part of the illustration, mask only the prose region with white and document that
+   operation in the reproducible prep script.
+8. **Deskew individual figures when the scan is visibly tilted.** Use the smallest
+   manual rotation that makes the body's intended vertical axis or ground line straight,
+   normally about 0.1–2 degrees. Rotate on white with enough virtual canvas before the
+   final gentle trim and border. Do not auto-deskew every figure and do not rotate a
+   deliberately leaning or dynamic posture upright.
+9. **Inspect assets before page layout.** Build a numerically ordered contact sheet,
+   then open every cleaned figure at full resolution. Do not proceed to the PDF until
+   every asset has complete anatomy/arrows, clean white surroundings, and appropriate
+   straightness. A contact sheet alone is insufficient for checking fingertips and feet.
 
 Every crop tweak goes into `prep_standing_figures.sh` (portable bash — no `declare -A`;
 it must run on macOS bash 3.2), never as a one-off command, so `figures-clean/` is
@@ -82,16 +106,20 @@ reproducible.
 
 ## Finalize / polish pass (run every time before you call it done)
 
-Render all pages (`node scripts/build_standing_breath_flow.mjs`) and open every
-`preview/page-NN.png`. For EACH figure and panel, verify:
+First open every cleaned figure at full resolution. Then render all pages
+(`node scripts/build_standing_breath_flow.mjs`) and open every `preview/page-NN.png`.
+For EACH figure and panel, verify:
 
 - [ ] No head, hand, foot, arm, or other segment cut off. Spread-arm poses: both hands present.
 - [ ] No stray marks, bleed, or leftover 图2-N captions.
+- [ ] No surrounding source prose, page gutters, adjacent figures, or non-instructional writing.
+- [ ] Any modest deskew is correct; intentional body leans remain intentional.
 - [ ] Figures within a section are consistently sized and aligned; none looks shrunk.
 - [ ] Captions fit — no clipping, no overflow off the right margin; orientation words correct.
 - [ ] No page overflow: physical page count (`ls preview/page-*.png | wc -l`) == expected.
 - [ ] Arrow colour matches the breath (green inhale / red exhale); split breaths marked "continued".
 - [ ] Big enough to read from across a room.
+- [ ] Exactly two panel rows are laid out per page; no generated page uses three rows.
 
 Fix, rebuild, re-check. Only ship a page once every box passes.
 
