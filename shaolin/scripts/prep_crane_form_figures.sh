@@ -22,11 +22,48 @@ for n in $(seq -w 1 24); do
   magick "$PAGES/raw-$n.jpg" -rotate "$rotate" "$PAGES/page-$n.jpg"
 done
 
-crop_figure() {
-  n=$1; page=$2; geometry=$3; angle=${4:-0}; mask_top=${5:-0}; mask_left=${6:-0}; mask_right=${7:-0}
+# The first photographed section has different skew on the two physical pages.
+# Straighten each page half from its printed header/rules before choosing any
+# figure crop. These are page corrections, not figure-level aesthetic tweaks.
+normalize_page_half() {
+  page=$1; side=$2; angle=$3
+  if [[ "$side" == left ]]; then
+    geometry=969x1484+0+0
+  else
+    geometry=969x1484+969+0
+  fi
+  magick "$PAGES/page-$page.jpg" -crop "$geometry" +repage \
+    -background white -virtual-pixel white -rotate "$angle" +repage \
+    "$PAGES/page-$page-$side.jpg"
+}
+
+normalize_page_half 02 left 3.80
+normalize_page_half 02 right 0.22
+normalize_page_half 03 left 4.02
+normalize_page_half 03 right 0
+normalize_page_half 04 left 3.74
+normalize_page_half 04 right -0.11
+normalize_page_half 05 left 0.62
+normalize_page_half 05 right -1.01
+normalize_page_half 06 left 0.78
+normalize_page_half 06 right -0.84
+normalize_page_half 07 left 0.62
+normalize_page_half 07 right -1.01
+normalize_page_half 08 left 0.45
+normalize_page_half 08 right -0.39
+normalize_page_half 09 left 1.57
+normalize_page_half 09 right 0.11
+
+crop_source() {
+  n=$1; source=$2; geometry=$3; angle=${4:-0}; mask_top=${5:-0}; mask_left=${6:-0}; mask_right=${7:-0}; flood_right_fuzz=${8:-}
   crop_width=${geometry%%x*}
-  cmd=(magick "$PAGES/page-$page.jpg" -crop "$geometry" +repage
+  cmd=(magick "$source" -crop "$geometry" +repage
     -background white -virtual-pixel white -rotate "$angle" +repage)
+  if [[ -n "$flood_right_fuzz" ]]; then
+    # Remove a connected photographed page edge without drawing over a figure
+    # that reaches the same side of the crop (for example, figure 3-11's foot).
+    cmd+=(-fuzz "$flood_right_fuzz" -fill white -draw "color $((crop_width-1)),0 floodfill")
+  fi
   if (( mask_top > 0 )); then
     cmd+=(-fill white -draw "rectangle 0,0 9999,$mask_top")
   fi
@@ -41,38 +78,48 @@ crop_figure() {
   "${cmd[@]}"
 }
 
+crop_figure() {
+  n=$1; page=$2; geometry=$3; angle=${4:-0}; mask_top=${5:-0}; mask_left=${6:-0}; mask_right=${7:-0}
+  crop_source "$n" "$PAGES/page-$page.jpg" "$geometry" "$angle" "$mask_top" "$mask_left" "$mask_right" ""
+}
+
+crop_normalized() {
+  n=$1; page=$2; side=$3; geometry=$4; angle=${5:-0}; mask_top=${6:-0}; mask_left=${7:-0}; mask_right=${8:-0}; flood_right_fuzz=${9:-}
+  crop_source "$n" "$PAGES/page-$page-$side.jpg" "$geometry" "$angle" "$mask_top" "$mask_left" "$mask_right" "$flood_right_fuzz"
+}
+
 # Opening and first eight linked movements: figures 3-1 through 3-30.
-crop_figure 1 02 250x480+290+830 -0.5
-crop_figure 2 02 300x430+620+830
-crop_figure 3 02 370x400+1060+320 0 0 30
-crop_figure 4 02 380x400+1430+320
-crop_figure 5 02 360x380+1450+820
-crop_figure 6 03 320x390+230+420
-crop_figure 7 03 350x360+550+790
-crop_figure 8 03 390x430+1060+410 0 0 30
-crop_figure 9 03 430x450+1380+720
-crop_figure 10 04 500x400+150+680
-crop_figure 11 04 330x430+620+850
-crop_figure 12 04 390x390+1050+480 0 0 30
-crop_figure 13 04 500x370+1340+850
-crop_figure 14 05 470x430+200+630
-crop_figure 15 05 340x430+560+830
-crop_figure 16 05 520x430+1140+350
-crop_figure 17 05 500x410+1170+840
-crop_figure 18 06 350x410+200+680
-crop_figure 19 06 350x360+550+760
-crop_figure 20 06 420x400+1220+630
-crop_figure 21 07 350x380+200+680
-crop_figure 22 07 350x320+560+760
-crop_figure 23 07 350x310+1260+370
-crop_figure 24 07 500x340+1210+730
-crop_figure 25 08 330x400+200+710
-crop_figure 26 08 370x380+530+760
-crop_figure 27 08 380x450+1240+610
-crop_figure 28 09 400x420+350+350
-crop_figure 28a 09 380x390+350+790
-crop_figure 29 09 390x450+1080+370
-crop_figure 30 09 400x480+1430+660
+crop_normalized 1 02 left 370x480+305+850
+crop_normalized 2 02 left 340x485+650+850 0 0 0 75
+crop_normalized 3 02 right 388x418+85+315 0 0 30
+crop_normalized 4 02 right 398x419+455+313
+crop_normalized 5 02 right 378x399+477+813
+crop_normalized 6 03 left 363x428+252+441
+crop_normalized 7 03 left 360x430+620+825 0 0 0 50
+crop_normalized 8 03 right 406x446+83+402 0 0 30
+crop_normalized 9 03 right 446x466+403+712
+crop_normalized 10 04 left 440x375+230+740
+crop_normalized 11 04 left 330x410+650+920 0 0 0 0 18%
+crop_normalized 12 04 right 408x407+74+473 0 0 30
+crop_normalized 13 04 right 517x388+364+843
+crop_normalized 14 05 left 492x453+199+625
+crop_normalized 15 05 left 362x451+561+823
+crop_normalized 16 05 right 544x456+176+345
+crop_normalized 17 05 right 524x436+198+835
+crop_normalized 18 06 left 372x431+202+679
+crop_normalized 19 06 left 372x382+553+754
+crop_normalized 20 06 right 443x423+250+626
+crop_normalized 21 07 left 371x401+200+677
+crop_normalized 22 07 left 370x341+561+753
+crop_normalized 23 07 right 360x250+320+420
+crop_normalized 24 07 right 523x366+241+726
+crop_normalized 25 08 left 350x420+198+706
+crop_normalized 26 08 left 390x400+529+753
+crop_normalized 27 08 right 400x470+266+604
+crop_normalized 28 09 left 390x365+380+400
+crop_normalized 28a 09 left 407x417+364+789
+crop_normalized 29 09 right 408x468+104+363
+crop_normalized 30 09 right 418x498+454+653
 
 # Book pages 84-85 (figures 3-31 through 3-33) are absent from this scan.
 # Resume exactly where the supplied source resumes, at figure 3-34.
