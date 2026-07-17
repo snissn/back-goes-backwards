@@ -90,11 +90,14 @@ cleaned versions go to `figures-clean/` via `prep_standing_figures.sh`. Rules:
    (for example, acupoint or footwork labels). If prose cannot be removed without losing
    part of the illustration, mask only the prose region with white and document that
    operation in the reproducible prep script.
-8. **Deskew individual figures when the scan is visibly tilted.** Use the smallest
-   manual rotation that makes the body's intended vertical axis or ground line straight,
-   normally about 0.1–2 degrees. Rotate on white with enough virtual canvas before the
-   final gentle trim and border. Do not auto-deskew every figure and do not rotate a
-   deliberately leaning or dynamic posture upright.
+8. **Straighten the physical book page before cropping figures.** A photographed spread
+   can give its left and right pages different angles, so isolate each page half and
+   measure its rotation from several printed text baselines or the printed header rule.
+   Ignore the scanner edge, spine, and the illustrated body's pose when measuring. Rotate
+   the full page half on a white expanded canvas, then derive every crop from that
+   normalized page. Do not use a spread-wide angle when the facing pages differ. Use an
+   individual figure rotation only for small residual distortion after page normalization;
+   never rotate a deliberately leaning or dynamic posture upright.
 9. **Inspect assets before page layout.** Build a numerically ordered contact sheet,
    then open every cleaned figure at full resolution. Do not proceed to the PDF until
    every asset has complete anatomy/arrows, clean white surroundings, and appropriate
@@ -103,6 +106,35 @@ cleaned versions go to `figures-clean/` via `prep_standing_figures.sh`. Rules:
 Every crop tweak goes into `prep_standing_figures.sh` (portable bash — no `declare -A`;
 it must run on macOS bash 3.2), never as a one-off command, so `figures-clean/` is
 reproducible.
+
+## Fixing a bad crop or tilted figure
+
+Use this sequence whenever a rendered figure looks tilted, incomplete, dirty, or poorly
+framed:
+
+1. Return to the full-resolution scan, not the current PNG or an already-cropped image.
+2. Normalize coarse orientation first (90/180 degrees), then split the photographed
+   spread into its two physical book pages.
+3. Measure each page half independently from at least two printed text baselines or a
+   long printed header rule. Confirm visually with a horizontal guide. Scanner borders,
+   page edges, gutters, and illustrated bodies are not valid deskew references.
+4. Rotate the complete page half on white with `-virtual-pixel white -background white
+   -rotate ANGLE +repage`. Angles above 2 degrees are valid for photographed pages; the
+   0.1–2 degree guideline applies only to residual figure-level correction.
+5. Crop from the straightened page. Begin wider than needed and include the full head,
+   hair, hands, fingertips, garment, both feet, ground/step marks, and the complete motion
+   arrow. Remove prose by moving the crop boundary or masking prose—not by sacrificing
+   any part of the illustration.
+6. Apply gentle cleanup and add the white safety border only after the crop is complete.
+   Do not use final trim as a substitute for choosing a correct rectangle.
+7. Compare the new crop beside the full source page with the crop rectangle visible.
+   Then inspect the cleaned PNG at full resolution and the rendered PDF page at full size.
+8. If the PDF still looks tilted relative to its typeset text, recheck the page-baseline
+   angle. Do not compensate by rotating only the figure unless the normalized source page
+   is demonstrably straight and the remaining distortion is local.
+
+Keep the page-half normalization angles and crop rectangles in the reproducible prep
+script. Rebuild every figure sourced from a normalized page after its page angle changes.
 
 ## Finalize / polish pass (run every time before you call it done)
 
@@ -113,7 +145,8 @@ For EACH figure and panel, verify:
 - [ ] No head, hand, foot, arm, or other segment cut off. Spread-arm poses: both hands present.
 - [ ] No stray marks, bleed, or leftover 图2-N captions.
 - [ ] No surrounding source prose, page gutters, adjacent figures, or non-instructional writing.
-- [ ] Any modest deskew is correct; intentional body leans remain intentional.
+- [ ] Each physical source page was straightened from printed baselines before cropping;
+      any residual figure-level deskew is justified and intentional body leans remain.
 - [ ] Figures within a section are consistently sized and aligned; none looks shrunk.
 - [ ] Captions fit — no clipping, no overflow off the right margin; orientation words correct.
 - [ ] No page overflow: physical page count (`ls preview/page-*.png | wc -l`) == expected.
