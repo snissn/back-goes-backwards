@@ -62,10 +62,25 @@ Each printed page has exactly two instructional rows. Source pages are
 straightened before figure cropping, and chained movements repeat their
 boundary posture across rows. The full set contains 174 cleaned figure assets.
 
+## Grouped printable edition
+
+For practice and duplex printing, `grouped-print/` also provides one complete
+workbook and five separate themed booklets:
+
+- Flexibility & Leg Control
+- Kicks & Aerial Kicks
+- Strength & Conditioning
+- Fundamental Footwork
+- Fundamental Body Methods
+
+The grouped edition adds only contents and section-divider pages; the 59
+instruction packets themselves are reused unchanged.
+
 Rebuild:
 
 ```sh
 scripts/prep_iron_leg_figures.sh
 scripts/prep_iron_leg_continuation_figures.sh
 node scripts/build_iron_leg_packets.mjs
+node scripts/build_iron_leg_grouped_print.mjs
 ```
