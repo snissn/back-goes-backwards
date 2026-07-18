@@ -65,17 +65,17 @@ crop_figure() {
 
 # Flexibility training: figures 1-1 through 1-17.
 crop_figure 1 02 330x330+230+470
-crop_figure 2 02 470x510+680+290
+crop_figure 2 02 470x490+680+310
 crop_figure 3 02 350x470+210+1160
 crop_figure 4 02 430x470+690+1160
 crop_figure 5 03 500x470+120+640
-crop_figure 6 03 490x520+660+590
+crop_figure 6 03 490x490+660+620
 crop_figure 7 04 530x220+670+220
 crop_figure 8 04 260x500+170+1120
 crop_figure 9 04 390x470+450+1140
 crop_figure 10 04 280x520+870+1100
-crop_figure 11 05 330x480+170+630
-crop_figure 12 05 340x520+650+590
+crop_figure 11 05 330x470+170+640
+crop_figure 12 05 340x480+650+630
 crop_figure 13 06 480x500+50+570
 crop_figure 14 06 600x530+640+540
 crop_figure 15 06 570x340+660+1160
@@ -84,13 +84,13 @@ crop_figure 17 07 380x500+20+950
 
 # Speed training: figures 1-18 through 1-55.
 crop_figure 18 08 460x530+90+950
-crop_figure 19 08 500x500+650+980
+crop_figure 19 08 500x490+650+990
 crop_figure 20 09 480x500+130+220
 crop_figure 21 09 470x500+680+220
 crop_figure 22 09 300x560+910+970
-crop_figure 23 10 440x530+40+380
-crop_figure 24 10 390x520+480+390
-crop_figure 25 10 360x530+840+380
+crop_figure 23 10 440x500+40+410
+crop_figure 24 10 390x490+480+420
+crop_figure 25 10 360x490+840+420
 crop_figure 26 11 500x500+50+160
 crop_figure 27 11 520x510+620+150
 crop_figure 28 11 500x530+50+740
